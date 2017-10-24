@@ -6,7 +6,19 @@ We work on the governance documents in this repository and once approved by the 
 ## Onboarding 
 Lead: Ildikó Vancsa
 
-More information to be added later.
+OSSEU 2017 discussion notes:
+- Where do people land? - first point of contact: Webite
+- Need a page for onboarding 
+- Community -> Get Started Here
+  - Start with tools used by CHAOSS and communication channels
+  - Describe structure and purpose of community
+  - Within the detailed description, of how the community works, point to the correct tools 
+- Community->Events
+- In future, maybe have a graphical representation of how to join and work in community
+
+Next Steps:
+- flush out the "Get Started Here" page on GitHub before moving it to the website.
+
 
 ## Code of Conduct
 Lead: Georg Link
