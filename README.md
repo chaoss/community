@@ -7,7 +7,7 @@ We work on the governance documents in this repository and once approved by the 
 Lead: Ildikó Vancsa
 
 OSSEU 2017 discussion notes:
-- Where do people land? - first point of contact: Webite
+- Where do people land? - first point of contact: Website
 - Need a page for onboarding 
 - Community -> Get Started Here
   - Start with tools used by CHAOSS and communication channels
