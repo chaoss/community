@@ -28,7 +28,7 @@ The mission of the Project is to:
 
 4.  The GB has the authority to create Technical Committees that may focus on code or non-code efforts to advance the Mission (such as standards, specifications, and/or architecture).
 
-5.  At the launch of the project, the initial Technical Committees of the project are the “Code Committee,” responsible for technical oversight of inbound and outbound coding projects, and the “Metrics Committee,” responsible for the determination of technology-agnostic metrics and standards to be developed  by the Project, and  the GB shall provide coordination of the interrelationship between the Code and Metrics Committees. At inception of the Project, the voting members of the each Technical Committee consist of those individuals identified on the Project website (http://\[domain name\]). Following the inception of the Project, each Technical Committee is expected to implement procedures and methodologies for the selection of voting members of the Technical Committees.
+5.  At the launch of the project, the initial Technical Committees of the project are the “Software Committee,” responsible for technical oversight of inbound and outbound coding projects, and the “Metrics Committee,” responsible for the determination of technology-agnostic metrics and standards to be developed  by the Project, and  the GB shall provide coordination of the interrelationship between the Software and Metrics Committees. At inception of the Project, the voting members of the each Technical Committee consist of those individuals identified on the Project website (http://\[domain name\]). Following the inception of the Project, each Technical Committee is expected to implement procedures and methodologies for the selection of voting members of the Technical Committees.
 
 6.  Roles: Technical Committee projects will generally involve Contributors and Maintainers:
 
@@ -40,13 +40,13 @@ The mission of the Project is to:
 
 8.  The GB may (1) establish work flow procedures for the submission, approval, and closure/archiving of Technical Committees and projects of Technical Committees, (2) set requirements for the promotion to or removal from Technical Committee roles, as applicable, and (3) amend, adjust, refine and/or eliminate the roles as it sees fit.
 
-9.  The GB shall annually elect a GB Chair and GB Co-Chair from representatives involved in either or both the Code or Metrics Committees, such that both the Code and Metrics Committees will be represented by the Co-Chairs. The Chair and Co-Chair will set the agenda and preside over meetings of the GB.
+9.  The GB shall annually elect a GB Chair and GB Co-Chair from representatives involved in either or both the Software or Metrics Committees, such that both the Software and Metrics Committees will be represented by the Co-Chairs. The Chair and Co-Chair will set the agenda and preside over meetings of the GB.
 
 0.  Responsibilities: The GB shall also be responsible for:
 
     1.  coordinating the direction of the Project;
 
-    2.  establishing any project policies, including for the addition and removal of Maintainers and documenting any requirements for official project releases (Code or Metrics);
+    2.  establishing any project policies, including for the addition and removal of Maintainers and documenting any requirements for official project releases (Software or Metrics);
 
     3.  approving project or system proposals (including, but not limited to, incubation, deprecation, and changes to a project’s charter or scope);
 
