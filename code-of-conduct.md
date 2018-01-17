@@ -1,4 +1,4 @@
-# Contributor Covenant Code of Conduct
+# CHAOSS Community: Code of Conduct
 
 ## Our Pledge
 
@@ -55,7 +55,7 @@ further defined and clarified by project maintainers.
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported by contacting the project team at [INSERT EMAIL ADDRESS]. All
+reported by contacting the CHAOSS Governance Board at [INSERT EMAIL ADDRESS]. All
 complaints will be reviewed and investigated and will result in a response that
 is deemed necessary and appropriate to the circumstances. The project team is
 obligated to maintain confidentiality with regard to the reporter of an incident.
@@ -65,10 +65,16 @@ Project maintainers who do not follow or enforce the Code of Conduct in good
 faith may face temporary or permanent repercussions as determined by other
 members of the project's leadership.
 
+We will respect confidentiality requests for the purpose of protecting victims of unacceptable behavior. At our discretion, we may publicly name a person about whom we’ve received unacceptable behavior complaints, or privately warn third parties about them, if we believe that doing so will increase the safety of CHAOSS members or the general public. We will not name victims without their affirmative consent.
+
+The CHAOSS Governance Board will report on a yearly basis the number of incidence reports. A this time, the Governance Board reviews the effectiveness of this Code of Conduct.
+
 ## Attribution
 
-This Code of Conduct is adapted from the [Contributor Covenant][homepage], version 1.4,
+This Code of Conduct is adapted from the [Contributor Covenant][cc-homepage], version 1.4,
 available at https://www.contributor-covenant.org/version/1/4/code-of-conduct.html
+and the [Geek Feminism][gf-homepage] Code of Conduct,
+available at https://geekfeminism.org/about/code-of-conduct/
 
-[homepage]: https://www.contributor-covenant.org
-
+[cc-homepage]: https://www.contributor-covenant.org
+[gf-homepage]: https://geekfeminism.org/
