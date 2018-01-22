@@ -55,7 +55,7 @@ further defined and clarified by project maintainers.
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported by contacting the CHAOSS Governance Board at [INSERT EMAIL ADDRESS]. All
+reported by contacting the CHAOSS Code of Conduct Team at coc@chaoss.community. All
 complaints will be reviewed and investigated and will result in a response that
 is deemed necessary and appropriate to the circumstances. The project team is
 obligated to maintain confidentiality with regard to the reporter of an incident.
@@ -65,9 +65,23 @@ Project maintainers who do not follow or enforce the Code of Conduct in good
 faith may face temporary or permanent repercussions as determined by other
 members of the project's leadership.
 
-We will respect confidentiality requests for the purpose of protecting victims of unacceptable behavior. At our discretion, we may publicly name a person about whom we’ve received unacceptable behavior complaints, or privately warn third parties about them, if we believe that doing so will increase the safety of CHAOSS members or the general public. We will not name victims without their affirmative consent.
+We will respect confidentiality requests for the purpose of protecting victims
+of unacceptable behavior. At our discretion, we may publicly name a person about
+whom we’ve received unacceptable behavior complaints, or privately warn third
+parties about them, if we believe that doing so will increase the safety of
+CHAOSS members or the general public. We will not name victims without their
+affirmative consent.
 
-The CHAOSS Governance Board will report on a yearly basis the number of incidence reports. A this time, the Governance Board reviews the effectiveness of this Code of Conduct.
+The CHAOSS Code of Conduct Team will report on a yearly basis the number of
+incidence reports. The CHAOSS Code of Conduct Team shall consist of four members:
+two from each committee and at least two who are on the Governing Board.
+Members are elected by the community every two years or when needed.
+
+The CHAOSS Code of Conduct Team currently consists of:
+ - (To be elected from software committee and on governing board)
+ - (To be elected from metric committee and on governing board)
+ - (To be elected from software committee)
+ - (To be elected from metric committee)
 
 ## Attribution
 
