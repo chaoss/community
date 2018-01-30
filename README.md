@@ -23,4 +23,5 @@ Next Steps:
 ## Code of Conduct
 Lead: Georg Link
 
-More information to be added later.
+The working group has a proposal for the Governing Board: 
+https://github.com/chaoss/governance/pull/3
