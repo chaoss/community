@@ -55,7 +55,7 @@ further defined and clarified by project maintainers.
 ## Enforcement
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
-reported by contacting the CHAOSS Code of Conduct Team at coc@chaoss.community. All
+reported by contacting the CHAOSS Code of Conduct Team at <inclusion@chaoss.community>. All
 complaints will be reviewed and investigated and will result in a response that
 is deemed necessary and appropriate to the circumstances. The project team is
 obligated to maintain confidentiality with regard to the reporter of an incident.
@@ -77,7 +77,7 @@ incidence reports. The CHAOSS Code of Conduct Team shall consist of four members
 two from each committee and at least two who are on the Governing Board.
 Members are elected by the community every two years or when needed.
 
-The CHAOSS Code of Conduct Team currently consists of:
+The following people comprise the CHAOSS Code of Conduct Team and are the only recipients of <inclusion@chaoss.community):
  - (To be elected from software committee and on governing board)
  - (To be elected from metric committee and on governing board)
  - (To be elected from software committee)
@@ -92,3 +92,15 @@ available at https://geekfeminism.org/about/code-of-conduct/
 
 [cc-homepage]: https://www.contributor-covenant.org
 [gf-homepage]: https://geekfeminism.org/
+
+## Version History
+
+* V1.0 adopted through a CHAOSS Governing Board vote from xx.xx.xxxx
+
+* v1.0 proposed on [January 27, 2018](https://github.com/chaoss/governance/pull/3#issuecomment-360939881) by the working group consisting of:
+    * Alexander Serebrenik
+    * Georg Link
+    * Jesus M Gonzales-Barahona
+    * Ray Paik
+    * Sean Goggins
+    * Vicky Janicki
