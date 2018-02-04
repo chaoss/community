@@ -77,7 +77,9 @@ incidence reports. The CHAOSS Code of Conduct Team shall consist of four members
 two from each committee and at least two who are on the Governing Board.
 Members are elected by the community every two years or when needed.
 
-The following people comprise the CHAOSS Code of Conduct Team and are the only recipients of <inclusion@chaoss.community):
+## Who to Contact
+
+The following people comprise the CHAOSS Code of Conduct Team and are the only recipients of <inclusion@chaoss.community>:
  - (To be elected from software committee and on governing board)
  - (To be elected from metric committee and on governing board)
  - (To be elected from software committee)
