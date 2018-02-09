@@ -2,7 +2,7 @@
 
 ## What is this document?
 
-This document outlines the generic process of contributing and applies to all CHAOSS repositories. Each repository may have unique guidelines specific to the project.
+This document outlines a generic process of contributing and applies to all CHAOSS repositories. Each repository may have unique guidelines specific to the project.
 
 ## Where can I contribute?
 
@@ -16,7 +16,7 @@ Strategic directions, clarifications of scope, and ideas in an early stage are b
 
 ### Bug report and feature request contributions (issue)
 
-Bug reports and feature requests are best discussed in an issue on the repository they pertain to.
+Bug reports and specific feature requests are best discussed in an issue on the repository they pertain to.
 
 ### Code or document change contributions (pull request)
 
@@ -50,9 +50,9 @@ Then, [submit a pull request][pr] on GitHub to the CHAOSS repository.
 At this point you are waiting on us. We will comment on your pull requests
 within three business days (and, typically, one business day).
 
-The CHAOSS maintainers report on open issues and pull requests on the calls to elicit feedback from the community.
+The CHAOSS maintainers will report on open issues and pull requests on the calls and via the mail list to elicit feedback from the community.
 
 ## What about releases?
-CHAOSS tags commits on the master branch as [releases][rl] (snapshots). Each project has its own release cadence. In between releases, the master branch is under development.
+CHAOSS tags commits on the master branch as [releases][rl] (snapshots). Each project has its own release cadence. Between releases, the master branch is under development.
 
 [rl]: https://help.github.com/articles/about-releases/
