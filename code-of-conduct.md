@@ -97,7 +97,7 @@ available at https://geekfeminism.org/about/code-of-conduct/
 
 ## Version History
 
-* v1.0 adopted through a CHAOSS Governing Board vote from xx.xx.xxxx
+* v1.0 adopted through a CHAOSS Governing Board vote from February 12, 2018
 
 * v1.0 proposed on [January 27, 2018](https://github.com/chaoss/governance/pull/3#issuecomment-360939881) by the working group consisting of:
     * Alexander Serebrenik
