@@ -12,7 +12,7 @@ Anyone can contribute to CHAOSS on any of our communication channels. See <https
 
 ### Conversations and high-level contributions (email, call, f2f)
 
-Strategic directions, clarifications of scope, and ideas in an early stage are best discussed on the mailing list, calls, and face-to-face meetings.
+Strategic directions, clarifications of scope, and ideas in an early stage are best discussed on the mailing list, calls, and face-to-face meetings. See <https://chaoss.community/participate/>.
 
 ### Bug report and feature request contributions (issue)
 
@@ -47,12 +47,16 @@ Then, [submit a pull request][pr] on GitHub to the CHAOSS repository.
 [pr]: https://github.com/thoughtbot/factory_girl_rails/compare/
 [clone]: https://help.github.com/articles/cloning-a-repository/
 
-At this point you are waiting on us. We will comment on your pull requests
+At this point you are waiting on the CHAOSS repository maintainers. They will comment on your pull requests
 within three business days (and, typically, one business day).
 
-The CHAOSS maintainers will report on open issues and pull requests on the calls and via the mail list to elicit feedback from the community.
+The CHAOSS repository maintainers will report on open issues and pull requests on the calls and via the mail list to elicit feedback from the community.
+
+## Who is a CHAOSS repository maintainer?
+
+The README.md of the repository contains a list of who is maintainer. Each CHAOSS repositry brings together different people and they document in the repository specific CONTRIBUTING.md how somone becomes a maintainer on their repository.
 
 ## What about releases?
-CHAOSS tags commits on the master branch as [releases][rl] (snapshots). Each project has its own release cadence. Between releases, the master branch is under development.
+CHAOSS repository maintainers tag commits on the master branch as [releases][rl] (snapshots). Each CHAOSS repository has its own release cadence. Between releases, the master branch is under development.
 
 [rl]: https://help.github.com/articles/about-releases/
