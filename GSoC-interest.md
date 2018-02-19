@@ -10,4 +10,4 @@ CHAOSS Project Members
 
 | Name | Email | Idea | Repo |
 | --- | --- | --- | --- |
-| Georg Link | glink at unomaha.edu | Prototype New CHAOSS Metrics | [chaoss/governance](https://github.com/chaoss/governance) |
+| Georg Link | glink at unomaha.edu | Prototype New CHAOSS Metrics | [GeorgLink/governance](https://github.com/GeorgLink/governance) |
