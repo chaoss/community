@@ -19,4 +19,4 @@ GSoC Mentors
 | Name | Email | Idea | Repo | Project Proposal |
 | --- | --- | --- | --- | --- |
 | Georg Link | glink at unomaha.edu | Prototype New CHAOSS Metrics | [GeorgLink/governance](https://github.com/GeorgLink/governance) | [none](https://wiki.linuxfoundation.org/chaoss/gsoc-ideas) |
-| Pranjal Aswani | aswani.pranjal@gmail.com | Reporting of CHAOSS Metrics | [aswanipranjal/chaoss-microtasks](https://github.com/aswanipranjal/chaoss-microtasks) | To-Do |
+| Pranjal Aswani | aswani.pranjal at gmail.com | Reporting of CHAOSS Metrics | [aswanipranjal/chaoss-microtasks](https://github.com/aswanipranjal/chaoss-microtasks) | To-Do |
