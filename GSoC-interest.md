@@ -19,4 +19,4 @@ GSoC Mentors
 | Name | Email | Idea | Repo | Project Proposal |
 | --- | --- | --- | --- | --- |
 | Georg Link | glink at unomaha.edu | Prototype New CHAOSS Metrics | [GeorgLink/governance](https://github.com/GeorgLink/governance) | [none](https://wiki.linuxfoundation.org/chaoss/gsoc-ideas) |
-| Jacek Dąbrowski | j.dabrowski@cs.ucl.ac.uk | Improve Manuscripts and provide with new CHAOSS Metrics | [jsdabrowski/CHAOSS-project](https://github.com/jsdabrowski/CHAOSS-project) | [TBD]() |
+| Jacek Dąbrowski | j.dabrowski at cs.ucl.ac.uk | Improve Manuscripts and provide with new CHAOSS Metrics | [jsdabrowski/CHAOSS-project](https://github.com/jsdabrowski/CHAOSS-project) | To-Do |
