@@ -22,3 +22,5 @@ GSoC Mentors
 | Pranjal Aswani | aswani.pranjal at gmail.com | Reporting of CHAOSS Metrics | [aswanipranjal/chaoss-microtasks](https://github.com/aswanipranjal/chaoss-microtasks) | To-Do |
 | Jacek Dąbrowski | j.dabrowski at cs.ucl.ac.uk | Improve Manuscripts and provide with new CHAOSS Metrics | [jsdabrowski/CHAOSS-project](https://github.com/jsdabrowski/CHAOSS-project) | To-Do |
 | Sai Varun Kolluru | saivarunkolluru at gmail.com | Reporting of CHAOSS Metrics | [f2014169/Chaoss-Micro-Tasks](https://github.com/f2014169/Chaoss-Micro-Tasks) | To-Do |
+| Apoorv Khare | apoorvkhare007 at gmail.com | Reporting of CHAOSS Metrics | [Chaoss-Microtasks](https://github.com/apoorvkhare07/Chaoss-Microtasks)| Updating soon |
+
