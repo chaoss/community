@@ -24,3 +24,4 @@ GSoC Mentors
 | Sai Varun Kolluru | saivarunkolluru at gmail.com | Reporting of CHAOSS Metrics | [f2014169/Chaoss-Micro-Tasks](https://github.com/f2014169/Chaoss-Micro-Tasks) | To-Do |
 | Jaishree Dhage | jaishree.babu96 at gmail.com | Reporting of CHAOSS Metrics | [jaishreedhage/Chaoss](https://github.com/jaishreedhage/Chaoss) | To-Do |
 | Apoorv Khare | apoorvkhare007 at gmail.com | Reporting of CHAOSS Metrics | [apoorvkhare07/Chaoss-Microtasks](https://github.com/apoorvkhare07/Chaoss-Microtasks)| To-Do |
+| Anvesh Chaturvedi | anveshc10047 at gmail.com | Support of Standard Formats for Description of Projects | [anveshc05/Chaoss-Microtasks](https://github.com/anveshc05/Chaoss-Microtasks) | To-Do |
