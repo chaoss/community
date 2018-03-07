@@ -18,10 +18,3 @@ OSSEU 2017 discussion notes:
 
 Next Steps:
 - flush out the "Get Started Here" page on GitHub before moving it to the website.
-
-
-## Code of Conduct
-Lead: Georg Link
-
-The working group has a proposal for the Governing Board: 
-https://github.com/chaoss/governance/pull/3
