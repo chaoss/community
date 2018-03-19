@@ -26,3 +26,4 @@ GSoC Mentors
 | Apoorv Khare | apoorvkhare007 at gmail.com | Reporting of CHAOSS Metrics | [apoorvkhare07/Chaoss-Microtasks](https://github.com/apoorvkhare07/Chaoss-Microtasks)| To-Do |
 | Anvesh Chaturvedi | anveshc10047 at gmail.com | Support of Standard Formats for Description of Projects | [anveshc05/Chaoss-Microtasks](https://github.com/anveshc05/Chaoss-Microtasks) | To-Do |
 | Gourav Sardana | gsardana001 at gmail.com | Prototype New CHAOSS Metrics | [GouravSardana/Chaoss-Microtasks](https://github.com/GouravSardana/chaoss-microtask) | To-Do |
+| Aman Deep Singh | ads6may at gmail.com | Reporting of CHAOSS Metrics | [ad71/chaoss-microtasks](https://github.com/ad71/chaoss-microtasks) | To-Do |
