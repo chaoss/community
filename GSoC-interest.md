@@ -29,5 +29,6 @@ GSoC Mentors
 | Aman Deep Singh | ads6may at gmail.com | Reporting of CHAOSS Metrics | [ad71/chaoss-microtasks](https://github.com/ad71/chaoss-microtasks) | To-Do |
 | Akshat Chhabra | akshat.chhabra2016 at vitstudent.ac.in | Reporting of CHAOSS Metrics | [akshatchhabra/Reporting-of-CHAOSS-Metrics-microtasks](https://github.com/akshatchhabra/Reporting-of-CHAOSS-Metrics-microtasks) | To-Do |
 | Avi Valse | avivalse at gmail.com | Reporting of CHAOSS Metrics | [avivalse/Chaoss](https://github.com/avivalse/Chaoss) | [Proposal Link](https://docs.google.com/document/d/1KJRTd1i2GDWAMCA1pgPD170TUSomRvYjWeqPuYea8Hk/edit?usp=sharing) |
+| Saurabh Kumar | saurabhk442 at gmail.com | Support of Standard CHAOSS Formats for Description of Projects | [skcse/Chaoss-Microtasks](https://github.com/skcse/Chaoss-Microtasks) | To-Do |
 | Parth Sharma | parth261297 at gmail.com | Reporting of CHAOSS Metrics | [parthsharma2/CHAOSS-Microtasks](https://github.com/parthsharma2/CHAOSS-Microtasks) | To-Do |
 | Karan Kumar Singh | karansingh1559 at gmail.com | Support of Standard Formats for Description of Projects | [karansingh1559/CHAOSS-Microtasks](https://github.com/karansingh1559/CHAOSS-Microtasks) | To-Do |
