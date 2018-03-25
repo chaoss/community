@@ -25,4 +25,4 @@ GSoC Mentors
 | Jaishree Dhage | jaishree.babu96 at gmail.com | Reporting of CHAOSS Metrics | [jaishreedhage/Chaoss](https://github.com/jaishreedhage/Chaoss) | To-Do |
 | Apoorv Khare | apoorvkhare007 at gmail.com | Reporting of CHAOSS Metrics | [apoorvkhare07/Chaoss-Microtasks](https://github.com/apoorvkhare07/Chaoss-Microtasks)| To-Do |
 | Anvesh Chaturvedi | anveshc10047 at gmail.com | Support of Standard Formats for Description of Projects | [anveshc05/Chaoss-Microtasks](https://github.com/anveshc05/Chaoss-Microtasks) | To-Do |
-| Gourav Sardana | gsardana001 at gmail.com | Prototype New CHAOSS Metrics | [GouravSardana/Chaoss-Microtasks](https://github.com/GouravSardana/chaoss-microtask) | [gsoc proposal.pdf](https://github.com/chaoss/governance/files/1841133/gsoc.proposal.pdf) |
+| Gourav Sardana | gsardana001 at gmail.com | Prototype New CHAOSS Metrics | [GouravSardana/Chaoss-Microtasks](https://github.com/GouravSardana/chaoss-microtask) | https://docs.google.com/document/d/143LFq2PYXDfBQXoeBpdkP0LYdFuMCeSYA1f-0-ul9Uw/edit?usp=sharing |
