@@ -13,7 +13,7 @@ A few details regarding the application process specific to the CHAOSS project:
 You must complete these things by March 27 16:00 UTC. Make sure to also submit the information required by GSoC for applicants (i.e., project proposal), linking to it from your pull request to this file.
 
 Regards,
-GSoC Mentors 
+GSoC Mentors
 
 
 | Name | Email | Idea | Repo | Project Proposal |
@@ -28,3 +28,4 @@ GSoC Mentors
 | Gourav Sardana | gsardana001 at gmail.com | Prototype New CHAOSS Metrics | [GouravSardana/Chaoss-Microtasks](https://github.com/GouravSardana/chaoss-microtask) | To-Do |
 | Aman Deep Singh | ads6may at gmail.com | Reporting of CHAOSS Metrics | [ad71/chaoss-microtasks](https://github.com/ad71/chaoss-microtasks) | To-Do |
 | Akshat Chhabra | akshat.chhabra2016 at vitstudent.ac.in | Reporting of CHAOSS Metrics | [akshatchhabra/Reporting-of-CHAOSS-Metrics-microtasks](https://github.com/akshatchhabra/Reporting-of-CHAOSS-Metrics-microtasks) | To-Do |
+| Gopal Chitalia | gopal.chitalia@research.iiit.ac.in | Reporting of CHAOSS Metrics | [gopal86/Chaoss-Microtasks](https://github.com/gopal86/Chaoss-Microtasks)| To-Do |
