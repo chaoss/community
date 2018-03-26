@@ -32,3 +32,4 @@ GSoC Mentors
 | Saurabh Kumar | saurabhk442 at gmail.com | Support of Standard CHAOSS Formats for Description of Projects | [skcse/Chaoss-Microtasks](https://github.com/skcse/Chaoss-Microtasks) | To-Do |
 | Parth Sharma | parth261297 at gmail.com | Reporting of CHAOSS Metrics | [parthsharma2/CHAOSS-Microtasks](https://github.com/parthsharma2/CHAOSS-Microtasks) | To-Do |
 | Karan Kumar Singh | karansingh1559 at gmail.com | Support of Standard Formats for Description of Projects | [karansingh1559/CHAOSS-Microtasks](https://github.com/karansingh1559/CHAOSS-Microtasks) | To-Do |
+| Vivek Raj | vivekraj3200 at gmail.com | Support of Standard Formats for Description of Projects | [vivekrj0/CHAOSS-Microtasks](https://github.com/vivekrj0/CHAOSS-Microtasks) | To-Do |
