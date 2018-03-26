@@ -28,4 +28,3 @@ GSoC Mentors
 | Gourav Sardana | gsardana001 at gmail.com | Prototype New CHAOSS Metrics | [GouravSardana/Chaoss-Microtasks](https://github.com/GouravSardana/chaoss-microtask) | To-Do |
 | Aman Deep Singh | ads6may at gmail.com | Reporting of CHAOSS Metrics | [ad71/chaoss-microtasks](https://github.com/ad71/chaoss-microtasks) | To-Do |
 | Akshat Chhabra | akshat.chhabra2016 at vitstudent.ac.in | Reporting of CHAOSS Metrics | [akshatchhabra/Reporting-of-CHAOSS-Metrics-microtasks](https://github.com/akshatchhabra/Reporting-of-CHAOSS-Metrics-microtasks) | To-Do |
-| Saurabh Kumar | saurabhk442 at gmail.com | Support of Standard CHAOSS Formats for Description of Projects | [skcse/Chaoss-Microtasks](https://github.com/skcse/Chaoss-Microtasks) | [Proposal Link](https://docs.google.com/document/d/1OD6UStCFA33Y_h-4R_Nu3YiUSOGBWN-y2JVd5TSxDzk/edit?usp=sharing) |
