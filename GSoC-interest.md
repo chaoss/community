@@ -19,7 +19,7 @@ GSoC Mentors
 | Name | Email | Idea | Repo | Project Proposal |
 | --- | --- | --- | --- | --- |
 | Georg Link | glink at unomaha.edu | Prototype New CHAOSS Metrics | [GeorgLink/governance](https://github.com/GeorgLink/governance) | [none](https://wiki.linuxfoundation.org/chaoss/gsoc-ideas) |
-| Pranjal Aswani | aswani.pranjal at gmail.com | Reporting of CHAOSS Metrics | [aswanipranjal/chaoss-microtasks](https://github.com/aswanipranjal/chaoss-microtasks) | To-Do |
+| Pranjal Aswani | aswani.pranjal at gmail.com | Reporting of CHAOSS Metrics | [aswanipranjal/chaoss-microtasks](https://github.com/aswanipranjal/chaoss-microtasks) | [Proposal Link](https://docs.google.com/document/d/1VXV_SOazs299KF9_TPRE7FNvJ4ZytkmQYJCT0X4DSgg/edit?usp=sharing) |
 | Jacek Dąbrowski | j.dabrowski at cs.ucl.ac.uk | Improve Manuscripts and provide with new CHAOSS Metrics | [jsdabrowski/CHAOSS-project](https://github.com/jsdabrowski/CHAOSS-project) | To-Do |
 | Sai Varun Kolluru | saivarunkolluru at gmail.com | Reporting of CHAOSS Metrics | [f2014169/Chaoss-Micro-Tasks](https://github.com/f2014169/Chaoss-Micro-Tasks) | To-Do |
 | Jaishree Dhage | jaishree.babu96 at gmail.com | Reporting of CHAOSS Metrics | [jaishreedhage/Chaoss](https://github.com/jaishreedhage/Chaoss) | To-Do |
