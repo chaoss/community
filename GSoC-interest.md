@@ -17,7 +17,8 @@ GSoC Mentors
 
 
 | Name | Email | Idea | Repo | Project Proposal |
-| --- | --- | --- | --- | --- |
+| Keanu Nichols | nichols.keanu9@gmail.com | 	Reporting of CHAOSS Metrics | [kmn5409/chaoss-microtasks]
+(https://github.com/kmn5409/chaoss-microtasks) | To-Do |
 | Georg Link | glink at unomaha.edu | Prototype New CHAOSS Metrics | [GeorgLink/governance](https://github.com/GeorgLink/governance) | [none](https://wiki.linuxfoundation.org/chaoss/gsoc-ideas) |
 | Pranjal Aswani | aswani.pranjal at gmail.com | Reporting of CHAOSS Metrics | [aswanipranjal/chaoss-microtasks](https://github.com/aswanipranjal/chaoss-microtasks) | [Proposal Link](https://docs.google.com/document/d/1VXV_SOazs299KF9_TPRE7FNvJ4ZytkmQYJCT0X4DSgg/edit?usp=sharing) |
 | Jacek Dąbrowski | j.dabrowski at cs.ucl.ac.uk | Improve Manuscripts and provide with new CHAOSS Metrics | [jsdabrowski/CHAOSS-project](https://github.com/jsdabrowski/CHAOSS-project) | To-Do |
