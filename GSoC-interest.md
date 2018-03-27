@@ -36,3 +36,4 @@ GSoC Mentors
 | Gopal Chitalia | gopal.chitalia at research.iiit.ac.in | Reporting of CHAOSS Metrics | [gopal86/Chaoss-Microtasks](https://github.com/gopal86/Chaoss-Microtasks) | To-Do |
 | Deepayan Ghosh | deepayanghosh89 at gmail.com | Reporting of CHAOSS Metrics | [Deepayan-Ghosh/Chaoss_Microtasks](https://github.com/Deepayan-Ghosh/CHAOSS_Microtasks.git)| To-Do |
 | Utkarsh Rai | utkarshrai98 at gmail.com | Reporting of CHAOSS Metrics | [utkarshrai/chaoss-microtasks](https://github.com/utkarshrai/chaoss-microtasks)| [Proposal](https://docs.google.com/document/d/1sHxQ7DnfMpFJlvP-Ny1fh4MaxlL2ymfrGmwfD0PMMbQ/edit?usp=sharing) |
+| Keanu Nichols | nichols.keanu9 at gmail.com | Reporting of CHAOSS Metrics | [kmn5409/chaoss-microtasks](https://github.com/kmn5409/chaoss-microtasks) | [Proposal Link](https://docs.google.com/document/d/1KkPatOXh4smNPpUmwnLWogWkBUOI2HbVyzgfxdSweHA/edit?usp=sharing) |
