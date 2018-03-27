@@ -38,3 +38,4 @@ GSoC Mentors
 | Utkarsh Rai | utkarshrai98 at gmail.com | Reporting of CHAOSS Metrics | [utkarshrai/chaoss-microtasks](https://github.com/utkarshrai/chaoss-microtasks)| [Proposal](https://docs.google.com/document/d/1sHxQ7DnfMpFJlvP-Ny1fh4MaxlL2ymfrGmwfD0PMMbQ/edit?usp=sharing) |
 | Keanu Nichols | nichols.keanu9 at gmail.com | Reporting of CHAOSS Metrics | [kmn5409/chaoss-microtasks](https://github.com/kmn5409/chaoss-microtasks) | [Proposal Link](https://docs.google.com/document/d/1KkPatOXh4smNPpUmwnLWogWkBUOI2HbVyzgfxdSweHA/edit?usp=sharing) |
 | Kartik Sapra | kartiksapra005@gmail.com |  Prototype New CHAOSS Metrics | [theexplorist/chaoss-microtask3](https://github.com/theexplorist/chaoss-microtask3) | To-Do |
+| Balaji MJ | mjbalaji17 at gmail.com | Prototype of New Chaoss Metrics | [Bala1718/ChaossGsoc] (https://github.com/Bala1718/ChaossGSoc)| [Proposal Link](https://docs.google.com/document/d/1mXlogAYzOBhypCR-KEekFEWWPnDfany5W4aU6M_RnFg/edit?usp=sharing) |
