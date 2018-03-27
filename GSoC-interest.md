@@ -33,5 +33,5 @@ GSoC Mentors
 | Parth Sharma | parth261297 at gmail.com | Reporting of CHAOSS Metrics | [parthsharma2/CHAOSS-Microtasks](https://github.com/parthsharma2/CHAOSS-Microtasks) | To-Do |
 | Karan Kumar Singh | karansingh1559 at gmail.com | Support of Standard Formats for Description of Projects | [karansingh1559/CHAOSS-Microtasks](https://github.com/karansingh1559/CHAOSS-Microtasks) | To-Do |
 | Vivek Raj | vivekraj3200 at gmail.com | Support of Standard Formats for Description of Projects | [vivekrj0/CHAOSS-Microtasks](https://github.com/vivekrj0/CHAOSS-Microtasks) | [Proposal Link](https://docs.google.com/document/d/1Xc8Uda2Y18QV6C8bFVqWtvomzoLAZaFt0rmcJuT6mR4/edit?usp=sharing) |
-| Gopal Chitalia | gopal.chitalia at research.iiit.ac.in | Reporting of CHAOSS Metrics | [gopal86/Chaoss-Microtasks](https://github.com/gopal86/Chaoss-Microtasks) | To-Do |
+| Gopal Chitalia | gopal.chitalia at research.iiit.ac.in | Reporting of CHAOSS Metrics | [gopal86/Chaoss-Microtasks](https://github.com/gopal86/Chaoss-Microtasks) | [Proposal Link](https://docs.google.com/document/d/1itk-tepOtXtssaRJZKaLsLwLnAC_odCZ5AYsG23s--M/edit?usp=sharing) |
 | Deepayan Ghosh | deepayanghosh89 at gmail.com | Reporting of CHAOSS Metrics | [Deepayan-Ghosh/Chaoss_Microtasks](https://github.com/Deepayan-Ghosh/CHAOSS_Microtasks.git)| To-Do |
