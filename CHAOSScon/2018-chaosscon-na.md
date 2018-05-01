@@ -61,7 +61,7 @@ This is your chance to *sell* your talk to the program committee, so do your bes
 
 This is the abstract that will be posted on the website schedule, so please ensure that it is in complete sentences (and not just bullet points) and that it is written in the third person (use your name instead of I). Your abstract is limited to 1500 characters (~200 words).
 
-*Example: The proposed presentation will provide an overview and current status of the Linux Foundation's CHAOSS project. This will include a discussion of the CHAOSS project workgroups, with a particular focus on the technical advances that are being done with respect to understanding the growth, maturity, and decline of an open source project. The presentation will conclude with a discussion of future work of the CHAOSS project, as well as ways to become involved in the project. *
+*Example: The proposed presentation will provide an overview and current status of the Linux Foundation's CHAOSS project. This will include a discussion of the CHAOSS project workgroups, with a particular focus on the technical advances that are being done with respect to understanding the growth, maturity, and decline of an open source project. The presentation will conclude with a discussion of future work of the CHAOSS project, as well as ways to become involved in the project.*
 
 ### Audience
 
