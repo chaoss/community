@@ -97,7 +97,7 @@ available at https://geekfeminism.org/about/code-of-conduct/
 
 ## Version History
 
-* v1.1 proposed on April 2, 2018; accepted by CHAOSS Governing Board on xx.xx.xxxx
+* v1.1 proposed on April 2, 2018; accepted by CHAOSS Governing Board on May 1, 2018
   - update email address
   - change requirements for Code of Conduct team to be more inclusive
   - change to three members of team to have a tie-breaking vote
