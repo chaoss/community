@@ -4,8 +4,8 @@
 
 ## Dates to Remember:
 
-* CFP Opens: Monday, May 8, 2018
-* CFP Closes: Sunday, May 31, 2018
+* CFP Opens: Tuesday, May 8, 2018
+* CFP Closes: Thursday, May 31, 2018
 * CFP Notifications: Monday, June 11, 2018 
 * Schedule Announcement: Wednesday, June 13, 2018
 * Slide Due Date: Wednesday, August 15, 2018
