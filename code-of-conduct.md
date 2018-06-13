@@ -81,9 +81,9 @@ elected by the community every two years or when needed.
 
 The following people comprise the CHAOSS Code of Conduct Team and are the only 
 recipients of <chaoss-inclusion@lists.linuxfoundation.org>:
- - (To be elected)
- - (To be elected)
- - (To be elected)
+ - Nicole Huesman
+ - Armstrong Foundjem
+ - Georg Link
 
 ## Attribution
 
@@ -96,6 +96,8 @@ available at https://geekfeminism.org/about/code-of-conduct/
 [gf-homepage]: https://geekfeminism.org/
 
 ## Version History
+
+* v1.2 update Code of Conduct Team based on [vote results](https://civs.cs.cornell.edu/cgi-bin/results.pl?id=E_eb0e86af55a181a9)
 
 * v1.1 proposed on April 2, 2018; accepted by CHAOSS Governing Board on May 1, 2018
   - update email address
