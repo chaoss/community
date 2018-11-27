@@ -66,10 +66,12 @@ CHAOSS repository maintainers tag commits on the master branch as [releases][rl]
 
 ## How do we make decisions?
 
-The basic decision making mechanism for CHAOSS is consensus. Each of the software projects or working groups will try to reach consensus on their decisions, after giving a reasonable opportunity to people contributing in them to express their opinion. In general, they are expected to work in their periodic calls, and through other communication means, to reach consensus in case of discrepancies. Whenever it is not clear that consensus is accepted by all contributors, a proposal will be sent to the appropriate mailing lists to ensure that everyone is properly informed, and can express their opinion.
+The basic decision making mechanism for CHAOSS is lazy consensus which occurs on the relevant mailing list. Each of the software projects or working groups will try to reach consensus on their decisions, after giving a reasonable opportunity to people contributing in them to express their opinion. When a discussion about a decision happens outside of the mailing list in the periodic calls or other communication channels, a proposal for a decision will be sent to the appropriate mailing list(s). The decision should be finalized on the mailing list using lazy consensus after giving people who were not in the discussion time to review, comment, and participate.
 
-When the issues under discussion are perceived to be of importance to the whole CHAOSS community, the same process will be carried on at the whole CHAOSS level, using the general periodic calls and other communication means to work towards consensus, and submitting a proposal to the general mailing list when consensus is perceived.
+When the issues under discussion are perceived to be of importance to the whole CHAOSS community, the same process will be carried on at the CHAOSS level, using the general periodic calls and other communication means for discussion with the final decision being made on the mailing list using lazy consensus.
 
 If consensus is not reached, the issue may be raised to the CHAOSS board, where consensus and voting may be used to get a final decision on the matter.
 
 In any case, all decisions are subject to the [CHAOSS Charter](project-charter.md).
+
+_Note_: By "lazy consensus" we mean, [as Apache does](http://www.apache.org/foundation/glossary.html#LazyConsensus) a decision-making policy which assumes general consent if no responses are posted within a defined period. For example, "I'm going to commit this by lazy consensus if no-one objects within the next three days." 
