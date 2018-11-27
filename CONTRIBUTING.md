@@ -63,3 +63,13 @@ The README.md of the repository contains a list of who is maintainer. Each CHAOS
 CHAOSS repository maintainers tag commits on the master branch as [releases][rl] (snapshots). Each CHAOSS repository has its own release cadence. Between releases, the master branch is under development.
 
 [rl]: https://help.github.com/articles/about-releases/
+
+## How do we make decisions?
+
+The basic decision making mechanism for CHAOSS is consensus. Each of the software projects or working groups will try to reach consensus on their decisions, after giving a reasonable opportunity to people contributing in them to express their opinion. In general, they are expected to work in their periodic calls, and through other communication means, to reach consensus in case of discrepancies. Whenever it is not clear that consensus is accepted by all contributors, a proposal will be sent to the appropriate mailing lists to ensure that everyone is properly informed, and can express their opinion.
+
+When the issues under discussion are perceived to be of importance to the whole CHAOSS community, the same process will be carried on at the whole CHAOSS level, using the general periodic calls and other communication means to work towards consensus, and submitting a proposal to the general mailing list when consensus is perceived.
+
+If consensus is not reached, the issue may be raised to the CHAOSS board, where consensus and voting may be used to get a final decision on the matter.
+
+In any case, all decisions are subject to the [CHAOSS Charter](project-charter.md).
