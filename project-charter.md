@@ -20,25 +20,25 @@ The mission of the Project is to:
 
 # **2. Governance Board**
 
-1.  The Governance Board (the “GB”) shall be responsible for overall oversight of the Project and coordination of the efforts of any Technical Committees.
+1.  The Governance Board (the “GB”) shall be responsible for overall oversight of the Project and coordination of the efforts of any Technical Committees and Workgroups.
 
 2.  At inception of the Project, the GB voting members consists of those individuals identified on the Project website (https://chaoss.community). Following inception of the Project, the GB will implement procedures and methodologies for the selection of GB voting members from the contributing community.
 
-3.  The GB will encourage transparency (e.g. publish public minutes). Technical Committees meetings will be open to the public, and can be conducted electronically, via teleconference, or in person.
+3.  The GB will encourage transparency (e.g., publish public minutes). Committee and Workgroup meetings will be open to the public, and can be conducted electronically, via teleconference, or in person.
 
-4.  The GB has the authority to create Technical Committees that may focus on code or non-code efforts to advance the Mission (such as standards, specifications, and/or architecture).
+4.  The GB has the authority to create Committees that may focus on code or non-code efforts to advance the Mission (such as standards, specifications, and/or architecture). The Committees of the Project are the “Software Committee,” responsible for technical oversight of inbound and outbound coding projects, and the “Metrics Committee,” responsible for the collection of technology-agnostic metrics and standards to be developed by the Project, and the GB shall provide coordination of the interrelationship between the Software and Metrics Committees.
 
-5.  At the launch of the project, the initial Technical Committees of the project are the “Software Committee,” responsible for technical oversight of inbound and outbound coding projects, and the “Metrics Committee,” responsible for the determination of technology-agnostic metrics and standards to be developed  by the Project, and  the GB shall provide coordination of the interrelationship between the Software and Metrics Committees. At inception of the Project, the voting members of the each Technical Committee consist of those individuals identified on the Project website (http://\[domain name\]). Following the inception of the Project, each Technical Committee is expected to implement procedures and methodologies for the selection of voting members of the Technical Committees.
+5.  Workgroups are estabished and maintained by Project contributors to advance Project work. Workgroups focus on specific metric, methodological, ethical, and technical issues associated with open source project health. 
 
-6.  Roles: Technical Committee projects will generally involve Contributors and Maintainers:
+6.  Roles: Committees and Workgroups involve Contributors and Maintainers:
 
-    1.  Contributors: anyone in the community that contributes code, documentation, use cases, standardized metrics, or other technical artifacts to the Project;
+    1.  Contributors: anyone in the community that contributes code, documentation, use cases, standardized metrics, or other community activities related to the Project;
 
-    2. Maintainers: Contributors who have the ability to commit directly to a Project’s main branch, repository, or wiki page and are responsive to contributions or changes from Contributors.
+    2. Maintainers: Contributors who have the ability to commit directly to a Project’s main repository branch and are responsive to contributions or changes from Contributors. Maintainers are listed in the README of each repository. 
 
-7.  Technical participation in the Project, including technical contributions to any Technical Committee, is open to all under the terms of this Charter. The initial Maintainers will be the list of Maintainers identified in the Project’s code repository or wiki site.
+7.  Participation in the Project, including contributions to any Committee or Workgroup, is open to all under the terms of this Charter. 
 
-8.  The GB may (1) establish work flow procedures for the submission, approval, and closure/archiving of Technical Committees and projects of Technical Committees, (2) set requirements for the promotion to or removal from Technical Committee roles, as applicable, and (3) amend, adjust, refine and/or eliminate the roles as it sees fit.
+8.  The GB may (1) establish work flow procedures for the submission, approval, and closure/archiving of Committees and projects of Committees, (2) set requirements for the promotion to or removal from Committee roles, as applicable, and (3) amend, adjust, refine and/or eliminate the roles as it sees fit.
 
 9.  The GB shall annually elect a GB Chair and GB Co-Chair from representatives involved in either or both the Software or Metrics Committees, such that both the Software and Metrics Committees will be represented by the Co-Chairs. The Chair and Co-Chair will set the agenda and preside over meetings of the GB.
 
@@ -52,9 +52,9 @@ The mission of the Project is to:
 
     4.  establish policies related to intellectual property;
 
-    5.  creating committees or working groups to focus on cross-project issues and requirements;
+    5.  creating Committees to focus on cross-project issues and requirements;
 
-    6.  facilitating communication and collaboration among all Technical Committees;
+    6.  facilitating communication and collaboration among Committees;
 
     7.  communicating with external and industry organizations concerning Project matters;
 
@@ -68,13 +68,13 @@ The mission of the Project is to:
 
 # **3. GB Voting**
 
-1.  While it is the goal of the Project to operate as a consensus based community, if any GB or Technical Committee decision requires a vote to move forward, the respective voting members shall vote on a one vote per voting member basis.
+1.  While it is the goal of the Project to operate as a consensus based community, if any GB or Committee decision requires a vote to move forward, the respective voting members shall vote on a one vote per voting member basis.
 
-2.  Quorum for GB and Technical Committee meetings requires two-thirds of all voting members of the GB or a Technical Committee, as applicable. The GB or any Technical Committee may continue to meet if quorum is not met, but are prevented from making any decisions at the meeting.
+2.  Quorum for GB and Committee meetings requires two-thirds of all voting members of the GB or a Committee, as applicable. The GB or any Committee may continue to meet if quorum is not met, but are prevented from making any decisions at the meeting. If quorum is not met, a second meeting with the same agenda can be called after two weeks to which quorum will become 1/2 of all voting members. 
 
 3.  Except as provided in Section 8.b(iv) and 9.a, decisions by vote at a meeting shall require a majority vote of those in attendance, provided quorum is met. Decisions made by electronic vote without a meeting shall require a majority of all voting members of the GB or a Committee, as applicable.
 
-4.  In the event a vote cannot be resolved within a Technical Committee, the GB may decide the matter. In the event that any vote cannot be resolved by the GB, any voting member on the GB is entitled to refer the matter to The Linux Foundation for assistance in reaching a decision.
+4.  In the event a vote cannot be resolved within a Committee, the GB may decide the matter. In the event that any vote cannot be resolved by the GB, any voting member on the GB is entitled to refer the matter to The Linux Foundation for assistance in reaching a decision.
 
 #  **4. Antitrust Guidelines**
 
@@ -89,6 +89,8 @@ The mission of the Project is to:
 2.  The Project will operate in a transparent, open, collaborative, and ethical manner at all times.
 
 3.  The output of all Project discussions, proposals, timelines, decisions, and status will be made open and easily visible to all.
+
+4. The current Project code of conduct can be found at (https://github.com/chaoss/governance/blob/master/code-of-conduct.md)
 
 # **6. Budget and Funding**
 
@@ -124,7 +126,7 @@ The Project should:
 
     1.  All new inbound code contributions must be accompanied by a Developer Certificate of Origin sign-off ([http://developercertificate.org)](http://developercertificate.org)
 
-    2. All contributions of code will be received and made available under the GNU General Public License, Version 2 or later, or Version 3 or later.
+    2. All contributions of code will be received and made available under the GNU General Public License, Version 2 or later, or Version 3 or later or an OSI-approved open source license defined by the software project
 
     3. All contributions to implementation-agnostic metrics and standards, including associated scripts, SQL statements, and documentation, will be received and made available under the MIT License (https://opensource.org/licenses/MIT).
 
