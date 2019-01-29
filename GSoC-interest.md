@@ -1,4 +1,6 @@
-# Google Summer of Code Interested Candidates
+# Google Summer of Code 2019 Interested Candidates
+
+> Note, CHAOSS has not yet been accepted by Google Summer of Code. Google announces organizations on February 26, 2019.
 
 Hi potential GSoC students,
 
@@ -10,12 +12,12 @@ A few details regarding the application process specific to the CHAOSS project:
 
 3) You are welcome to include in your repositories other information that could be of interest, such as open issues or pull requests submitted to the project to which you intend to contribute during GSoC, contributions to other projects, skills, and other related information.
 
-You must complete these things by TBA. Make sure to also submit the information required by GSoC for applicants (i.e., project proposal), linking to it from your pull request to this file.
+You must complete these things by April 9, 2019 13:00 CDT. Make sure to also submit the information required by GSoC for applicants (i.e., project proposal), linking to it from your pull request to this file.
 
 Regards,
 GSoC Mentors
 
 
-| Name | Email | Idea | Repo | Project Proposal | GSoC Submission |
+| Name | Email | Idea | Micro-Task Repository | Project Proposal |
 | --- | --- | --- | --- | --- | --- |
-|   |   |   |   |   |   |
+| Georg Link | glink at unomaha.edu | Prototype New CHAOSS Metrics | [GeorgLink/governance](https://github.com/GeorgLink/governance) | [none](https://github.com/chaoss/governance/blob/master/GSoC-Ideas.md) |
