@@ -4,13 +4,13 @@
 
 ### Description
 
-[Augur](http://www.augurlabs.io) is a fully functional prototyping web stack for CHAOSS metrics that leverages cutting edge web technologies including VUE, NodeJS and Python. It provides structured data mined from git repositories using a plugin architecture that incorporate other open source metrics projects like [Facade](http://facade-oss.org/) and [FOSSology](https://www.fossology.org/). Drawing from feedback from the CHAOSS community, Rapid metrics prototyping, human centered design and representing trends over time are central values in Augur's development. Augur has 4 core capabilities: 
+[Augur](http://www.augurlabs.io) is a fully functional prototyping web stack for CHAOSS metrics that leverages cutting edge web technologies including VUE, NodeJS and Python. It provides structured data mined from git repositories using a plugin architecture that incorporate other open source metrics projects like [Facade](http://facade-oss.org/) and [FOSSology](https://www.fossology.org/). Drawing from feedback from the CHAOSS community, rapid metrics prototyping, human centered design and representing trends over time are central values in Augur's development. Augur has 4 core capabilities: 
 1. Open source project comparsisons using either Z-Score or raw data. In the case of two projects of comparable size, scope and scale, percentage comparisons can be useful. In many cases, comparing z-scores of project trends yields a visualization with a more valuable view of how the project’s evolved relative to each other over time.
 2. Comparison of the open source project with itself. How are we doing over time?
 3. Making the open source project’s ecosystem visible. What are the trends in downloads? What projects are dependent on this one? Upon which projects does this project depend?
 4. Supporting Comparisons across open source projects.
 
-We plan to implement Risk metrics and other metrics within the Growth maturituy and decline [CHAOSS metrics and use cases](https://github.com/chaoss/wg-gmd) using Augur, focusing on what we have unearthed as the open source community manager use case. The aims of the project are to: 
+We plan to implement Risk metrics and other metrics within the Growth-Maturity-Decline [CHAOSS metrics and use cases](https://github.com/chaoss/wg-gmd) using Augur, focusing on what we have unearthed as the open source community manager use case. The aims of the project are to: 
 1. Construct core open source software metrics defined by CHAOSS and
 2. Assemble filtered, comparative collections of those metrics in ways that community managers want to consume. 
 
