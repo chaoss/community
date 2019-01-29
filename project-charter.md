@@ -20,23 +20,23 @@ The mission of the Project is to:
 
 # **2. Governance Board**
 
-1.  The Governance Board (the “GB”) shall be responsible for overall oversight of the Project and coordination of the efforts of any Technical Committees and Workgroups.
+1.  The Governance Board (the “GB”) shall be responsible for overall oversight of the Project and coordination of the efforts of any Technical Committees and Working Groups.
 
 2.  At inception of the Project, the GB voting members consists of those individuals identified on the Project website (https://chaoss.community). Following inception of the Project, the GB will implement procedures and methodologies for the selection of GB voting members from the contributing community.
 
-3.  The GB will encourage transparency (e.g., publish public minutes). Committee and Workgroup meetings will be open to the public, and can be conducted electronically, via teleconference, or in person.
+3.  The GB will encourage transparency (e.g., publish public minutes). Committee and Working Group meetings will be open to the public, and can be conducted electronically, via teleconference, or in person.
 
 4.  The GB has the authority to create Committees that may focus on code or non-code efforts to advance the Mission (such as standards, specifications, and/or architecture). The Committees of the Project are the “Software Committee,” responsible for technical oversight of inbound and outbound coding projects, and the “Metrics Committee,” responsible for the collection of technology-agnostic metrics and standards to be developed by the Project, and the GB shall provide coordination of the interrelationship between the Software and Metrics Committees.
 
-5.  Workgroups are estabished and maintained by Project contributors to advance Project work. Workgroups focus on specific metric, methodological, ethical, and technical issues associated with open source project health. 
+5.  Working Groups are estabished and maintained by Project contributors to advance Project work. Working Groups focus on specific metric, methodological, ethical, and technical issues associated with open source project health. 
 
-6.  Roles: Committees and Workgroups involve Contributors and Maintainers:
+6.  Roles: Committees and Working Groups involve Contributors and Maintainers:
 
     1.  Contributors: anyone in the community that contributes code, documentation, use cases, standardized metrics, or other community activities related to the Project;
 
     2. Maintainers: Contributors who have the ability to commit directly to a Project’s main repository branch and are responsive to contributions or changes from Contributors. Maintainers are listed in the README of each repository. 
 
-7.  Participation in the Project, including contributions to any Committee or Workgroup, is open to all under the terms of this Charter. 
+7.  Participation in the Project, including contributions to any Committee or Working Group, is open to all under the terms of this Charter. 
 
 8.  The GB may (1) establish work flow procedures for the submission, approval, and closure/archiving of Committees and projects of Committees, (2) set requirements for the promotion to or removal from Committee roles, as applicable, and (3) amend, adjust, refine and/or eliminate the roles as it sees fit.
 
