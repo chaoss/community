@@ -19,5 +19,5 @@ GSoC Mentors
 
 
 | Name | Email | Idea | Micro-Task Repository | Project Proposal |
-| --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- |
 | Georg Link | glink at unomaha.edu | Prototype New CHAOSS Metrics | [GeorgLink/governance](https://github.com/GeorgLink/governance) | [none](https://github.com/chaoss/governance/blob/master/GSoC-Ideas.md) |
