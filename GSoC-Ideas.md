@@ -63,7 +63,7 @@ documentation.
   * _Mentors:_ Jesus M. Gonzalez-Barahona and Valerio Cosentino.
 
 
-## Idea #x:
+## Idea #:
 
 [ Micro-tasks and place for questions ](#)
 
