@@ -65,7 +65,7 @@ documentation.
 
 ## Idea #x:
 
-[ Micro-tasks and place for questions ]()
+[ Micro-tasks and place for questions ](#)
 
 Description
 
