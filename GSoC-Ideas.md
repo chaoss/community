@@ -94,8 +94,7 @@ In this GSoC project we plan to implement Risk metrics and other metrics within 
 1. Construct core open source software metrics defined by CHAOSS and
 2. Assemble filtered, comparative collections of those metrics in ways that community managers want to consume. 
 
-The aims of the project are as follows:
-
+The technical components of the project include:
   * Acquiring knowledge on Augur toolchain to generate metrics from available data sources.  
   * Creating VUE visualizations and API's to support the enumerated metrics and metric collections. 
   * Writing Python code to query Facade, Augur and other datasets. 
