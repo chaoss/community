@@ -21,12 +21,9 @@ The aims will require working with ElasticSearch and Kibana, Python programming 
   * _Recommended:_ Experience with Python interfaces to databases would be convenient, but can be learned during the project. Experience in data analytics with Pandas, ElasticSearch, Kibana and Python Jupyter Notebooks will be a plus.
   * _Mentors:_ Alberto Pérez García-Plaza and Miguel Ángel Fernández.
 
-
 ## Idea 2: Implementing CHAOSS metrics with Perceval
 
 [Micro-tasks and place for questions](https://github.com/chaoss/wg-gmd/issues/81)
-
-### Description
 
 The [GMD Working group](https://github.com/chaoss/wg-gmd) is proposing some metrics
 that are computed with information obtained from software development repositories.
@@ -62,19 +59,27 @@ documentation.
   * _Recommended:_ Experience in data analytics with Python, if possible involving the use of Pandas, will be a plus. 
   * _Mentors:_ Jesus M. Gonzalez-Barahona and Valerio Cosentino.
 
+## Idea 3: Support of Source Code Related Metrics
 
-## Idea #:
+[ Micro-tasks and place for questions ](https://github.com/chaoss/grimoirelab/issues/182)
 
-[ Micro-tasks and place for questions ](#)
+Currently, GrimoireLab allows to produce analytics with data extracted from more than 30 tools related with contributing to Open Source development such as version control systems, issue trackers and forums. Despite the large set of metrics available in GrimoireLab, none of them relies on information extracted from source code, thus limiting the end-users to benefit of a wider spectrum of software development data.
 
-Description
+[Graal](https://github.com/Bitergia/graal) is a tool that allows to conduct customizable and incremental analysis of source code by leveraging on existing tools, and produce an output that conforms to the data that can be processed by GrimoireLab. Graal already offers analysis about code complexity, quality, dependencies, security and licensing, however currently it is not integrated with GrimoireLab.
+
+This idea is about adding support to GrimoireLab to produce source code related metrics using Graal.
 
 The aims of the project are as follows:
-  * ...
+  * Understanding the GrimoireLab components (Perceval, ELK, Mordred and Sigils) and the corresponding tool-chain.
+  * Adapting ELK and Mordred to be able to execute Graal and process the data produced.
+  * Producing analytics with Graal data and including them in Sigils.
+  * Evaluating the implementation with projects of different sizes.
 
-The aims may require [specific tasks].
+Other aims, such as enhancing Graal to support more analysis or improve existing ones are completely within scope.
 
-  * _Difficulty:_ ____
-  * _Requirements:_ ____
-  * _Recommended:_ ____
-  * _Mentors:_ ____
+The aims will require extending GrimoireLab functionality to integrate Graal.
+
+  * _Difficulty:_ medium
+  * _Requirements:_ Python programming. Interest in software analytics. Willingness to understand GrimoireLab internals.
+  * _Recommended:_ Experience with ElasticSearch and Kibana would be convenient, but can be learned during the project.
+  * _Mentors:_ Jesus M. Gonzalez-Barahona, Valerio Cosentino
