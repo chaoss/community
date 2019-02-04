@@ -84,7 +84,7 @@ The aims will require extending GrimoireLab functionality to integrate Graal.
   * _Recommended:_ Experience with ElasticSearch and Kibana would be convenient, but can be learned during the project.
   * _Mentors:_ Jesus M. Gonzalez-Barahona, Valerio Cosentino
   
-## Idea 5: Build CHAOSS Risk and Growth Maturity and Decline Metrics in Augur
+## Idea 4: Build CHAOSS Risk and Growth Maturity and Decline Metrics in Augur
 
 [ Micro-tasks and place for questions ](https://github.com/chaoss/wg-gmd/issues/82)
 
