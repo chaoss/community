@@ -25,8 +25,6 @@ The aims will require working with ElasticSearch and Kibana, Python programming 
 
 [Micro-tasks and place for questions](https://github.com/chaoss/wg-gmd/issues/81)
 
-### Description
-
 The [GMD Working group](https://github.com/chaoss/wg-gmd) is proposing some metrics
 that are computed with information obtained from software development repositories.
 One of the goals of the working group is to provide reference implementations of
@@ -64,8 +62,6 @@ documentation.
 ## Idea 3: Support of Source Code Related Metrics
 
 [ Micro-tasks and place for questions ](https://github.com/chaoss/grimoirelab/issues/182)
-
-### Description
 
 Currently, GrimoireLab allows to produce analytics with data extracted from more than 30 tools related with contributing to Open Source development such as version control systems, issue trackers and forums. Despite the large set of metrics available in GrimoireLab, none of them relies on information extracted from source code, thus limiting the end-users to benefit of a wider spectrum of software development data.
 
