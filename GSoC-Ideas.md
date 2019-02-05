@@ -2,7 +2,7 @@
 
 ## Idea 1: Visualizing  CHAOSS Metrics in Kibana Dashboards
 
-[ Micro-tasks and place for questions ](#)
+[ Micro-tasks and place for questions ](https://github.com/chaoss/grimoirelab/issues/183)
 
 [GrimoireLab](https://chaoss.github.io/grimoirelab/) provides a framework for retrieving information from several data sources and store that information in a set of ElasticSearch indexes. From those indexes it is relatively easy start building Kibana Dashboards. Behind the scenes, data is stored in, at least, two stages. The first one consist of retrieving data from the original source and storing them in ElasticSearch in RAW format, i.e., a format close to the original source format, without applying any transformation. In a second stage RAW data is enriched to generate new data more suitable for computing metrics, with Kibana in mind.
 
