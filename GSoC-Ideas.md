@@ -57,7 +57,7 @@ documentation.
   * _Difficulty:_ Medium
   * _Requirements:_ Python programming, experience with Python notebooks, skills for producing documentation.
   * _Recommended:_ Experience in data analytics with Python, if possible involving the use of Pandas, will be a plus. 
-  * _Mentors:_ Jesus M. Gonzalez-Barahona and Valerio Cosentino.
+  * _Mentors:_ Jesus M. Gonzalez-Barahona, Valerio Cosentino, and Pranjal Aswani.
 
 ## Idea 3: Support of Source Code Related Metrics
 
@@ -82,7 +82,7 @@ The aims will require extending GrimoireLab functionality to integrate Graal.
   * _Difficulty:_ medium
   * _Requirements:_ Python programming. Interest in software analytics. Willingness to understand GrimoireLab internals.
   * _Recommended:_ Experience with ElasticSearch and Kibana would be convenient, but can be learned during the project.
-  * _Mentors:_ Jesus M. Gonzalez-Barahona, Valerio Cosentino
+  * _Mentors:_ Jesus M. Gonzalez-Barahona, Valerio Cosentino, and Pranjal Aswani
   
 ## Idea 4: Build CHAOSS Risk and Growth Maturity and Decline Metrics in Augur
 
