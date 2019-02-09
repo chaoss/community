@@ -63,7 +63,7 @@ documentation.
 
 [ Micro-tasks and place for questions ](https://github.com/chaoss/grimoirelab/issues/182)
 
-Currently, GrimoireLab allows to produce analytics with data extracted from more than 30 tools related with contributing to Open Source development such as version control systems, issue trackers and forums. Despite the large set of metrics available in GrimoireLab, none of them relies on information extracted from source code, thus limiting the end-users to benefit of a wider spectrum of software development data.
+Currently, GrimoireLab allows to produce analytics with data extracted from more than 30 tools related with contributing to Open Source development such as version control systems, issue trackers and forums. Despite the large set of metrics available in GrimoireLab, none of them relies on information extracted from source code, thus preventing end-users from benefiting from a wider spectrum of software development data.
 
 [Graal](https://github.com/Bitergia/graal) is a tool that allows to conduct customizable and incremental analysis of source code by leveraging on existing tools, and produce an output that conforms to the data that can be processed by GrimoireLab. Graal already offers analysis about code complexity, quality, dependencies, security and licensing, however currently it is not integrated with GrimoireLab.
 
