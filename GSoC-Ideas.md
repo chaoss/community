@@ -30,7 +30,7 @@ that are computed with information obtained from software development repositori
 One of the goals of the working group is to provide reference implementations of
 those metrics, based on the output produced by [Perceval](https://github.com/chaoss/grimoirelab-perceval).
 As an example, still work in progress, check the Python notebook with the
-[reference implementation for commits](https://github.com/chaoss/wg-gmd/blob/master/implementations/Code_Commits.ipynb).
+[reference implementation for commits](https://github.com/chaoss/wg-gmd/blob/master/implementations/Code_Changes-Git.ipynb).
 
 The aims of this idea are as follows:
 
