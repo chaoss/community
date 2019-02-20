@@ -34,7 +34,7 @@ The mission of the Project is to:
 
     1.  Contributors: anyone in the community that contributes code, documentation, use cases, standardized metrics, or other community activities related to the Project;
 
-    2. Maintainers: Contributors who have the ability to commit directly to a Project’s main repository branch and are responsive to contributions or changes from Contributors. Maintainers are listed in the README of each repository. 
+    2. Maintainers: Contributors who have the ability to commit directly to a Project’s repository and are responsive to contributions or changes from Contributors. Maintainers are listed in the README of each repository. 
 
 7.  Participation in the Project, including contributions to any Committee or Working Group, is open to all under the terms of this Charter. 
 
