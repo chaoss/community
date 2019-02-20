@@ -30,7 +30,7 @@ The mission of the Project is to:
 
 5.  Working Groups are established and maintained by Project contributors to advance Project work. Working Groups focus on specific metric, methodological, ethical, and technical issues associated with open source project health.
 
-6.  Roles: Committee Working Groups involve Contributors and Maintainers:
+6.  Roles: Committees and Working Groups involve Contributors and Maintainers:
 
     1.  Contributors: anyone in the community that contributes code, documentation, use cases, standardized metrics, or other community activities related to the Project;
 
