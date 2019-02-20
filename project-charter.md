@@ -28,7 +28,7 @@ The mission of the Project is to:
 
 4.  The GB has the authority to create Committees that may focus on code or non-code efforts to advance the Mission (such as standards, specifications, and/or architecture). The Committees of the Project are the “Software Committee,” responsible for technical oversight of inbound and outbound coding projects, and the “Metrics Committee,” responsible for the collection of technology-agnostic metrics and standards to be developed by the Project, and the GB shall provide coordination of the interrelationship between the Software and Metrics Committees.
 
-5.  Working Groups are estabished and maintained by Project contributors to advance Project work. Working Groups focus on specific metric, methodological, ethical, and technical issues associated with open source project health. 
+5.  Working Groups are established and maintained by Project contributors to advance Project work. Working Groups focus on specific metric, methodological, ethical, and technical issues associated with open source project health. 
 
 6.  Roles: Committees and Working Groups involve Contributors and Maintainers:
 
