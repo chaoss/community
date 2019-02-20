@@ -124,7 +124,7 @@ The Project should:
 
     1.  All new inbound code contributions must be accompanied by a Developer Certificate of Origin sign-off ([http://developercertificate.org)](http://developercertificate.org)
 
-    2. All contributions of code will be received and made available under the GNU General Public License, Version 2 or later, or Version 3 or later or an OSI-approved open source license defined by the software project.
+    2. All contributions of code will be received and made available under the GNU General Public License, Version 2 or later, Version 3 or later, or an OSI-approved open source license defined by the software project.
 
     3. All contributions to implementation-agnostic metrics and standards, including associated scripts, SQL statements, and documentation, will be received and made available under the MIT License (https://opensource.org/licenses/MIT).
 
