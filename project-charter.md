@@ -6,6 +6,8 @@
 
 **Effective: Sept 1, 2017**
 
+**Last Updated: March 12, 2019**
+
 This Charter sets forth the responsibilities and procedures for technical contribution to, and oversight of, the CHAOSS – Community Health Analytics Open Source Software Project (the “Project”) within The Linux Foundation. Contributors to the Project must comply with the terms of the Charter as well as any applicable policies of The Linux Foundation.
 
 # **1. The Project Mission**
