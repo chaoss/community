@@ -90,6 +90,8 @@ The mission of the Project is to:
 
 3.  The output of all Project discussions, proposals, timelines, decisions, and status will be made open and easily visible to all.
 
+4. The current Project code of conduct can be found at (https://chaoss.community/about/code-of-conduct/)
+
 # **6. Budget and Funding**
 
 1.  The GB will coordinate any budget or funding needs with The Linux Foundation. Organizations participating may be solicited to sponsor Project activities and infrastructure needs on a voluntary basis.
