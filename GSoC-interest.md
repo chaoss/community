@@ -1,7 +1,5 @@
 # Google Summer of Code 2019 Interested Candidates
 
-> Note, CHAOSS has not yet been accepted by Google Summer of Code. Google announces organizations on February 26, 2019.
-
 Hi potential GSoC students,
 
 A few details regarding the application process specific to the CHAOSS project:
