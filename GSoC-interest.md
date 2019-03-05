@@ -19,3 +19,4 @@ GSoC Mentors
 | Name | Email | Idea | Micro-Task Repository | Project Proposal |
 | --- | --- | --- | --- | --- |
 | Georg Link | glink at unomaha.edu | Prototype New CHAOSS Metrics | [GeorgLink/governance](https://github.com/GeorgLink/governance) | [no document](https://github.com/chaoss/governance/blob/master/GSoC-Ideas.md) |
+| Venu Vardhan Reddy Tekula | venuvardhanreddytekula8@gmail.com | Implementing CHAOSS metrics with Perceval | [vchrombie/chaoss-microtasks/](https://github.com/vchrombie/chaoss-microtasks/) | --- |
