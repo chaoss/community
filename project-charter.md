@@ -72,7 +72,7 @@ The mission of the Project is to:
 
 1.  While it is the goal of the Project to operate as a consensus based community, if any GB or Committee decision requires a vote to move forward, the respective voting members shall vote on a one vote per voting member basis.
 
-2.  Quorum for GB and Committee meetings requires two-thirds of all voting members of the GB or a Committee, as applicable. The GB or any Committee may continue to meet if quorum is not met, but are prevented from making any decisions at the meeting.
+2.  Quorum for GB and Committee meetings requires two-thirds of all voting members of the GB or a Committee, as applicable. The GB or any Committee may continue to meet if quorum is not met, but are prevented from making any decisions at the meeting. If quorum is not met, a second meeting with the same agenda can be called after two weeks to which quorum will become 1/2 of all voting members.
 
 3.  Except as provided in Section 8.b(iv) and 9.a, decisions by vote at a meeting shall require a majority vote of those in attendance, provided quorum is met. Decisions made by electronic vote without a meeting shall require a majority of all voting members of the GB or a Committee, as applicable.
 
