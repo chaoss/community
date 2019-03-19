@@ -21,3 +21,4 @@ GSoC Mentors
 | Name | Email | Idea | Micro-Task Repository | Project Proposal |
 | --- | --- | --- | --- | --- |
 | Georg Link | glink at unomaha.edu | Prototype New CHAOSS Metrics | [GeorgLink/governance](https://github.com/GeorgLink/governance) | [no document](https://github.com/chaoss/governance/blob/master/GSoC-Ideas.md) |
+| Xin Tan | tanxin16 at pku.edu.cn | Support of Source Code Related Metrics | [SunflowerPKU/GSoC-Support-of-Source-Code-Related-Metrics](https://github.com/SunflowerPKU/GSoC-Support-of-Source-Code-Related-Metrics) | [will be uploaded soon](https://github.com/chaoss/governance/blob/master/GSoC-Ideas.md) |
