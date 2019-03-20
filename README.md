@@ -6,7 +6,11 @@ CHAOSS community governance lives here:
 * [Code of Conduct](./code-of-conduct.md)
 * [Google Summer of Code coordination](./GSoC-interest.md)
 
-## Maintainers of this repository
+## How to contribute to this repository
+
+We follow the GitHub pull-request workflow. More details on how to contibute is in the [CONTRIBUTING.md](./CONTRIBUTING.md).
+
+### Maintainers of this repository
 
 * [Georg Link](https://github.com/GeorgLink)
 
@@ -15,6 +19,3 @@ CHAOSS community governance lives here:
 A contributor to this repository can be made a maintainer by existing maintainers. 
 We currently do not have guidelines of when to add a new maintainer and the decision is in the discretion of existing maintainers.
 
-## How to contribute
-
-We follow the GitHub pull-request workflow. More details on how to contibute is in the [CONTRIBUTING.md](./CONTRIBUTING.md).
