@@ -25,6 +25,8 @@ Changes can be made from within the GitHub user interface. As a non-maintainer, 
 Every commit needs a [Developer Certificate of Origin](https://developercertificate.org/) (DCO).
 A DCO sign-off is accomplished by writing `Signed-off-by: Your Name <YourName@example.org>` into the commit comment field. This can be automated by using a browser plugin like [scottrigby/dco-gh-ui](https://github.com/)
 
+*If you forget to add the sign-off you can also amend a previous commit with the sign-off. For this, you need to clone the repository on your local machine and run `git commit --amend -s`. Because you have pushed your changes to GitHub already you'll need to force push your branch after this with `git push -f`.*
+
 ### Code or document change contributions (pull request)
 
 Changes to source code files or documents are best contributed and discussed in pull requests. Please look at the CONTRIBUTING.md files for repository specifics.
@@ -37,10 +39,12 @@ Create a [feature branch][fb] in your local repository:
 
     git checkout -b <branch>
 
-Make your change and commit the change (NOTE: with `-s` you sign the commit, which is your [Developer Certificate of Origin](https://developercertificate.org/) (DCO)):
+Make your change and commit the change (NOTE: with `-s` you sign-off on each commit, which is your [Developer Certificate of Origin](https://developercertificate.org/)):
 
     git add <changed file>
     git commit -s -m "<description of change>"
+
+*If you forget to add the sign-off you can also amend a previous commit with the sign-off by running `git commit --amend -s`. If you have pushed your changes to GitHub already you'll need to force push your branch after this with `git push -f`.*
 
 Push to your fork on GitHub:
 
