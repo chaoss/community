@@ -3,7 +3,7 @@
 ## Our Pledge
 
 In the interest of fostering an open and welcoming environment, we as
-contributors and maintainers pledge to making participation in our project and
+contributors and maintainers pledge to make participation in our project and
 our community a harassment-free experience for everyone, regardless of age, body
 size, disability, ethnicity, gender identity and expression, level of experience,
 education, socio-economic status, nationality, personal appearance, race,
@@ -48,13 +48,13 @@ threatening, offensive, or harmful.
 This Code of Conduct applies both within project spaces and in public spaces
 when an individual is representing the project or its community. Examples of
 representing a project or community include using an official project e-mail
-address, posting via an official social media account, or acting as an appointed
+address, posting via an official social media account or acting as an appointed
 representative at an online or offline event. Representation of a project may be
 further defined and clarified by project maintainers.
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be
+Instances of abusive, harassing, or otherwise, unacceptable behavior may be
 reported by contacting the CHAOSS Code of Conduct Team at 
 <chaoss-inclusion@lists.linuxfoundation.org>. All
 complaints will be reviewed and investigated and will result in a response that
@@ -74,8 +74,7 @@ CHAOSS members or the general public. We will not name victims without their
 affirmative consent.
 
 The CHAOSS Code of Conduct Team will report on a yearly basis the number of
-incidence reports. The CHAOSS Code of Conduct Team shall consist of three members 
-elected by the community every two years or when needed.
+incidence reports. The CHAOSS Code of Conduct Team shall consist of three members elected by the community every two years or when needed.
 
 ## Who to Contact
 
@@ -102,7 +101,7 @@ available at https://geekfeminism.org/about/code-of-conduct/
 * v1.1 proposed on April 2, 2018; accepted by CHAOSS Governing Board on May 1, 2018
   - update email address
   - change requirements for Code of Conduct team to be more inclusive
-  - change to three members of team to have a tie-breaking vote
+  - change to three members of the team to have a tie-breaking vote
 
 * v1.0 adopted through a CHAOSS Governing Board vote from February 12, 2018
 
