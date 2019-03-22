@@ -54,7 +54,7 @@ further defined and clarified by project maintainers.
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise, unacceptable behavior may be
+Instances of abusive, harassing, or otherwise unacceptable behavior may be
 reported by contacting the CHAOSS Code of Conduct Team at 
 <chaoss-inclusion@lists.linuxfoundation.org>. All
 complaints will be reviewed and investigated and will result in a response that
@@ -74,7 +74,8 @@ CHAOSS members or the general public. We will not name victims without their
 affirmative consent.
 
 The CHAOSS Code of Conduct Team will report on a yearly basis the number of
-incidence reports. The CHAOSS Code of Conduct Team shall consist of three members elected by the community every two years or when needed.
+incidence reports. The CHAOSS Code of Conduct Team shall consist of three members 
+elected by the community every two years or when needed.
 
 ## Who to Contact
 
