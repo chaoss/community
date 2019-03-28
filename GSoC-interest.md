@@ -21,3 +21,4 @@ GSoC Mentors
 | Name | Email | Idea | Micro-Task Repository | Project Proposal |
 | --- | --- | --- | --- | --- |
 | Georg Link | glink at unomaha.edu | Prototype New CHAOSS Metrics | [GeorgLink/governance](https://github.com/GeorgLink/governance) | [no document](https://github.com/chaoss/governance/blob/master/GSoC-Ideas.md) |
+| Sarvesh Mehta | sarvesh211999@gmail.com | Implementing CHAOSS metrics with Perceval | [sarvesh211999/CHAOSS-Gsoc](https://github.com/sarvesh211999/CHAOSS-Gsoc) | [GSoC_Proposal](https://docs.google.com/document/d/1_kUw7Z5B5Tw9n4mQSBIuU-0zZqzZKrWbieyC3dGxcEw/edit?usp=sharing) |
