@@ -21,3 +21,4 @@ GSoC Mentors
 | Name | Email | Idea | Micro-Task Repository | Project Proposal |
 | --- | --- | --- | --- | --- |
 | Georg Link | glink at unomaha.edu | Prototype New CHAOSS Metrics | [GeorgLink/governance](https://github.com/GeorgLink/governance) | [no document](https://github.com/chaoss/governance/blob/master/GSoC-Ideas.md) |
+| Parth Sharma | parth261297@gmail.com | Build CHAOSS Risk and Growth Maturity and Decline Metrics in Augur | [parthsharma2/CHAOSS-Microtasks](https://github.com/parthsharma2/CHAOSS-Microtasks) | [Proposal](https://docs.google.com/document/d/1xwXAvzfKilNBBY99DH6Zp55Aytz__41m24PWVtRMalc/edit?usp=sharing) |
