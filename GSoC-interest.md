@@ -21,3 +21,4 @@ GSoC Mentors
 | Name | Email | Idea | Micro-Task Repository | Project Proposal |
 | --- | --- | --- | --- | --- |
 | Georg Link | glink at unomaha.edu | Prototype New CHAOSS Metrics | [GeorgLink/governance](https://github.com/GeorgLink/governance) | [no document](https://github.com/chaoss/governance/blob/master/GSoC-Ideas.md) |
+| Harshal Mittal | harshalmittal4@gmail.com | Implementing CHAOSS metrics with Perceval | [CHAOSS-MetricsPerceval_microtask](https://github.com/harshalmittal4/CHAOSS-MetricsPerceval_microtask) | [no document](https://github.com/chaoss/governance/blob/master/GSoC-Ideas.md)
