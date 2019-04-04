@@ -29,8 +29,7 @@ GSoC Mentors
 | Sumit Kumar Jangir | sumitjangirdss.1@gmail.com |  Support of Source Code Related Metrics | [sumitskj/chaoss-microtasks](https://github.com/sumitskj/GSOC-Chaoss) | [Proposal](https://docs.google.com/document/d/1K2i_nPKQqTCFxi6mNhQGll83Mr-C4KqTaK3W2tL7Qvk/edit?usp=sharing) |
 | Aniruddha Jayant Karajgi | akarajgi0@gmail.com |  Implementing CHAOSS metrics with Perceval | [Polaris000/Chaoss_19_Microtasks](https://github.com/Polaris000/Chaoss_19_Microtasks) | [Proposal](https://docs.google.com/document/d/1i5XCEY_28qE1w8Lsj4ZSqkvZQnElU7vq1F0chBtUxwY/edit?usp=sharing) |
 | Venu Vardhan Reddy Tekula | venuvardhanreddytekula8@gmail.com | Implementing CHAOSS metrics with Perceval | [vchrombie/chaoss-microtasks/](https://github.com/vchrombie/chaoss-microtasks/) | [GSoC Proposal](https://docs.google.com/document/d/178oVQ45ORP78bh6BocswUpHVOnPaCyzCAqa4yz-An-I/edit?usp=sharing) |
-
-
+| José Alberto Marcial Sánchez | josealb.marcialsan@gmail.com | Implementing CHAOSS metrics with Perceval | [quirroone/Microtasks_Jose](https://github.com/quirroone/Microtasks_Jose) | [Proposal](https://docs.google.com/document/d/1OiqT-auCU2n9vawGyqdWHmduV2h2hYd3sfdykKecVkE/edit?usp=sharing) |
 
 
 
