@@ -21,12 +21,14 @@ GSoC Mentors
 | Name | Email | Idea | Micro-Task Repository | Project Proposal |
 | --- | --- | --- | --- | --- |
 | Georg Link | glink at unomaha.edu | Prototype New CHAOSS Metrics | [GeorgLink/governance](https://github.com/GeorgLink/governance) | [no document](https://github.com/chaoss/governance/blob/master/GSoC-Ideas.md) |
+| Harshal Mittal | harshalmittal4@gmail.com | Implementing CHAOSS metrics with Perceval | [CHAOSS-MetricsPerceval_microtask](https://github.com/harshalmittal4/CHAOSS-MetricsPerceval_microtask) | [Proposal](https://docs.google.com/document/d/1aY0XvTigaKu97T9RlpoE3C_M7hHcrMBhVoOAeuDZPM8/edit?usp=sharing)
 | Parth Sharma | parth261297@gmail.com | Build CHAOSS Risk and Growth Maturity and Decline Metrics in Augur | [parthsharma2/CHAOSS-Microtasks](https://github.com/parthsharma2/CHAOSS-Microtasks) | [Proposal](https://docs.google.com/document/d/1xwXAvzfKilNBBY99DH6Zp55Aytz__41m24PWVtRMalc/edit?usp=sharing) |
 | Apoorva Anand | apoorvaanand.work@gmail.com | Support of Source Code Related Metrics | [apoorvaanand1998/chaoss-microtasks](https://github.com/apoorvaanand1998/chaoss-microtasks) | [Proposal](https://docs.google.com/document/d/1il8mNa6lEqHcACR8aaZqf5r-2FpEk6zaB_V9K4A229E/edit?usp=sharing) |
 | Sarvesh Mehta | sarvesh211999@gmail.com | Implementing CHAOSS metrics with Perceval | [sarvesh211999/CHAOSS-Gsoc](https://github.com/sarvesh211999/CHAOSS-Gsoc) | [GSoC_Proposal](https://docs.google.com/document/d/1_kUw7Z5B5Tw9n4mQSBIuU-0zZqzZKrWbieyC3dGxcEw/edit?usp=sharing) |
 | Nishchith Shetty | nishchith.s at somaiya.edu |  Support of Source Code Related Metrics | [inishchith/chaoss-microtasks](https://github.com/inishchith/chaoss-microtasks) | [Proposal](https://docs.google.com/document/d/1lobfKgXd1fgeGP7EuNB_KPFmdxAveS1lPAzCinNxZ6k/edit?usp=sharing) |
 | Sumit Kumar Jangir | sumitjangirdss.1@gmail.com |  Support of Source Code Related Metrics | [sumitskj/chaoss-microtasks](https://github.com/sumitskj/GSOC-Chaoss) | [Proposal](https://docs.google.com/document/d/1K2i_nPKQqTCFxi6mNhQGll83Mr-C4KqTaK3W2tL7Qvk/edit?usp=sharing) |
 | Aniruddha Jayant Karajgi | akarajgi0@gmail.com |  Implementing CHAOSS metrics with Perceval | [Polaris000/Chaoss_19_Microtasks](https://github.com/Polaris000/Chaoss_19_Microtasks) | [Proposal](https://docs.google.com/document/d/1i5XCEY_28qE1w8Lsj4ZSqkvZQnElU7vq1F0chBtUxwY/edit?usp=sharing) |
+
 
 
 
