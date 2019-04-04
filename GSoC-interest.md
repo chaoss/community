@@ -22,4 +22,4 @@ GSoC Mentors
 | --- | --- | --- | --- | --- |
 | Georg Link | glink at unomaha.edu | Prototype New CHAOSS Metrics | [GeorgLink/governance](https://github.com/GeorgLink/governance) | [no document](https://github.com/chaoss/governance/blob/master/GSoC-Ideas.md) |
 
-| Rahul Soni | rahulsoni2225@gmail.com | Implementing CHAOSS Metrics in Kibana Dashboards | [InosRahul/Chaoss-microtasks-2019](https://github.com/InosRahul/Chaoss-microtasks-2019) | TBA |
+| Rahul Soni | rahulsoni2225@gmail.com | Implementing CHAOSS Metrics in Kibana Dashboards | [InosRahul/Chaoss-microtasks-2019](https://github.com/InosRahul/Chaoss-microtasks-2019) | https://docs.google.com/document/d/1qjyQIggCFL-MRAsDu76QObsUVkc9h3naLkMWqIio34o/edit?usp=sharing |
