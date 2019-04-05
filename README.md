@@ -16,6 +16,5 @@ We follow the GitHub pull-request workflow. More details on how to contibute is 
 
 ### How to become a maintainer
 
-A contributor to this repository can be made a maintainer by existing maintainers. 
+A contributor to this repository can be made a maintainer by existing maintainers.
 We currently do not have guidelines of when to add a new maintainer and the decision is in the discretion of existing maintainers.
-
