@@ -33,7 +33,6 @@ GSoC Mentors
 | Rahul Soni | rahulsoni2225@gmail.com | Implement CHAOSS metrics in Kibana Dashboards | [InosRahul/Chaoss-microtasks-2019](https://github.com/InosRahul/Chaoss-microtasks-2019) | [GSoC-Proposal](https://docs.google.com/document/d/1qjyQIggCFL-MRAsDu76QObsUVkc9h3naLkMWqIio34o) |
 | Neha Saini| nsaini.cse20@gmail.com | Visualizing CHAOSS Metrics in Kibana Dashboards | [Microtask repository](https://github.com/miscellaneously/gsoc2019_grimoire) | [Proposal](https://docs.google.com/document/d/1IzX7zWt44C_55TWifNYCE8S93bYt4yX2hRW_Cxhiu_s/edit?usp=sharing)|
 | Bingwen Ma | root@bing0ne.com | Build CHAOSS Risk and Growth Maturity and Decline Metrics in Augur | [bing0n3/CHAOSS-Microtasks](https://github.com/bing0n3/chaoss-gsoc) | [Proposal](https://docs.google.com/document/d/1InxOXnHUo-C-dMboGIHrb69bQ6P1sQ79PxnWBWHiV0g/edit?usp=sharing) |
-| Sonu Badugu | sonub396@gmail.com | Visualizing CHAOSS Metrics in Kibana Dashboards | [Microtask](https://github.com/Sonub396/GSoc-2019-CHAOSS-Kibana) | [Proposal](https://docs.google.com/document/d/1ngz6cXe94SMFWm6nSVWF00sVxwUF5l0NMUzFFqIFyVk/edit?usp=sharing) |
-
+| Xin Tan | tanxin16@pku.edu.cn | Support of Source Code Related Metrics | [SunflowerPKU/GSoC-Support-of-Source-Code-Related-Metrics](https://github.com/SunflowerPKU/GSoC-Support-of-Source-Code-Related-Metrics) | [Proposal](https://docs.google.com/document/d/1DAjFhR-LKC0dtm0O54v0om7jDQWbRNPo4wInelL93G8/edit?usp=sharing) |
 
 
