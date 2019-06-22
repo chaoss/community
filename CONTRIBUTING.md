@@ -23,7 +23,7 @@ Bug reports and specific feature requests are best discussed in an issue on the 
 Changes can be made from within the GitHub user interface. As a non-maintainer, GitHub will create a fork under your name and ask that you create a pull request. The pull request lets the repository maintainers know of your change and provides a space to discuss the change.
 
 Every commit needs a [Developer Certificate of Origin](https://developercertificate.org/) (DCO).
-A DCO sign-off is accomplished by writing `Signed-off-by: Your Name <YourName@example.org>` into the commit comment field. This can be automated by using a browser plugin like [scottrigby/dco-gh-ui](https://github.com/)
+A DCO sign-off is accomplished by writing `Signed-off-by: Your Name <YourName@example.org>` into the commit comment field. This can be automated by using a browser plugin like [scottrigby/dco-gh-ui](https://github.com/scottrigby/dco-gh-ui)
 
 *If you forget to add the sign-off you can also amend a previous commit with the sign-off. For this, you need to clone the repository on your local machine and run `git commit --amend -s`. Because you have pushed your changes to GitHub already you'll need to force push your branch after this with `git push -f`.*
 
