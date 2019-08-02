@@ -70,14 +70,14 @@ Please follow these guidelines and remind others of them.
 1. **Single Source of Truth** Think about the information architecture to eliminate repetition and have a Single Source of Truth (SSoT). Instead of repeating content cross-link it (each text has a hyperlink to the other piece). If you copy content please remove it at the origin place and replace it with a link to the new content. Duplicate content leads to having to update it in multiple changes, which is a lot of work and very easy to forget. If you forget one of the pieces of content is out of date.
 1. Make sure to always cross-link items if there are related items (elsewhere in the handbook, in docs, or in issues).
 1. The handbook is **organized by function and result** to ensure every item in it has a location and owner to keep it up to date. It's essential that we adhere to this hierarchy and that we not maintain separate structures for training materials, videos, or other documentation.
-  * At times, a change of perspective may be desired. In those cases, link to relevant sections of the handbook liberally.
-  * Avoid unstructured content based on formats like FAQs, lists of links, resource pages, glossaries, courses, videos, tests, or how-to's. These are very hard to keep up-to-date and are not compatible with organization per function and result.
-  * Instead, put the answer, link, definition, course, video, or test in the most relevant place. Use descriptive headers so that people can easily search for content.
-  * That said, please mix *formats* where and when appropriate in the handbook, even within a single page. Utilizing multiple formats can be valuable, and different people may prefer certain formats over others.
-  * Worry only about the organization **per function and result**, not about how the page will look if you embed varying types and formats of content.
+    * At times, a change of perspective may be desired. In those cases, link to relevant sections of the handbook liberally.
+    * Avoid unstructured content based on formats like FAQs, lists of links, resource pages, glossaries, courses, videos, tests, or how-to's. These are very hard to keep up-to-date and are not compatible with organization per function and result.
+    * Instead, put the answer, link, definition, course, video, or test in the most relevant place. Use descriptive headers so that people can easily search for content.
+    * That said, please mix *formats* where and when appropriate in the handbook, even within a single page. Utilizing multiple formats can be valuable, and different people may prefer certain formats over others.
+    * Worry only about the organization **per function and result**, not about how the page will look if you embed varying types and formats of content.
 1. **Use headers liberally**. If a page includes more than two headers (especially if it's larger than a single "screen"), add a Table of Contents (ToC).
-  * Headers should have normal capitalization: don't use [ALL CAPS](https://en.wikipedia.org/wiki/All_caps) or [TitleCase](http://www.grammar-monster.com/glossary/title_case.htm)).
-  * Before a header, leave two blank lines; after a header, leave one blank line; this is [not required in the standard](http://spec.commonmark.org/0.27/#example-46), but it is our convention.
+    * Headers should have normal capitalization: don't use [ALL CAPS](https://en.wikipedia.org/wiki/All_caps) or [TitleCase](http://www.grammar-monster.com/glossary/title_case.htm)).
+    * Before a header, leave two blank lines; after a header, leave one blank line; this is [not required in the standard](http://spec.commonmark.org/0.27/#example-46), but it is our convention.
 1. **KISS principle** Keep your handbook pages short and succinct. Eliminate fluff and get right to the point with the shortest possible wording.
 
 
