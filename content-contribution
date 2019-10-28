@@ -1,0 +1,24 @@
+The CHAOSS project uses a number of communications channels; whose use is focused on the following objectives:
+- Increase awareness of CHAOSS project and related events, issues, and releases.
+- Increase participation/contribution to CHAOSS project - including recruiting in contributors to GrimoireLab and Augur. 
+- Coordinate communications contributors wish to share relevant items
+- Contribute to CHAOSS website content
+
+There are a number of methods that community members can use to share or author articles, blog content, website content and press releases.
+
+The current project Social Media channels are administered by the process and people found here: 
+https://github.com/chaoss/governance/blob/master/social-media-README.md 
+
+If a contributor wants to coordinate a post from their own social channel in planned release with official @ChaossProj social media; please 
+- Create an issue with the proposed coordination here: https://github.com/chaoss/governance/issues/new 
+- Tag the @chaoss/content-group to trigger a review and coordination
+
+For website content changes; these can be initiated either by creating an Issue (https://github.com/chaoss/website/issues/new)in the Website repository, or by 
+starting a pull request and proposing changes. 
+
+
+For articles, blog content and press releases, we are adopting a creation process that uses Github issues as a way to propose, have reviewed and actioned within the Governance repository.
+
+- Create an Issue in github with proposed content https://github.com/chaoss/governance/issues/new 
+- Include a mention in your Issue that includes @chaoss/content-group - this will notify the review team; and once reviewed, they will close the Issue with comments on the action taken. 
+- Alternative method: Send an email to any member of the Chaoss Content Group
