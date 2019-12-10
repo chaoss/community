@@ -8,3 +8,4 @@ If you are interested in helping with the community handbook, [#105](https://git
 
 * [General](./)
   - [Handbook Usage](./handbook-usage.md)
+* [CHAOSScon](./chaosscon.md)
