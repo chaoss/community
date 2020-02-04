@@ -2,7 +2,7 @@
 
 ## Idea: Machine Learning for Anomaly Detection in Open Source Communities
 
-[ Micro-tasks and place for questions ](https://github.com/chaoss/augur/issues/...)
+[ Micro-tasks and place for questions ](https://github.com/chaoss/augur/issues/545)
 
 Augur is an open source platform that systematically integrates data from several open source repositories, issue trackers, mailing lists, and other communication systems that open source projects rely on to create a highly structured (relational and graph databases), consistent, and validated collection of open source health and sustainability data. Hundreds of highly specialized data requests are implemented in Augur's API, data and visualizations are pushed to Augur users, and the results of one user request benefits the whole community. 
 
