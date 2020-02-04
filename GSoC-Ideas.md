@@ -38,5 +38,24 @@ _Difficulty:_ Medium
 * _Recommended:_ Experience with Flask, requests, and PostgreSQL are 'nice to have', but also could be learned in the execution of the project
 * _Mentors:_ Sean Goggins, Matt Germonprez
 
+## Idea: (Blockchain) : Open Source Health and Sustainability SSO Implementation with Hyperledger/Indy and OAUTH 
+[ Micro-tasks and place for questions ](https://github.com/chaoss/augur/issues/545)
+
+Augur is an open source platform that systematically integrates data from several open source repositories, issue trackers, mailing lists, and other communication systems that open source projects rely on to create a highly structured (relational and graph databases), consistent, and validated collection of open source health and sustainability data. Hundreds of highly specialized data requests are implemented in Augur's API, data and visualizations are pushed to Augur users, and the results of one user request benefits the whole community. 
+
+As the size and scope of projects with rich analytical data grows, the need to protect the privacy and anonymity of individuals working in open source software is a rising concern. Implementation of a block chain technology for single sign on (SSO) for different collections of data is one mechanism for enabling comparisons, analysis and typologies for open source projects, making these growing, rich data sets more useful for developers, community managers, open source program officers, industry leaders and other stakeholders. This project promises close collaboration with individuals in open source journalism, open data efforts, and others with an interest in protecting individual privacy rights. Its also a unique and exciting path to work with blockchain technology on a team focused on its use for SSO. 
+
+The aims of the project are as follows:
+* Understand the core augur access and entitlements structure.
+* Understand blockchain technology generally.
+* Work with leading blockchain developers at the Linux Foundation
+* Implement a blockchain SSO at scale, working with a team. 
+
+_Difficulty:_ Medium
+* _Requirements:_ Some Python programming experience, an interest in blockchain technology, SSO, a willingness to understand Augur's internals, and a willingness to learn about HyperLedger/Indy
+* _Recommended:_ Experience with blockchain technologies, Flask, requests, and PostgreSQL are 'nice to have', but also could be learned in the execution of the project
+* _Mentors:_ Sean Goggins, Matt Germonprez
+
+
 
 ## Idea: TBD
