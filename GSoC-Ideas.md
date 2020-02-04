@@ -126,3 +126,23 @@ The aims will require working with Python, Django and ElasticSearch.
 * _Requirements:_ Python programming. Interest in software analytics. Willingness to understand GrimoireLab internals.
 * _Recommended:_ Experience with ElasticSearch and Django would be convenient, but can be learned during the project.
 * _Mentors:_ @dlumbrer, @sduenas, @valeriocos
+
+## Idea: Build Workflow Process for CHAOSS Diversity & Inclusion Badging
+
+[ Micro-tasks and place for questions ](https://github.com/Nebrethar/Docs-Diversity-Inclusion-Badging/issues/5)
+
+The CHAOSS Diversity and Inclusion Badging Program was founded from necessity in the open source community. The program was created to reward projects and events for positive diversity & inclusion practices, while also holding projects and events accountable to improve. The goal of the Diversity & Inclusion Badging Program is to encourage projects and events to obtain D&I badges for reasons of pride, leadership, self-reflection, and self-improvement on issues critical to building the Internet as a social good.
+
+The primary goals of the Diversity & Inclusion Badging Program include:
+
+ - Establishing an environment where projects and events can engage in the badging program
+ - Aligning the badging program with best practices, guidelines, and recommendations from Diversity & Inclusion efforts on the CHAOSS project
+ - Connecting with existing badging standards of IMS Global including
+ - Building an open peer-review system for the D&I Badging Program based on the review process of the Journal of Open Source Software
+
+The aim of this project regards all of these goals, and the work will help the entire Diversity & Inclusion Badging Program. The volunteer for this project will assist in creating a badge submission workflow and peer-review system for the badging process.
+
+* _Difficulty:_ Medium
+* _Requirements:_ Some experience with GitHub. A willingness to meet new members of the open source community.
+* _Recommended:_ Experience in the open source community would be a positive, but it is not required.
+* _Mentors:_ Matt Snell, Matt Germonprez
