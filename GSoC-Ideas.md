@@ -15,7 +15,7 @@ The aims of the project are as follows:
 * Implementing the software with data from the approximately 100,000 open source software repositories currently analyzed using Augur
 
 
-* _Difficulty:_ Medium
+_Difficulty:_ Medium
 * _Requirements:_ Python programming. Interest in machine learning. Willingness to understand Augur's internals.
 * _Recommended:_ Experience with Flask, Scikitlearn, and Pytorch are 'nice to have', but also could be learned in the execution of the project.
 * _Mentors:_ Sean Goggins, Matt Germonprez
