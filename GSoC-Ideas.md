@@ -38,4 +38,28 @@ The aims of the project are as follows:
 * _Mentors:_ Sean Goggins, Matt Germonprez
 
 
-## Idea: TBD
+## Idea: Implement the Social Currencyy Metrics System in Grimoire Labs
+
+[ Micro-tasks and place for questions ](https://github.com/chaoss/augur/issues/545)
+
+The Social Currency Metrics System (SCMS) is a qualitative data collection, processing, and measurement system that augments quantitative community management metrics already available in CHAOSS properties. Implementing the SCMS will ultimately help community leaders, power users, and other stakeholders leverage qualitative data for social listening so that they can rely less on the behaviors quantitative data tracks and more on community sentiment. The SCMS empowers community leaders to make decisions based on what community members freely share about their opinions, wants, and needs.
+
+The SCMS shows why trends occur and identifies commonly missed pitfalls in conclusions taken from quantitative data. With an SCMS platform built natively into a CHAOSS Bitergia property, open-source communities can use it to facilitate members’ input in decisions essential to community health.
+
+The purpose of this project is to: 
+Build the SCMS in one of CHAOSS project’s systems that collects qualitative data from several channels, displays that information for manipulation and tagging, and outputs it to a metric dashboard such as the SCMS information page found here. 
+
+The aims of this project are to:
+* Create an API that collects and returns data collected from a community of the GSoC participants’ choice.
+* Gain familiarity with and create a way to grade, tag, and process large amounts of data.  
+* Develop creative ways to display complex datasets in the Bitergia Analytics System.
+* Investigate ways to process qualitative data at scale using AI or similar technology.
+* Encourage the larger development of social listening tools based on qualitative data.
+
+_Difficulty:_ Medium to Hard based on the level of implementation (machine learning).
+
+_Requirements:_ Python programming. Interest in machine learning. API Development some understanding of the social scientific process and qualitative data analysis
+
+_Recommended:_ Other API languages, interest in science of community management and anthropological studies of online worlds, willingness to learn CHAOSS Property Structures
+
+ _Mentors:_  Dylan Marcy (SociallyConstructed.Online), Venia Logan (SociallyConstructed.Online), Valereo (Grimoire Labs), Georg (Advising only)
