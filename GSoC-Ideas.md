@@ -79,7 +79,7 @@ The aims will require working with Python, ELK and the ElasticSearch database.
 * _Difficulty:_ Medium
 * _Requirements:_ Python programming. Interest in software analytics. Willingness to understand GrimoireLab internals.
 * _Recommended:_ Experience with ElasticSearch and Pandas would be convenient, but can be learned during the project.
-* _Mentors:_ @sduenas, @valeriocos, @zhquan
+* _Mentors:_ @sduenas, @valeriocos, @zhquan, @Polaris000
 
 
 ## Idea: Enable sharing and reuse of CHAOSS metrics through Kibana-based dashboards
@@ -125,4 +125,4 @@ The aims will require working with Python, Django and ElasticSearch.
 * _Difficulty:_ Medium
 * _Requirements:_ Python programming. Interest in software analytics. Willingness to understand GrimoireLab internals.
 * _Recommended:_ Experience with ElasticSearch and Django would be convenient, but can be learned during the project.
-* _Mentors:_ @dlumbrer, @sduenas, @valeriocos
+* _Mentors:_ @dlumbrer, @sduenas, @valeriocos, @Polaris000
