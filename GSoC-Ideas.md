@@ -144,4 +144,4 @@ The aim of this project regards all of these goals, and the work will help the e
 * _Difficulty:_ Medium
 * _Requirements:_ Extensive experience with GitHub and the GitHub workflow. A willingness to meet new members of the open source community.
 * _Recommended:_ Experience in the open source community would be a positive, but it is not required.
-* _Mentors:_ Matt Snell, Matt Germonprez
+* _Mentors:_ Matt Snell, Matt Germonprez, Saleh Abdel Motaal
