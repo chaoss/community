@@ -147,3 +147,28 @@ The aim of this project regards all of these goals, and the work will help the e
 * _Requirements:_ Extensive experience with GitHub and the GitHub workflow. A willingness to meet new members of the open source community.
 * _Recommended:_ Experience in the open source community would be a positive, but it is not required.
 * _Mentors:_ Matt Snell, Matt Germonprez, Saleh Abdel Motaal
+
+## Idea: Implement the Social Currency Metrics System in GrimoireLabs 
+
+[ Micro-tasks and place for questions ](https://github.com/chaoss/grimoirelab/issues/288)
+
+The Social Currency Metrics System (SCMS) is a qualitative data collection, processing, and measurement system to improve on  data already available in [GrimoireLab](https://chaoss.github.io/grimoirelab/). Implementing the SCMS will help community leaders and other stakeholders leverage qualitative data (e.g., IRC messages or mailing list conversations) for social listening so that they can rely less on simple metrics and more on community sentiment. The SCMS empowers community leaders to make decisions based on what community members freely share about their opinions, wants, and needs.
+
+The SCMS shows why trends occur and identifies missed pitfalls in conclusions taken from quantitative data. With an SCMS platform built natively for the CHAOSS GrimoireLab tool, open source communities can use it to facilitate members’ input in decisions essential to community health.
+
+The purpose of this project is to: 
+Build the SCMS in [GrimoireLab](http://chaoss.github.io/grimoirelab), one of CHAOSS project’s systems that collects qualitative data from several channels. The final solution should display that information for tagging and output metrics in a dashboard similar to the screenshots [found here](https://chaoss.community/metric-social-currency-metric-system/). 
+
+The aims of this project are to:
+* Create an API on top of GrimoireLab that provides qualiative data collected from a community of the GSoC participants’ choice, via any combination of channels desired (email, social media, survey data, etc).
+* Gain familiarity with and create a way to tag and process that qualitative data.  
+* Develop creative ways to display the dataset in GrimoireLab / Kibana by reading and writing data to Elasticsearch database.
+* Investigate ways to process qualitative data at scale using AI or similar technology. Implementation is optional.
+
+_Difficulty:_ Medium to Hard based on the level of implementation (machine learning).
+
+_Requirements:_ Python programming. API Development. Some understanding of the social scientific process and qualitative data analysis. Willingness to learn CHAOSS GrimoireLab tools.
+
+_Recommended:_ Knowledge in several APIs. Interest in science of community management and anthropological studies of online worlds. Interest in machine learning. 
+
+ _Mentors:_  Dylan Marcy (SociallyConstructed.Online), @samanthavenialogan (SociallyConstructed.Online), @valeriocos (GrimoireLabs), @GeorgLink (Advising only)
