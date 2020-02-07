@@ -128,3 +128,22 @@ The aims will require working with Python, Django and ElasticSearch.
 * _Requirements:_ Python programming. Interest in software analytics. Willingness to understand GrimoireLab internals.
 * _Recommended:_ Experience with ElasticSearch and Django would be convenient, but can be learned during the project.
 * _Mentors:_ @dlumbrer, @Polaris000, @sduenas, @valeriocos
+
+## Idea: Build Workflow Process for CHAOSS Diversity & Inclusion Badging
+
+[ Micro-tasks and place for questions ](https://github.com/Nebrethar/Docs-Diversity-Inclusion-Badging/issues/5)
+
+The CHAOSS Diversity and Inclusion Badging Program began as a way to ensure that D&I metrics can have significant impact in the ways that communities function. The program was created to encourage projects and events towards positive diversity & inclusion practices. The goal of the Diversity & Inclusion Badging Program is to encourage projects and events to obtain D&I badges for reasons of pride, leadership, self-reflection, and self-improvement on issues critical to building the inclusive communities.
+
+The primary goals of the Diversity & Inclusion Badging Program include:
+
+ - Establishing an environment where projects and events can engage in the D&I badging program
+ - Aligning the badging program with best practices, guidelines, and recommendations from Diversity & Inclusion efforts on the CHAOSS project
+ - Connecting with existing badging standards of IMS Global including building an open peer-review system for the D&I Badging Program.
+
+The aim of this project regards all of these goals, and the work will help the entire Diversity & Inclusion Badging Program. The volunteer for this project will assist in creating a badge submission workflow and peer-review system for the badging process.
+
+* _Difficulty:_ Medium
+* _Requirements:_ Extensive experience with GitHub and the GitHub workflow. A willingness to meet new members of the open source community.
+* _Recommended:_ Experience in the open source community would be a positive, but it is not required.
+* _Mentors:_ Matt Snell, Matt Germonprez, Saleh Abdel Motaal
