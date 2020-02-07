@@ -58,13 +58,13 @@ _Difficulty:_ Medium
 
 
 
-## Idea: Enhance ELK Functionalities in GrimoireLab
+## Idea: Boosting data processing in GrimoieLab
 
 [ Micro-tasks and place for questions ](https://github.com/chaoss/grimoirelab/issues/285)
 
 GrimoireLab allows to produce analytics with data extracted from more than 30 tools used for contributing to Open Source development such as version control systems, issue trackers and forums. A common execution of GrimoireLab consists in collecting data from a given repository, processing and enriching the data obtained and finally visualizing it on dynamic Web dashboards. At the core of this process there is a component called ELK, which is in charge of integrating the data finally shown on the dashboards.
 
-The evolution of GrimoireLab requires now to reshape some of the functionalities provided by ELK to improve its maintainability. This project idea is about refactoring and redesigning the core of ELK.
+The evolution of GrimoireLab requires now to reshape some of the functionalities provided by ELK to improve its maintainability. This project idea is about refactoring and redesigning the core of ELK using popular libraries for data management and processing such as elasticsearch-py and pandas.
 
 The aims of the project are as follows:
 * Learning about refactoring software code to improve its functionality.
@@ -79,21 +79,22 @@ The aims will require working with Python, ELK and the ElasticSearch database.
 * _Difficulty:_ Medium
 * _Requirements:_ Python programming. Interest in software analytics. Willingness to understand GrimoireLab internals.
 * _Recommended:_ Experience with ElasticSearch and Pandas would be convenient, but can be learned during the project.
-* _Mentors:_ @sduenas, @valeriocos, @zhquan
+* _Mentors:_ @Polaris000, @sduenas, @valeriocos, @zhquan
 
 
-## Idea: Enable sharing and reuse of CHAOSS metrics through Kibana-based dashboards
+## Idea: Packaging and Sharing CHAOSS metrics using GrimoireLab dashboards
 
 [ Micro-tasks and place for questions ](https://github.com/chaoss/grimoirelab/issues/286)
 
 GrimoireLab is a powerful toolset for software development analytics. It is able to collect, process and visualize data from a large plethora of tools and platforms used in software development. The obtained data is stored in ElasticSearch and shown via web-based dashboards built on top of Kibana. Predefined dashboards are provided by GrimoireLab, however each user can easily create their own ones to address specific needs, such as the implementation of CHAOSS metrics. 
 
-In the current stage, GrimoireLab doesn't provide an approach to share custom dashboards, thus limiting the end-user capabilities. This project idea is about implementing such an approach.
+In the current stage, GrimoireLab doesn't provide an approach to share custom dashboards, thus limiting the end-user capabilities. This project idea is about implementing such an approach leveraging on Python, the Kibana API, ElasticSearch and OpenDistro for ElasticSearch (ODFE).
 
 The aims of the project are as follows:
 * Learning about building ecosystems around a software and providing functions to encourage growth of user base.
 * Understanding the GrimoireLab components (Perceval, ELK, Mordred, Sigils and Kidash) and the corresponding tool-chain.
 * Understanding the Kibana API to be able to download and upload visualizations and dashboards.
+* Exploring the option of using ODFE instead of/in addition to ElasticSearch. Ideally, the implementation should be compatible with both of them.
 * Implementing an approach to simplify the management of visualizations and dashboards.
 * Refactoring ELK and Mordred to remove the the logic currently used to manage the dashboards. 
 
@@ -104,13 +105,14 @@ Other aims, such as enhancing Kidash or other components to support the implemen
 * _Recommended:_ Experience with ElasticSearch and Kibana would be convenient, but can be learned during the project.
 * _Mentors:_ @alpgarcia, @sduenas, @valeriocos
 
-## Idea: Build Support for Quality Models based on CHAOSS metrics
+## Idea: Creating Quality models using GrimoireLab and CHAOSS metrics
 
 [ Micro-tasks and place for questions ](https://github.com/chaoss/grimoirelab/issues/287)
 
 GrimoireLab is a powerful open source platform that provides support for monitoring and in-depth analysis of software projects. It produces a rich set of dashboards, which can be easily inspected by decision makers to help them understanding the evolution and health of their projects. Despite the large set of dashboards available in GrimoireLab, comparing projects between each others is not straightforward since it requires navigating and drilling down the data in different dashboards.
 
-The GrimoireLab module Prosoul is a web application that empowers decision makers with the means to create and manage their own quality models, which are useful means to evaluate and compare software projects. This project idea is about supporting the definition of Quality Models using GrimoireLab data and Prosoul.
+The GrimoireLab module Prosoul is a web application that empowers decision makers with the means to create and manage their own quality models, which are useful means to evaluate and compare software projects. This project idea is about supporting the definition of Quality Models using GrimoireLab data and Prosoul. You will work with
+Python, Django and ElasticSearch.
 
 The aims of the project are as follows:
 * Learning about data analytics in the context of open source communities.
@@ -125,7 +127,7 @@ The aims will require working with Python, Django and ElasticSearch.
 * _Difficulty:_ Medium
 * _Requirements:_ Python programming. Interest in software analytics. Willingness to understand GrimoireLab internals.
 * _Recommended:_ Experience with ElasticSearch and Django would be convenient, but can be learned during the project.
-* _Mentors:_ @dlumbrer, @sduenas, @valeriocos
+* _Mentors:_ @dlumbrer, @Polaris000, @sduenas, @valeriocos
 
 ## Idea: Build Workflow Process for CHAOSS Diversity & Inclusion Badging
 
