@@ -160,7 +160,7 @@ The purpose of this project is to:
 Build the SCMS in [GrimoireLab](http://chaoss.github.io/grimoirelab), one of CHAOSS project’s systems that collects qualitative data from several channels. The final solution should display that information for tagging and output metrics in a dashboard similar to the screenshots [found here](https://chaoss.community/metric-social-currency-metric-system/). 
 
 The aims of this project are to:
-* Create an API on top of GrimoireLab that provides qualiative data collected from a community of the GSoC participants’ choice, via any combination of channels desired (email, social media, survey data, etc).
+* Create an API on top of GrimoireLab that provides qualiative data collected from a community of the mentorship participants’ choice, via any combination of channels desired (email, social media, survey data, etc).
 * Gain familiarity with and create a way to tag and process that qualitative data.  
 * Develop creative ways to display the dataset in GrimoireLab / Kibana by reading and writing data to Elasticsearch database.
 * Investigate ways to process qualitative data at scale using AI or similar technology. Implementation is optional.
