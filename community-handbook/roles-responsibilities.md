@@ -86,7 +86,7 @@
 * Report to the CHAOSS community how things are going with the mentees
 
 
-## Software Developer
+## Contributor
 * post ideas for new features as issues 
 * create pull requests for code changes
 * respond to reviews from maintainers on pull requests
