@@ -8,4 +8,5 @@ If you are interested in helping with the community handbook, [#105](https://git
 
 * [General](./)
   - [Handbook Usage](./handbook-usage.md)
+  - [Roles and Responsibilities in the Community](./roles-responsibilities.md)
 * [CHAOSScon](./chaosscon.md)
