@@ -1,5 +1,7 @@
 # CHAOSS Metrics Release
 
+The version number is `YYYY-MM` of the release date. Continuous Metric Contributions are versioned `YYYY-MMx` to just add an `x`, which is a lower-case letter to indicate that a change was made after the release.
+
 ## Regular Release
 
 The regular release is when we update the version number and make a big announcement.
