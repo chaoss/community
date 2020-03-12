@@ -131,7 +131,7 @@ The aims will require working with Python, Django and ElasticSearch.
 
 ## Idea: Build Workflow Process for CHAOSS Diversity & Inclusion Badging
 
-[ Micro-tasks and place for questions ](https://github.com/Nebrethar/Docs-Diversity-Inclusion-Badging/issues/5)
+[ Micro-tasks and place for questions ](https://github.com/badging/diversity-and-inclusion/issues/1)
 
 The CHAOSS Diversity and Inclusion Badging Program began as a way to ensure that D&I metrics can have significant impact in the ways that communities function. The program was created to encourage projects and events towards positive diversity & inclusion practices. The goal of the Diversity & Inclusion Badging Program is to encourage projects and events to obtain D&I badges for reasons of pride, leadership, self-reflection, and self-improvement on issues critical to building the inclusive communities.
 
