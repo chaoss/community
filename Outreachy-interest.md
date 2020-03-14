@@ -12,7 +12,7 @@ A few details regarding the application process specific to the CHAOSS project:
 
 4) Using and submitting other people's work as your own is not allowed. If you use other people's work, be sure to acknowledge their work in your submission.
 
-You must complete these things by March 31, 2020 13:00 CDT. Make sure to also submit any additional information required by Outreachy. 
+You must complete these things by April 7, 2020 4pm UCT. Make sure to also submit any additional information required by Outreachy. 
 
 Regards,
 Outreachy Mentors
