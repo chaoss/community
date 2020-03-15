@@ -20,5 +20,4 @@ Outreachy Mentors
 | Name | Email | Idea | Micro-Task Repository | Project Proposal |
 | --- | --- | --- | --- | --- |
 | Your Name Here | Your Email Here |  Idea You Hoping to Work On | Link to your Micro-task Repo | Link to Your Proposal |
-| --- | --- | --- | --- | --- |
 | Perez Ogayo | perezogayo@gmail.com / pogayo17@alustudent.com | Machine Learning for Anomaly Detection in Open Source Communities | [Micro-task Repo](https://github.com/Pogayo/outreachy-augur) | [Proposal link](https://docs.google.com/document/d/1OKLFiXyKZvxc9OMRc4DxwW3kGNWLJfAh7DHqexMgqV0/edit?usp=sharing) |
