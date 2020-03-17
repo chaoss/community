@@ -1,5 +1,7 @@
 # Ideas for Google Summer of Code projects
 
+Interested in working with CHAOSS? Below are some project ideas. We describe how to apply to work with CHAOSS and how we select students on a different page: https://github.com/chaoss/governance/blob/master/GSoC-interest.md
+
 
 ## Idea: Creating Quality models using GrimoireLab and CHAOSS metrics
 
