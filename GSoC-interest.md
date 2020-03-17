@@ -22,3 +22,4 @@ GSoC Mentors
 | Your Name Here | Your Email Here |  Idea You Hoping to Work On | Link to your Mico-task Repo | Link to Your Proposal |
 | Georg Link | linkgeorg@gmail.com | This is an example entry | [Micro-task](https://github.com/chaoss/governance/blob/GSoCInterest-Update-2020/GSoC-Ideas.md) | [Proposal Template](https://docs.google.com/document/d/1YZez6_hgp2dBybEsMZoQ-ONB9IawK4_OPISLHe9Tjew/edit) |
 |Aastha Bist | abist119@gmail.com | Build Workflow Process for CHAOSS D&I Badging | [Microtask repository](https://github.com/bistaastha/CHAOSS-microtasks) | [Proposal](https://docs.google.com/document/d/1YPAlVUhUZG6Gc4k8l5zxZz6gWoHAG-UsLlGEOiQkvGE/edit?usp=sharing)
+|P Akshara | aksharap.181it132@nitk.edu.in | Machine Learning for Anomaly Detection in Open Source Communities | [Microtask repository](https://github.com/aksh555/chaoss-microtasks) | [Proposal](https://docs.google.com/document/d/16L99A3bXEsSe65ryqkC8YONOXs5ZV72_9vMApRzI06w/edit?usp=sharing)
