@@ -1,5 +1,7 @@
 # Ideas for Outreachy projects
 
+Please find accepted [ideas on the Outreachy website](https://www.outreachy.org/apply/project-selection/#chaoss). Below are the ideas CHAOSS members developed before submitting.
+
 ## Idea: Machine Learning for Anomaly Detection in Open Source Communities
 
 [ Micro-tasks and place for questions ](https://github.com/chaoss/augur/issues/545)
