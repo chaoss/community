@@ -22,4 +22,4 @@ Outreachy Mentors
 | Your Name Here | Your Email Here |  Idea You Hoping to Work On | Link to your Micro-task Repo | Link to Your Proposal |
 | Perez Ogayo | perezogayo@gmail.com / pogayo17@alustudent.com | Machine Learning for Anomaly Detection in OSS Communities | [Micro-task Repo](https://github.com/Pogayo/outreachy-augur) | [Proposal link](https://docs.google.com/document/d/1OKLFiXyKZvxc9OMRc4DxwW3kGNWLJfAh7DHqexMgqV0/edit?usp=sharing) |
 | Ore-Aruwaji Tola| temitopetola@gmail.com | Build Workflow Process for CHAOSS Diversity & Inclusion Badging  | [Micro-Task Repository](https://github.com/thecraftman/CHAOSS-microtasks )| [Project Proposal](https://docs.google.com/document/d/1wWXZIM60iaA7XtlfNIsI2YZtK1Y_g9UwIFM0jcs0hcc/edit?usp=sharing) |
-
+| Perez Ogayo | perezogayo@gmail.com / pogayo17@alustudent.com | Build Workflow Process for CHAOSS Diversity & Inclusion Badging  | [Micro-task Repo](https://github.com/Pogayo/Chaoss_D-I-Badging-Project_Outreachy) | [Proposal link](https://docs.google.com/document/d/1e4rGg9Ve1uZvto2fu7ClsUUyH-qa3H4GXk6tEYA93ak/edit?usp=sharing) |
