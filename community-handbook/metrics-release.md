@@ -11,10 +11,10 @@ The goal is to have short cycles of feedback and to get metrics out sooner.
 3. Merge metric into the working group repository.
 4. Include inside the metric mark down file - a message that it will be part of the next regular release. The message should be at the top metric markdown file using the following format:
 
-###This metric is a release candidate
-The 30 day comment period for this metric begins on xx/xx/xxxx and ends on xx/xx/xxxx.
-To comment on this metric please see [Issue #xx](xxxxxxxxxxxxxxx)
-Following the comment period this metric will be included in the next regular release.
+    ###This metric is a release candidate
+    The 30 day comment period for this metric begins on xx/xx/xxxx and ends on xx/xx/xxxx.
+    To comment on this metric please see [Issue #xx](xxxxxxxxxxxxxxx)
+    Following the comment period this metric will be included in the next regular release.
 
 5. Create an issue for collecting feedback before release. Please include a link to the metric markdown file and the dates for the comment period.
 6. Announce a 1-month feedback window on the mailing list and point to the issue and the markdown page. Update community on weekly zoom call.
