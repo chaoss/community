@@ -20,7 +20,8 @@ The goal is to have short cycles of feedback and to get metrics out sooner.
 6. Announce a 1-month feedback window on the mailing list and point to the issue and the markdown page. Update community on weekly zoom call.
 7. Address feedback in issue and through edits to the markdown page.
 8. Following comment period and edits, update the website to include the new metric. The website release will include the new metric with a label that it is ready for release. The link to the metric will point towards the working metric markdown page. Note: this means that the metric information displayed on the website may still be edited prior to the regular release.
-9. Create a release notes issue within the working group repository and update information for each new metric released. This issue will be used to create the regular release cadence release notes.
+9. Add an item on the **Release History** page in the _Continuous Metric Contributions Since Last Release_ section stating the date and what metric was added.
+10. Create a release notes issue within the working group repository and update information for each new metric released. This issue will be used to create the regular release cadence release notes.
 
 ## Regular Release
 
