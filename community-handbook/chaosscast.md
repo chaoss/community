@@ -189,19 +189,21 @@ These procedures are for the organizer of each episode:
 ### Publishing an Episode
 
 * Justin will send a notification (email or on Slack) **After podcast is edited**
+  * Review the [planning document](https://drive.google.com/drive/folders/1fngLL19piFIQoPk1Fpv81O6aSXWUGUsY) for any notes of interest.
   * Download the [shownotes and MP3 file from Dropbox](https://www.dropbox.com/sh/l7iv7qewxk5ud8o/AAC8aNnZYbKy6K6gsdg5pfTGa/Episodes?dl=0&subfolder_nav_tracking=1)
   * Download the [cover art from Dropbox](https://www.dropbox.com/sh/l7iv7qewxk5ud8o/AADj2oAVfg2brvd8DulJPxEla/Art?dl=0&subfolder_nav_tracking=1).
   * Upload the shownotes to google drive and use Convert to Markdown to get markdown format 
-  * In fireside, create a new episode
+  * In [Fireside](https://chaosscast.fireside.fm/admin/), create a new episode
     * Permalink: # (of episode)
     * Description: Use the [template](https://docs.google.com/document/d/1ly7HLve8grPxOp0RDBID63XxMcEC5-ZAdHmQlAG3gPk/edit), then insert the converted show notes.
+    * Visibility: Public
     * Publish on a Friday at 3am CDT
   * PUBLISH
-    * ITTT (RSS feed publishing):
-      * Schedule an email to the CHAOSS mailing list
-      * Schedule a tweet through Tweetdeck
+    * Schedule an email to the CHAOSS mailing list
     * Include in upcoming [CHAOSS Weekly newsletter](https://docs.google.com/document/d/1N2dbrqHYSxIUF1vXZ1-854aaoGIf86uey0XRhxhgG4o/edit)
     * Sustain Forum
+    * ITTT automated (RSS feed publishing):
+      * Schedule a tweet through Tweetdeck
 
 ## Acknowledgements
 
