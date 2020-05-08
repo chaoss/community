@@ -193,6 +193,7 @@ These procedures are for the organizer of each episode:
   * Download the [shownotes and MP3 file from Dropbox](https://www.dropbox.com/sh/l7iv7qewxk5ud8o/AAC8aNnZYbKy6K6gsdg5pfTGa/Episodes?dl=0&subfolder_nav_tracking=1)
   * Download the [cover art from Dropbox](https://www.dropbox.com/sh/l7iv7qewxk5ud8o/AADj2oAVfg2brvd8DulJPxEla/Art?dl=0&subfolder_nav_tracking=1).
   * Upload the shownotes to google drive and use Convert to Markdown to get markdown format 
+  * In [Fireside](https://chaosscast.fireside.fm/admin/), create missing panelists and guests
   * In [Fireside](https://chaosscast.fireside.fm/admin/), create a new episode
     * Permalink: # (of episode)
     * Description: Use the [template](https://docs.google.com/document/d/1ly7HLve8grPxOp0RDBID63XxMcEC5-ZAdHmQlAG3gPk/edit), then insert the converted show notes.
