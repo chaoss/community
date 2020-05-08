@@ -186,7 +186,7 @@ These procedures are for the organizer of each episode:
     * Enjoy
 
 
-### Publishing an Episode
+### Publishing an Episode (~30 min)
 
 * Justin will send a notification (email or on Slack) **After podcast is edited**
   * Review the [planning document](https://drive.google.com/drive/folders/1fngLL19piFIQoPk1Fpv81O6aSXWUGUsY) for any notes of interest.
