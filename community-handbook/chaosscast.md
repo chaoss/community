@@ -48,8 +48,8 @@ The **organizer** is responsible for the invitation, scheduling, preparation, co
 
 ### Panelists
 
-* A **panelist** is responsible for research, asking questions, and adding to the conversation on the podcast.
-These panelists have agreed to be invited to every new episode. Not everyone should be on every episode.
+A **panelist** is responsible for research, asking questions, and adding to the conversation on the podcast.
+These panelists have agreed to be invited to every new episode. Not everyone should be on every episode. Organizers are also panlists.
 
 * Matt Germonprez
 * Dawn Foster
