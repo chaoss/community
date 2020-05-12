@@ -38,9 +38,12 @@ Each role is occupied by different people each episode.
 
 The **organizer** is responsible for the invitation, scheduling, preparation, coordination, moderation, and monitoring the podcast email. Each episode has exactly one (1) organizer. An organizer is also a panelist.
 
-* Georg Link
-* Matt Broberg
-* ...
+1. Georg Link
+2. Matt Broberg
+3. Samantha Venia Logan
+4. Dylan Marcy
+5. Sean goggins
+6. ... (you?)
 
 
 ### Panelists
@@ -50,9 +53,7 @@ These panelists have agreed to be invited to every new episode. Not everyone sho
 
 * Matt Germonprez
 * Dawn Foster
-* Sean Goggins
-* Venia Logan
-* ... 
+* ... (you?)
 
 
 ### Guest
@@ -63,6 +64,8 @@ We have a [Planning Guests document](https://docs.google.com/document/d/1qxmC1k8
 
 
 ### CPN Contact
+
+CPN = CodeFund Podcast Network
 
 * Justin Dorfman
 
