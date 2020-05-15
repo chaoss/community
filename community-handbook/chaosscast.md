@@ -54,6 +54,7 @@ These panelists have agreed to be invited to every new episode. Not everyone sho
 * Matt Germonprez
 * Dawn Foster
 * Kevin Lumbard
+* Brian Proffitt
 * ... (you?)
 
 
