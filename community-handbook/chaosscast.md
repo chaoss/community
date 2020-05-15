@@ -7,20 +7,27 @@ CHAOSS partners with the **CodeFund Podcast Network** (CPN) for the editing, mon
 
 **Table of Content:**
 * [Key roles and people](#key-roles-and-people)
+  * [Roles](#roles)
+  * [Organizers](#organizers)
+  * [Panelists](#panelists)
+  * [Guest](#guest)
+  * [CPN Contact](#cpn-contact)
 * [Important links](#Important-links)
 * [Strategy](#Strategy)
-  * Name
-  * Short Description
-  * Long Description
-  * Goal
-  * Audience
-  * Scope
-  * Style
-  * Format
-  * Roles
-  * Sample Interview Questions
+  * [Name](name-chaosscast)
+  * [Subtitle](#subtitle)
+  * [Description](#description)
+  * [Goal](#goal)
+  * [Audience](#audience)
+  * [Scope](#scope)
+  * [Style](#style)
+  * [Format](#format)
+  * [Sample Interview Questions](#sample-interview-questions)
 * [Automation](#Automation)
 * [Procedures](#Procedures)
+  * [Scheduling an Episode](#scheduling-an-episode)
+  * [Recording an Episode](#recording-an-episode)
+  * [Publishing an Episode](#publishing-an-episode-30-min)
 * [Acknowledgements](#Acknowledgements)
 
 
@@ -42,7 +49,7 @@ The **organizer** is responsible for the invitation, scheduling, preparation, co
 2. Matt Broberg
 3. Samantha Venia Logan
 4. Dylan Marcy
-5. Sean goggins
+5. Sean Goggins
 6. ... (you?)
 
 
@@ -106,13 +113,13 @@ Anyone interested in open source community and project metrics, including OSPO m
 
 ### Scope
 
-[Include] Interviews with people who do metrics for their community, project, foundation, or company
-[Include] Use cases, metrics that matter in specific industries (e.g., high regulated environments as banks)
-[Include] coverage of metrics platforms not considered for future integration into CHAOSS
-[Include] non-OSS markets such as marketing brand communities and corporate social circles
-[Include] active calls for experiments and/or data sets for ongoing case studies? 
-[Exclude] quantitative data metrics not related to communities but having much to do with general measurement including ROASS and Paid ad traffic
-[Exclude] developing situations and case studies that are more recent than one month or still ongoing
+* [Include] Interviews with people who do metrics for their community, project, foundation, or company
+* [Include] Use cases, metrics that matter in specific industries (e.g., high regulated environments as banks)
+* [Include] coverage of metrics platforms not considered for future integration into CHAOSS
+* [Include] non-OSS markets such as marketing brand communities and corporate social circles
+* [Include] active calls for experiments and/or data sets for ongoing case studies? 
+* [Exclude] quantitative data metrics not related to communities but having much to do with general measurement including ROASS and Paid ad traffic
+* [Exclude] developing situations and case studies that are more recent than one month or still ongoing
 
 
 ### Style
@@ -156,7 +163,7 @@ Georg Link has an IFTT recipe to:
 
 These procedures are for the organizer of each episode:
 
-## Scheduling an Episode 
+### Scheduling an Episode 
 * always
   * Think of who would make a good guest for the podcast and ask them tentatively if you may invite them
 * **2 weeks** before the podcast recording:
