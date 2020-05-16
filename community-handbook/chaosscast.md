@@ -61,6 +61,7 @@ These panelists have agreed to be invited to every new episode. Not everyone sho
 * Kevin Lumbard
 * Brian Proffitt
 * Don Marti
+* Nicole Huesman
 * ... (you?)
 
 
