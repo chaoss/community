@@ -83,6 +83,7 @@ CHAOSS partners with the **CodeFund Podcast Network** (CPN) for the editing, mon
 
 * [Dropbox](https://www.dropbox.com/sh/l7iv7qewxk5ud8o/AAAbeu-fCnTbGAA0pv1ga2cxa?dl=0) (maintained by CPN)
 * [Google Drive](https://drive.google.com/drive/folders/14t0-0Bf5rjDaR1PAR854lCnC7xaF4Hnh) Maintained by CHAOSScast Organizers
+* [CHAOSScast Calendar](https://calendar.google.com/calendar?cid=NTEzcjQ3YmI3NTZ0MDdscDV0YXQ1bnN1ajBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) for recording dates
 * Email address for podcast, forwareded to Organizers: podcast@chaoss.community
 * [CPN Slack channel #chaoss-podcast](https://codefundio.slack.com/archives/G01257RGK8Q)
 
@@ -179,8 +180,13 @@ These procedures are for the organizer of each episode:
 * **Step 2** (about 1 week after sending invites): schedule recording
   * **Action:** Lock in date in Doodle poll
   * **Action:** Send calendar invitation for the best date of podcast
-    * Prioritize availabiity of the guest
+    * Prioritize availability of the guest
     * Adjust panelists based on availability
+    * The event has to be created in the [CHAOSScast calendar](https://calendar.google.com/calendar?cid=NTEzcjQ3YmI3NTZ0MDdscDV0YXQ1bnN1ajBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
+      * This will sync with the CPN main calendar
+      * All organizers should have full access to the calendar (i.e., Make changes and manage sharing)
+    * Name calendar event: 🎙 CHAOSScast {with guest}
+      * Start with the microphone emoticon (🎙) to signal recording meeting
   * **Action:** Send out a [confirmation email](https://docs.google.com/document/d/1Pw8OKn-qSSkMw573BZu-EZ4BZualesdZjPbpBEKvzrc/edit) that includes the [“how we podcast” document](https://docs.google.com/document/d/1j5Ng91rrFrx3PdPejv26rBxb1P7UX-O_Q0_I9TCIya0/edit#) to guests and panelists
   * **Action:** Update the episode planning document
   * **Action:** Update the [episode overview table](https://docs.google.com/document/d/1qxmC1k8SayChurIq2r91CR3r_KAThTwaNEMjA6DLGhE/edit#)
