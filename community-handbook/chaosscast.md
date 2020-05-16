@@ -62,6 +62,7 @@ These panelists have agreed to be invited to every new episode. Not everyone sho
 * Dawn Foster
 * Kevin Lumbard
 * Brian Proffitt
+* Don Marti
 * ... (you?)
 
 
