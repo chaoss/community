@@ -27,7 +27,7 @@ CHAOSS partners with the **CodeFund Podcast Network** (CPN) for the editing, mon
 * [Procedures](#Procedures)
   * [Scheduling an Episode](#scheduling-an-episode)
   * [Recording an Episode](#recording-an-episode)
-  * [Publishing an Episode](#publishing-an-episode-30-min)
+  * [Publishing an Episode](#publishing-an-episode-30-40-min)
 * [Acknowledgements](#Acknowledgements)
 
 
@@ -167,63 +167,82 @@ These procedures are for the organizer of each episode:
 ### Scheduling an Episode 
 * always
   * Think of who would make a good guest for the podcast and ask them tentatively if you may invite them
-* **2 weeks** before the podcast recording:
-  * **Action: **Recruit interview candidate and decide topic together
+* **Step 1:** Determine a guest and panlists
+  * **Action: **Recruit interview guest and decide topic together
+    * Ask for 60-90 minute timeslots that work for guest.
+    * Create a Doodle poll for panelists to schedule time
   * **Action:** Prepare the planning document (copy the template and start filling in information)
   * **Action:** send out an [invitation email](https://docs.google.com/document/d/1IniJc9o1OCBBTYv50W3WTfZYmshi4aYusHIK4ADulk8/edit) with a [Doodle](doodle.com) for finding a time
     * invite guest
     * Invite panelists
       * Prioritize those who said they were interested in the topic
-      * If more are needed, email the mailing list
       * If needed, [invite new panelists](https://docs.google.com/document/d/1gGf9n6D5g2Y_YfqVuWOvWvZvNvKmbQr9adruHeQTAu0/edit?usp=sharing)
-* **1 week** before the podcast recording:
-  * **Action: **Send calendar invitation for the best date of podcast
+* **Step 2** (about 1 week after sending invites): schedule recording
+  * **Action:** Lock in date in Doodle poll
+  * **Action:** Send calendar invitation for the best date of podcast
     * Prioritize availabiity of the guest
     * Adjust panelists based on availability
   * **Action:** Send out a [confirmation email](https://docs.google.com/document/d/1Pw8OKn-qSSkMw573BZu-EZ4BZualesdZjPbpBEKvzrc/edit) that includes the [“how we podcast” document](https://docs.google.com/document/d/1j5Ng91rrFrx3PdPejv26rBxb1P7UX-O_Q0_I9TCIya0/edit#) to guests and panelists
   * **Action:** Update the episode planning document
+  * **Action:** Update the [episode overview table](https://docs.google.com/document/d/1qxmC1k8SayChurIq2r91CR3r_KAThTwaNEMjA6DLGhE/edit#)
   * **Action:** Schedule a [reminder email](https://docs.google.com/document/d/17vKzCOYvRXq5zaIlv_sb80zFapTU19dRgkx5RqRx3xE/edit) for 24-hours before the episode recording
-* By the week of the podcast: 
-  * **Action: **Double-check that at least 1 and max of 2 panelists (3 total including you as the host)
-
+  
 
 ### Recording an Episode
 
 * On day of podcast:
-  * **Action:** Review the [CHAOSScast Recording Procedures](https://docs.google.com/document/d/1G_CFd8CqwxLCahLrC-4XRzaad0OdLX43AY_--UPK2lo/edit#)
+  * **Action:** Review the [CHAOSScast Recording Procedures](https://docs.google.com/document/d/1G_CFd8CqwxLCahLrC-4XRzaad0OdLX43AY_--UPK2lo/edit#) before the session starts
     * Feel good about yourself and get excited!
 
 * When podcast session starts:
-    * Join the Zoom room on time
+    * Join the Zoom room on time (records automatically
     * Be yourself
     * Enjoy
 
 
-### Publishing an Episode (~30 min)
+### Publishing an Episode (~30-40 min)
 
 * Justin will send a notification (email or on Slack) **After podcast is edited**
-  * Review the [planning document](https://drive.google.com/drive/folders/1fngLL19piFIQoPk1Fpv81O6aSXWUGUsY) for any notes of interest.
+  * Review the [planning document](https://drive.google.com/drive/folders/1fngLL19piFIQoPk1Fpv81O6aSXWUGUsY) for any notes of interest
   * Download the [shownotes and MP3 file from Dropbox](https://www.dropbox.com/sh/l7iv7qewxk5ud8o/AAC8aNnZYbKy6K6gsdg5pfTGa/Episodes?dl=0&subfolder_nav_tracking=1)
-  * Download the [cover art from Dropbox](https://www.dropbox.com/sh/l7iv7qewxk5ud8o/AADj2oAVfg2brvd8DulJPxEla/Art?dl=0&subfolder_nav_tracking=1).
+  * Download the [cover art from Dropbox](https://www.dropbox.com/sh/l7iv7qewxk5ud8o/AADj2oAVfg2brvd8DulJPxEla/Art?dl=0&subfolder_nav_tracking=1)
   * Upload the shownotes to google drive and use Convert to Markdown to get markdown format 
   * In [Fireside](https://chaosscast.fireside.fm/admin/), create missing panelists and guests
+   * Slug is `firstname-lastname` (e.g., `georg-link`)
+   * Status: public
+   * The other information should be in the Episode Planning Document
   * In [Fireside](https://chaosscast.fireside.fm/admin/), create a new episode
-    * Permalink: # (of episode)
-    * Description: Use the [template](https://docs.google.com/document/d/1ly7HLve8grPxOp0RDBID63XxMcEC5-ZAdHmQlAG3gPk/edit), then insert the converted show notes.
+    * Permalink: # (only the number of episode)
     * Visibility: Public
-    * Publish on a Friday at 3am CDT
+    * Publish on: a Friday at 3 AM US Central Time
+    * Title: Title from the Episode Plannind Document
+    * Title Format: Episode 123: My Great Title (default)
+    * Content: Clean (unless we used swear words)
+    * Summary: First paragraph from the Show Notes are a good starting point
+    * Description: Use the [template](https://docs.google.com/document/d/1ly7HLve8grPxOp0RDBID63XxMcEC5-ZAdHmQlAG3gPk/edit), then insert the converted show notes.
+      * Hint: convert show notes to Google Doc and export as Markdown
+    * Keywords: (use sparingly to avoid keyword cannibilization)
+    * Tags: (empty) -- we can use tags later for having sub-podcasts
+    * Hosts and Guests: activate everyone who was on the show. Regular panlists are all hosts, even when they are guest on an episode.
+    * Social Media Destinations: (ignore)
+    * Apple Podcasts Settings: (ignore)
+    * MP3 File: upload [MP3 file provided by CPN through Dropbox](https://www.dropbox.com/sh/l7iv7qewxk5ud8o/AAC8aNnZYbKy6K6gsdg5pfTGa/Episodes?dl=0&subfolder_nav_tracking=1)
+    * Cover Art: upload [cover art from Dropbox](https://www.dropbox.com/sh/l7iv7qewxk5ud8o/AADj2oAVfg2brvd8DulJPxEla/Art?dl=0&subfolder_nav_tracking=1) with the correct episode number
+    * Header Image: (ignore, will use default)
+    * Transcript: (ignore)
   * PUBLISH
-    * Schedule an email to the CHAOSS mailing list
+    * Schedule an email to the CHAOSS mailing list for the release day and time (no template yet)
     * Include in upcoming [CHAOSS Weekly newsletter](https://docs.google.com/document/d/1N2dbrqHYSxIUF1vXZ1-854aaoGIf86uey0XRhxhgG4o/edit)
-    * Sustain Forum
     * ITTT automated (RSS feed publishing):
       * Schedule a tweet through Tweetdeck
+    * Advertise outside of CHAOSS
+      * SustainOSS Forum (?)
 
 ## Acknowledgements
 
-**Georg Link** was the key person behind the idea to launch a CHAOSS Community Podcast and the original organizer.
+**Georg Link** was the key person behind the idea to launch a CHAOSS Community Podcast and the first organizer.
 
-**Matt Broberg** was the second organizer to join the team.
+**Matt Broberg** was the second organizer to join the team and helped establish the podcast.
 
 **Justin Dorfman** worked with Georg and Matt B to onboard CHAOSScast to the CodeFund Podcast Network and define the procedures required for scheduling, recording, and publishing episodes.
 
