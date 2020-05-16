@@ -3,9 +3,6 @@
 | This is CHAOSScast, the CHAOSS Community Podcast where we share use cases and experiences with measuring open source community health. Elevating conversations about metrics, analytics, and software from the Community Health Analytics Open Source Software or short CHAOSS project to where ever you like to listen. |
 | --- |
 
-CHAOSS partners with the **CodeFund Podcast Network** (CPN) for the editing, monetization, and publishing of the podcast.
-
-
 **Table of Content:**
 * [Key roles and people](#key-roles-and-people)
   * [Roles](#roles)
@@ -76,7 +73,7 @@ We have a [Planning Guests document](https://docs.google.com/document/d/1qxmC1k8
 
 ### CPN Contact
 
-CPN = CodeFund Podcast Network
+CHAOSS partners with the **CodeFund Podcast Network** (CPN) for the editing, monetization, and publishing of the podcast.
 
 * Justin Dorfman
 
@@ -174,8 +171,8 @@ These procedures are for the organizer of each episode:
     * Create a Doodle poll for panelists to schedule time
   * **Action:** Prepare the planning document (copy the template and start filling in information)
   * **Action:** send out an [invitation email](https://docs.google.com/document/d/1IniJc9o1OCBBTYv50W3WTfZYmshi4aYusHIK4ADulk8/edit) with a [Doodle](doodle.com) for finding a time
-    * invite guest
-    * Invite panelists
+    * Invite guest
+    * Invite panelists ([list of email addresses](https://docs.google.com/document/d/1ca9TJY17cj-cBWmJP5qjCX56133unsaOlEUwACc4PMA/edit))
       * Prioritize those who said they were interested in the topic
       * If needed, [invite new panelists](https://docs.google.com/document/d/1gGf9n6D5g2Y_YfqVuWOvWvZvNvKmbQr9adruHeQTAu0/edit?usp=sharing)
 * **Step 2** (about 1 week after sending invites): schedule recording
