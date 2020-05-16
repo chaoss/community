@@ -1,6 +1,7 @@
 # CHAOSScast
 
-> This is CHAOSScast, the CHAOSS Community Podcast where we share use cases and experiences with measuring open source community health. Elevating conversations about metrics, analytics, and software from the Community Health Analytics Open Source Software or short CHAOSS project to where ever you like to listen.
+| This is CHAOSScast, the CHAOSS Community Podcast where we share use cases and experiences with measuring open source community health. Elevating conversations about metrics, analytics, and software from the Community Health Analytics Open Source Software or short CHAOSS project to where ever you like to listen. |
+| --- |
 
 CHAOSS partners with the **CodeFund Podcast Network** (CPN) for the editing, monetization, and publishing of the podcast.
 
