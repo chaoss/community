@@ -64,6 +64,7 @@ These panelists have agreed to be invited to every new episode. Not everyone sho
 * Nicole Huesman
 * Daniel Izquierdo
 * Andrea Gallo
+* Kate Stewart
 * ... (you?)
 
 
