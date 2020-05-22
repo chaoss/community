@@ -27,7 +27,7 @@
   * [Recording an episode](#recording-an-episode)
   * [Publishing an episode](#publishing-an-episode-30-40-min)
 * [CHAOSScast sponsorship and revenue](#chaosscast-sponsorship-and-revenue)
-  * [Revenue background](#background)
+  * [Revenue background](#revenue-background)
   * [How much revenue?](#how-much-revenue)
   * [How will the revenue be used?](#how-will-the-revenue-be-used)
   * [Revenue FAQ](#revenue-faq)
