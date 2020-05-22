@@ -94,6 +94,7 @@ CHAOSS partners with the **CodeFund Podcast Network** (CPN) for the editing, mon
 * [CHAOSScast Calendar](https://calendar.google.com/calendar?cid=NTEzcjQ3YmI3NTZ0MDdscDV0YXQ1bnN1ajBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) for recording dates
 * Email address for podcast, forwareded to Organizers: podcast@chaoss.community
 * [CPN Slack channel #chaoss-podcast](https://codefundio.slack.com/archives/G01257RGK8Q)
+* [Open Collective](https://opencollective.com/chaosscast) for revenue
 
 ## Strategy
 
@@ -259,6 +260,7 @@ These procedures are for the organizer of each episode:
 
 CHAOSScast is part of the CodeFund Podcast Network (CPN). CPN has sponsorship deals to fund the work on the podcast. CHAOSScast can expect about $125/episode. 
 
+Revenue will be deposited to [Open Collective](https://opencollective.com/chaosscast).
 
 ### How much revenue?
 
@@ -306,7 +308,7 @@ Money in this budget can be used for:
   * It is a goal of the CHAOSScast to support the CHAOSS project’s goal. The CHAOSS Governing Board Finance Committee requested support in growing funds toward Outreachy, and the podcast is supporting that effort. Money in this budget can be used for Outreachy internships or related items. The Committee is exclusively in charge of this portion of the budget.
 
 5. Where will these funds be stored?
-  * CPN will make the funds available to CHAOSS through an OpenCollective. If the funds grow to a point of needing to transfer them externally, the team will coordinate with the CHAOSS Governing Board Finance Committee to do so.
+  * CPN will make the funds available to CHAOSS through an [Open Collective](https://opencollective.com/chaosscast). If the funds grow to a point of needing to transfer them externally, the team will coordinate with the CHAOSS Governing Board Finance Committee to do so.
 
 
 ## Acknowledgements
