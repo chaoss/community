@@ -9,7 +9,7 @@
   * [Organizers](#organizers)
   * [Panelists](#panelists)
   * [Guest](#guest)
-  * [CPN Contact](#cpn-contact)
+  * [CPN contact](#cpn-contact)
 * [Important links](#Important-links)
 * [Strategy](#Strategy)
   * [Name](name-chaosscast)
@@ -20,12 +20,17 @@
   * [Scope](#scope)
   * [Style](#style)
   * [Format](#format)
-  * [Sample Interview Questions](#sample-interview-questions)
+  * [Sample interview questions](#sample-interview-questions)
 * [Automation](#Automation)
 * [Procedures](#Procedures)
-  * [Scheduling an Episode](#scheduling-an-episode)
-  * [Recording an Episode](#recording-an-episode)
-  * [Publishing an Episode](#publishing-an-episode-30-40-min)
+  * [Scheduling an episode](#scheduling-an-episode)
+  * [Recording an episode](#recording-an-episode)
+  * [Publishing an episode](#publishing-an-episode-30-40-min)
+* [CHAOSScast sponsorship and revenue](#chaosscast-sponsorship-and-revenue)
+  * [Revenue background](#background)
+  * [How much revenue?](#how-much-revenue)
+  * [How will the revenue be used?](#how-will-the-revenue-be-used)
+  * [Revenue FAQ](#revenue-faq)
 * [Acknowledgements](#Acknowledgements)
 
 
@@ -75,7 +80,7 @@ These panelists have agreed to be invited to every new episode. Not everyone sho
 We have a [Planning Guests document](https://docs.google.com/document/d/1qxmC1k8SayChurIq2r91CR3r_KAThTwaNEMjA6DLGhE/edit) to keep track of who we want to invite.
 
 
-### CPN Contact
+### CPN contact
 
 CHAOSS partners with the **CodeFund Podcast Network** (CPN) for the editing, monetization, and publishing of the podcast.
 
@@ -142,7 +147,7 @@ Each recording is scheduled for 1.5h and a released episode targeting 30-40 minu
 * Picks/shout outs
 
 
-### Sample Interview Questions
+### Sample interview questions
 
 * Tell us about yourself and your background.
 * Tell us about the open source community and project metrics you use.
@@ -167,7 +172,7 @@ Georg Link has an IFTT recipe to:
 
 These procedures are for the organizer of each episode:
 
-### Scheduling an Episode 
+### Scheduling an episode 
 * always
   * Think of who would make a good guest for the podcast and ask them tentatively if you may invite them
 * **Step 1:** Determine a guest and panlists
@@ -196,7 +201,7 @@ These procedures are for the organizer of each episode:
   * **Action:** Schedule a [reminder email](https://docs.google.com/document/d/17vKzCOYvRXq5zaIlv_sb80zFapTU19dRgkx5RqRx3xE/edit) for 24-hours before the episode recording
   
 
-### Recording an Episode
+### Recording an episode
 
 * On day of podcast:
   * **Action:** Review the [CHAOSScast Recording Procedures](https://docs.google.com/document/d/1G_CFd8CqwxLCahLrC-4XRzaad0OdLX43AY_--UPK2lo/edit#) before the session starts
@@ -208,7 +213,7 @@ These procedures are for the organizer of each episode:
     * Enjoy
 
 
-### Publishing an Episode (~30-40 min)
+### Publishing an episode (~30-40 min)
 
 * Justin will send a notification (email or on Slack) **After podcast is edited**
   * Review the [planning document](https://drive.google.com/drive/folders/1fngLL19piFIQoPk1Fpv81O6aSXWUGUsY) for any notes of interest
@@ -245,6 +250,64 @@ These procedures are for the organizer of each episode:
       * Schedule a tweet through Tweetdeck
     * Advertise outside of CHAOSS
       * SustainOSS Forum (?)
+
+
+## CHAOSScast sponsorship and revenue
+
+
+### Revenue background
+
+CHAOSScast is part of the CodeFund Podcast Network (CPN). CPN has sponsorship deals to fund the work on the podcast. CHAOSScast can expect about $125/episode. 
+
+
+### How much revenue?
+
+Approximately $125/episode
+
+~ $1,500/year if we release one episode per month
+
+~ $3,000/year if we release two episodes per month
+
+
+### How will the revenue be used?
+
+This podcast is not about the funding, but it does come with some opportunity to invest further into the podcast and the CHAOSS community as a whole. 
+
+The breakdown will look like this: 
+
+| 70% Reinvest in Podcast |
+| 30% Outreachy | 
+| - - - |
+| 100% |
+
+
+#### Budget item: reinvest in podcast
+
+Money in this budget can be used for:
+
+*   Sending “thank you” notes and swag to guests of the podcast
+*   Funding of regular hosts requests for equipment, e.g., microphone or headphone
+
+
+### Revenue FAQ
+
+1. What is the approval process for money distribution from the Reinvest in Podcast budget?
+  * The CHAOSS governance team has delegated responsibility to manage these funds in good faith to the podcast coordinators (Georg Link and Matthew Broberg). To request funding, send a request to: podcast@chaoss.community. The coordinators will follow the following guidelines:
+    1. The request is denied if at least one coordinator denies it. 
+    2. The request is approved when both coordinators approve. 
+
+2. What kind of “thank you” notes will go out to podcast guests?
+  * The team is currently exploring reasonably priced options to provide a small benefit for participation. This could include stickers or a collectible poker chip. Reach out to the podcast email at: podcast@chaoss.community to learn more.
+
+3. Who is eligible to make a request for equipment? 
+  * Recurring hosts in need of improving their audio configuration can make a reasonable request to the team. A guideline of a minimum of three (3) podcasts before making a request is recommended, but all requests will be considered based on need and availability of funds.
+
+4. Why is there budgeting funds for Outreachy? 
+  * It is a goal of the CHAOSScast to support the CHAOSS project’s goal. The CHAOSS Governing Board Finance Committee requested support in growing funds toward Outreachy, and the podcast is supporting that effort. Money in this budget can be used for Outreachy internships or related items. The Committee is exclusively in charge of this portion of the budget.
+
+5. Where will these funds be stored?
+  * CPN will make the funds available to CHAOSS through an OpenCollective. If the funds grow to a point of needing to transfer them externally, the team will coordinate with the CHAOSS Governing Board Finance Committee to do so.
+
 
 ## Acknowledgements
 
