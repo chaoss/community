@@ -275,10 +275,10 @@ This podcast is not about the funding, but it does come with some opportunity to
 
 The breakdown will look like this: 
 
-| 70% Reinvest in Podcast |
-| 30% Outreachy | 
-| - - - |
-| 100% |
+    70% Reinvest in Podcast
+    30% Outreachy
+    -----------------------
+    100%
 
 
 #### Budget item: reinvest in podcast
