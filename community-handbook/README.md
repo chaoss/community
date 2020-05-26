@@ -12,5 +12,5 @@ If you are interested in helping with the community handbook, [#105](https://git
 * [CHAOSScast](./chaosscast.md) - Community Podcast
 * [CHAOSScon](./chaosscon.md)
 * [Metrics Release](./metrics-release.md)
-  - [Matrics Translations](./metrics-translations.md)
+  - [Metrics Translations](./metrics-translations.md)
 * [Website](./website.md)
