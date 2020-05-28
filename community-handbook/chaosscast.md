@@ -90,7 +90,7 @@ CHAOSS partners with the **CodeFund Podcast Network** (CPN) for the editing, mon
 
 * [Dropbox](https://www.dropbox.com/sh/l7iv7qewxk5ud8o/AAAbeu-fCnTbGAA0pv1ga2cxa?dl=0) (maintained by CPN)
 * [Google Drive](https://drive.google.com/drive/folders/14t0-0Bf5rjDaR1PAR854lCnC7xaF4Hnh) Maintained by CHAOSScast Organizers
-* [CHAOSScast Calendar](https://calendar.google.com/calendar?cid=NTEzcjQ3YmI3NTZ0MDdscDV0YXQ1bnN1ajBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) for recording dates
+* [CHAOSScast Calendar](https://calendar.google.com/calendar?cid=NTEzcjQ3YmI3NTZ0MDdscDV0YXQ1bnN1ajBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) for recording dates and epsiode release schedule
 * Email address for podcast, forwareded to Organizers: podcast@chaoss.community
 * [CPN Slack channel #chaoss-podcast](https://codefundio.slack.com/archives/G01257RGK8Q)
 * [Open Collective](https://opencollective.com/chaosscast) for revenue
@@ -244,7 +244,8 @@ These procedures are for the organizer of each episode:
     * Header Image: (ignore, will use default)
     * Transcript: (ignore)
   * PUBLISH
-    * Schedule an email to the CHAOSS mailing list for the release day and time (no template yet)
+    * Update the template [CHAOSScast Calendar](https://calendar.google.com/calendar?cid=NTEzcjQ3YmI3NTZ0MDdscDV0YXQ1bnN1ajBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) event (🎧 (TBD) Release CHAOSScast episode) for the release date (i.e., remove `(TBD)` and add epsiode number and title)
+    * Schedule an email to the CHAOSS mailing list for the release day and time ([template](https://docs.google.com/document/d/1TyZAX7xfYmx3gKSFT2i2K5ERIA1ibGAQVfXMnGmFYyg/edit))
     * Include in upcoming [CHAOSS Weekly newsletter](https://docs.google.com/document/d/1N2dbrqHYSxIUF1vXZ1-854aaoGIf86uey0XRhxhgG4o/edit)
     * ITTT automated (RSS feed publishing):
       * Schedule a tweet through Tweetdeck
