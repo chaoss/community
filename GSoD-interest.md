@@ -34,4 +34,4 @@ GSoD Mentors
 | Name | Email | Idea | Project Proposal |
 | --- | --- | --- | --- |
 | Your Name Here | Your Email Here |  Idea You Hoping to Work On | Link to Your Proposal |
-| Georg Link | linkgeorg@gmail.com | This is an example entry | Proposal Link |
+| Tharun Ravuri | tharunravuri2000@gmail.com | Building Documentation for D&I Badging project | [Proposal Link](https://docs.google.com/document/d/1aEFSaIYKscs0Y8t3-9Zqu3-xSGaujatNCIZH3xKa9Ho/edit?usp=sharing) |
