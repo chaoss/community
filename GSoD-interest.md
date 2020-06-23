@@ -36,3 +36,4 @@ GSoD Mentors
 | Your Name Here | Your Email Here |  Idea You Hoping to Work On | Link to Your Proposal |
 | Georg Link | linkgeorg@gmail.com | This is an example entry | Proposal Link |
 | Tharun Ravuri | tharunravuri2000@gmail.com | Building Documentation for D&I Badging project | [Proposal Link](https://docs.google.com/document/d/1aEFSaIYKscs0Y8t3-9Zqu3-xSGaujatNCIZH3xKa9Ho/edit?usp=sharing) |
+| Jaskirat Singh | juskirat2000@gmail.com | Create a CHAOSS Community-wide Handbook | [Proposal Link](https://docs.google.com/document/d/1q6Xua7tECetKoTbMjmuAHMJ1tSYUe8LlY_MjnNmu2so/edit?usp=sharing) |
