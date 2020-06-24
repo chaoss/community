@@ -8,6 +8,7 @@
   * [Organizers](#organizers)
   * [Panelists](#panelists)
   * [Guest](#guest)
+  * [Coordinator](#coordinator)
   * [CPN contact](#cpn-contact)
 * [Important links](#Important-links)
 * [Strategy](#Strategy)
@@ -74,10 +75,16 @@ These panelists have agreed to be invited to every new episode. Not everyone sho
 
 ### Guest
 
-* A **guest** is requested to discuss up-front what they want to talk about and provide references.
+A **guest** is requested to discuss up-front what they want to talk about and provide references.
 
 We have a [Planning Guests document](https://docs.google.com/document/d/1qxmC1k8SayChurIq2r91CR3r_KAThTwaNEMjA6DLGhE/edit) to keep track of who we want to invite.
 
+
+### Coordinator
+
+A **coordinator** assists with the finer details of confirming podcast dates/times and acts as a central point of communication for all other roles. This role also sends out post-podcast thank you gifts. This is currently assigned to the CHAOSS Community Manager.
+
+ * Elizabeth Barron
 
 ### CPN contact
 
@@ -170,22 +177,21 @@ Georg Link has an IFTT recipe to:
 
 ## Procedures
 
-These procedures are for the organizer of each episode:
+These procedures are for the organizer and coordinator of each episode:
 
 ### Scheduling an episode 
 * always
   * Think of who would make a good guest for the podcast and ask them tentatively if you may invite them
-* **Step 1:** Determine a guest and panlists
-  * **Action: **Recruit interview guest and decide topic together
-    * Ask for 60-90 minute timeslots that work for guest.
-    * Create a Doodle poll for panelists to schedule time
-  * **Action:** Prepare the planning document (copy the template and start filling in information)
-  * **Action:** send out an [invitation email](https://docs.google.com/document/d/1IniJc9o1OCBBTYv50W3WTfZYmshi4aYusHIK4ADulk8/edit) with a [Doodle](doodle.com) for finding a time
-    * Invite guest
-    * Invite panelists ([list of email addresses](https://docs.google.com/document/d/1ca9TJY17cj-cBWmJP5qjCX56133unsaOlEUwACc4PMA/edit))
+* **Step 1:** Determine a guest and panelists (Organizer)
+  * **Action:** Recruit interview guest and decide topic and content of the podcast together
+* **Step 2:** Coordinate Episode (Community Manager)
+    * **Action:** Work with guest to find a suitable time 60-90 minutes.
+    * **Action:** Find time that works for guest and organizer.
+    * **Action:** Prepare the planning document (copy the [Episode Planning Document template](https://docs.google.com/document/d/17qjAafr0aAWXV_HR-WiefHOa881t8X7tEoiZnPBh3ao/edit#heading=h.cmpmu92ylw4d) and start filling in information.)
+   * **Action:** send out an [invitation email](https://docs.google.com/document/d/1IniJc9o1OCBBTYv50W3WTfZYmshi4aYusHIK4ADulk8/edit) with a [Doodle](doodle.com) for finding a time
+   * **Action:** Invite panelists ([list of email addresses](https://docs.google.com/document/d/1ca9TJY17cj-cBWmJP5qjCX56133unsaOlEUwACc4PMA/edit))
       * Prioritize those who said they were interested in the topic
       * If needed, [invite new panelists](https://docs.google.com/document/d/1gGf9n6D5g2Y_YfqVuWOvWvZvNvKmbQr9adruHeQTAu0/edit?usp=sharing)
-* **Step 2** (about 1 week after sending invites): schedule recording
   * **Action:** Lock in date in Doodle poll
   * **Action:** Send calendar invitation for the best date of podcast
     * Prioritize availability of the guest
@@ -199,16 +205,23 @@ These procedures are for the organizer of each episode:
   * **Action:** Update the episode planning document
   * **Action:** Update the [episode overview table](https://docs.google.com/document/d/1qxmC1k8SayChurIq2r91CR3r_KAThTwaNEMjA6DLGhE/edit#)
   * **Action:** Schedule a [reminder email](https://docs.google.com/document/d/17vKzCOYvRXq5zaIlv_sb80zFapTU19dRgkx5RqRx3xE/edit) for 24-hours before the episode recording
-  
+ * **Step 3:** Finalize Content (Organizer)
+   * **Action:** Update the episode planning document with the main topics and questions
+ * **Step 4:** Post-Episode Thank You Notes (Community Manager)
+   * **Action:** Get address from guest
+   * **Action:** Sign thank you note and assemble with swag
+   * **Action:** Mail out thank you note with swag
+   * **Action:** Add date of shipment on [episode overview table](https://docs.google.com/document/d/1qxmC1k8SayChurIq2r91CR3r_KAThTwaNEMjA6DLGhE/edit) to confirm it was sent
+
 
 ### Recording an episode
 
-* On day of podcast:
+* On day of podcast (Organizer and Panelists):
   * **Action:** Review the [CHAOSScast Recording Procedures](https://docs.google.com/document/d/1G_CFd8CqwxLCahLrC-4XRzaad0OdLX43AY_--UPK2lo/edit#) before the session starts
     * Feel good about yourself and get excited!
 
-* When podcast session starts:
-    * Join the Zoom room on time (records automatically
+* When podcast session starts (Organizer and Panelists):
+    * Join the Zoom room on time (records automatically)
     * Be yourself
     * Enjoy
 
@@ -251,6 +264,8 @@ These procedures are for the organizer of each episode:
       * Schedule a tweet through Tweetdeck
     * Advertise outside of CHAOSS
       * SustainOSS Forum (?)
+
+
 
 
 ## CHAOSScast sponsorship and revenue
