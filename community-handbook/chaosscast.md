@@ -182,7 +182,7 @@ These procedures are for the organizer and coordinator of each episode:
 ### Scheduling an episode 
 * always
   * Think of who would make a good guest for the podcast and ask them tentatively if you may invite them
-* **Step 1:** Determine a guest and panelists (Organizer)
+* **Step 1:** Determine a guest (Organizer)
   * **Action:** Recruit interview guest and decide topic and content of the podcast together
 * **Step 2:** Coordinate Episode (Community Manager)
     * **Action:** Work with guest to find a suitable time 60-90 minutes.
