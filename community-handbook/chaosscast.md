@@ -193,7 +193,7 @@ These procedures are for the organizer and coordinator of each episode:
       * Prioritize those who said they were interested in the topic
       * If needed, [invite new panelists](https://docs.google.com/document/d/1gGf9n6D5g2Y_YfqVuWOvWvZvNvKmbQr9adruHeQTAu0/edit?usp=sharing)
   * **Action:** Lock in date in Doodle poll
-  * **Action:** Send calendar invitation for the best date of podcast
+  * **Action:** Send calendar invitation for the best date of podcast (only the guest, organizer, and panelists that will be in the episode)
     * Prioritize availability of the guest
     * Adjust panelists based on availability
     * The event has to be created in the [CHAOSScast calendar](https://calendar.google.com/calendar?cid=NTEzcjQ3YmI3NTZ0MDdscDV0YXQ1bnN1ajBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
