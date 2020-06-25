@@ -27,11 +27,69 @@ The goal is to have short cycles of feedback and to get metrics out sooner.
 
 The regular release is when we update the version number, update the full release notes, and make a big announcement. These releases occur one to two times a year and may correspond with the dates for CHAOSScon North America and Europe.
 
-1. Coordinate between working groups that a new release is coming.
-2. Each working group completes the “Continuous Metric Contribution” process for all of the metrics it wants to include in the release.
-3. On a set date, all metrics that successfully completed the “Continuous Metric Contribution” process will be included in the next release.
-4. Remove the “will be included in next release” label on new metrics markdown pages and on the website.
-5. Create a GitHub release label (process is similar to creating a release branch) for all metrics that completed the “Continuous Metric Contribution”. This release label will replace the working markdown page the website was using during the continuous release period, creating a static version of the metric. The website will be edited to point to this static markdown page.
-6. The release notes will be updated - based on each of the working groups release issues - on the website to state that all changes are part of the new release. 
-7. The release gets a new version number.
-8. Produce a PDF of the released metrics for archiving the metric release version.
+Timeline:
+* 2 months before release
+  * Decide on a release date, coordinate with working groups
+  * Complete previously started CMCs but hold further metrics for release 
+* 1 month +1 week before release
+  * Finalize which metrics to include in the release
+  * Open issues for all new metrics and reopen CMC metrics for further review
+  * Create a Metric Release Candidate page `metrics-rc` (see below)
+    * Create all metric pages
+    * Link to issues for comments
+  * Announce **Review Period** on mailing list
+  * Working Groups review and respond to comments as the come in
+  * Request reviews in newsletter, Twitter, all community calls during review period
+  * Working groups draft release notes
+* 1 week before release
+  * Announce on mailing list that review period is closed
+  * Prepare the final release (see below)
+    * Prepare the PDF release
+    * Prepare release notes
+    * Replace /metrics page with new release
+* Day of release
+  * All the work was done before
+  * Announce on mailinglist and Twitter and all other channels
+  * Celebrate!
+
+
+### Create a Metric Release Candidate page
+
+These steps are for the Release Engineer:
+
+* Duplicate `/metrics` to `/metrics-rc`
+  * Add timeline of review period and request for review at top of `/metrics-rc`
+  * Open an issue for overall feedback in `chaoss/metrics` repository and link to it at the top of `/metrics-rc` page
+* Add new metrics to website under their final url (metrics do not have a release candidate URL)
+* For all new metrics, CMC metrics, and substantially changed metrics
+  * Website pulls from master branch
+  * Open issues for comments or reopen CMC issues
+  * For CMC metrics: Remove the “will be included in next release” label on new metrics markdown pages and on the website
+  * On the metric page, include a request for review with link to issue for comments
+  * Highlight them on the `/metrics-rc` page
+  * Add link to issue for comments on `/metrics-rc` page
+* Update release notes with the text prepared by working groups. Merge CMC release notes into full release, there needs to be no difference or mention of CMC.
+
+Text to include on top of every metric that is open for review:
+
+    ### This metric is a release candidate
+    The 30 day comment period for this metric begins on xx/xx/xxxx and ends on xx/xx/xxxx.
+    To comment on this metric please see [Issue chaoss/wg-xxxxx#xx](xxxxxxxxxxxxxxx)
+    Following the comment period this metric will be included in the regular release.
+
+### Prepare the final release
+
+* Determine release version number because it will be used for several steps
+* Extend list of contributors to include those who contributed to the new and previous releases
+* Working Groups respond to all comments in the issues and close them
+* Working Groups merge or close all pull requests related to the release
+* Working Groups remove the request for review from the top of all metrics
+* Release Engineer creates a release tag in all working groups to freeze metrics for release
+  * Tag name: release<versionnumber>
+  * Description: Release notes for that working group
+* Release Engineer updates metric pages to pull from release tag
+* Release engineer cleans up `/metrics-rc` by removing everything not needed in final release
+* Release Engineer transitions `/metrics-rc` to `/metrics`, replacing the old release
+* Release Engineer cleans up the release notes page 
+* Release Engineer creates a PDF of the release
+* Release Engineer links the PDF on the `/metrics` and release notes page
