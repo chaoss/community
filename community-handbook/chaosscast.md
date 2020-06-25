@@ -84,7 +84,7 @@ We have a [Planning Guests document](https://docs.google.com/document/d/1qxmC1k8
 
 A **coordinator** assists with the finer details of confirming podcast dates/times and acts as a central point of communication for all other roles. This role also sends out post-podcast thank you gifts. This is currently assigned to the CHAOSS Community Manager.
 
- * Elizabeth Barron
+ * [Elizabeth Barron](https://github.com/elizabethn)
 
 ### CPN contact
 
@@ -98,7 +98,7 @@ CHAOSS partners with the **CodeFund Podcast Network** (CPN) for the editing, mon
 * [Dropbox](https://www.dropbox.com/sh/l7iv7qewxk5ud8o/AAAbeu-fCnTbGAA0pv1ga2cxa?dl=0) (maintained by CPN)
 * [Google Drive](https://drive.google.com/drive/folders/14t0-0Bf5rjDaR1PAR854lCnC7xaF4Hnh) Maintained by CHAOSScast Organizers
 * [CHAOSScast Calendar](https://calendar.google.com/calendar?cid=NTEzcjQ3YmI3NTZ0MDdscDV0YXQ1bnN1ajBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) for recording dates and epsiode release schedule
-* Email address for podcast, forwareded to Organizers: podcast@chaoss.community
+* Email address for podcast, forwarded to Organizers: podcast@chaoss.community
 * [CPN Slack channel #chaoss-podcast](https://codefundio.slack.com/archives/G01257RGK8Q)
 * [Open Collective](https://opencollective.com/chaosscast) for revenue
 
@@ -185,17 +185,14 @@ These procedures are for the organizer and coordinator of each episode:
 * **Step 1:** Determine a guest (Organizer)
   * **Action:** Recruit interview guest and decide topic and content of the podcast together
 * **Step 2:** Coordinate Episode (Community Manager)
-    * **Action:** Work with guest to find a suitable time 60-90 minutes.
-    * **Action:** Find time that works for guest and organizer.
+    * **Action:** Send invitiation email (content TBD) to guest to find a few potential suitable dates and times (60-90 minutes.)
+    * **Action:** Notify organizer of guest's date and time possibilities, and confirm one.
     * **Action:** Prepare the planning document (copy the [Episode Planning Document template](https://docs.google.com/document/d/17qjAafr0aAWXV_HR-WiefHOa881t8X7tEoiZnPBh3ao/edit#heading=h.cmpmu92ylw4d) and start filling in information.)
-   * **Action:** send out an [invitation email](https://docs.google.com/document/d/1IniJc9o1OCBBTYv50W3WTfZYmshi4aYusHIK4ADulk8/edit) with a [Doodle](doodle.com) for finding a time
-   * **Action:** Invite panelists ([list of email addresses](https://docs.google.com/document/d/1ca9TJY17cj-cBWmJP5qjCX56133unsaOlEUwACc4PMA/edit))
+   * **Action:** send out an [invitation email](https://docs.google.com/document/d/1IniJc9o1OCBBTYv50W3WTfZYmshi4aYusHIK4ADulk8/edit) for panelists to RSVP yes or no ([list of email addresses](https://docs.google.com/document/d/1ca9TJY17cj-cBWmJP5qjCX56133unsaOlEUwACc4PMA/edit)) 
       * Prioritize those who said they were interested in the topic
       * If needed, [invite new panelists](https://docs.google.com/document/d/1gGf9n6D5g2Y_YfqVuWOvWvZvNvKmbQr9adruHeQTAu0/edit?usp=sharing)
-  * **Action:** Lock in date in Doodle poll
-  * **Action:** Send calendar invitation for the best date of podcast (only the guest, organizer, and panelists that will be in the episode)
-    * Prioritize availability of the guest
-    * Adjust panelists based on availability
+  * **Action:** Confirm with 1-2 panelists that replied "yes" and notify others who replied yes that the panel is already complete.
+  * **Action:** Send calendar invitation with confirmed date of the podcast (only the guest, organizer, and panelists that will be in the episode
     * The event has to be created in the [CHAOSScast calendar](https://calendar.google.com/calendar?cid=NTEzcjQ3YmI3NTZ0MDdscDV0YXQ1bnN1ajBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
       * This will sync with the CPN main calendar
       * All organizers should have full access to the calendar (i.e., Make changes and manage sharing)
