@@ -182,9 +182,9 @@ These procedures are for the organizer and coordinator of each episode:
 ### Scheduling an episode 
 * always
   * Think of who would make a good guest for the podcast and ask them tentatively if you may invite them
-* **Step 1:** Determine a guest (Organizer)
+* **Step 1:** Determine a guest (Anyone)
   * **Action:** Recruit interview guest and decide topic and content of the podcast together
-* **Step 2:** Coordinate Episode (Organizer)
+* **Step 2:** Coordinate Episode (Coordinator)
     * **Action:** Send invitiation email (content TBD) to guest to find a few potential suitable dates and times (60-90 minutes.)
     * **Action:** Notify organizer of guest's date and time possibilities, and confirm one.
     * **Action:** Prepare the planning document (copy the [Episode Planning Document template](https://docs.google.com/document/d/17qjAafr0aAWXV_HR-WiefHOa881t8X7tEoiZnPBh3ao/edit#heading=h.cmpmu92ylw4d) and start filling in information.)
@@ -204,7 +204,7 @@ These procedures are for the organizer and coordinator of each episode:
   * **Action:** Schedule a [reminder email](https://docs.google.com/document/d/17vKzCOYvRXq5zaIlv_sb80zFapTU19dRgkx5RqRx3xE/edit) for 24-hours before the episode recording
  * **Step 3:** Finalize Content (Organizer)
    * **Action:** Update the episode planning document with the main topics and questions
- * **Step 4:** Post-Episode Thank You Notes (Community Manager)
+ * **Step 4:** Post-Episode Thank You Notes (Coordinator)
    * **Action:** Get address from guest
    * **Action:** Sign thank you note and assemble with swag
    * **Action:** Mail out thank you note with swag
