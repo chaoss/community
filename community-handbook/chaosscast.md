@@ -184,7 +184,7 @@ These procedures are for the organizer and coordinator of each episode:
   * Think of who would make a good guest for the podcast and ask them tentatively if you may invite them
 * **Step 1:** Determine a guest (Organizer)
   * **Action:** Recruit interview guest and decide topic and content of the podcast together
-* **Step 2:** Coordinate Episode (Community Manager)
+* **Step 2:** Coordinate Episode (Organizer)
     * **Action:** Send invitiation email (content TBD) to guest to find a few potential suitable dates and times (60-90 minutes.)
     * **Action:** Notify organizer of guest's date and time possibilities, and confirm one.
     * **Action:** Prepare the planning document (copy the [Episode Planning Document template](https://docs.google.com/document/d/17qjAafr0aAWXV_HR-WiefHOa881t8X7tEoiZnPBh3ao/edit#heading=h.cmpmu92ylw4d) and start filling in information.)
