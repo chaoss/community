@@ -9,7 +9,7 @@
   * [Panelists](#panelists)
   * [Guest](#guest)
   * [Coordinator](#coordinator)
-  * [CPN contact](#cpn-contact)
+  * [Rebase.fm contact](#rebasefm-contact)
 * [Important links](#Important-links)
 * [Strategy](#Strategy)
   * [Name](name-chaosscast)
@@ -86,20 +86,21 @@ A **coordinator** assists with the finer details of confirming podcast dates/tim
 
  * [Elizabeth Barron](https://github.com/elizabethn)
 
-### CPN contact
+### Rebase.fm contact
 
-CHAOSS partners with the **CodeFund Podcast Network** (CPN) for the editing, monetization, and publishing of the podcast.
+CHAOSS partners with the **Rebase.fm** (formerly known as **CodeFund Podcast Network** (CPN)) for the editing, monetization, and publishing of the podcast.
 
 * Justin Dorfman
+* Eric Berry
 
 
 ## Important links
 
-* [Dropbox](https://www.dropbox.com/sh/l7iv7qewxk5ud8o/AAAbeu-fCnTbGAA0pv1ga2cxa?dl=0) (maintained by CPN)
+* [Dropbox](https://www.dropbox.com/sh/l7iv7qewxk5ud8o/AAAbeu-fCnTbGAA0pv1ga2cxa?dl=0) (maintained by CPN) [NOTE: not sure if this will remain under Rebase.fm]
 * [Google Drive](https://drive.google.com/drive/folders/14t0-0Bf5rjDaR1PAR854lCnC7xaF4Hnh) Maintained by CHAOSScast Organizers
 * [CHAOSScast Calendar](https://calendar.google.com/calendar?cid=NTEzcjQ3YmI3NTZ0MDdscDV0YXQ1bnN1ajBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) for recording dates and epsiode release schedule
 * Email address for podcast, forwarded to Organizers: podcast@chaoss.community
-* [CPN Slack channel #chaoss-podcast](https://codefundio.slack.com/archives/G01257RGK8Q)
+* Rebase.fm Discord #chaoss channel: Please ask the coordiantor for an invite
 * [Open Collective](https://opencollective.com/chaosscast) for revenue
 
 ## Strategy
@@ -201,6 +202,7 @@ These procedures are for the organizer and coordinator of each episode:
   * **Action:** Send out a [confirmation email](https://docs.google.com/document/d/1Pw8OKn-qSSkMw573BZu-EZ4BZualesdZjPbpBEKvzrc/edit) that includes the [“how we podcast” document](https://docs.google.com/document/d/1j5Ng91rrFrx3PdPejv26rBxb1P7UX-O_Q0_I9TCIya0/edit#) to guests and panelists
   * **Action:** Update the episode planning document with recording time and zoom link
   * **Action:** Update the [episode overview table](https://docs.google.com/document/d/1qxmC1k8SayChurIq2r91CR3r_KAThTwaNEMjA6DLGhE/edit#)
+  * **Action:** If the episode is more than two weeks out, schedule a [reminder email](https://docs.google.com/document/d/17vKzCOYvRXq5zaIlv_sb80zFapTU19dRgkx5RqRx3xE/edit) for 1 week before the episode recording
   * **Action:** Schedule a [reminder email](https://docs.google.com/document/d/17vKzCOYvRXq5zaIlv_sb80zFapTU19dRgkx5RqRx3xE/edit) for 24-hours before the episode recording
  * **Step 3:** Finalize Content (Organizer)
    * **Action:** Update the episode planning document with the main topics and questions
@@ -263,36 +265,22 @@ These procedures are for the organizer and coordinator of each episode:
       * SustainOSS Forum (?)
 
 
-
-
 ## CHAOSScast sponsorship and revenue
 
 
 ### Revenue background
 
-CHAOSScast is part of the CodeFund Podcast Network (CPN). CPN has sponsorship deals to fund the work on the podcast. CHAOSScast can expect about $125/episode. 
+CHAOSScast is part of the Rebase.fm which has sponsorship deals to fund the work on the podcast. Rebase.fm shares its revenue with CHAOSScast. Shared revenue will be deposited to [Open Collective](https://opencollective.com/chaosscast).
 
-Revenue will be deposited to [Open Collective](https://opencollective.com/chaosscast).
 
 ### How much revenue?
 
-Approximately $125/episode
-
-~ $1,500/year if we release one episode per month
-
-~ $3,000/year if we release two episodes per month
+$25 per episode
 
 
 ### How will the revenue be used?
 
 This podcast is not about the funding, but it does come with some opportunity to invest further into the podcast and the CHAOSS community as a whole. 
-
-The breakdown will look like this: 
-
-    70% Reinvest in Podcast
-    30% Outreachy
-    -----------------------
-    100%
 
 
 #### Budget item: reinvest in podcast
@@ -306,21 +294,18 @@ Money in this budget can be used for:
 ### Revenue FAQ
 
 1. What is the approval process for money distribution from the Reinvest in Podcast budget?
-  * The CHAOSS governance team has delegated responsibility to manage these funds in good faith to the podcast coordinators (Georg Link and Matthew Broberg). To request funding, send a request to: podcast@chaoss.community. The coordinators will follow the following guidelines:
-    1. The request is denied if at least one coordinator denies it. 
-    2. The request is approved when both coordinators approve. 
+  * The CHAOSS governance team has delegated responsibility to manage these funds in good faith to the podcast coordinator and organizers. To request funding, send a request to: podcast@chaoss.community. The coordinators will follow the following guidelines:
+    1. The request is denied if at least one organizer denies it. 
+    2. The request is approved when at least two coordinators or organizers approve. 
 
 2. What kind of “thank you” notes will go out to podcast guests?
-  * The team is currently exploring reasonably priced options to provide a small benefit for participation. This could include stickers or a collectible poker chip. Reach out to the podcast email at: podcast@chaoss.community to learn more.
+  * The thank you note contains a postcard, pokerchip, and 3 stickers, all branded with the CHAOSScast logo.
 
 3. Who is eligible to make a request for equipment? 
   * Recurring hosts in need of improving their audio configuration can make a reasonable request to the team. A guideline of a minimum of three (3) podcasts before making a request is recommended, but all requests will be considered based on need and availability of funds.
 
-4. Why is there budgeting funds for Outreachy? 
-  * It is a goal of the CHAOSScast to support the CHAOSS project’s goal. The CHAOSS Governing Board Finance Committee requested support in growing funds toward Outreachy, and the podcast is supporting that effort. Money in this budget can be used for Outreachy internships or related items. The Committee is exclusively in charge of this portion of the budget.
-
-5. Where will these funds be stored?
-  * CPN will make the funds available to CHAOSS through an [Open Collective](https://opencollective.com/chaosscast). If the funds grow to a point of needing to transfer them externally, the team will coordinate with the CHAOSS Governing Board Finance Committee to do so.
+4. Where will these funds be stored?
+  * Rebase.fm will make the funds available to CHAOSS through an [Open Collective](https://opencollective.com/chaosscast). If the funds grow to a point of needing to transfer them to Community Bridge, the team will coordinate with the CHAOSS Governing Board Finance Committee to do so.
 
 
 ## Acknowledgements

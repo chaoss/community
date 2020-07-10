@@ -38,3 +38,6 @@ GSoD Mentors
 | Tharun Ravuri | tharunravuri2000@gmail.com | Building Documentation for D&I Badging project | [Proposal Link](https://docs.google.com/document/d/1aEFSaIYKscs0Y8t3-9Zqu3-xSGaujatNCIZH3xKa9Ho/edit?usp=sharing) |
 | Jaskirat Singh | juskirat2000@gmail.com | Create a CHAOSS Community-wide Handbook | [Proposal Link](https://docs.google.com/document/d/1q6Xua7tECetKoTbMjmuAHMJ1tSYUe8LlY_MjnNmu2so/edit?usp=sharing) |
 | Xiaoya Xia | xiaoyaxiaesther@gmail.com | Build Documentation for CHAOSS D&I Badging Project | [Proposal Link](https://docs.google.com/document/d/1WgTo7xQ2OYSn4dWkwtdruK86WBNArBzSWvyW9LWF-LY/edit?usp=sharing) |
+| Jacqueline Binya | jacquelinebinya@gmail.com |Building Documentation for D&I Badging Project | [Proposal Link](https://docs.google.com/document/d/1yip9DJ0vaMnE8hJ3pF9nXhAommgP3Hgkywlhsxob0Zw/edit?usp=sharing)
+| Kriti Singh | kritisingh1.ks@gmail.com | Expanding and Restyling GrimoireLab Tutorial | [Proposal Link](https://docs.google.com/document/d/1qIHnU-Js58QUuNBVe1ZFYm05opOWOvtbyxoygLd9ECk/edit?usp=sharing) |
+| Brown Ime Linus | ilinusbrown@gmail.com | Write a Conceptual overview of CHAOSS D&I | https://docs.google.com/document/d/1fugmmK5hblmPQG8lu9b7uKLHh05PhBMadh7_c6L5juI/edit?usp=sharing |
