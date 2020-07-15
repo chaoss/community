@@ -70,7 +70,8 @@ These panelists have agreed to be invited to every new episode. Not everyone sho
 * Daniel Izquierdo
 * Andrea Gallo
 * Kate Stewart
-* ... (you?)
+* Armstrong Foundjem
+* ... you?
 
 
 ### Guest
@@ -173,7 +174,7 @@ Documenting any automation configured to date.
 Georg Link has an IFTT recipe to:
 * If new item in this RSS feed https://feeds.fireside.fm/chaosscast/rss
 * Then tweet it from @CHAOSSproj
-  * Examplet tweet: https://twitter.com/CHAOSSproj/status/1256137855606444032
+  * Example tweet: https://twitter.com/CHAOSSproj/status/1256137855606444032
 
 
 ## Procedures
@@ -193,12 +194,13 @@ These procedures are for the organizer and coordinator of each episode:
       * Prioritize those who said they were interested in the topic
       * If needed, [invite new panelists](https://docs.google.com/document/d/1gGf9n6D5g2Y_YfqVuWOvWvZvNvKmbQr9adruHeQTAu0/edit?usp=sharing)
   * **Action:** Confirm with 1-2 panelists that replied "yes" and notify others who replied yes that the panel is already complete.
+  * **Action:** Reserve the session on the [Rebase.fm Calendly](https://calendly.com/rebasefm/chaosscast) for recording purposes.
   * **Action:** Send calendar invitation with confirmed date of the podcast (only the guest, organizer, and panelists that will be in the episode
     * The event has to be created in the [CHAOSScast calendar](https://calendar.google.com/calendar?cid=NTEzcjQ3YmI3NTZ0MDdscDV0YXQ1bnN1ajBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
-      * This will sync with the CPN main calendar
       * All organizers should have full access to the calendar (i.e., Make changes and manage sharing)
     * Name calendar event: 🎙 CHAOSScast {with guest}
       * Start with the microphone emoticon (🎙) to signal recording meeting
+      * The Zoom link that is to be used is https://zoom.us/s/95377115684
   * **Action:** Send out a [confirmation email](https://docs.google.com/document/d/1Pw8OKn-qSSkMw573BZu-EZ4BZualesdZjPbpBEKvzrc/edit) that includes the [“how we podcast” document](https://docs.google.com/document/d/1j5Ng91rrFrx3PdPejv26rBxb1P7UX-O_Q0_I9TCIya0/edit#) to guests and panelists
   * **Action:** Update the episode planning document with recording time and zoom link
   * **Action:** Update the [episode overview table](https://docs.google.com/document/d/1qxmC1k8SayChurIq2r91CR3r_KAThTwaNEMjA6DLGhE/edit#)
