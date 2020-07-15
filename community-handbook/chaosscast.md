@@ -200,7 +200,6 @@ These procedures are for the organizer and coordinator of each episode:
       * All organizers should have full access to the calendar (i.e., Make changes and manage sharing)
     * Name calendar event: 🎙 CHAOSScast {with guest}
       * Start with the microphone emoticon (🎙) to signal recording meeting
-      * The Zoom link that is to be used is https://zoom.us/s/95377115684
   * **Action:** Send out a [confirmation email](https://docs.google.com/document/d/1Pw8OKn-qSSkMw573BZu-EZ4BZualesdZjPbpBEKvzrc/edit) that includes the [“how we podcast” document](https://docs.google.com/document/d/1j5Ng91rrFrx3PdPejv26rBxb1P7UX-O_Q0_I9TCIya0/edit#) to guests and panelists
   * **Action:** Update the episode planning document with recording time and zoom link
   * **Action:** Update the [episode overview table](https://docs.google.com/document/d/1qxmC1k8SayChurIq2r91CR3r_KAThTwaNEMjA6DLGhE/edit#)
