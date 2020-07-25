@@ -208,7 +208,7 @@ These procedures are for the organizer and coordinator of each episode:
  * **Step 3:** Finalize Content (Organizer)
    * **Action:** Update the episode planning document with the main topics and questions
  * **Step 4:** Post-Episode Thank You Notes (Coordinator)
-   * **Action:** Get address from guest
+   * **Action:** When the episode is scheduled for release that week, notify guest and get their mailing address
    * **Action:** Sign thank you note and assemble with swag
    * **Action:** Mail out thank you note with swag
    * **Action:** Add date of shipment on [episode overview table](https://docs.google.com/document/d/1qxmC1k8SayChurIq2r91CR3r_KAThTwaNEMjA6DLGhE/edit) to confirm it was sent
