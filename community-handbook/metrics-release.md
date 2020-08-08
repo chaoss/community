@@ -60,8 +60,45 @@ Timeline:
   * Tag name: release<versionnumber>
   * Description: Release notes for that working group
 * Release Engineer updates metric pages to pull from release tag
-* Release engineer cleans up `/metrics-rc` by removing everything not needed in final release
-* Release Engineer transitions `/metrics-rc` to `/metrics`, replacing the old release
+* Release Engineer cleans up `/metrics` by removing everything not needed in final release
 * Release Engineer cleans up the release notes page 
 * Release Engineer creates a PDF of the release
 * Release Engineer links the PDF on the `/metrics` and release notes page
+
+
+### Prepare the PDF release
+
+* The PDF is created from the website.
+  * Make sure to not print menu, footer, "to-top" or any other elements that we don't want in the PDF
+  * Here is a [Tampermonkey](http://www.tampermonkey.net/) user script that does most of it: [CHAOSS Metric print clean (Tampermonkey).user.js](https://drive.google.com/file/d/1y1uh5aeVbzR4CDGbQQJTdSb2Cnywk3OI/view?usp=sharing)
+* The Metrics are saved as PDFs from the browser (Chrome, print).
+  - Name the files in order `#) Metric Name.pdf` (the user script will help with naming the pages like this)
+* The `CHAOSS Metrics by Working Groups and Focus Areas` pages are the /metrics page saved as PDF
+  - Remove the list of contributors and copyright notice from the bottom, they will be in the front-matter
+  - Name the file `CHAOSS Metrics by Working Groups and Focus Areas.pdf`
+* Create the front-matter using the [Word Document](https://drive.google.com/file/d/1xoWpNPO95n2V1l4rWS7pIHfoQiAUPtcl/view?usp=sharing)
+  - update all of the information
+  - save as PDF with any name
+* Create the License information using the [Word Document](https://drive.google.com/file/d/1xr8YmxFKt12L1mRX8dAODQHH-f_vnLIl/view?usp=sharing), update the year for the copyright
+  - Name the file `The MIT License.pdf`
+
+Above steps should create the following files:
+* The front-matter PDF
+* `CHAOSS Metrics by Working Groups and Focus Areas.pdf`
+* `#) Metric Name.pdf` for each metric
+* `Release History.pdf`
+* `The MIT License.pdf`
+
+Merge the files (except the front-matter) in the order listed above
+* Use the open source [PDFsam Basic](https://github.com/torakiki/pdfsam)
+* Merge settings
+  - YES: Add a footer
+  - Bookmarks handling: `Create one entry for each merged document`
+  - Table of contents: `Generate from file names`
+
+After creating the merged document, add the front-matter
+* If you use PDFsam again, make sure to change the settings:
+  - NO: Add a footer
+  - Bookmarks handling: `Retain bookmarks`
+  - Table of contents: `Don't generate`
+  
