@@ -11,6 +11,7 @@ If you are interested in helping with the community handbook, [#105](https://git
   - [Roles and Responsibilities in the Community](./roles-responsibilities.md)
 * [CHAOSScast](./chaosscast.md) - Community Podcast
 * [CHAOSScon](./chaosscon.md)
+* [Community Report](./community-report.md)
 * [Metrics Release](./metrics-release.md)
   - [Metrics Translations](./metrics-translations.md)
 * [Website](./website.md)
