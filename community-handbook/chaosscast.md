@@ -245,7 +245,7 @@ These procedures are for the organizer and coordinator of each episode:
     * Title Format: Episode 123: My Great Title (default)
     * Content: Clean (unless we used swear words)
     * Summary: First paragraph from the Show Notes are a good starting point
-    * Description: Use the [template](https://docs.google.com/document/d/1ly7HLve8grPxOp0RDBID63XxMcEC5-ZAdHmQlAG3gPk/edit), then insert the converted show notes.
+    * Description: Insert the show notes in Markdown format.
       * Hint: convert show notes to Google Doc and export as Markdown
     * Keywords: (use sparingly to avoid keyword cannibilization)
     * Tags: (empty) -- we can use tags later for having sub-podcasts
