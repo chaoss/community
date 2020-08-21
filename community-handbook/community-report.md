@@ -11,7 +11,7 @@ The CHAOSS Community Report is a free service that the CHAOSS community provides
 
 ## Roles
 
-The Communit Report processes have the following roles:
+The Community Report processes have the following roles:
 
 * Requester -- Someone asking for a Community Report
 * Coordinator -- The CHAOSS contact person coordianting the creation and distribution of Community Reports
