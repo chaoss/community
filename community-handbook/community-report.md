@@ -18,7 +18,7 @@ The Communit Report processes have the following roles:
 
 ## Requesting a Community Report
 
-Anyone can fill out a form on the CHAOSS.community website. The form submits to a Linux Foundation system. 
+Anyone can fill out a form on the CHAOSS.community website. The form submits to a Linux Foundation system and the form is forwarded to essential CHAOSS community members for processing.
 
 ## Generating a Community Report
 
@@ -30,4 +30,3 @@ When the CHAOSS community receives a request for a report, the following steps w
 * Insert visualizations in template by TBD
 * Send Community Report to requester by TBD
 * If requester gave permission, add Community Report to our library on CHAOSS.community by TBD
-
