@@ -28,5 +28,5 @@ When the CHAOSS community receives a request for a report, the following steps w
 * Get visualizations from Augur by TBD
 * Get visualizations from Cauldron/GrimoireLab by TBD
 * Insert visualizations in the template by Coordinator
-* Send Community Report to requester by TBD
+* Send Community Report to the requester by Coordinator
 * If requester gave permission, add Community Report to our library on CHAOSS.community by TBD
