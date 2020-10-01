@@ -1,5 +1,8 @@
 # Website
 
+| ⚠️ The Handbook moved to: https://chaoss-project.gitbook.io/community-handbook |
+|---|
+
 This CHAOSS Community Handbook page is for processes and information about the CHAOSS website.
 
 ## Table of Contents
