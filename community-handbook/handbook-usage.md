@@ -1,5 +1,8 @@
 # Handbook usage
 
+| ⚠️ The Handbook moved to: https://chaoss-project.gitbook.io/community-handbook |
+|---|
+
 
 ## History of the handbook
 
