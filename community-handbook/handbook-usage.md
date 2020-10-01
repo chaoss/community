@@ -1,6 +1,6 @@
 # Handbook usage
 
-| ⚠️ The Handbook moved to: https://chaoss-project.gitbook.io/community-handbook |
+| ⚠️ The Handbook moved to: https://handbook.chaoss.community/ |
 |---|
 
 
