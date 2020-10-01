@@ -1,5 +1,8 @@
 # Community Report
 
+| ⚠️ The Handbook moved to: https://handbook.chaoss.community/ |
+|---|
+
 The CHAOSS Community Report is a free service that the CHAOSS community provides to open source communities.
 
 ## Goals

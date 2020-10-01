@@ -1,5 +1,8 @@
 # CHAOSS Metrics Release
 
+| ⚠️ The Handbook moved to: https://handbook.chaoss.community/ |
+|---|
+
 The version number is `YYYY-MM` of the release date. Continuous Metric Contributions do not get a separate version number.
 
 ## Continuous Metric Contribution

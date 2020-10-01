@@ -1,5 +1,8 @@
 # CHAOSScon
 
+| ⚠️ The Handbook moved to: https://handbook.chaoss.community/ |
+|---|
+
 
 # Form organizing committee 
 

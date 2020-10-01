@@ -1,5 +1,8 @@
 # Handbook usage
 
+| ⚠️ The Handbook moved to: https://handbook.chaoss.community/ |
+|---|
+
 
 ## History of the handbook
 
