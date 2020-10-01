@@ -1,5 +1,8 @@
 # CHAOSS roles and responsibilities
 
+| ⚠️ The Handbook moved to: https://chaoss-project.gitbook.io/community-handbook |
+|---|
+
 ## Repository Maintainer
 * Send reminder about meetings
 * Prepare meetings
