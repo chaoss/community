@@ -1,0 +1,69 @@
+## December 17, 2019
+
+Attendees: Matt G., Georg, L., Jon L., Saleh A., Ray P., Kevin L., Ildiko V.
+
+Video: [https://youtu.be/mMKXqBefibY](https://youtu.be/mMKXqBefibY) 
+
+Notes:
+
+**Last call of the year 2019**
+
+**First call in 2020: January 7, 2019 **
+
+
+
+*   Events
+    *   Open Source Member Summit Submissions 
+    *   CHAOSScon
+        *   Registrations are filling up
+        *   Schedule has been published
+        *   Still coordinating with a few speakers 
+            *   Ray to follow-up on ~4 speakers who have not been responsive.
+*   Metrics Release 
+    *   AI Matt: Release notes for all WGs
+        *   New Templates
+        *   Any fundamental changes
+        *   New metrics
+        *   New focus areas in Common 
+    *   Include a “back-link” to the source. This would enable for viewers to identify the git source for being able to contribute to a metric for the next release
+    *   Spreadsheet 
+        *   [https://docs.google.com/spreadsheets/d/1tAGzUiZ9jdORKCnoDQJkOU8tQsZDCZVjcWqXYOSAFmE/edit#gid=276406255](https://docs.google.com/spreadsheets/d/1tAGzUiZ9jdORKCnoDQJkOU8tQsZDCZVjcWqXYOSAFmE/edit#gid=276406255) 
+        *   New column of target release date 
+            *   Matt will do this. 
+    *   Metrics in Development
+        *   Common 
+            *   Types of Contributions 
+                *   [https://github.com/chaoss/wg-common/issues/40](https://github.com/chaoss/wg-common/issues/40) 
+        *   D&I 
+            *   Documentation Accessibility 
+                *   [https://docs.google.com/document/d/1OaKDksmuoi6nhaduZ4F96mTwQJvIFnfI8BqLx4MRO38/edit#heading=h.7c8aneuch0wb](https://docs.google.com/document/d/1OaKDksmuoi6nhaduZ4F96mTwQJvIFnfI8BqLx4MRO38/edit#heading=h.7c8aneuch0wb) 
+        *   Value 
+            *   
+        *   Risk 
+            *   SPDX Document
+                *   [https://docs.google.com/document/d/1JEGLmQmcxsX5xF0WXeNxzJgfgZ05U6hywa8OcsHyPp8/edit](https://docs.google.com/document/d/1JEGLmQmcxsX5xF0WXeNxzJgfgZ05U6hywa8OcsHyPp8/edit) 
+        *   Evolution 
+            *   New Contributors Closing Issues
+                *   [https://docs.google.com/document/d/1Fy3MKLM3RepO07pWDqnD70Xfm9W0v94_CiMiE7LVImc/edit](https://docs.google.com/document/d/1Fy3MKLM3RepO07pWDqnD70Xfm9W0v94_CiMiE7LVImc/edit)
+            *   Issue Response Time
+                *   [https://docs.google.com/document/d/1NLRA7nV7KJ8vRpj6WiGrGROo6Zjbd2Wseoc3n3lMQNE/edit](https://docs.google.com/document/d/1NLRA7nV7KJ8vRpj6WiGrGROo6Zjbd2Wseoc3n3lMQNE/edit) 
+
+		
+
+**Timeline**
+
+
+
+        *   December 31, 2019 -- WG Metrics Development Freeze
+        *   January 1 - January 22, 2020 -- Metrics Open for Public Comment
+        *   January 22, 2020 -- Public Comment Period Closed
+        *   January 30, 2020  -- Release ‘Version 2’ of the CHAOSS Metrics
+*   Community Reports
+    *   Jenkins X
+        *   Worked through the metrics that could be deployed from Cauldron 
+        *   Doing the rest from GrimoireLab
+        *   Risk metrics will come from Augur
+    *   Zephyr 
+*   Workflow
+    *   [[GitHub &lt;code>```suggest&lt;/code> in PRs](https://github.com/chaoss/wg-diversity-inclusion/pull/251#issuecomment-566533662)](https://github.com/chaoss/wg-diversity-inclusion/pull/251#issuecomment-566533662)
+        *   Use Suggestions in GitHub markdown 
