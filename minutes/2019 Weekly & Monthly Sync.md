@@ -262,10 +262,7 @@ CHAOSScon:
 
 
 
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image1.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image1.png "image_tooltip")
+![CHAOSS Beanie](https://i.imgur.com/C1glKGo.png)
 
 
 Metrics Release Tracking
@@ -314,12 +311,7 @@ Notes:
         *   [https://clearlydefined.io/](https://clearlydefined.io/) 
         *   OSI in Augur
 
-            
-
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/image2.png). Store image on your image server and adjust path/filename/extension if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/image2.png "image_tooltip")
+![augur screenshot](https://i.ibb.co/NT29np2/image.png)
 
 
     *   D&I
@@ -653,7 +645,7 @@ Notes:
     *   Risk 
         *   Link out to SPDX or TLDR? 
         *   GL
-            *   [https://chaoss.github.io/grimoirelab-tutorial/graal/intro.html](https://chaoss.github.io/grimoirelab-tutorial/graal/intro.html) an  example of setup.cfg and projects.json are at: [https://github.com/chaoss/grimoirelab-sirmordred/blob/master/utils/setup.cfg](https://github.com/chaoss/grimoirelab-sirmordred/blob/master/utils/setup.cfg)   [https://github.com/chaoss/grimoirelab-sirmordred/blob/master/utils/projects.json](https://github.com/chaoss/grimoirelab-sirmordred/blob/master/utils/projects.json) 
+            *   [https://chaoss.github.io/grimoirelab-tutorial/graal/intro.html](https://chaoss.github.io/grimoirelab-tutorial/graal/intro.html)an  example of setup.cfg and projects.json are at: [https://github.com/chaoss/grimoirelab-sirmordred/blob/master/utils/setup.cfg](https://github.com/chaoss/grimoirelab-sirmordred/blob/master/utils/setup.cfg)   [https://github.com/chaoss/grimoirelab-sirmordred/blob/master/utils/projects.json](https://github.com/chaoss/grimoirelab-sirmordred/blob/master/utils/projects.json) 
 *   Software
     *   Augur 
         *   No updates
@@ -779,11 +771,11 @@ Notes:
 
 *   Discussion about the metrics template. Right now, the template under discussion is: 
     *   Description
-    *    Objectives
-    *    Filters and Visualizations
-    *    Reference Implementation
-    *    Known Implementations
-    *    Resources
+    *   Objectives
+    *   Filters and Visualizations
+    *   Reference Implementation
+    *   Known Implementations
+    *   Resources
 *   AI Matt: Create a suggestion for a template that may be simpler. The template may have required and optional headings. Create pull requests in each working group and metrics repo.
     *   Description (required)
         *   Please describe what this metric shows, why it is important to look at.
@@ -815,7 +807,7 @@ Notes:
     *   CFP is going up!
     *   Matt will start sending out the sponsorship requests this week
 *   CHAOSS Calendar 
-    *   [https://calendar.google.com/calendar/embed?src=j9f60skdd67938kvgl0udgqjqs%40group.calendar.google.com&ctz=America%2FChicago ](https://calendar.google.com/calendar/embed?src=j9f60skdd67938kvgl0udgqjqs%40group.calendar.google.com&ctz=America%2FChicago)
+    *   [https://calendar.google.com/calendar/embed?src=j9f60skdd67938kvgl0udgqjqs%40group.calendar.google.com&ctz=America%2FChicago](https://calendar.google.com/calendar/embed?src=j9f60skdd67938kvgl0udgqjqs%40group.calendar.google.com&ctz=America%2FChicago)
 *   Put Software calls on Participate page
 *   Add mailing list information
 *   Add Slack and IRC
@@ -948,7 +940,7 @@ Notes:
         *   Bring these forward as metrics for V2
     *   Work to deploy V1 in software as appropriate 
 *   Provide an annual report (flyer) for an open source project 
-    *   how about a commercial-open source company and ask them for sponsorship and to cover development costs red-hat, salt-stack, netflix, disney, …
+    *   how about a commercial-open source company and ask them for sponsorship and to cover development costsred-hat, salt-stack, netflix, disney, …
     *   We would use CHAOSS metrics in the report 
         *   We work with communities to reduce the metrics that are meaningful to the community 
         *   [https://twitter.com/Bitergia/status/1063383260682747904](https://twitter.com/Bitergia/status/1063383260682747904) 
@@ -1314,9 +1306,9 @@ Notes:
     *   Sample collections: [https://chaoss.github.io/grimoirelab-sigils/](https://chaoss.github.io/grimoirelab-sigils/) 
     *   Other options could be an API 
     *   Composite metrics vs. collection of metrics
-        *   “Reference Collections” that show people sets of metrics that people working with CHAOSS and its tools might have suggested.  \
-I think a composite metric is a single data or visual representation of the information resulting when you merge several discrete metrics together in a particular way. For example, one could weight “activity” differently for issues and commits to show an aggregate of “activity” across repositories. Metric collections maintain the discrete values for each of the metrics in the collection. So, composite is highly customizable, IMHO Composite == “Pro Level” \
-Collection == “Starting level" 
+        *   “Reference Collections” that show people sets of metrics that people working with CHAOSS and its tools might have suggested. \
+I think a composite metric is a single data or visual representation of the information resulting when you merge several discrete metrics together in a particular way. For example, one could weight “activity” differently for issues and commits to show an aggregate of “activity” across repositories.Metric collections maintain the discrete values for each of the metrics in the collection. So, composite is highly customizable, IMHOComposite == “Pro Level” \
+Collection == “Starting level"
     *   At some point, before the end of the call, Georg wants to talk about GSoC, specifically adding Jenkins to WG-Evolution repo (https://github.com/chaoss/wg-evolution/issues/225)
 *   [https://github.com/chaoss/wg-evolution/issues/225](https://github.com/chaoss/wg-evolution/issues/225)
     *   Discussion to include Travis CI in the Evolution WG for the reference implementations 
@@ -1388,7 +1380,7 @@ Notes:
             *   [https://github.com/Nebrethar/DoSOCSv2](https://github.com/Nebrethar/DoSOCSv2) 
         *   Working to remain parallel with the work that the CII Badging Program is doing 
             *   AI: Sean will describe this in more detail 
-        *   SDDI slides can be found at [https://drive.google.com/file/d/1X0dT2bw7zvCU0_12c7mBRk5MCExWhRd-/view?usp=sharing](https://drive.google.com/file/d/1X0dT2bw7zvCU0_12c7mBRk5MCExWhRd-/view?usp=sharing)  
+        *   SDDI slides can be found at [https://drive.google.com/file/d/1X0dT2bw7zvCU0_12c7mBRk5MCExWhRd-/view?usp=sharing](https://drive.google.com/file/d/1X0dT2bw7zvCU0_12c7mBRk5MCExWhRd-/view?usp=sharing) 
     *   D&I 
         *   Looking to advance the pilot project work with CHAOSS D&I metrics 
         *   Diversity Chairs at Academic Conferences (?) 
