@@ -207,13 +207,17 @@ The aims will require working in a programming language to automate the task. We
 
 Micro-tasks and place for questions [will add link later]
 
+This project will generalize, and make available through a PyPy distributable Python package the core functionality currently within the Augur contributor worker, and envisioned as the next phase of the Augur contributor worker. A worker is a data collection, machine learning, notification, or mapping daemon that can be managed by Augur for comprehensive data analysis, or installed independently. 
+
 [Augur Contributor Worker](https://github.com/chaoss/augur) is the tool that reconciles identities in Augur, using information from Git Platforms, Git Logs, and voluntary mailing lists. The contributor worker is a tool that automatically scans all repository data collected by augur to resolve distinct individuals to all of the often 10 or more aliases they can be identified across different systems. 
 
 The aims of the project are as follows:
-  - Define a data model to store an organization's internal structure.
+  - Construct an API Accessible Graph Database for identifying and mapping contributors who use multiple email addresses within a platform, and identifiers across platforms. 
   - Implement methods to manage this information.
-  - Integrate this information on the UI
-  - (Extra stretch goal) Store organization aliases (e.g `Google` and `Google, LLC`). Also, 
+  - Integrate this information into clearer, more parsimonious CHAOSS metrics. 
+  - Automate the management of contributor changes over time
+  - Enable analysis at the project level that obscures or anonymizes individual developer identity
+
 
 * _Difficulty:_ Medium
 * _Requirements:_ Interest in software analytics. Python programming. JavaScript programming. SQL knowledge.
