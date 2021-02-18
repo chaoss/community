@@ -228,7 +228,20 @@ Although the development of it is on its later stage and it will be ready soon f
 stable version of the platform, there are many good ideas that we will like to
 incorporate. Some of them were selected for GSoC 2021.
 
-# Idea: Automatically identify Contributor Aliases (emails, platform user accounts) to Increase Parsimony of Statistics and Metrics
+The aims of the project are as follows:
+  - Identify useful recommendations for the end-user.
+  - Implement new recommendations.
+  - Integrate recommendations on the UI.
+
+The aims will require generating code in **Python** for **Django** and the **GraphQL API**, and for the web app (generated with **Vue.js** and **Vuetify**).
+
+* _Difficulty:_ Hard
+* _Requirements:_ Interest in software analytics. Python programming. JavaScript programming. SQL knowledge. Willingness to understand GrimoireLab internals.
+* _Recommended:_ Experience with Python, JavaScript, UI development, GraphQL, Django, and Vue.js would be convenient but can be learned during the project.
+* _Mentors:_ Santi Duenas, Eva Millán, Miguel Ángel Fernández
+
+
+## Idea: Automatically identify Contributor Aliases (emails, platform user accounts) to Increase Parsimony of Statistics and Metrics
 
 Micro-tasks and place for questions [will add link later]
 
@@ -246,7 +259,7 @@ The aims of the project are as follows:
 * _Mentors:_ Sean Goggins, Andrew Brain, John McGinnis
 
 
-# Idea: Develop a Shared Data Resource Focused on Dependencies, Risk and Vulnerabilities in Open Source Software 
+## Idea: Develop a Shared Data Resource Focused on Dependencies, Risk and Vulnerabilities in Open Source Software 
 
 The aim of this work is to understand the code based dependencies embedded within a piece of open source software. This metric explicitly excludes infrastructure focused dependencies like databases, and operating systems, which are defined in the “upstream infrastructure dependencies” metric. 
 
