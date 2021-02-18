@@ -85,7 +85,7 @@ The aims will require working in a programming language to automate the task, us
 
 
 
-## Idea: Extend data model and user interface to capture better information about contributors
+## Idea: Automated Contributor Alias Identification and De-Duplication with Privacy Enhancements 
 
 Micro-tasks and place for questions [will add link later]
 
@@ -116,7 +116,7 @@ The aims of the project are as follows:
   - Define a data model to store an organization's internal structure.
   - Implement methods to manage this information.
   - Integrate this information on the UI
-  - (Extra stretch goal) Store organization aliases (e.g `Google` and `Google, LLC`). Also, 
+  - (Extra stretch goal) Store organization aliases (e.g `Google` and `Google, LLC`). 
 
 * _Difficulty:_ Hard
 * _Requirements:_ Interest in software analytics. Python programming. JavaScript programming. SQL knowledge. Willingness to understand GrimoireLab internals.
