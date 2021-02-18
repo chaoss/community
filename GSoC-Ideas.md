@@ -110,8 +110,6 @@ Although the development of it is on its later stage and it will be ready soon f
 stable version of the platform, there are many good ideas that we will like to
 incorporate. Some of them were selected for GSoC 2021.
 
-[Augur Contributor Worker](https://github.com/chaoss/augur) is the tool that reconciles identities in Augur, using information from Git Platforms, Git Logs, and voluntary mailing lists. The contributor worker is a tool that automatically scans all repository data collected by augur to resolve distinct individuals to all of the often 10 or more aliases they can be identified across different systems. 
-
 The aims of the project are as follows:
   - Define a data model to store an organization's internal structure.
   - Implement methods to manage this information.
