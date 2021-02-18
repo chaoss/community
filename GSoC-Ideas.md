@@ -85,7 +85,7 @@ The aims will require working in a programming language to automate the task, us
 
 
 
-## Idea: Automated Contributor Alias Identification and De-Duplication with Privacy Enhancements 
+## Idea: Extend data model and user interface to capture better information about contributors
 
 Micro-tasks and place for questions [will add link later]
 
@@ -201,7 +201,8 @@ The aims will require working in a programming language to automate the task. We
 * _Mentors:_ Kevin Lumbard,  Matt Germonprez, Georg Link
 
 
-## Idea: Extend data model and user interface to capture better information about contributors
+
+## Idea: Automated Contributor Alias Identification and De-Duplication with Privacy Enhancements 
 
 Micro-tasks and place for questions [will add link later]
 
