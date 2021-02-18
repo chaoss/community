@@ -202,45 +202,8 @@ The aims will require working in a programming language to automate the task. We
 
 
 
-## Idea: Automated Contributor Alias Identification and De-Duplication with Privacy Enhancements 
 
-Micro-tasks and place for questions [will add link later]
-
-The information stored about Organizations is very basic. For each organization only
-its name and domains (e.g `example.com`) are stored. Organizations might have
-hierarchical structures composed by several groups, areas, and departments, where
-employees work for. We would like to be able to track all these information 
-
-[SortingHat](https://github.com/chaoss/grimoirelab-sortinghat) is the tool that
-we use to manage identities data in [GrimoireLab](https://chaoss.github.io/grimoirelab].
-As individuals in a project can have different identities - several usernames or email
-addresses - this tool allows to create unified profiles of them. Then, the platform
-will use this information to generate accurate results of the activity of these
-participants.
-
-SortingHat started as a command line tool but after some years, we saw its potential
-and we decided to create a new version, this time as a service. This new version
-provides a new GraphQL API to operate with the server and a UI web-based app, that
-replaces Hatstall, the old UI for SortingHat.
-
-Although the development of it is on its later stage and it will be ready soon for the
-stable version of the platform, there are many good ideas that we will like to
-incorporate. Some of them were selected for GSoC 2021.
-
-The aims of the project are as follows:
-  - Identify useful recommendations for the end-user.
-  - Implement new recommendations.
-  - Integrate recommendations on the UI.
-
-The aims will require generating code in **Python** for **Django** and the **GraphQL API**, and for the web app (generated with **Vue.js** and **Vuetify**).
-
-* _Difficulty:_ Hard
-* _Requirements:_ Interest in software analytics. Python programming. JavaScript programming. SQL knowledge. Willingness to understand GrimoireLab internals.
-* _Recommended:_ Experience with Python, JavaScript, UI development, GraphQL, Django, and Vue.js would be convenient but can be learned during the project.
-* _Mentors:_ Santi Duenas, Eva Millán, Miguel Ángel Fernández
-
-
-## Idea: Automatically identify Contributor Aliases (emails, platform user accounts) to Increase Parsimony of Statistics and Metrics
+## Idea: Automatically identify Contributor Aliases (emails, platform user accounts) to Increase Parsimony of Statistics and Metrics With Privacy Enhancement
 
 Micro-tasks and place for questions [will add link later]
 
