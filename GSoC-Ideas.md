@@ -12,6 +12,11 @@ Currently Augur uses computational linguistics, dependency mapping, license scan
 Pool the existing, six computational models for classifying repositories in open source ecosystems to provide a rich, and complete view of project categories and clusters within a define open source software ecosystem
 From the categories identified, projects most at risk will be identified using analysis of each of the six models, and trained with data from projects that are known to have contributed to projects earlier. 
 
+The aims of the project are as follows:
+  - Identify projects with similar styles and characteristics automatically.
+  - Recommend projects based on individual developer styles and skills.
+  - Increase awareness of open source project ecosystems, and their compopnent projects.
+
 The aims will require working in a programming language to automate the task, use API to generate the graphs, and use some Graphic editor to prepare the pdf.
 
 * _Difficulty:_ Medium
@@ -196,3 +201,94 @@ The aims will require working in a programming language to automate the task. We
 * _Requirements:_ GitHub, git, Markdown, PDF, automation experience
 * _Recommended:_ Prior experience with automatic PDF document generation
 * _Mentors:_ Kevin Lumbard,  Matt Germonprez, Georg Link
+
+
+## Idea: Extend data model and user interface to capture better information about contributors
+
+Micro-tasks and place for questions [will add link later]
+
+The information stored about Organizations is very basic. For each organization only
+its name and domains (e.g `example.com`) are stored. Organizations might have
+hierarchical structures composed by several groups, areas, and departments, where
+employees work for. We would like to be able to track all these information 
+
+[SortingHat](https://github.com/chaoss/grimoirelab-sortinghat) is the tool that
+we use to manage identities data in [GrimoireLab](https://chaoss.github.io/grimoirelab].
+As individuals in a project can have different identities - several usernames or email
+addresses - this tool allows to create unified profiles of them. Then, the platform
+will use this information to generate accurate results of the activity of these
+participants.
+
+SortingHat started as a command line tool but after some years, we saw its potential
+and we decided to create a new version, this time as a service. This new version
+provides a new GraphQL API to operate with the server and a UI web-based app, that
+replaces Hatstall, the old UI for SortingHat.
+
+Although the development of it is on its later stage and it will be ready soon for the
+stable version of the platform, there are many good ideas that we will like to
+incorporate. Some of them were selected for GSoC 2021.
+
+# Idea: Automatically identify Contributor Aliases (emails, platform user accounts) to Increase Parsimony of Statistics and Metrics
+
+Micro-tasks and place for questions [will add link later]
+
+[Augur Contributor Worker](https://github.com/chaoss/augur) is the tool that reconciles identities in Augur, using information from Git Platforms, Git Logs, and voluntary mailing lists. The contributor worker is a tool that automatically scans all repository data collected by augur to resolve distinct individuals to all of the often 10 or more aliases they can be identified across different systems. 
+
+The aims of the project are as follows:
+  - Define a data model to store an organization's internal structure.
+  - Implement methods to manage this information.
+  - Integrate this information on the UI
+  - (Extra stretch goal) Store organization aliases (e.g `Google` and `Google, LLC`). Also, 
+
+* _Difficulty:_ Medium
+* _Requirements:_ Interest in software analytics. Python programming. JavaScript programming. SQL knowledge.
+* _Recommended:_ Experience with Python
+* _Mentors:_ Sean Goggins, Andrew Brain, John McGinnis
+
+
+# Idea: Develop a Shared Data Resource Focused on Dependencies, Risk and Vulnerabilities in Open Source Software 
+
+The aim of this work is to understand the code based dependencies embedded within a piece of open source software. This metric explicitly excludes infrastructure focused dependencies like databases, and operating systems, which are defined in the “upstream infrastructure dependencies” metric. 
+
+## Objectives
+ - This software project is aimed at understanding the language level, non-infrastructure packages, and other software which are required to run a piece of software in build, test, and runtime environments. 
+ - What libraries or versions does my project explicitly depend on?
+ - What libraries or versions does my project implicitly depend on?
+
+## Implementation
+The expectation is that this would be implemented by using existing tools that examine package manager data for the languages in use (e.g., package.json for JavaScript npm, pyproject.toml / requirements.txt for Python, Gemfile / Gemfile.lock for Ruby). Ergo, dependencies will be analyzed using the project’s dependency file. 
+This will be analyzed using dependency file in the project. 
+
+Note: C/C++ generally use system package managers. Things get more complex with multiple languages, insofar as several language specific dependency files will need to be scanned.
+
+Micro-tasks and place for questions [will add link later]
+
+[Augur ](https://github.com/chaoss/augur) would be the tool that this is ultimately implemented in, although only as an accessed, shared data resources including informaiton form other tools, including: 
+
+**Resource	Link**
+ - Scorecard	https://github.com/ossf/scorecard
+ - Dependency Check	https://owasp.org/www-project-dependency-check/
+ - Proactive Error Detection in Software	https://github.com/google/oss-fuzz
+ - High Severity Vulnerability Detection	https://github.com/google/tsunami-security-scanner
+ - Kubernetes focused supply chain security	https://github.com/grafeas/kritis
+ - Verification from source to binary	https://reproducible-builds.org/ 
+ - Dependency Check (Relies on Common Platform Enumeration (CPE)	https://owasp.org/www-project-dependency-check/
+ - Securing Critical Projects OSSF Working Group	https://docs.google.com/document/d/1MIXxadtWsaROpFcJnBtYnQPoyzTCIDhd0IGV8PIV0mQ/edit
+ - Preventing Supply Chain Attacks	https://www.linuxfoundation.org/en/blog/preventing-supply-chain-attacks-like-solarwinds/
+ - Security Threats OSSF Working Group	
+ - Best Practices OSSF Working Group	
+ - National Vulnerabilities Database	https://nvd.nist.gov/vuln/full-listing/2021/1
+ - 	https://nvd.nist.gov/vuln/data-feeds#JSON_FEED
+ - Libyears	https://github.com/nasirhjafri/libyear  &  https://github.com/sesh/piprot
+ - Census II	https://drive.google.com/file/d/1zyAdbftGhSUiddh1she3X_MDlKXDSIu5/view?usp=sharing
+ - 2021 State of Open Source Vulnerabilities	https://drive.google.com/file/d/1BwJD3eqynwSms5b9WxzzHrzp-YRXMbLv/view?usp=sharing
+
+The aims of the project are as follows:
+  - Consolidate dependency information from the range of projects focused in this area.
+  - Provide a shared, open source software package for consolidating a subset of available resources (we don't expect one student to finish this entire project in a summer)
+  - Integrate this information on the CHAOSS Website
+
+* _Difficulty:_ Medium
+* _Requirements:_ Interest in software analytics. Python programming. JavaScript programming. SQL knowledge.
+* _Recommended:_ Experience with Python
+* _Mentors:_ Sean Goggins, CHAOSS Risk Working Group, Vinod Ahuja 
