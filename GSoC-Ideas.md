@@ -225,12 +225,15 @@ The aims of the project are as follows:
 
 The aim of this work is to understand the code based dependencies embedded within a piece of open source software. This metric explicitly excludes infrastructure focused dependencies like databases, and operating systems, which are defined in the “upstream infrastructure dependencies” metric. 
 
-## Objectives
+**Objectives**
  - This software project is aimed at understanding the language level, non-infrastructure packages, and other software which are required to run a piece of software in build, test, and runtime environments. 
  - What libraries or versions does my project explicitly depend on?
  - What libraries or versions does my project implicitly depend on?
+ - Consolidate dependency information from the range of projects focused in this area.
+ - Provide a shared, open source software package for consolidating a subset of available resources (we don't expect one student to finish this entire project in a summer)
+ - Integrate this information on the CHAOSS Website
 
-## Implementation
+**Implementation**
 The expectation is that this would be implemented by using existing tools that examine package manager data for the languages in use (e.g., package.json for JavaScript npm, pyproject.toml / requirements.txt for Python, Gemfile / Gemfile.lock for Ruby). Ergo, dependencies will be analyzed using the project’s dependency file. 
 This will be analyzed using dependency file in the project. 
 
@@ -258,10 +261,6 @@ Micro-tasks and place for questions [will add link later]
  - Census II	https://drive.google.com/file/d/1zyAdbftGhSUiddh1she3X_MDlKXDSIu5/view?usp=sharing
  - 2021 State of Open Source Vulnerabilities	https://drive.google.com/file/d/1BwJD3eqynwSms5b9WxzzHrzp-YRXMbLv/view?usp=sharing
 
-The aims of the project are as follows:
-  - Consolidate dependency information from the range of projects focused in this area.
-  - Provide a shared, open source software package for consolidating a subset of available resources (we don't expect one student to finish this entire project in a summer)
-  - Integrate this information on the CHAOSS Website
 
 * _Difficulty:_ Medium
 * _Requirements:_ Interest in software analytics. Python programming. JavaScript programming. SQL knowledge.
