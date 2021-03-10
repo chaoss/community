@@ -8,7 +8,7 @@ CHAOSS community governance lives here:
 
 ## How to contribute to this repository
 
-We follow the GitHub pull-request workflow. More details on how to contibute is in the [CONTRIBUTING.md](./CONTRIBUTING.md).
+We follow the GitHub pull-request workflow. More details on how to contribute is in the [CONTRIBUTING.md](./CONTRIBUTING.md).
 
 ### Maintainers of this repository
 
