@@ -15,7 +15,7 @@ From the categories identified, projects most at risk will be identified using a
 The aims of the project are as follows:
   - Identify projects with similar styles and characteristics automatically.
   - Recommend projects based on individual developer styles and skills.
-  - Increase awareness of open source project ecosystems, and their compopnent projects.
+  - Increase awareness of open source project ecosystems, and their component projects.
 
 The aims will require working in a programming language to automate the task, use API to generate the graphs, and use some Graphic editor to prepare the pdf.
 
