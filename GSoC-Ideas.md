@@ -7,10 +7,10 @@ Interested in working with CHAOSS? Below are some project ideas. We describe how
 
 Micro-tasks and place for questions [will add link later]
 
-Currently Augur uses computational linguistics, dependency mapping, license scanning, topic modeling, social network analysis, and algorithms that target temporal changes in CHAOSS metrics. The aim of this project is to leverage and advance existing algorithms to make predictions and identify projects in large ecosystems that are at risk earlier. Our theory, for example, is that community decline or the increase in hostile communications is preceded by a decline in empathy, and changes in engagement level. This project will test those theories by directing Augur’s already rich set of AI tools to bear on this specific problem.  The goal of this project is to proactively identify at-risk open source communities: 
+Currently Augur uses computational linguistics, dependency mapping, license scanning, topic modeling, social network analysis, and algorithms that target temporal changes in CHAOSS metrics. The aim of this project is to leverage and advance existing algorithms to make predictions and identify projects in large ecosystems that are at risk earlier. Our theory, for example, is that community decline or the increase in hostile communications is preceded by a decline in empathy, and changes in engagement level. This project will test those theories by directing Augur’s already rich set of AI tools to bear on this specific problem.  The goal of this project is to proactively identify at-risk open source communities:
 
 Pool the existing, six computational models for classifying repositories in open source ecosystems to provide a rich, and complete view of project categories and clusters within a define open source software ecosystem
-From the categories identified, projects most at risk will be identified using analysis of each of the six models, and trained with data from projects that are known to have contributed to projects earlier. 
+From the categories identified, projects most at risk will be identified using analysis of each of the six models, and trained with data from projects that are known to have contributed to projects earlier.
 
 The aims of the project are as follows:
   - Identify projects with similar styles and characteristics automatically.
@@ -20,7 +20,7 @@ The aims of the project are as follows:
 The aims will require working in a programming language to automate the task, use API to generate the graphs, and use some Graphic editor to prepare the pdf.
 
 * _Difficulty:_ Medium
-* _Requirements:_ Python programming, Graphic editor. 
+* _Requirements:_ Python programming, Graphic editor.
 * _Recommended:_ Experience with API, Email, GitHub, and Graphic editor program.
 * _Mentors:_ Sean Goggins, Andrew Brain, Vinod Ahuja
 
@@ -59,32 +59,6 @@ The aims will require generating code in **Python** for **Django** and the **Gra
 * _Recommended:_ Experience with Python, JavaScript, UI development, GraphQL, Django, and Vue.js would be convenient but can be learned during the project.
 * _Mentors:_ Santi Duenas, Eva Millán, Miguel Ángel Fernández
 
-
-## Idea: Creating Automated Community Health Report using Augur and Cauldron software
-
-Micro-tasks and place for questions [will add link later]
-
-CHAOSS Community Report analyzes an open source project and prepares the report on some of the project's health metrics. This program was created to help open source projects assess the health of their project by looking at a few CHAOSS metrics and engaging with CHAOSS community to learn more about ways to measure the health of their project. The Community Reports are generated with the help of Augur and Cauldron software. 
-
-Currently, the process of generating the report is manual.  In the current process, a requester submits the request on the CHAOSS website. Once the request is submitted, an automated email is sent to concerned stakeholders, who then prepare the graph from GrimoireLab and Augur software system and share it with other stakeholders. After the graphs are ready, a pdf file is prepared, and then sent to the requester. 
-
-The goal of this project is to automate the entire system.  The aim of this project is as follows:
-* Learning about automating a manual report generation process.
-* Understanding the use of API.
-* Formating the graphs either by modifying the API or using some graphic software
-* Automating the pdf generation process
-* Automating the email sending process.
-
-The aims will require working in a programming language to automate the task, use API to generate the graphs, and use some Graphic editor to prepare the pdf.
-
-* _Difficulty:_ Medium
-* _Requirements:_ Python programming, Graphic editor. 
-* _Recommended:_ Experience with API, Email, GitHub, and Graphic editor program.
-* _Mentors:_ Vinod Ahuja, Kevin Lumbard, Matt Germonprez, Sean Goggins
-
-
-
-
 ## Idea: Extend data model and user interface to capture better information about contributors
 
 Micro-tasks and place for questions [will add link later]
@@ -92,7 +66,7 @@ Micro-tasks and place for questions [will add link later]
 The information stored about Organizations is very basic. For each organization only
 its name and domains (e.g `example.com`) are stored. Organizations might have
 hierarchical structures composed by several groups, areas, and departments, where
-employees work for. We would like to be able to track all these information 
+employees work for. We would like to be able to track all these information
 
 [SortingHat](https://github.com/chaoss/grimoirelab-sortinghat) is the tool that
 we use to manage identities data in [GrimoireLab](https://chaoss.github.io/grimoirelab].
@@ -114,7 +88,7 @@ The aims of the project are as follows:
   - Define a data model to store an organization's internal structure.
   - Implement methods to manage this information.
   - Integrate this information on the UI
-  - (Extra stretch goal) Store organization aliases (e.g `Google` and `Google, LLC`). 
+  - (Extra stretch goal) Store organization aliases (e.g `Google` and `Google, LLC`).
 
 * _Difficulty:_ Hard
 * _Requirements:_ Interest in software analytics. Python programming. JavaScript programming. SQL knowledge. Willingness to understand GrimoireLab internals.
@@ -161,60 +135,58 @@ The aims will require working with:
 
 
 ## Idea: Build Prototype Metric Display Options on CHAOSS Website
- 
-Micro-tasks and place for questions [will add link later]
- 
+
+Micro-tasks and place for questions: https://github.com/chaoss/website/issues/536
+
 CHAOSS metrics are released twice a year. The metrics are currently displayed on the website - sorted by the working group that defined them: [https://chaoss.community/metrics/](https://chaoss.community/metrics/)
 
 As more metrics are defined, the need for alternative display and categorization options is necessary to reduce the burden on the user to visualize the CHAOSS metrics in meaningful ways. Work on this project would require the student to work with the community to come up with different display and categorization options for CHAOSS metrics. For example, the CHAOSS project currently has initiatives around D&I Badging and Community Health reports. The metrics associated with these initiatives are one way that CHAOSS metrics may be categorized and displayed. 
- 
+
 The aims of the project are as follows:
 * Research and ideate different metric display options and categorizations
 * Build prototype navigation menus that allow the website visitors to explore different categories of metrics.
 * Build prototype metrics web pages to display different metric categories.
- 
+
 The aims will require working with front end web development technologies and WordPress to build prototype navigation and metrics page displays.
- 
+
 * _Difficulty:_ Low
 * _Requirements:_ Interest in front-end web development
 * _Recommended:_ Experience with HTML, CSS, JavaScript, and GitHub Markdown
-* _Mentors:_ Kevin Lumbard,  Matt Germonprez
- 
- 
+* _Mentors:_ Kevin Lumbard,  Matt Germonprez, and Jaskirat Singh
+
+
 ## Idea: Automate Metrics Release Process
- 
+
 Micro-tasks and place for questions [will add link later]
 
 CHAOSS metrics are released twice a year. The metrics are currently displayed on the website - sorted by the working group that captured and defined them: [https://chaoss.community/metrics/](https://chaoss.community/metrics/)
 
 The official CHAOSS Metrics Release is captured in pdf form at the time of the release by printing each metric page as a PDF and combining them manually. The website pulls in the metrics from Markdown files in the working group GitHub repositories. It would be great if the PDF could be automatically generated from the Markdown files without having to manually PDF print the website pages.
- 
+
 The aims of the project are as follows:
 * Automate the creation of the metrics release PDF from Github Markdown files
 * Automate the creation of the translated metrics release PDF (Chinese and Spanish) from Github Markdown files
- 
+
 The aims will require working in a programming language to automate the task. We are open to suggestions about how to achieve this because we do not have any pre-existing automation in place.
- 
+
 * _Difficulty:_ Medium
 * _Requirements:_ GitHub, git, Markdown, PDF, automation experience
 * _Recommended:_ Prior experience with automatic PDF document generation
 * _Mentors:_ Kevin Lumbard,  Matt Germonprez, Georg Link
 
 
-
-
 ## Idea: Automatically identify Contributor Aliases (emails, platform user accounts) to Increase Parsimony of Statistics and Metrics With Privacy Enhancement
 
 Micro-tasks and place for questions [will add link later]
 
-This project will generalize, and make available through a PyPy distributable Python package the core functionality currently within the Augur contributor worker, and envisioned as the next phase of the Augur contributor worker. A worker is a data collection, machine learning, notification, or mapping daemon that can be managed by Augur for comprehensive data analysis, or installed independently. 
+This project will generalize, and make available through a PyPy distributable Python package the core functionality currently within the Augur contributor worker, and envisioned as the next phase of the Augur contributor worker. A worker is a data collection, machine learning, notification, or mapping daemon that can be managed by Augur for comprehensive data analysis, or installed independently.
 
-[Augur Contributor Worker](https://github.com/chaoss/augur) is the tool that reconciles identities in Augur, using information from Git Platforms, Git Logs, and voluntary mailing lists. The contributor worker is a tool that automatically scans all repository data collected by augur to resolve distinct individuals to all of the often 10 or more aliases they can be identified across different systems. 
+[Augur Contributor Worker](https://github.com/chaoss/augur) is the tool that reconciles identities in Augur, using information from Git Platforms, Git Logs, and voluntary mailing lists. The contributor worker is a tool that automatically scans all repository data collected by augur to resolve distinct individuals to all of the often 10 or more aliases they can be identified across different systems.
 
 The aims of the project are as follows:
-  - Construct an API Accessible Graph Database for identifying and mapping contributors who use multiple email addresses within a platform, and identifiers across platforms. 
+  - Construct an API Accessible Graph Database for identifying and mapping contributors who use multiple email addresses within a platform, and identifiers across platforms.
   - Implement methods to manage this information.
-  - Integrate this information into clearer, more parsimonious CHAOSS metrics. 
+  - Integrate this information into clearer, more parsimonious CHAOSS metrics.
   - Automate the management of contributor changes over time
   - Enable analysis at the project level that obscures or anonymizes individual developer identity
 
@@ -225,12 +197,12 @@ The aims of the project are as follows:
 * _Mentors:_ Sean Goggins, Andrew Brain, John McGinnis
 
 
-## Idea: Develop a Shared Data Resource Focused on Dependencies, Risk and Vulnerabilities in Open Source Software 
+## Idea: Develop a Shared Data Resource Focused on Dependencies, Risk and Vulnerabilities in Open Source Software
 
-The aim of this work is to understand the code based dependencies embedded within a piece of open source software. This metric explicitly excludes infrastructure focused dependencies like databases, and operating systems, which are defined in the “upstream infrastructure dependencies” metric. 
+The aim of this work is to understand the code based dependencies embedded within a piece of open source software. This metric explicitly excludes infrastructure focused dependencies like databases, and operating systems, which are defined in the “upstream infrastructure dependencies” metric.
 
 **Objectives**
- - This software project is aimed at understanding the language level, non-infrastructure packages, and other software which are required to run a piece of software in build, test, and runtime environments. 
+ - This software project is aimed at understanding the language level, non-infrastructure packages, and other software which are required to run a piece of software in build, test, and runtime environments.
  - What libraries or versions does my project explicitly depend on?
  - What libraries or versions does my project implicitly depend on?
  - Consolidate dependency information from the range of projects focused in this area.
@@ -238,14 +210,14 @@ The aim of this work is to understand the code based dependencies embedded withi
  - Integrate this information on the CHAOSS Website
 
 **Implementation**
-The expectation is that this would be implemented by using existing tools that examine package manager data for the languages in use (e.g., package.json for JavaScript npm, pyproject.toml / requirements.txt for Python, Gemfile / Gemfile.lock for Ruby). Ergo, dependencies will be analyzed using the project’s dependency file. 
-This will be analyzed using dependency file in the project. 
+The expectation is that this would be implemented by using existing tools that examine package manager data for the languages in use (e.g., package.json for JavaScript npm, pyproject.toml / requirements.txt for Python, Gemfile / Gemfile.lock for Ruby). Ergo, dependencies will be analyzed using the project’s dependency file.
+This will be analyzed using dependency file in the project.
 
 Note: C/C++ generally use system package managers. Things get more complex with multiple languages, insofar as several language specific dependency files will need to be scanned.
 
 Micro-tasks and place for questions [will add link later]
 
-[Augur ](https://github.com/chaoss/augur) would be the tool that this is ultimately implemented in, although only as an accessed, shared data resources including informaiton form other tools, including: 
+[Augur ](https://github.com/chaoss/augur) would be the tool that this is ultimately implemented in, although only as an accessed, shared data resources including informaiton form other tools, including:
 
 **Resource	Link**
  - Scorecard	https://github.com/ossf/scorecard
@@ -253,12 +225,12 @@ Micro-tasks and place for questions [will add link later]
  - Proactive Error Detection in Software	https://github.com/google/oss-fuzz
  - High Severity Vulnerability Detection	https://github.com/google/tsunami-security-scanner
  - Kubernetes focused supply chain security	https://github.com/grafeas/kritis
- - Verification from source to binary	https://reproducible-builds.org/ 
+ - Verification from source to binary	https://reproducible-builds.org/
  - Dependency Check (Relies on Common Platform Enumeration (CPE)	https://owasp.org/www-project-dependency-check/
  - Securing Critical Projects OSSF Working Group	https://docs.google.com/document/d/1MIXxadtWsaROpFcJnBtYnQPoyzTCIDhd0IGV8PIV0mQ/edit
  - Preventing Supply Chain Attacks	https://www.linuxfoundation.org/en/blog/preventing-supply-chain-attacks-like-solarwinds/
- - Security Threats OSSF Working Group	
- - Best Practices OSSF Working Group	
+ - Security Threats OSSF Working Group
+ - Best Practices OSSF Working Group
  - National Vulnerabilities Database	https://nvd.nist.gov/vuln/full-listing/2021/1
  - 	https://nvd.nist.gov/vuln/data-feeds#JSON_FEED
  - Libyears	https://github.com/nasirhjafri/libyear  &  https://github.com/sesh/piprot
@@ -269,4 +241,4 @@ Micro-tasks and place for questions [will add link later]
 * _Difficulty:_ Medium
 * _Requirements:_ Interest in software analytics. Python programming. JavaScript programming. SQL knowledge.
 * _Recommended:_ Experience with Python
-* _Mentors:_ Sean Goggins, CHAOSS Risk Working Group, Vinod Ahuja 
+* _Mentors:_ Sean Goggins, CHAOSS Risk Working Group, Vinod Ahuja
