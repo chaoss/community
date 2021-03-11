@@ -140,12 +140,13 @@ Micro-tasks and place for questions: https://github.com/chaoss/website/issues/53
 
 CHAOSS metrics are released twice a year. The metrics are currently displayed on the website - sorted by the working group that defined them: [https://chaoss.community/metrics/](https://chaoss.community/metrics/)
 
-As more metrics are defined, the need for alternative display and categorization options is necessary to reduce the burden on the user to visualize the CHAOSS metrics in meaningful ways. Work on this project would require the student to work with the community to come up with different display and categorization options for CHAOSS metrics. For example, the CHAOSS project currently has initiatives around D&I Badging and Community Health reports. The metrics associated with these initiatives are one way that CHAOSS metrics may be categorized and displayed. 
+As more metrics are defined, the need for alternative display and categorization options is necessary to reduce the burden on the user to visualize the CHAOSS metrics in meaningful ways. See open issue 466 (https://github.com/chaoss/website/issues/466). Work on this project would require the student to work with the community to come up with different display and categorization options for CHAOSS metrics. For example, the CHAOSS project currently has initiatives around D&I Badging and Community Health reports. The metrics associated with these initiatives are one way that CHAOSS metrics may be categorized and displayed.
 
 The aims of the project are as follows:
 * Research and ideate different metric display options and categorizations
 * Build prototype navigation menus that allow the website visitors to explore different categories of metrics.
 * Build prototype metrics web pages to display different metric categories.
+* Suggest a workflow to publish metrics from the working groups in this new website design.
 
 The aims will require working with front end web development technologies and WordPress to build prototype navigation and metrics page displays.
 
@@ -155,17 +156,17 @@ The aims will require working with front end web development technologies and Wo
 * _Mentors:_ Kevin Lumbard,  Matt Germonprez, and Jaskirat Singh
 
 
-## Idea: Automate Metrics Release Process
+## Idea: Automate Metrics Release and Process Improvement
 
-Micro-tasks and place for questions [will add link later]
+Micro-tasks and place for questions: https://github.com/chaoss/website/issues/537
 
 CHAOSS metrics are released twice a year. The metrics are currently displayed on the website - sorted by the working group that captured and defined them: [https://chaoss.community/metrics/](https://chaoss.community/metrics/)
 
-The official CHAOSS Metrics Release is captured in pdf form at the time of the release by printing each metric page as a PDF and combining them manually. The website pulls in the metrics from Markdown files in the working group GitHub repositories. It would be great if the PDF could be automatically generated from the Markdown files without having to manually PDF print the website pages.
+The official CHAOSS Metrics Release is captured in pdf form at the time of the release by printing each metric page as a PDF and combining them manually. The workflow is described in our handbook. The website pulls in the metrics from Markdown files in the working group GitHub repositories. It would be great if the PDF could be automatically generated from the Markdown files without having to manually PDF print the website pages.
 
-The aims of the project are as follows:
-* Automate the creation of the metrics release PDF from Github Markdown files
-* Automate the creation of the translated metrics release PDF (Chinese and Spanish) from Github Markdown files
+The aims of the project are as follows:  
+* Analyze the metrics release process and propose process improvements.  
+* Automate the creation of the metrics release PDF from Github Markdown files (Separate PDFs for English and translations).  
 
 The aims will require working in a programming language to automate the task. We are open to suggestions about how to achieve this because we do not have any pre-existing automation in place.
 
