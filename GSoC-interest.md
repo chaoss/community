@@ -18,8 +18,6 @@ Regards,
 GSoC Mentors
 
 ------
-    Submissions are closed. Mentors currently review proposals.
-------
 
 | Name | Email | Idea | Micro-Task Repository | Project Proposal | [GSoC submitted](https://summerofcode.withgoogle.com/) |
 | --- | --- | --- | --- | --- | --- |
