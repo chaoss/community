@@ -27,7 +27,7 @@ The aims will require working in a programming language to automate the task, us
 
 ## Idea: Build an expert system to provide recommendations to users in a user interface
 
-Micro-tasks and place for questions [will add link later]
+[Micro-tasks and place for questions](https://github.com/chaoss/grimoirelab/issues/414)
 
 The new version of SortingHat includes a basic recommender system. It guesses about what identities could be the same, or what identities work for which companies. This information might not be useful for the end user and it isn't available on the UI, thought. This project idea is about improving the recommender system to an expert system that provides useful recommendations to users.
 
@@ -87,7 +87,7 @@ The aims will require working in a programming language to automate the task, us
 
 ## Idea: Extend data model and user interface to capture better information about contributors
 
-Micro-tasks and place for questions [will add link later]
+[Micro-tasks and place for questions](https://github.com/chaoss/grimoirelab/issues/415)
 
 The information stored about Organizations is very basic. For each organization only
 its name and domains (e.g `example.com`) are stored. Organizations might have
@@ -124,7 +124,7 @@ The aims of the project are as follows:
 
 ## Idea: Implement user roles/permissions and OpenID
 
-Micro-tasks and place for questions [will add link later]
+[Micro-tasks and place for questions](https://github.com/chaoss/grimoirelab/issues/416)
 
 Right now, SortingHat only supports one type of user: the admin user. We would like to
 have different roles, so basic users don't have all the rights to do evil things when
