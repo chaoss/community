@@ -59,6 +59,77 @@ The aims will require generating code in **Python** for **Django** and the **Gra
 * _Recommended:_ Experience with Python, JavaScript, UI development, GraphQL, Django, and Vue.js would be convenient but can be learned during the project.
 * _Mentors:_ Santi Duenas, Eva Millán, Miguel Ángel Fernández
 
+## Idea: Automatically identify Contributor Aliases (emails, platform user accounts) to Increase Parsimony of Statistics and Metrics With Privacy Enhancement
+
+Micro-tasks and place for questions https://github.com/chaoss/augur/issues/1180
+
+This project will generalize, and make available through a PyPy distributable Python package the core functionality currently within the Augur contributor worker, and envisioned as the next phase of the Augur contributor worker. A worker is a data collection, machine learning, notification, or mapping daemon that can be managed by Augur for comprehensive data analysis, or installed independently.
+
+[Augur Contributor Worker](https://github.com/chaoss/augur) is the tool that reconciles identities in Augur, using information from Git Platforms, Git Logs, and voluntary mailing lists. The contributor worker is a tool that automatically scans all repository data collected by augur to resolve distinct individuals to all of the often 10 or more aliases they can be identified across different systems.
+
+The aims of the project are as follows:
+  - Construct an API Accessible Graph Database for identifying and mapping contributors who use multiple email addresses within a platform, and identifiers across platforms.
+  - Implement methods to manage this information.
+  - Integrate this information into clearer, more parsimonious CHAOSS metrics.
+  - Automate the management of contributor changes over time
+  - Enable analysis at the project level that obscures or anonymizes individual developer identity
+
+
+* _Difficulty:_ Medium
+* _Requirements:_ Interest in software analytics. Python programming. JavaScript programming. SQL knowledge.
+* _Recommended:_ Experience with Python
+* _Mentors:_ Sean Goggins, Andrew Brain, John McGinnis
+
+
+## Idea: Develop a Shared Data Resource Focused on Dependencies, Risk and Vulnerabilities in Open Source Software
+
+Micro-tasks and place for questions https://github.com/chaoss/augur/issues/1181
+
+The aim of this work is to understand the code based dependencies embedded within a piece of open source software. This metric explicitly excludes infrastructure focused dependencies like databases, and operating systems, which are defined in the “upstream infrastructure dependencies” metric.
+
+**Objectives**
+ - This software project is aimed at understanding the language level, non-infrastructure packages, and other software which are required to run a piece of software in build, test, and runtime environments.
+ - What libraries or versions does my project explicitly depend on?
+ - What libraries or versions does my project implicitly depend on?
+ - Consolidate dependency information from the range of projects focused in this area.
+ - Provide a shared, open source software package for consolidating a subset of available resources (we don't expect one student to finish this entire project in a summer)
+ - Integrate this information on the CHAOSS Website
+
+**Implementation**
+The expectation is that this would be implemented by using existing tools that examine package manager data for the languages in use (e.g., package.json for JavaScript npm, pyproject.toml / requirements.txt for Python, Gemfile / Gemfile.lock for Ruby). Ergo, dependencies will be analyzed using the project’s dependency file.
+This will be analyzed using dependency file in the project.
+
+Note: C/C++ generally use system package managers. Things get more complex with multiple languages, insofar as several language specific dependency files will need to be scanned.
+
+Micro-tasks and place for questions https://github.com/chaoss/augur/issues/1181
+
+[Augur ](https://github.com/chaoss/augur) would be the tool that this is ultimately implemented in, although only as an accessed, shared data resources including informaiton form other tools, including:
+
+**Resource	Link**
+ - Scorecard	https://github.com/ossf/scorecard
+ - Dependency Check	https://owasp.org/www-project-dependency-check/
+ - Proactive Error Detection in Software	https://github.com/google/oss-fuzz
+ - High Severity Vulnerability Detection	https://github.com/google/tsunami-security-scanner
+ - Kubernetes focused supply chain security	https://github.com/grafeas/kritis
+ - Verification from source to binary	https://reproducible-builds.org/
+ - Dependency Check (Relies on Common Platform Enumeration (CPE)	https://owasp.org/www-project-dependency-check/
+ - Securing Critical Projects OSSF Working Group	https://docs.google.com/document/d/1MIXxadtWsaROpFcJnBtYnQPoyzTCIDhd0IGV8PIV0mQ/edit
+ - Preventing Supply Chain Attacks	https://www.linuxfoundation.org/en/blog/preventing-supply-chain-attacks-like-solarwinds/
+ - Security Threats OSSF Working Group
+ - Best Practices OSSF Working Group
+ - National Vulnerabilities Database	https://nvd.nist.gov/vuln/full-listing/2021/1
+ - 	https://nvd.nist.gov/vuln/data-feeds#JSON_FEED
+ - Libyears	https://github.com/nasirhjafri/libyear  &  https://github.com/sesh/piprot
+ - Census II	https://drive.google.com/file/d/1zyAdbftGhSUiddh1she3X_MDlKXDSIu5/view?usp=sharing
+ - 2021 State of Open Source Vulnerabilities	https://drive.google.com/file/d/1BwJD3eqynwSms5b9WxzzHrzp-YRXMbLv/view?usp=sharing
+
+
+* _Difficulty:_ Medium
+* _Requirements:_ Interest in software analytics. Python programming. JavaScript programming. SQL knowledge.
+* _Recommended:_ Experience with Python
+* _Mentors:_ Sean Goggins, CHAOSS Risk Working Group, Vinod Ahuja
+
+
 ## Idea: Extend data model and user interface to capture better information about contributors
 
 [Micro-tasks and place for questions](https://github.com/chaoss/grimoirelab/issues/415)
@@ -176,70 +247,3 @@ The aims will require working in a programming language to automate the task. We
 * _Mentors:_ Kevin Lumbard,  Matt Germonprez, Georg Link
 
 
-## Idea: Automatically identify Contributor Aliases (emails, platform user accounts) to Increase Parsimony of Statistics and Metrics With Privacy Enhancement
-
-Micro-tasks and place for questions [will add link later]
-
-This project will generalize, and make available through a PyPy distributable Python package the core functionality currently within the Augur contributor worker, and envisioned as the next phase of the Augur contributor worker. A worker is a data collection, machine learning, notification, or mapping daemon that can be managed by Augur for comprehensive data analysis, or installed independently.
-
-[Augur Contributor Worker](https://github.com/chaoss/augur) is the tool that reconciles identities in Augur, using information from Git Platforms, Git Logs, and voluntary mailing lists. The contributor worker is a tool that automatically scans all repository data collected by augur to resolve distinct individuals to all of the often 10 or more aliases they can be identified across different systems.
-
-The aims of the project are as follows:
-  - Construct an API Accessible Graph Database for identifying and mapping contributors who use multiple email addresses within a platform, and identifiers across platforms.
-  - Implement methods to manage this information.
-  - Integrate this information into clearer, more parsimonious CHAOSS metrics.
-  - Automate the management of contributor changes over time
-  - Enable analysis at the project level that obscures or anonymizes individual developer identity
-
-
-* _Difficulty:_ Medium
-* _Requirements:_ Interest in software analytics. Python programming. JavaScript programming. SQL knowledge.
-* _Recommended:_ Experience with Python
-* _Mentors:_ Sean Goggins, Andrew Brain, John McGinnis
-
-
-## Idea: Develop a Shared Data Resource Focused on Dependencies, Risk and Vulnerabilities in Open Source Software
-
-The aim of this work is to understand the code based dependencies embedded within a piece of open source software. This metric explicitly excludes infrastructure focused dependencies like databases, and operating systems, which are defined in the “upstream infrastructure dependencies” metric.
-
-**Objectives**
- - This software project is aimed at understanding the language level, non-infrastructure packages, and other software which are required to run a piece of software in build, test, and runtime environments.
- - What libraries or versions does my project explicitly depend on?
- - What libraries or versions does my project implicitly depend on?
- - Consolidate dependency information from the range of projects focused in this area.
- - Provide a shared, open source software package for consolidating a subset of available resources (we don't expect one student to finish this entire project in a summer)
- - Integrate this information on the CHAOSS Website
-
-**Implementation**
-The expectation is that this would be implemented by using existing tools that examine package manager data for the languages in use (e.g., package.json for JavaScript npm, pyproject.toml / requirements.txt for Python, Gemfile / Gemfile.lock for Ruby). Ergo, dependencies will be analyzed using the project’s dependency file.
-This will be analyzed using dependency file in the project.
-
-Note: C/C++ generally use system package managers. Things get more complex with multiple languages, insofar as several language specific dependency files will need to be scanned.
-
-Micro-tasks and place for questions [will add link later]
-
-[Augur ](https://github.com/chaoss/augur) would be the tool that this is ultimately implemented in, although only as an accessed, shared data resources including informaiton form other tools, including:
-
-**Resource	Link**
- - Scorecard	https://github.com/ossf/scorecard
- - Dependency Check	https://owasp.org/www-project-dependency-check/
- - Proactive Error Detection in Software	https://github.com/google/oss-fuzz
- - High Severity Vulnerability Detection	https://github.com/google/tsunami-security-scanner
- - Kubernetes focused supply chain security	https://github.com/grafeas/kritis
- - Verification from source to binary	https://reproducible-builds.org/
- - Dependency Check (Relies on Common Platform Enumeration (CPE)	https://owasp.org/www-project-dependency-check/
- - Securing Critical Projects OSSF Working Group	https://docs.google.com/document/d/1MIXxadtWsaROpFcJnBtYnQPoyzTCIDhd0IGV8PIV0mQ/edit
- - Preventing Supply Chain Attacks	https://www.linuxfoundation.org/en/blog/preventing-supply-chain-attacks-like-solarwinds/
- - Security Threats OSSF Working Group
- - Best Practices OSSF Working Group
- - National Vulnerabilities Database	https://nvd.nist.gov/vuln/full-listing/2021/1
- - 	https://nvd.nist.gov/vuln/data-feeds#JSON_FEED
- - Libyears	https://github.com/nasirhjafri/libyear  &  https://github.com/sesh/piprot
- - Census II	https://drive.google.com/file/d/1zyAdbftGhSUiddh1she3X_MDlKXDSIu5/view?usp=sharing
- - 2021 State of Open Source Vulnerabilities	https://drive.google.com/file/d/1BwJD3eqynwSms5b9WxzzHrzp-YRXMbLv/view?usp=sharing
-
-
-* _Difficulty:_ Medium
-* _Requirements:_ Interest in software analytics. Python programming. JavaScript programming. SQL knowledge.
-* _Recommended:_ Experience with Python
-* _Mentors:_ Sean Goggins, CHAOSS Risk Working Group, Vinod Ahuja
