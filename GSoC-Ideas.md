@@ -5,7 +5,7 @@ Interested in working with CHAOSS? Below are some project ideas. We describe how
 
 ## Idea: Advancing Risk Prediction With Machine Learning in Augur
 
-Micro-tasks and place for questions [will add link later]
+Micro-tasks and place for questions https://github.com/chaoss/augur/issues/1179
 
 Currently Augur uses computational linguistics, dependency mapping, license scanning, topic modeling, social network analysis, and algorithms that target temporal changes in CHAOSS metrics. The aim of this project is to leverage and advance existing algorithms to make predictions and identify projects in large ecosystems that are at risk earlier. Our theory, for example, is that community decline or the increase in hostile communications is preceded by a decline in empathy, and changes in engagement level. This project will test those theories by directing Augur’s already rich set of AI tools to bear on this specific problem.  The goal of this project is to proactively identify at-risk open source communities:
 
