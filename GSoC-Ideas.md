@@ -99,7 +99,7 @@ The aim of this work is to understand the code based dependencies embedded withi
 The expectation is that this would be implemented by using existing tools that examine package manager data for the languages in use (e.g., package.json for JavaScript npm, pyproject.toml / requirements.txt for Python, Gemfile / Gemfile.lock for Ruby). Ergo, dependencies will be analyzed using the project’s dependency file.
 This will be analyzed using dependency file in the project.
 
-Note: C/C++ generally use system package managers. Things get more complex with multiple languages, insofar as several language specific dependency files will need to be scanned.
+Note: C/C++ generally **do not** use system package managers. Things get more complex with multiple languages, insofar as several language specific dependency files will need to be scanned.
 
 Micro-tasks and place for questions https://github.com/chaoss/augur/issues/1181
 
