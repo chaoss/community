@@ -20,8 +20,8 @@ The aims of the project are as follows:
 The aims will require working in a programming language to automate the task, use API to generate the graphs, and use some Graphic editor to prepare the pdf.
 
 * _Difficulty:_ Medium
-* _Requirements:_ Python programming, Graphic editor.
-* _Recommended:_ Experience with accessing API's, writing SQL, and an interest in Machine Learning.
+* _Requirements:_ Python programming experience, or a strong interest.
+* _Recommended:_ Experience with accessing API's, writing SQL, and a strong interest in Machine Learning.
 * _Mentors:_ Sean Goggins, Andrew Brain, Vinod Ahuja
 
 
