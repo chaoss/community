@@ -21,7 +21,7 @@ The aims will require working in a programming language to automate the task, us
 
 * _Difficulty:_ Medium
 * _Requirements:_ Python programming, Graphic editor.
-* _Recommended:_ Experience with accessing API's, writing SQL, and an in interest in Machine Learning.
+* _Recommended:_ Experience with accessing API's, writing SQL, and an interest in Machine Learning.
 * _Mentors:_ Sean Goggins, Andrew Brain, Vinod Ahuja
 
 
