@@ -2,6 +2,7 @@
 
 Interested in working with CHAOSS? Below are some project ideas. We describe how to apply to work with CHAOSS and how we select students on a different page: https://github.com/chaoss/governance/blob/master/GSoC-interest.md
 
+----
 
 ## Idea: Advancing Risk Prediction With Machine Learning in Augur
 
