@@ -6,7 +6,7 @@ Interested in working with CHAOSS? Below are some project ideas. We describe how
 
 ## Idea: Advancing Risk Prediction With Machine Learning in Augur
 
-Micro-tasks and place for questions https://github.com/chaoss/augur/issues/1179
+[Micro-tasks and place for questions]( https://github.com/chaoss/augur/issues/1179 )
 
 Currently Augur uses computational linguistics, dependency mapping, license scanning, topic modeling, social network analysis, and algorithms that target temporal changes in CHAOSS metrics. The aim of this project is to leverage and advance existing algorithms to make predictions and identify projects in large ecosystems that are at risk earlier. Our theory, for example, is that community decline or the increase in hostile communications is preceded by a decline in empathy, and changes in engagement level. This project will test those theories by directing Augur’s already rich set of AI tools to bear on this specific problem.  The goal of this project is to proactively identify at-risk open source communities:
 
@@ -62,7 +62,7 @@ The aims will require generating code in **Python** for **Django** and the **Gra
 
 ## Idea: Automatically identify Contributor Aliases (emails, platform user accounts) to Increase Parsimony of Statistics and Metrics With Privacy Enhancement
 
-Micro-tasks and place for questions https://github.com/chaoss/augur/issues/1180
+[Micro-tasks and place for questions]( https://github.com/chaoss/augur/issues/1180 )
 
 This project will generalize, and make available through a PyPy distributable Python package the core functionality currently within the Augur contributor worker, and envisioned as the next phase of the Augur contributor worker. A worker is a data collection, machine learning, notification, or mapping daemon that can be managed by Augur for comprehensive data analysis, or installed independently.
 
@@ -84,7 +84,7 @@ The aims of the project are as follows:
 
 ## Idea: Develop a Shared Data Resource Focused on Dependencies, Risk and Vulnerabilities in Open Source Software
 
-Micro-tasks and place for questions https://github.com/chaoss/augur/issues/1181
+[Micro-tasks and place for questions]( https://github.com/chaoss/augur/issues/1181 )
 
 The aim of this work is to understand the code based dependencies embedded within a piece of open source software. This metric explicitly excludes infrastructure focused dependencies like databases, and operating systems, which are defined in the “upstream infrastructure dependencies” metric.
 
@@ -208,7 +208,7 @@ The aims will require working with:
 
 ## Idea: Build Prototype Metric Display Options on CHAOSS Website
 
-Micro-tasks and place for questions: https://github.com/chaoss/website/issues/536
+[Micro-tasks and place for questions]( https://github.com/chaoss/website/issues/536 )
 
 CHAOSS metrics are released twice a year. The metrics are currently displayed on the website - sorted by the working group that defined them: [https://chaoss.community/metrics/](https://chaoss.community/metrics/)
 
@@ -230,7 +230,7 @@ The aims will require working with front end web development technologies and Wo
 
 ## Idea: Automate Metrics Release and Process Improvement
 
-Micro-tasks and place for questions: https://github.com/chaoss/website/issues/537
+[Micro-tasks and place for questions]( https://github.com/chaoss/website/issues/537 )
 
 CHAOSS metrics are released twice a year. The metrics are currently displayed on the website - sorted by the working group that captured and defined them: [https://chaoss.community/metrics/](https://chaoss.community/metrics/)
 
