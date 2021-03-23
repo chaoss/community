@@ -30,7 +30,7 @@ Changes can be made from within the GitHub user interface. As a non-maintainer, 
 Every commit needs a [Developer Certificate of Origin](https://developercertificate.org/) (DCO).
 A DCO sign-off is accomplished by writing into the commit comment field.   
 `Signed-off-by: Your Name <YourName@example.org>`   
-It should be noted that the angled brackets **< >** are to be ingored when typing your email address.
+It should be noted that the angled brackets `<` and `>` need to be included with the email.
  
 This process can be automated by using a browser plugin like [scottrigby/dco-gh-ui](https://github.com/scottrigby/dco-gh-ui). This plugin is non intrusive and works only on GitHub. You would need to input your registered GitHub email address in the email field.
 
