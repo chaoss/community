@@ -13,7 +13,8 @@ Anyone can contribute to CHAOSS on any of our communication channels. See <https
 CHAOSS uses the following channels for contributions:
 - Mailing Lists
 - Community calls
-- Working group calls.
+- Working group calls
+- GitHub
 
 ### Conversations and high-level contributions (email, call, face to face)
 
