@@ -23,6 +23,8 @@ License: GNU General Public License (GPL), version 3 or later (same of the tools
 
 ## Create Documentation for Website
 
+The CHAOSS website is a WordPress site. The structure and templates for the site are managed directly in WordPress by the web-content group maintainers. Content for the website is colloboratively developed in website and working group GitHub repositories. The content is pulled directly into the WordPress site using a WordPress/GitHub connector application. Webpages are broken down into GitHub content areas and GitHub markdown files are used to populate those content areas. The webcontent group would like to improve existing contribution documentation and create new documents where needed.
+
 Aims of the project:
  - How to contribute doc
  - Style guide
