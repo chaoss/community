@@ -2,28 +2,32 @@
 
 ## What is this document?
 
-This document outlines a generic process of contributing and applies to all CHAOSS repositories. Each repository may have unique guidelines specific to the project.
+This document outlines a generic process of contributing and applies to all CHAOSS repositories. Each repository may have unique guidelines specific to the project, but this document serves as a primer for what is required when contributing to CHAOSS.
 
-## Where can I contribute?
+## Who can contribute?
 
-Anyone can contribute to CHAOSS on any of our communication channels. See <https://chaoss.community/participate/>.
+Anyone can contribute to CHAOSS on any of our communication channels. See <https://chaoss.community/participate/> to learn more about how to participate.
 
 ## Which channel should I use?
 
-### Conversations and high-level contributions (email, call, f2f)
+### Conversations and high-level contributions (email, call, face to face)
 
 Strategic directions, clarifications of scope, and ideas in an early stage are best discussed on the mailing list, calls, and face-to-face meetings. See <https://chaoss.community/participate/>.
 
 ### Bug report and feature request contributions (issue)
 
-Bug reports and specific feature requests are best discussed in an issue on the repository they pertain to.
+Bug reports and specific feature requests are best discussed in an issue on the repository they pertain to. You can do this by creating a issue and explaining what bug you found in the comment section. The conversation moves from there.
 
 ### Code or document change contributions (GitHub interface)
 
 Changes can be made from within the GitHub user interface. As a non-maintainer, GitHub will create a fork under your name and ask that you create a pull request. The pull request lets the repository maintainers know of your change and provides a space to discuss the change.
 
 Every commit needs a [Developer Certificate of Origin](https://developercertificate.org/) (DCO).
-A DCO sign-off is accomplished by writing `Signed-off-by: Your Name <YourName@example.org>` into the commit comment field. This can be automated by using a browser plugin like [scottrigby/dco-gh-ui](https://github.com/scottrigby/dco-gh-ui)
+A DCO sign-off is accomplished by writing into the commit comment field.   
+`Signed-off-by: Your Name <YourName@example.org>`   
+It should be noted that the angled brackets **< >** are to be ingored when typing your email address.
+ 
+This process can be automated by using a browser plugin like [scottrigby/dco-gh-ui](https://github.com/scottrigby/dco-gh-ui). This plugin is non intrusive and works only on GitHub. Yu would need to input your registered GitHub email address in the email field.
 
 *If you forget to add the sign-off you can also amend a previous commit with the sign-off. For this, you need to clone the repository on your local machine and run `git commit --amend -s`. Because you have pushed your changes to GitHub already you'll need to force push your branch after this with `git push -f`.*
 
@@ -61,7 +65,7 @@ Then, [submit a pull request][pr] on GitHub to the CHAOSS repository.
 At this point you are waiting on the CHAOSS repository maintainers. They will comment on your pull requests
 within three business days (and, typically, one business day).
 
-The CHAOSS repository maintainers will report on open issues and pull requests on the [calls and via the mail list][participate] to elicit feedback from the community.
+The CHAOSS repository maintainers will report on open issues and pull requests on the [calls and via the mailing list][participate] to elicit feedback from the community.
 
 [participate]: https://chaoss.community/participate/
 
