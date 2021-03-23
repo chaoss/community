@@ -1,14 +1,19 @@
-# How to Contribute
+# Contributing to CHAOSS
+👍🎉 First off, thanks for taking the time to contribute! 🎉👍
 
 ## What is this document?
 
-This document outlines a generic process of contributing and applies to all CHAOSS repositories. Each repository may have unique guidelines specific to the project, but this document serves as a primer for what is required when contributing to CHAOSS.
+This document outlines a generic process of contributing and applies to all CHAOSS repositories. Each repository may have unique guidelines specific to the project, but this document serves as a primer for what is required when contributing to CHAOSS. Use your best judgement, and feel free to propose changes to this document in a pull request
 
 ## Who can contribute?
 
 Anyone can contribute to CHAOSS on any of our communication channels. See <https://chaoss.community/participate/> to learn more about how to participate.
 
 ## Which channel should I use?
+CHAOSS uses the following channels for contributions:
+- Mailing Lists
+- Community calls
+- Working group calls.
 
 ### Conversations and high-level contributions (email, call, face to face)
 
@@ -18,7 +23,7 @@ Strategic directions, clarifications of scope, and ideas in an early stage are b
 
 Bug reports and specific feature requests are best discussed in an issue on the repository they pertain to. You can do this by creating a issue and explaining what bug you found in the comment section. The conversation moves from there.
 
-### Code or document change contributions (GitHub interface)
+### Code or document change contributions (GitHub User Interface)
 
 Changes can be made from within the GitHub user interface. As a non-maintainer, GitHub will create a fork under your name and ask that you create a pull request. The pull request lets the repository maintainers know of your change and provides a space to discuss the change.
 
