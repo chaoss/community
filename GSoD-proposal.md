@@ -55,9 +55,9 @@ $15,000 USD
 
 Budget item | Amount | Running Total | Notes/justifications
 ------------|--------|---------------|---------------------
-Technical writer develop and implement new documentation for the project: **GrimoireLab** | 5000.00 | 5000.00 | 
-Technical writer develop and implement new documentation for the project: **Website** | 5000.00 | 10000.00 | 
-Technical writer develop and implement new documentation for the project: **Augur** | 5000.00 | 15000.00 | 
+Technical writer develop and implement new documentation for the project: **GrimoireLab** | 5,000.00 | 5,000.00 | 
+Technical writer develop and implement new documentation for the project: **Website** | 5,000.00 | 10,000.00 | 
+Technical writer develop and implement new documentation for the project: **Augur** | 5,000.00 | 15,000.00 | 
 TOTAL |  | USD $15,000.00 |
 
 ## Additional information
