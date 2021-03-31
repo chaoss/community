@@ -7,14 +7,25 @@ This document outlines a generic process of contributing and applies to all CHAO
 
 ## Who can contribute?
 
-Anyone can contribute to CHAOSS on any of our communication channels. See <https://chaoss.community/participate/> to learn more about how to participate.
+Anyone can contribute to CHAOSS on any of our communication channels. See <https://chaoss.community/participate/> to learn more about how to participate. We are excited to meet first-timers and we are always ready to support you during your contribution journey.
 
 ## Which channel should I use?
 CHAOSS uses the following channels for contributions:
+
 - Mailing Lists
 - Community calls
 - Working group calls
 - GitHub
+
+## Catch us online
+
+- [CHAOSS on the Web](https://chaoss.community)
+- [CHAOSS on GitHub](https://github.com/chaoss)
+- [CHAOSS on Community Bridge](https://tinyurl.com/y6bao886) 
+- [CHAOSS Podcast](https://podcast.chaoss.community/) 
+- [CHAOSS on YouTube](https://youtube.com/c/CHAOSStube) 
+- [CHAOSS on Twitter](https://twitter.com/chaossproj)
+- [CHAOSS on LinkedIn](https://linkedin.com/company/chaoss/)
 
 ### Conversations and high-level contributions (email, call, face to face)
 
@@ -22,7 +33,7 @@ Strategic directions, clarifications of scope, and ideas in an early stage are b
 
 ### Bug report and feature request contributions (issue)
 
-Bug reports and specific feature requests are best discussed in an issue on the repository they pertain to. You can do this by creating a issue and explaining what bug you found in the comment section. The conversation moves from there.
+Bug reports and specific feature requests are best discussed in an issue on the repository they pertain to. You can do this by creating an issue and explaining what bug you found in the comment section. The conversation moves from there.
 
 ### Code or document change contributions (GitHub User Interface)
 
@@ -32,8 +43,8 @@ Every commit needs a [Developer Certificate of Origin](https://developercertific
 A DCO sign-off is accomplished by writing into the commit comment field:
 `Signed-off-by: Your Name <YourName@example.org>`   
 It should be noted that the angled brackets `<` and `>` need to be included with the email.
- 
-This process can be automated by using a browser plugin like [scottrigby/dco-gh-ui](https://github.com/scottrigby/dco-gh-ui). This plugin is non intrusive and works only on GitHub. You would need to input your registered GitHub email address in the email field.
+
+This process can be automated by using a browser plugin like [scottrigby/dco-gh-ui](https://github.com/scottrigby/dco-gh-ui). This plugin is non-intrusive and works only on GitHub. You would need to input your registered GitHub email address in the email field.
 
 *If you forget to add the sign-off you can also amend a previous commit with the sign-off. For this, you need to clone the repository on your local machine and run `git commit --amend -s`. Because you have pushed your changes to GitHub already you'll need to force push your branch after this with `git push -f`.*
 
@@ -68,7 +79,14 @@ Then, [submit a pull request][pr] on GitHub to the CHAOSS repository.
 [pr]: https://github.com/thoughtbot/factory_girl_rails/compare/
 [clone]: https://help.github.com/articles/cloning-a-repository/
 
-At this point you are waiting on the CHAOSS repository maintainers. They will comment on your pull requests
+### Pull Request Checklist  
+
+- [x] Check if your code addition will pass both code linting checks and unit test.  
+- [x] Check if your documentation commits are free from typos.
+- [x] Check the commits and commits messages and ensure they are free from typos.
+- [x] Please describe your pull request.  
+
+At this point, you are waiting on the CHAOSS repository maintainers. They will comment on your pull requests
 within three business days (and, typically, one business day).
 
 The CHAOSS repository maintainers will report on open issues and pull requests on the [calls and via the mailing list][participate] to elicit feedback from the community.
@@ -77,7 +95,7 @@ The CHAOSS repository maintainers will report on open issues and pull requests o
 
 ## Who is a CHAOSS repository maintainer?
 
-The README.md of the repository contains a list of who is maintainer. Each CHAOSS repositry brings together different people and they document in the repository specific CONTRIBUTING.md how somone becomes a maintainer on their repository.
+The README.md of the repository contains a list of maintainers. Each CHAOSS repository brings together different people and they document in the repository-specific CONTRIBUTING.md how someone becomes a maintainer on their repository.
 
 ## What about releases?
 
@@ -87,12 +105,12 @@ CHAOSS repository maintainers tag commits on the master branch as [releases][rl]
 
 ## How do we make decisions?
 
-The basic decision making mechanism for CHAOSS is lazy consensus which occurs on the relevant mailing list. Each of the software projects or working groups will try to reach consensus on their decisions, after giving a reasonable opportunity to people contributing in them to express their opinion. When a discussion about a decision happens outside of the mailing list in the periodic calls or other communication channels, a proposal for a decision will be sent to the appropriate mailing list(s). The decision should be finalized on the mailing list using lazy consensus after giving people who were not in the discussion time to review, comment, and participate.
+The basic decision-making mechanism for CHAOSS is a lazy consensus that occurs on the relevant mailing list. Each of the software projects or working groups will try to reach a consensus on their decisions, after giving a reasonable opportunity to people contributing to them to express their opinion. When a discussion about a decision happens outside of the mailing list in the periodic calls or other communication channels, a proposal for a decision will be sent to the appropriate mailing list(s). The decision should be finalized on the mailing list using lazy consensus after giving people who were not in the discussion time to review, comment, and participate.
 
 When the issues under discussion are perceived to be of importance to the whole CHAOSS community, the same process will be carried on at the CHAOSS level, using the general periodic calls and other communication means for discussion with the final decision being made on the mailing list using lazy consensus.
 
-If consensus is not reached, the issue may be raised to the CHAOSS board, where consensus and voting may be used to get a final decision on the matter.
+If consensus is not reached, the issue may be raised to the [CHAOSS board](https://chaoss.community/about/governing-board/), where consensus and voting may be used to get a final decision on the matter.
 
 In any case, all decisions are subject to the [CHAOSS Charter](project-charter.md).
 
-_Note_: By "lazy consensus" we mean, [as Apache does](http://www.apache.org/foundation/glossary.html#LazyConsensus) a decision-making policy which assumes general consent if no responses are posted within a defined period. For example, "I'm going to commit this by lazy consensus if no-one objects within the next three days." 
+_Note_: By "lazy consensus" we mean, [as Apache does](http://www.apache.org/foundation/glossary.html#LazyConsensus) a decision-making policy that assumes general consent if no responses are posted within a defined period. For example, "I'm going to commit this by lazy consensus if no-one objects within the next three days." 
