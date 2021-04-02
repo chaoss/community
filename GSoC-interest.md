@@ -24,4 +24,4 @@ GSoC Mentors
 | Your Name Here | Your Email Here |  Idea You Hoping to Work On | Link to your Mico-task Repo | Link to Your Proposal |
 | Georg Link | linkgeorg@gmail.com | This is an example entry | [Micro-task](https://github.com/chaoss/governance/blob/master/GSoC-Ideas.md) | [Proposal Template](https://docs.google.com/document/d/1YZez6_hgp2dBybEsMZoQ-ONB9IawK4_OPISLHe9Tjew/edit) | NO |
 | Pankaj Biradar | pankaj28988@gmail.com | Build prototype Metric Display Options on CHAOSS Website | [Micro-task](https://github.com/pankaj892/CHAOSS-task) | [Proposal](https://docs.google.com/document/d/1RiErLUDrfcRfbdM5WOk5E72xpqwtGuWB8p-N8bZSZE8/edit?usp=sharing) | NO |
-
+| Boxuan Zhao | b-x-zhao@sjtu.edu.cn | Advancing Risk Prediction With Machine Learning in Augur | [Micro-task](https://github.com/BoxuanZhao/augur) | [Proposal](https://docs.google.com/document/d/1VJb2vbmq2CY1_PZbs91qT7mmAXF85440aM3ar9yL7I8/edit?usp=sharing) | YES |
