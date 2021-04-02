@@ -23,5 +23,5 @@ GSoC Mentors
 | --- | --- | --- | --- | --- | --- |
 | Your Name Here | Your Email Here |  Idea You Hoping to Work On | Link to your Mico-task Repo | Link to Your Proposal |
 | Georg Link | linkgeorg@gmail.com | This is an example entry | [Micro-task](https://github.com/chaoss/governance/blob/master/GSoC-Ideas.md) | [Proposal Template](https://docs.google.com/document/d/1YZez6_hgp2dBybEsMZoQ-ONB9IawK4_OPISLHe9Tjew/edit) | NO |
-
+| Pankaj Biradar | pankaj28988@gmail.com | Build prototype Metric Display Options on CHAOSS Website | [Micro-task](https://github.com/pankaj892/CHAOSS-task) | [Proposal](https://docs.google.com/document/d/1RiErLUDrfcRfbdM5WOk5E72xpqwtGuWB8p-N8bZSZE8/edit?usp=sharing) | NO |
 
