@@ -21,7 +21,8 @@ CHAOSS uses the following channels for contributions:
 
 - [CHAOSS on the Web](https://chaoss.community)
 - [CHAOSS on GitHub](https://github.com/chaoss)
-- [CHAOSS on Community Bridge](https://tinyurl.com/y6bao886) 
+- [CHAOSS on LFX Crowdfunding](https://crowdfunding.lfx.linuxfoundation.org/projects/a4a43b66-f707-47b4-97cc-484285c274a8)
+- [CHAOSS on Open Collective](https://opencollective.com/chaoss) 
 - [CHAOSS Podcast](https://podcast.chaoss.community/) 
 - [CHAOSS on YouTube](https://youtube.com/c/CHAOSStube) 
 - [CHAOSS on Twitter](https://twitter.com/chaossproj)
