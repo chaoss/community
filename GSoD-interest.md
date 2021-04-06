@@ -4,7 +4,7 @@ Hi potential GSoD students,
 
 If you are interested in participating in Season of Docs as a technical writer, first familiarize yourself with the [Technical Writer Guide | Season of Docs](https://developers.google.com/season-of-docs/docs/tech-writer-guide).
 
-This document serves the purpose of Statement of Interest which has to be submitted by the technical writers. Please read about it, [Creating a statement of interest | Season of Docs](https://developers.google.com/season-of-docs/docs/tech-writer-statement).
+Adding a link to your document below serves the purpose of Statement of Interest which has to be submitted by the technical writers. Please read about it, [Creating a statement of interest | Season of Docs](https://developers.google.com/season-of-docs/docs/tech-writer-statement).
 
 **Notes**
 1. In the 2021 Season of Docs program, organizations work directly with technical writers to create, improve, and update documentation. Organizations select technical writers directly. Technical writers interested in working with organizations should submit a statement of interest, using the channel specified on the organization's proposal page.
