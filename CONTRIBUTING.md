@@ -82,10 +82,10 @@ Then, [submit a pull request][pr] on GitHub to the CHAOSS repository.
 
 ### Pull Request Checklist  
 
-- [x] Check if your code addition will pass both code linting checks and unit test.  
-- [x] Check if your documentation commits are free from typos.
-- [x] Check the commits and commits messages and ensure they are free from typos.
-- [x] Please describe your pull request.  
+- [ ] Check if your code addition will pass both code linting checks and unit test.  
+- [ ] Check if your documentation commits are free from typos.
+- [ ] Check the commits and commits messages and ensure they are free from typos.
+- [ ] Please describe your pull request.  
 
 At this point, you are waiting on the CHAOSS repository maintainers. They will comment on your pull requests
 within three business days (and, typically, one business day).
