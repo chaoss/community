@@ -1,43 +1,21 @@
-# Google Season of Docs 2020 Interested Candidates
+# Google Season of Docs 2021 Interested Candidates
 
 Hi potential GSoD students,
 
-If you are interested in participating in Season of Docs as a technical writer, first familiarize yourself with the technical writer guide at https://goo.gl/dMVSQ8 and the technical writer responsibilities at https://goo.gl/BEqo2A. Check the [GSoD 2020 Technical Writer Participant Agreement](https://developers.google.com/season-of-docs/terms/tech-writer-terms) too.
+If you are interested in participating in Season of Docs as a technical writer, first familiarize yourself with the [Technical Writer Guide | Season of Docs](https://developers.google.com/season-of-docs/docs/tech-writer-guide).
 
-**NOTE**: 
-1. CHAOSS is participating in GSoD 2020 under The Linux Foundation, [Join CHAOSS for GSoD 2020](https://chaoss.community/blog-post/2020/06/09/google-summer-of-docs).
-2. You can also find the ideas on The Linux Foundation wiki page, [GSoD 2020 CHAOSS wiki](https://wiki.linuxfoundation.org/gsoc/2020-gsod-chaoss).
-3. Know more about the working groups from here, [Participate, CHAOSS Community](https://chaoss.community/participate/).
+Adding a link to your document below serves the purpose of Statement of Interest which has to be submitted by the technical writers. Please read about it, [Creating a statement of interest | Season of Docs](https://developers.google.com/season-of-docs/docs/tech-writer-statement).
 
----
+**Notes**
+1. In the 2021 Season of Docs program, organizations work directly with technical writers to create, improve, and update documentation. Organizations select technical writers directly. Technical writers interested in working with organizations should submit a statement of interest, using the channel specified on the organization's proposal page.
+2. Your statement of interest should include your contact information, information about your technical writing experience, and an outline of the work you would do with the organization. It should also highlight how you meet any specific requirements the organization has for technical writers. Read the project ideas page of the organization carefully to make sure you have included all the information they require.
+3. Once you started working on the project statement, create a pull request on this file below to add yourself, your information, and a link to your statement.
 
-A few details regarding the application process specific to the CHAOSS project:
-
-1) You must select one (or more) idea out of the five ideas which we have proposed. You can find the ideas at the GSoD Idea page at: [GSoD-ideas.md](./GSoD-ideas.md).
-
-2) Once you have selected the idea, create a pull request on this file below to add yourself, your information, and a link to your proposal. **UPDATE:** This repository now requires [Developer Certificate of Origin](https://developercertificate.org/) (DCO) sign-off; see [CONTRIBUTING.md](https://github.com/chaoss/governance/blob/master/CONTRIBUTING.md#code-or-document-change-contributions-github-interface) for details on how to sign your commits.
-
-3) You are welcome to include in your previous technical writing work, contributions to other projects, skills, and other related information.
-
-4) Using and submitting other people's work as your own is not allowed. If you use other people's work, be sure to acknowledge their work in your submission.
-
-You must complete these things by July 9, 2020 at 18:00 UTC. Make sure to also submit the [Technical Writer Application Form for 2020 Season of Docs](https://bit.ly/gsod-tw-app), provided by Google.
-
-Regards,
-
-GSoD Mentors
-
+**UPDATE:** This repository requires [Developer Certificate of Origin](https://developercertificate.org/) (DCO) sign-off; see [CONTRIBUTING.md](https://github.com/chaoss/governance/blob/master/CONTRIBUTING.md#code-or-document-change-contributions-github-interface) for details on how to sign your commits. 
 
 ------
-
 
 | Name | Email | Idea | Project Proposal |
 | --- | --- | --- | --- |
 | Your Name Here | Your Email Here |  Idea You Hoping to Work On | Link to Your Proposal |
 | Georg Link | linkgeorg@gmail.com | This is an example entry | Proposal Link |
-| Tharun Ravuri | tharunravuri2000@gmail.com | Building Documentation for D&I Badging project | [Proposal Link](https://docs.google.com/document/d/1aEFSaIYKscs0Y8t3-9Zqu3-xSGaujatNCIZH3xKa9Ho/edit?usp=sharing) |
-| Jaskirat Singh | juskirat2000@gmail.com | Create a CHAOSS Community-wide Handbook | [Proposal Link](https://docs.google.com/document/d/1q6Xua7tECetKoTbMjmuAHMJ1tSYUe8LlY_MjnNmu2so/edit?usp=sharing) |
-| Xiaoya Xia | xiaoyaxiaesther@gmail.com | Build Documentation for CHAOSS D&I Badging Project | [Proposal Link](https://docs.google.com/document/d/1WgTo7xQ2OYSn4dWkwtdruK86WBNArBzSWvyW9LWF-LY/edit?usp=sharing) |
-| Jacqueline Binya | jacquelinebinya@gmail.com |Building Documentation for D&I Badging Project | [Proposal Link](https://docs.google.com/document/d/1yip9DJ0vaMnE8hJ3pF9nXhAommgP3Hgkywlhsxob0Zw/edit?usp=sharing)
-| Kriti Singh | kritisingh1.ks@gmail.com | Expanding and Restyling GrimoireLab Tutorial | [Proposal Link](https://docs.google.com/document/d/1qIHnU-Js58QUuNBVe1ZFYm05opOWOvtbyxoygLd9ECk/edit?usp=sharing) |
-| Brown Ime Linus | ilinusbrown@gmail.com | Write a Conceptual overview of CHAOSS D&I | https://docs.google.com/document/d/1fugmmK5hblmPQG8lu9b7uKLHh05PhBMadh7_c6L5juI/edit?usp=sharing |
