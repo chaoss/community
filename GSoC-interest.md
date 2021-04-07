@@ -19,10 +19,12 @@ GSoC Mentors
 
 ------
 
-| Name | Email | Idea | Micro-Task Repository | Project Proposal | [GSoC submitted](https://summerofcode.withgoogle.com/) |
-| --- | --- | --- | --- | --- | --- |
+| Name | Email | Idea | Micro-Task Repository | Project Proposal
+| --- | --- | --- | --- | --- | 
 | Your Name Here | Your Email Here |  Idea You Hoping to Work On | Link to your Mico-task Repo | Link to Your Proposal |
-| Georg Link | linkgeorg@gmail.com | This is an example entry | [Micro-task](https://github.com/chaoss/governance/blob/master/GSoC-Ideas.md) | [Proposal Template](https://docs.google.com/document/d/1YZez6_hgp2dBybEsMZoQ-ONB9IawK4_OPISLHe9Tjew/edit) | NO |
-| Pankaj Biradar | pankaj28988@gmail.com | Build prototype Metric Display Options on CHAOSS Website | [Micro-task](https://github.com/pankaj892/CHAOSS-task) | [Proposal](https://docs.google.com/document/d/1RiErLUDrfcRfbdM5WOk5E72xpqwtGuWB8p-N8bZSZE8/edit?usp=sharing) | NO |
-| Rashmi K A | k.a.rashmi04@gmail.com | Extend data model and user interface to capture better information about contributors | [Micro-task](https://github.com/Rashmi-K-A/chaoss-sortinghat) | [Proposal](https://docs.google.com/document/d/1oUd-G-N4VXh77FRI4PTSWJHoVxGt2WZDNu7JwuFMbW4/edit?usp=sharing) | NO |
-| Sourabh Saraswat | saraswatsourabh5@gmail.com | Implement user roles/permissions and OpenID | [Micro-task](https://github.com/SourabhSaraswat-191939/GSoC-chaoss-microtasks) | [Proposal](https://docs.google.com/document/d/1_4VhenTS9VmYEZVBLrG0O1WbQ1qW41NuTIKaifeQEUE/edit?usp=sharing) | NO |
+| Georg Link | linkgeorg@gmail.com | This is an example entry | [Micro-task](https://github.com/chaoss/governance/blob/master/GSoC-Ideas.md) | [Proposal Template](https://docs.google.com/document/d/1YZez6_hgp2dBybEsMZoQ-ONB9IawK4_OPISLHe9Tjew/edit) |
+| Pankaj Biradar | pankaj28988@gmail.com | Build prototype Metric Display Options on CHAOSS Website | [Micro-task](https://github.com/pankaj892/CHAOSS-task) | [Proposal](https://docs.google.com/document/d/1RiErLUDrfcRfbdM5WOk5E72xpqwtGuWB8p-N8bZSZE8/edit?usp=sharing) |
+| Boxuan Zhao | b-x-zhao@sjtu.edu.cn | Advancing Risk Prediction With Machine Learning in Augur | [Micro-task](https://github.com/BoxuanZhao/augur) | [Proposal](https://docs.google.com/document/d/1VJb2vbmq2CY1_PZbs91qT7mmAXF85440aM3ar9yL7I8/edit?usp=sharing) |
+| Rashmi K A | k.a.rashmi04@gmail.com | Extend data model and user interface to capture better information about contributors | [Micro-task](https://github.com/Rashmi-K-A/chaoss-sortinghat) | [Proposal](https://docs.google.com/document/d/1oUd-G-N4VXh77FRI4PTSWJHoVxGt2WZDNu7JwuFMbW4/edit?usp=sharing) |
+| Sourabh Saraswat | saraswatsourabh5@gmail.com | Implement user roles/permissions and OpenID | [Micro-task](https://github.com/SourabhSaraswat-191939/GSoC-chaoss-microtasks) | [Proposal](https://docs.google.com/document/d/1_4VhenTS9VmYEZVBLrG0O1WbQ1qW41NuTIKaifeQEUE/edit?usp=sharing) |
+| Wasim Akhtar Khan | wasimkhan03150@gmail.com | Build an expert system to provide recommendations to users in a user interface | [Micro-task](https://github.com/WasimAkhtarKhan/Micro-Tasks-CHAOSS) | [Proposal](https://docs.google.com/document/d/1FfAN_z1lbiFupy8LfGVqJXhbOXwZW4K-0V1ZvyqLQvs/edit?usp=sharing) |
