@@ -19,6 +19,8 @@ GSoC Mentors
 
 ------
 
+## Applicants
+
 | Name | Email | Idea | Micro-Task Repository | Project Proposal | Submitted on GSOC | 
 | --- | --- | --- | --- | --- | --- |
 | Your Name Here | Your Email Here |  Idea You Hoping to Work On | Link to your Mico-task Repo | Link to Your Proposal | YES/NO |
