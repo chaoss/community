@@ -1,14 +1,14 @@
 # Governance
 CHAOSS community governance lives here:
 
-* [Community Handbook](./community-handbook/)
-* [Project Charter](./project-charter.md)
-* [Code of Conduct](./code-of-conduct.md)
-* [Google Summer of Code coordination](./GSoC-interest.md)
+* [Community Handbook](community-handbook)
+* [Project Charter](project-charter.md)
+* [Code of Conduct](code-of-conduct.md)
+* [Google Summer of Code coordination](GSoC-interest.md)
 
 ## How to contribute to this repository
 
-We follow the GitHub pull-request workflow. More details on how to contribute is in the [CONTRIBUTING.md](./CONTRIBUTING.md).
+We follow the GitHub pull-request workflow. More details on how to contribute is in the [CONTRIBUTING.md](CONTRIBUTING.md).
 
 ### Maintainers of this repository
 
