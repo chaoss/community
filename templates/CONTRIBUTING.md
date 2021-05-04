@@ -1,8 +1,5 @@
-# Template 
+# Contributing to CHAOSS
 
-This document should point to the master [contributing guide](page-yet-to-be-created) in the community handbook.
+Thank you for your interest in contributing :tada:!
 
-Any other guidelines which are unique to a particular working group may further be added to this document.
-
-Note:- This document must be present in each working group repository.
-
+The general contributing guidelines can be found in the [community handbook](page-yet-to-be-created) 

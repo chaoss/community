@@ -1,7 +1,5 @@
-# Template
+# Code of Conduct
 
-This document should point to the full [code of conduct](https://github.com/chaoss/governance/blob/master/code-of-conduct.md) that exists in the governance repository.
+Please refer to the [CHAOSS Community Code of Conduct](https://github.com/chaoss/governance/blob/master/code-of-conduct.md)
 
-The same code of conduct is adopted by each working group.
-
-Note:- This document must be present in each working group repository.
+Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the CHAOSS Code of Conduct Committee via  <chaoss-inclusion@lists.linuxfoundation.org>
