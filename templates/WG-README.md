@@ -47,13 +47,12 @@ Link to [Code of Conduct](https://github.com/chaoss/governance/blob/master/code-
 
 ## Contributing
 
-Link to `CONTRIBUTING.md` of the concerned working group.
+See the [CONTRIBUTING.md](CONTRIBUTING.md) for more info.
 
 ## Metrics
 
 ### Focus-Areas and Goals
 Mainly a table of the focus areas and their goals linked to subfolders in the `focus-areas` folder. 
-<br/>
 
 ### Released Metrics
 A section guiding the user to the released metrics.
@@ -74,10 +73,8 @@ List containing names of contact persons (linked to their Github profiles) for t
 ### Amazing CHAOSS Project Contributors
 
 Link to [contributors](https://chaoss.community/metrics/#user-content-chaoss-contributors-include) listed on the website.
-<br/>
 
 ## License
 
-- Link to the `LICENSE` file
+- See [LICENSE](LICENSE) file.
 - Copyright notice
-<br/>
