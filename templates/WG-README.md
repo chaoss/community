@@ -1,4 +1,4 @@
-# CHAOSS \<_wg-name_\> Working Group
+# CHAOSS \<wg-name\> Working Group
 
 Badges (If Any)
 
@@ -16,17 +16,14 @@ Badges (If Any)
 ### Goals 
 
 A brief description about the goals of the working group.
-<br/>
 
 ### Purpose
 
 Answers to why the working group was formed.
-<br/>
 
 ### Who should join this working group?
 
 Interests and requirements of the working group.
-<br/>
 
 ### Background
 
@@ -52,7 +49,13 @@ See the [CONTRIBUTING.md](CONTRIBUTING.md) for more info.
 ## Metrics
 
 ### Focus-Areas and Goals
-Mainly a table of the focus areas and their goals linked to subfolders in the `focus-areas` folder. 
+
+Focus Area | Goal
+--- | ---
+[Focus Area 1](focus-areas/focus-area-1) | 
+[Focus Area 2](focus-areas/focus-area-2) | 
+[Focus Area 3](focus-areas/focus-area-3) | 
+[Focus Area 4](focus-areas/focus-area-4) | 
 
 ### Released Metrics
 A section guiding the user to the released metrics.
@@ -76,5 +79,6 @@ Link to [contributors](https://chaoss.community/metrics/#user-content-chaoss-con
 
 ## License
 
-- See [LICENSE](LICENSE) file.
-- Copyright notice
+See [LICENSE](LICENSE) file.
+
+Copyright © 202X - CHAOSS, a Linux Foundation Project
