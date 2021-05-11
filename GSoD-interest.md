@@ -19,3 +19,4 @@ Adding a link to your document below serves the purpose of Statement of Interest
 | --- | --- | --- | --- |
 | Your Name Here | Your Email Here |  Idea You Hoping to Work On | Link to Your Proposal |
 | Georg Link | linkgeorg@gmail.com | This is an example entry | Proposal Link |
+| Kunal Mehta | mehtakunal205@gmail.com | Create Documentation for Website | https://docs.google.com/document/d/1wyH1ra4H6aNwE2ievliRK5t7qAUIwMYRiOqGvCuLjDE/edit?usp=sharing |
