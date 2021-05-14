@@ -3,7 +3,8 @@
 
 ## What is this document?
 
-This document outlines a generic process of contributing and applies to all CHAOSS repositories. Each repository may have unique guidelines specific to the project, but this document serves as a primer for what is required when contributing to CHAOSS. Use your best judgement, and feel free to propose changes to this document in a pull request
+This document outlines a generic process of contributing and applies to all CHAOSS repositories. Each repository may have unique guidelines specific to the project, but this document serves as a primer for what is required when contributing to CHAOSS.   
+Use your best judgement, and feel free to propose changes to this document in a pull request
 
 ## Who can contribute?
 
@@ -38,14 +39,35 @@ Bug reports and specific feature requests are best discussed in an issue on the 
 
 ### Code or document change contributions (GitHub User Interface)
 
-Changes can be made from within the GitHub user interface. As a non-maintainer, GitHub will create a fork under your name and ask that you create a pull request. The pull request lets the repository maintainers know of your change and provides a space to discuss the change.
+Changes can be made from within the GitHub user interface. As a non-maintainer, GitHub will create a fork under your name and ask that you create a pull request. The pull request lets the repository maintainers know of your change and provides a space to discuss the change.  
 
-Every commit needs a [Developer Certificate of Origin](https://developercertificate.org/) (DCO).
-A DCO sign-off is accomplished by writing into the commit comment field:
+The [CHAOSS Charter](https://github.com/chaoss/governance/blob/master/project-charter.md) requires that contributions
+are accompanied by a [Developer Certificate of Origin](http://developercertificate.org) sign-off.  
+For ensuring it, a bot checks all incoming commits.  
+
+A DCO sign-off is accomplished by writing into the commit comment field:  
+
 `Signed-off-by: Your Name <YourName@example.org>`   
+  
 It should be noted that the angled brackets `<` and `>` need to be included with the email.
 
-This process can be automated by using a browser plugin like [scottrigby/dco-gh-ui](https://github.com/scottrigby/dco-gh-ui). This plugin is non-intrusive and works only on GitHub. You would need to input your registered GitHub email address in the email field.
+This can be automated by using a browser plugin like
+[DCO GitHub UI](https://github.com/scottrigby/dco-gh-ui).
+
+#### Steps to use the DCO browser plugin
+The  [DCO browser plugin](https://github.com/scottrigby/dco-gh-ui) is a handy tool to automatically sign commits created using GitHub. 
+To enable this plugin: 
+
+- Go to the plugin page on the [chrome web store](https://chrome.google.com/webstore/detail/dco-github-ui/onhgmjhnaeipfgacbglaphlmllkpoijo).
+- Alternatively, you could go to the [firefox addon page](https://addons.mozilla.org/en-US/firefox/addon/scott-rigby/) to add the extension to your browser.
+- Once you add the extension, right click on the extension in the toolbar of your browser and select `Options`. 
+- A dialog box will open up as shown below. Fill in your GitHub name (not the handle) and email-id. 
+
+- Then, whenever you perform a commit on GitHub, the line `Signed-off-by: Your Name <Youremail>` will automatically appear in the commit description while making changes to a file as shown in the example below. A commit message can be added to the lines above the auto-generated sign-off. 
+
+- Once you perform the commit and send a pull request, the commit will be verified and approved by the DCO bot. 
+
+ This plugin is non-intrusive and works only on GitHub. 
 
 *If you forget to add the sign-off you can also amend a previous commit with the sign-off. For this, you need to clone the repository on your local machine and run `git commit --amend -s`. Because you have pushed your changes to GitHub already you'll need to force push your branch after this with `git push -f`.*
 
@@ -82,10 +104,10 @@ Then, [submit a pull request][pr] on GitHub to the CHAOSS repository.
 
 ### Pull Request Checklist  
 
-- [ ] Check if your code addition will pass both code linting checks and unit test.  
+- [ ] Check if your code addition will pass both code linting checks and unit tests.  
 - [ ] Check if your documentation commits are free from typos.
-- [ ] Check the commits and commits messages and ensure they are free from typos.
-- [ ] Please describe your pull request.  
+- [ ] Ensure your commit messages are descriptive. [How to Write a Git Commit Message](https://chris.beams.io/posts/git-commit/) explains how to write good commit messages.
+- [ ] Check the commits and commits messages and ensure they are free from typos. 
 
 At this point, you are waiting on the CHAOSS repository maintainers. They will comment on your pull requests
 within three business days (and, typically, one business day).
