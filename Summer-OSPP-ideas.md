@@ -69,6 +69,8 @@ The template of CHAOSS community report v1: https://github.com/chaoss/community-
 
 Project ID: 210190824 | [Project Link on the Website](https://summer.iscas.ac.cn/#/org/prodetail/210190824?lang=en)
 
+[Micro-tasks and place for questions](https://github.com/chaoss/grimoirelab/issues/433)
+
 **Project Description:**
 
 [GrimoireLab](https://chaoss.github.io/grimoirelab) is a powerful open-source platform that provides support for monitoring and in-depth analysis of software projects. It produces a rich set of metrics with data extracted from more than 30 tools related to contributing to Open Source development such as version control systems, issue trackers and forums. These metrics are shown and exploited on Web dynamic dashboards, which can be easily inspected by decision-makers to help them understand the evolution and health of their projects.
