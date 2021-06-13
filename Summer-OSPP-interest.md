@@ -26,3 +26,4 @@ Summer OSPP Mentors
 | --- | --- | --- | --- | --- | 
 | Your Name Here | Your Email Here |  Idea You Hoping to Work On | Link to your Mico-task Repo (if any) | Link to Your Project Application Proposal |
 | Georg Link | linkgeorg@gmail.com | This is an example entry | --- | [Project Application Proposal](https://docs.google.com/document/d/1C1iazxyyuo3lm7N1QXEQnM3RM58fFB9hzXD1jXzUwII/edit?usp=sharing) |
+| Veerasamy Sevagen | sevagenv@gmail.com  | Expanding and restyling the GrimoireLab tutorial | [Microtasks](https://github.com/VSevagen/Summer-OSPP-Microtasks) | [Project Proposal](https://docs.google.com/document/d/1La3TOinfkiD1k1O75SxuHKBk00WFZBvNhXfecPV2ga4/edit?usp=sharing) |
