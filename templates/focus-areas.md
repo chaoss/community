@@ -4,7 +4,7 @@ This  file is divided into 2 parts:
 1. Template for `WG/focus-areas/README.md`
 2. Template for `WG/focus-areas/<focus-area-name>/README.md`
 
-## Part 1
+## Template for `WG/focus-areas/README.md`
 
 The following template describes the structure of READMEs for focus-areas in each WG repositories:
 
@@ -30,7 +30,7 @@ We request use of a specific relative path format:
 * (don’t use this:) ./focus-area-1/
 * (don’t use this:) focus-area-1/
 
-## Part 2
+## Template for `WG/focus-areas/<focus-area-name>/README.md`
 
 The following template describes the structure of READMEs in each focus-area:
 
