@@ -1,5 +1,6 @@
 # CHAOSS Project’s Data Policies
 
+Last updated: August 2021
 
 ## Community Data Policy
 
