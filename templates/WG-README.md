@@ -77,8 +77,12 @@ List containing names of contact persons (linked to their Github profiles) for t
 
 Link to [contributors](https://chaoss.community/metrics/#user-content-chaoss-contributors-include) listed on the website.
 
-## License
+## License and Attribution
 
-See [LICENSE](LICENSE) file.
+See [LICENSE](LICENSE) file. 
+
+### How to Cite this Work?
+
+If you would like to cite the work produced in this CHAOSS Working Group, please use the following [CITATION.cff](CITATION.cff) file in this repository. 
 
 Copyright © 202X - CHAOSS, a Linux Foundation Project
