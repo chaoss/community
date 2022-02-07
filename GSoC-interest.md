@@ -20,9 +20,6 @@ GSoC Mentors
 ------
 
 ## Applicants
-
-| Name | Email | Idea | Micro-Task Repository | Project Proposal | Submitted on GSoC | 
-| --- | --- | --- | --- | --- | --- |
-| Your Name Here | Your Email Here |  Idea You Hoping to Work On | Link to your Mico-task Repo | Link to Your Proposal | YES/NO |
-| Georg Link | linkgeorg@gmail.com | This is an example entry | [Micro-task](https://github.com/chaoss/governance/blob/master/GSoC-Ideas.md) | [Proposal Template](https://docs.google.com/document/d/1YZez6_hgp2dBybEsMZoQ-ONB9IawK4_OPISLHe9Tjew/edit) | NO |
+ 
+**The applicants section will be completed as applicants are added here. At the moment, we are at the very beginning!**
 
