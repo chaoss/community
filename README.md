@@ -14,6 +14,7 @@ We follow the GitHub pull-request workflow. More details on how to contribute is
 ### Maintainers of this repository
 
 * [Georg Link](https://github.com/GeorgLink)
+* [Elizabeth Barron](https://github.com/ElizabethN)
 
 ### How to become a maintainer
 
