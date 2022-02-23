@@ -48,7 +48,7 @@ Describe the programming Skills necessary, and those a potential student should 
 * _Difficulty:_ Low, Medium, High (or other classification of your choosing)
 * _Requirements:_ These can be technical or analytical.
 * _Recommended:_ Aimed at "things you have done before, at least in class."
-* _Mentors:_ Last year 2 mentors were required per project. Waiting for site to open for this year.
+* _Mentors:_ Last year 2 mentors were required per project. Waiting for GSoC site to open for this year.
 
 ## Idea: Improve the CHAOSS DEI Event Badging Review Bot
 
