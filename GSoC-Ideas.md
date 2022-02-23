@@ -2,13 +2,13 @@
 
 Interested in working with CHAOSS? Below are some project ideas. We describe how to apply to work with CHAOSS and how we select students on a different page: https://github.com/chaoss/governance/blob/master/GSoC-interest.md
 
-**[CHAOSS FOLK: Please see our 2021 Document for Examples](./GSoC-ideas-2021.md)**
+**[CHAOSS FOLK: Please see our 2021 Document for Examples](./GSoC-Ideas-2021.md)**
 
 ----
 
 ## Idea: Provide a Title that Succinctly Summarizes the Idea
 
-[Micro-tasks and place for questions]`(  )` **In the parentheses, provide a link to an issue open for answering questions** 
+[Micro-tasks and place for questions]`(  )` **In the parentheses, provide a link to an issue open for answering questions**
 
 ```
 One paragraph description. Perhaps two. (coding ticks provided only for emphasis. Remove before submitting PR.)
@@ -26,11 +26,11 @@ Describe the programming Skills necessary, and those a potential student should 
 * _Difficulty:_ Low, Medium, High (or other classification of your choosing)
 * _Requirements:_ These can be technical or analytical. 
 * _Recommended:_ Aimed at "things you have done before, at least in class."
-* _Mentors:_ Last year 2 mentors were required per project. Waiting for site to open for this year. 
+* _Mentors:_ Last year 2 mentors were required per project. Waiting for GSoC site to open for this year.
 
 ## Each Subsequent Idea gets a new heading like this
 
-[Micro-tasks and place for questions]`(  )` **In the parentheses, provide a link to an issue open for answering questions** 
+[Micro-tasks and place for questions]`(  )` **In the parentheses, provide a link to an issue open for answering questions**
 
 ```
 One paragraph description. Perhaps two. (coding ticks provided only for emphasis. Remove before submitting PR.)
@@ -46,9 +46,9 @@ Describe the programming Skills necessary, and those a potential student should 
 ```
 
 * _Difficulty:_ Low, Medium, High (or other classification of your choosing)
-* _Requirements:_ These can be technical or analytical. 
+* _Requirements:_ These can be technical or analytical.
 * _Recommended:_ Aimed at "things you have done before, at least in class."
-* _Mentors:_ Last year 2 mentors were required per project. Waiting for site to open for this year. 
+* _Mentors:_ Last year 2 mentors were required per project. Waiting for site to open for this year.
 
 ## Idea: Improve the CHAOSS DEI Event Badging Review Bot
 
@@ -68,5 +68,3 @@ The applicant must be prepared to work with existing code to improve a GitHub ap
 * _Requirements:_ Appreciates DEI, Working knowledge of JavaScript, Experience with GitHub Apps
 * _Recommended:_ Experience with webhooks, Experience creating documentation
 * _Mentors:_ Matt Cantu Snell
-
-
