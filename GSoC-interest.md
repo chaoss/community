@@ -12,7 +12,7 @@ A few details regarding the application process specific to the CHAOSS project:
 
 4) Using and submitting other people's work as your own is not allowed. If you use other people's work, be sure to acknowledge their work in your submission.
 
-You must complete these things by April 13, 2021 13:00 US Central Time (UTC-5). Make sure to also [submit the information required by GSoC for applicants](https://summerofcode.withgoogle.com/) (i.e., project proposal), linking to it from your pull request to this file. Here is an [Proposal Template](https://docs.google.com/document/d/1YZez6_hgp2dBybEsMZoQ-ONB9IawK4_OPISLHe9Tjew/edit) to get you started.
+You must complete these things by April 19, 2022 13:00 US Central Time (UTC-5). Make sure to also [submit the information required by GSoC for applicants](https://summerofcode.withgoogle.com/) (i.e., project proposal), linking to it from your pull request to this file. Here is an [Proposal Template](https://docs.google.com/document/d/1YZez6_hgp2dBybEsMZoQ-ONB9IawK4_OPISLHe9Tjew/edit) to get you started.
 
 Regards,
 GSoC Mentors
