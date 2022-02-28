@@ -224,6 +224,7 @@ The following is an example from the [openEuler](https://www.openeuler.org/en/) 
 ## IDEA: Open Source Software Health Metrics Visualization Exploration
 
 [Micro-tasks and place for questions](https://github.com/chaoss/augur-community-reports/issues/34)
+
 The CHAOSS Community currently delivers pre-packaged visualizations of open source software health data through Augur APIs (https://github.com/chaoss/augur/augur/routes/pull_request_reports and https://github.com/chaoss/augur/augur/routes/contributor_reports), and the https://github.com/augur-community-reports repository. This project seeks to expand, refine, and standardize the visualization of different classes of community health metrics data. Specifically, some analyses are temporal, others are anomaly driven, and in some cases contrasts across repositories and communities are required. In each case, the visualization of data is an essential component for metrics, and what we are now referring to as metrics models (https://github.com/chaoss/wg-metrics-models). 
 
 
