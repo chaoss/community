@@ -225,23 +225,19 @@ The following is an example from the [openEuler](https://www.openeuler.org/en/) 
 
 ## IDEA: Open Source Software Health Metrics Visualization Exploration
 
-[Micro-tasks and place for questions]()
-
+[Micro-tasks and place for questions](https://github.com/chaoss/augur-community-reports/issues/34)
+The CHAOSS Community currently delivers pre-packaged visualizations of open source software health data through Augur APIs (https://github.com/chaoss/augur/augur/routes/pull_request_reports and https://github.com/chaoss/augur/augur/routes/contributor_reports), and the https://github.com/augur-community-reports repository. This project seeks to expand, refine, and standardize the visualization of different classes of community health metrics data. Specifically, some analyses are temporal, others are anomaly driven, and in some cases contrasts across repositories and communities are required. In each case, the visualization of data is an essential component for metrics, and what we are now referring to as metrics models (https://github.com/chaoss/wg-metrics-models). 
 
 
 The aims of the project are as follows:
-  - X
-  - Y
-  - Q
+  - Experiment with standard metrics visualizations using direct Augur database connections, or through the Augur API. 
+  - Refine metrics, and metrics model visualizations using Jupyter Notebooks are similar technology.
+  - Transform visualizations, as they are completed, into Augur API endpoints, following the pull request, and contributor reports examples. 
 
-```
-Describe the programming Skills necessary, and those a potential student should be willing to learn. (coding ticks provided only for emphasis. Remove before submitting PR.)
-```
-
-* _Difficulty:_ Low, Medium, High (or other classification of your choosing)
-* _Requirements:_ These can be technical or analytical.
-* _Recommended:_ Aimed at "things you have done before, at least in class."
-* _Mentors:_ Last year 2 mentors were required per project. Waiting for GSoC site to open for this year.
+* _Difficulty:_ Medium
+* _Requirements:_ Strong interest in data visualization. 
+* _Recommended:_ Experience with Python is desirable, and experience designing, or developing visualizations is desirable. 
+* _Mentors:_ Sean Goggins, Andrew Brain, Vinod Ahuja. 
 
 ## Idea: Build Knowledgebase Application on CHAOSS Website
 
