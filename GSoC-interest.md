@@ -25,3 +25,11 @@ GSoC Mentors
  
 **The applicants section will be completed as applicants are added here. At the moment, we are at the very beginning!**
 
+**UPDATE:** This repository requires [Developer Certificate of Origin](https://developercertificate.org/) (DCO) sign-off; see [CONTRIBUTING.md](https://github.com/chaoss/governance/blob/master/CONTRIBUTING.md#code-or-document-change-contributions-github-interface) for details on how to sign your commits. 
+
+------
+
+| Name | Email | Idea | Project Proposal |
+| --- | --- | --- | --- |
+| Your Name Here | Your Email Here |  Idea You Hoping to Work On | Link to Your Proposal |
+| Georg Link | linkgeorg@gmail.com | This is an example entry | Proposal Link |
