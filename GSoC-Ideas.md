@@ -28,7 +28,7 @@ The aims will require working in a programming language to automate the task, us
 
 ## IDEA: Build Access and Entitlements into a Hosted Version of Augur
 
-[Micro-tasks and place for questions](https://github.com/chaoss/grimoirelab/issues/414)
+[Micro-tasks and place for questions](https://github.com/chaoss/augur/issues/1639)
 
 The new version of Augur is robust for providing metrics, and we seek to make it possible to install a single instance for CHAOSS Community members to leverage for initial experimentation with CHAOSS metrics. Increasingly, people are approaching the CHAOSS project in search of hosted tools where they can quickly get an analysis of some small subset of their repositories. The goal here is to add login functionality, and access and entitlements associated with logins, such that each user can create an account, list the repositories they want data collected for, and then see only the data they are interested in. If data is already collected for another user for some repositories, we would grant them entitlements to see those repositories immediately. If data needs to be collected, the user would be notified of this need, and given a time estimate (usually 1-3 days in cases where over 100 repos are requested.) This would extend the nascent CHAOSS project, https://github.com/augurlabs/augur_view, which will eventually be moved to the CHAOSS GitHub Org when this functionality is added. The framework employed is twitter/bootstrap serving its frontend through FLASK. 
 
@@ -44,26 +44,6 @@ The aims will require generating code in **Python**, **twitter/bootstrap**, and 
 * _Recommended:_ Experience with Python, UI development, and twitter/bootstrap would be convenient but can be learned during the project.
 * _Mentors:_ Derek Howard, John McGinnes, Sean Goggins
 
-## Idea: Automatically identify Contributor Aliases (emails, platform user accounts) to Increase Parsimony of Statistics and Metrics With Privacy Enhancement
-
-[Micro-tasks and place for questions]( https://github.com/chaoss/augur/issues/1180 )
-
-This project will generalize, and make available through a PyPy distributable Python package the core functionality currently within the Augur contributor worker, and envisioned as the next phase of the Augur contributor worker. A worker is a data collection, machine learning, notification, or mapping daemon that can be managed by Augur for comprehensive data analysis, or installed independently.
-
-[Augur Contributor Worker](https://github.com/chaoss/augur) is the tool that reconciles identities in Augur, using information from Git Platforms, Git Logs, and voluntary mailing lists. The contributor worker is a tool that automatically scans all repository data collected by augur to resolve distinct individuals to all of the often 10 or more aliases they can be identified across different systems.
-
-The aims of the project are as follows:
-  - Construct an API Accessible Graph Database for identifying and mapping contributors who use multiple email addresses within a platform, and identifiers across platforms.
-  - Implement methods to manage this information.
-  - Integrate this information into clearer, more parsimonious CHAOSS metrics.
-  - Automate the management of contributor changes over time
-  - Enable analysis at the project level that obscures or anonymizes individual developer identity
-
-
-* _Difficulty:_ Medium
-* _Requirements:_ Interest in software analytics. Python programming. JavaScript programming. SQL knowledge.
-* _Recommended:_ Experience with Python
-* _Mentors:_ Sean Goggins, Andrew Brain, John McGinnis
 
 ## Idea: Improve the CHAOSS DEI Event Badging Review Bot
 
