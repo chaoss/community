@@ -12,6 +12,8 @@ A few details regarding the application process specific to the CHAOSS project:
 
 4) Using and submitting other people's work as your own is not allowed. If you use other people's work, be sure to acknowledge their work in your submission.
 
+6) Documentation of all code contributions is critical, and expected from all CHAOSS GSoC Students. 
+
 You must complete these things by April 19, 2022 13:00 US Central Time (UTC-5). Make sure to also [submit the information required by GSoC for applicants](https://summerofcode.withgoogle.com/) (i.e., project proposal), linking to it from your pull request to this file. Here is an [Proposal Template](https://docs.google.com/document/d/1YZez6_hgp2dBybEsMZoQ-ONB9IawK4_OPISLHe9Tjew/edit) to get you started.
 
 Regards,
@@ -20,6 +22,12 @@ GSoC Mentors
 ------
 
 ## Applicants
+ 
+**The applicants section will be completed as applicants are added here. At the moment, we are at the very beginning!**
+
+**UPDATE:** This repository requires [Developer Certificate of Origin](https://developercertificate.org/) (DCO) sign-off; see [CONTRIBUTING.md](https://github.com/chaoss/governance/blob/master/CONTRIBUTING.md#code-or-document-change-contributions-github-interface) for details on how to sign your commits. 
+
+------
 
 | Name | Email | Idea | Micro-Task Repository | Project Proposal | Submitted on GSOC | 
 | --- | --- | --- | --- | --- | --- |

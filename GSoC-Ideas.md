@@ -4,18 +4,37 @@ Interested in working with CHAOSS? Below are some project ideas. We describe how
 
 ----
 
-## Idea: Advancing Risk Prediction With Machine Learning in Augur
+## Idea: Improve the CHAOSS DEI Event Badging Review Bot
 
-[Micro-tasks and place for questions]( https://github.com/chaoss/augur/issues/1179 )
+[Micro-tasks and place for questions](https://github.com/badging/event-diversity-and-inclusion/issues/134)
 
-Currently Augur uses computational linguistics, dependency mapping, license scanning, topic modeling, social network analysis, and algorithms that target temporal changes in CHAOSS metrics. The aim of this project is to leverage and advance existing algorithms to make predictions and identify projects in large ecosystems that are at risk earlier. Our theory, for example, is that community decline or the increase in hostile communications is preceded by a decline in empathy, and changes in engagement level. This project will test those theories by directing Augur’s already rich set of AI tools to bear on this specific problem.  The goal of this project is to proactively identify at-risk open source communities:
-
-Pool the existing, six computational models for classifying repositories in open source ecosystems to provide a rich, and complete view of project categories and clusters within a define open source software ecosystem
-From the categories identified, projects most at risk will be identified using analysis of each of the six models, and trained with data from projects that are known to have contributed to projects earlier.
+  The CHAOSS DEI Badging Initiative has been providing badges to event organizers who implement valid DEI practices into their events. The badge is used as a reward system for events with inclusive and welcoming environments. In each review, the Badging Initiative uses a badging-bot to automate some of the processes that help an applicant earn their event badge.
+  The idea of this mentorship is to learn about CHAOSS DEI Badging and its badging bot, then improve the processes and operation of the badging-bot. This may include working on learning the existing code as well as with algorithms and cross-file references in Javascript. The GSoC student may also be expected to deploy the improvements to the bot on GitHub.
 
 The aims of the project are as follows:
-  - Identify projects with similar styles and characteristics automatically.
-  - Recommend projects based on individual developer styles and skills.
+  - Clean up and document current badging-bot code and processes
+  - Migrate the badging-bot to a new platform
+  - Time permitting, integrate a reviewer assignment algorithm
+
+The applicant must be prepared to work with existing code to improve a GitHub app and integrate that app into the repositories for the CHAOSS Badging Initiative
+
+* _Difficulty:_ Medium
+* _Requirements:_ Appreciates DEI, Working knowledge of JavaScript, Experience with GitHub Apps
+* _Recommended:_ Experience with webhooks, Experience creating documentation
+* _Mentors:_ Needed (prev. Matt Cantu Snell)
+
+
+## Idea: Machine Learning based Community Health and Communication
+
+[Micro-tasks and place for questions](https://github.com/chaoss/augur/issues/1637)
+
+Currently Augur uses computational linguistics, dependency mapping, license scanning, topic modeling, social network analysis, and algorithms that target temporal changes in CHAOSS metrics. The aim of this project is to advance the accessibility of these insights through the development of python based API endpoints that deliver visualizations of machine learning outputs, similar to the style found in https://github.com/chaoss/augur/augur/routes/pull_request_reports and https://github.com/chaoss/augur/augur/routes/contributor_reports  
+
+This work could include optimization and refinement of machine learning workers found under https://github.com/chaoss/augur/workers to generate additional, or reporting optimized data, as well as the extension of Augur's new front end at https://github.com/augurlabs/augur_view, which is based on twitter/bootstrap and flask. 
+
+The aims of the project are as follows:
+  - Communicate repository and project health insights through visualization
+  - Identify projects that have similar characteristics, and visualize similarity using spacial proximity metaphors
   - Increase awareness of open source project ecosystems, and their component projects.
 
 The aims will require working in a programming language to automate the task, use API to generate the graphs, and use some Graphic editor to prepare the pdf.
@@ -23,228 +42,220 @@ The aims will require working in a programming language to automate the task, us
 * _Difficulty:_ Medium
 * _Requirements:_ Python programming experience, or a strong interest.
 * _Recommended:_ Experience with accessing API's, writing SQL, and a strong interest in Machine Learning.
-* _Mentors:_ Sean Goggins, Andrew Brain, Vinod Ahuja
+* _Mentors:_ Sean Goggins, Andrew Brain
 
+## IDEA: Build Access and Entitlements into a Hosted Version of Augur
 
-## Idea: Build an expert system to provide recommendations to users in a user interface
+[Micro-tasks and place for questions](https://github.com/chaoss/augur/issues/1639)
 
-[Micro-tasks and place for questions](https://github.com/chaoss/grimoirelab/issues/414)
-
-The new version of SortingHat includes a basic recommender system. It guesses about what identities could be the same, or what identities work for which companies. This information might not be useful for the end user and it isn't available on the UI, thought. This project idea is about improving the recommender system to an expert system that provides useful recommendations to users.
-
-[SortingHat](https://github.com/chaoss/grimoirelab-sortinghat) is the tool that
-we use to manage identities data in [GrimoireLab](https://chaoss.github.io/grimoirelab].
-As individuals in a project can have different identities - several usernames or email
-addresses - this tool allows to create unified profiles of them. Then, the platform
-will use this information to generate accurate results of the activity of these
-participants.
-
-SortingHat started as a command line tool but after some years, we saw its potential
-and we decided to create a new version, this time as a service. This new version
-provides a new GraphQL API to operate with the server and a UI web-based app, that
-replaces Hatstall, the old UI for SortingHat.
-
-Although the development of it is on its later stage and it will be ready soon for the
-stable version of the platform, there are many good ideas that we will like to
-incorporate. Some of them were selected for GSoC 2021.
+The new version of Augur is robust for providing metrics, and we seek to make it possible to install a single instance for CHAOSS Community members to leverage for initial experimentation with CHAOSS metrics. Increasingly, people are approaching the CHAOSS project in search of hosted tools where they can quickly get an analysis of some small subset of their repositories. The goal here is to add login functionality, and access and entitlements associated with logins, such that each user can create an account, list the repositories they want data collected for, and then see only the data they are interested in. If data is already collected for another user for some repositories, we would grant them entitlements to see those repositories immediately. If data needs to be collected, the user would be notified of this need, and given a time estimate (usually 1-3 days in cases where over 100 repos are requested.) This would extend the nascent CHAOSS project, https://github.com/augurlabs/augur_view, which will eventually be moved to the CHAOSS GitHub Org when this functionality is added. The framework employed is twitter/bootstrap serving its frontend through FLASK. 
 
 The aims of the project are as follows:
-  - Identify useful recommendations for the end-user.
-  - Implement new recommendations.
+  - Increase CHAOSS project responsiveness to newcomers. 
+  - Provide metrics as a service for the CHAOSS community.
   - Integrate recommendations on the UI.
 
-The aims will require generating code in **Python** for **Django** and the **GraphQL API**, and for the web app (generated with **Vue.js** and **Vuetify**).
+The aims will require generating code in **Python**, **twitter/bootstrap**, and **sql**.
 
-* _Difficulty:_ Hard
-* _Requirements:_ Interest in software analytics. Python programming. JavaScript programming. SQL knowledge. Willingness to understand GrimoireLab internals.
-* _Recommended:_ Experience with Python, JavaScript, UI development, GraphQL, Django, and Vue.js would be convenient but can be learned during the project.
-* _Mentors:_ Santi Duenas, Eva Millán, Miguel Ángel Fernández
+* _Difficulty:_ Medium
+* _Requirements:_ Interest in software analytics. Python programming. JavaScript programming. SQL knowledge. Willingness to understand Augur, and Augur_view internals.
+* _Recommended:_ Experience with Python, UI development, and twitter/bootstrap would be convenient but can be learned during the project.
+* _Mentors:_ Derek Howard, John McGinnes, Sean Goggins
 
-## Idea: Automatically identify Contributor Aliases (emails, platform user accounts) to Increase Parsimony of Statistics and Metrics With Privacy Enhancement
 
-[Micro-tasks and place for questions]( https://github.com/chaoss/augur/issues/1180 )
+## Idea: Enhance Conversational Topic Modelling Capabilities in CHAOSS Software
 
-This project will generalize, and make available through a PyPy distributable Python package the core functionality currently within the Augur contributor worker, and envisioned as the next phase of the Augur contributor worker. A worker is a data collection, machine learning, notification, or mapping daemon that can be managed by Augur for comprehensive data analysis, or installed independently.
+[Micro-tasks and place for questions](https://github.com/chaoss/augur/issues/1640)
 
-[Augur Contributor Worker](https://github.com/chaoss/augur) is the tool that reconciles identities in Augur, using information from Git Platforms, Git Logs, and voluntary mailing lists. The contributor worker is a tool that automatically scans all repository data collected by augur to resolve distinct individuals to all of the often 10 or more aliases they can be identified across different systems.
+This project will add GenSIM logic, and other capabilities to the Clustering Worker inside of Augur Software, and be extended into a generalized Open Source Software Conversational Topic Modeling Instrument. 
+
+CHOASS/augur has several workers that store machine learning information derived from computational linguistic analysis of data in the `message` table. The message table includes messages from issue, pull request, pull request review, and email messages. They are related to their origin with bridge tables like `pull_request_message_ref`. The ML/CL workers are all run against all the messages, regardless of origin. 
+
+1. Clustering Worker (clusters created and topics modeled)
+2. message analysis worker  (sentiment and novelty analysis)
+3. discourse analysis worker (speech act classification (question, answer, approval, etc.)
+
+Clustering Worker Notes: 
+
+Clustering Worker: 2 Models.
+ - Models: 
+  - Topic modeling, but it needs a better way of estimating number of topics.
+   - Tables
+    - repo_topic
+    - topic_words
+  - Computational linguistic clustering
+   - Tables
+    - repo_cluster_messages
+ - Key Needs
+    - Add GenSim algorithms to topic modeling section https://github.com/chaoss/augur/issues/1199
+  - The topics, and associated topic words need to be persisted after each run. At the moment, the topic words get overwritten for each topic modeling run. 
+  - Description/optimization of the parameters used to create the computational linguistic clusters.
+  - Periodic deletion of models (heuristic: If 3 months pass, OR there’s a 10% increase in the messages, issues, or PRs in a repo, rebuild the models)
+  - Establish some kind of model archiving with appropriate metadata (lower priority)
+
+Discourse Analysis Worker Notes: 
+
+discourse_insights table (select max(data_collection_date) for each msg_id)
+ - sequence is reassembled from the timestamp in the message table (look at msg_timestamp)
+ - issues_msg_ref, pull_request_message_ref, pull_request_review_msg_ref
+
+Message Analysis Worker
+ - message_analysis 
+ - message_analysis_summary
+
+<img width="1159" alt="augur-tech" src="https://user-images.githubusercontent.com/379847/124799236-f440dc80-df19-11eb-84ce-302cf274884f.png">
 
 The aims of the project are as follows:
-  - Construct an API Accessible Graph Database for identifying and mapping contributors who use multiple email addresses within a platform, and identifiers across platforms.
-  - Implement methods to manage this information.
+  - Advance topic modeling of open source software conversations captured in GitHub.
   - Integrate this information into clearer, more parsimonious CHAOSS metrics.
-  - Automate the management of contributor changes over time
-  - Enable analysis at the project level that obscures or anonymizes individual developer identity
+  - Automate the management machine learning insights, and topic models over time. 
+  - (Stretch Goal) Improve the operation of the overall machine learning insights pipeline in CHAOSS/augur, and generalize these capabilities. 
 
 
 * _Difficulty:_ Medium
-* _Requirements:_ Interest in software analytics. Python programming. JavaScript programming. SQL knowledge.
+* _Requirements:_ Interest in software analytics. Python programming. Conceptual understanding of machine learning, and an eagerness to learn maching learning, and SQL knowledge.
 * _Recommended:_ Experience with Python
-* _Mentors:_ Sean Goggins, Andrew Brain, John McGinnis
+* _Mentors:_ Sean Goggins, Andrew Brain, Isaac Milarsky
 
+## IDEA: Implement Conversion Rate Metric in CHAOSS Software
 
-## Idea: Develop a Shared Data Resource Focused on Dependencies, Risk and Vulnerabilities in Open Source Software
+[Micro-tasks and place for questions](https://github.com/chaoss/community/issues/305)
+ 
+### Conversion Rate 
 
-[Micro-tasks and place for questions]( https://github.com/chaoss/augur/issues/1181 )
+Question: What are the rates at which new contributors become more sustained contributors? 
 
-The aim of this work is to understand the code based dependencies embedded within a piece of open source software. This metric explicitly excludes infrastructure focused dependencies like databases, and operating systems, which are defined in the “upstream infrastructure dependencies” metric.
+### Description 
 
-**Objectives**
- - This software project is aimed at understanding the language level, non-infrastructure packages, and other software which are required to run a piece of software in build, test, and runtime environments.
- - What libraries or versions does my project explicitly depend on?
- - What libraries or versions does my project implicitly depend on?
- - Consolidate dependency information from the range of projects focused in this area.
- - Provide a shared, open source software package for consolidating a subset of available resources (we don't expect one student to finish this entire project in a summer)
- - Integrate this information on the CHAOSS Website
+The conversion rate metric is primarily aimed at identifying how new community members become more sustained contributors over time. However, the conversion rate metric can also help understand the changing roles of contributors, how a community is growing or declining, and paths to maintainership within an open source community.  
+ 
+### Objectives (why)  
+  - Observe if new members are becoming more involved with an open source project  
+  - Observe if new members are taking on leadership roles within an open source project  
+  - Observe if outreach efforts are generating new contributors to an open source project  
+  - Observe if outreach efforts are impacting roles of existing community members  
+  - Observe if community conflict results in changing roles within an open source community  
+  - Identify casual, regular, and core contributors  
 
-**Implementation**
-The expectation is that this would be implemented by using existing tools that examine package manager data for the languages in use (e.g., package.json for JavaScript npm, pyproject.toml / requirements.txt for Python, Gemfile / Gemfile.lock for Ruby). Ergo, dependencies will be analyzed using the project’s dependency file.
-This will be analyzed using dependency file in the project.
+### Implementation 
 
-Note: C/C++ generally **do not** use system package managers. Things get more complex with multiple languages, insofar as several language specific dependency files will need to be scanned.
-
-Micro-tasks and place for questions https://github.com/chaoss/augur/issues/1181
-
-[Augur ](https://github.com/chaoss/augur) would be the tool that this is ultimately implemented in, although only as an accessed, shared data resources including informaiton form other tools, including:
-
-**Resource	Link**
- - Scorecard	https://github.com/ossf/scorecard
- - Dependency Check	https://owasp.org/www-project-dependency-check/
- - Proactive Error Detection in Software	https://github.com/google/oss-fuzz
- - High Severity Vulnerability Detection	https://github.com/google/tsunami-security-scanner
- - Kubernetes focused supply chain security	https://github.com/grafeas/kritis
- - Verification from source to binary	https://reproducible-builds.org/
- - Dependency Check (Relies on Common Platform Enumeration (CPE)	https://owasp.org/www-project-dependency-check/
- - Securing Critical Projects OSSF Working Group	https://docs.google.com/document/d/1MIXxadtWsaROpFcJnBtYnQPoyzTCIDhd0IGV8PIV0mQ/edit
- - Preventing Supply Chain Attacks	https://www.linuxfoundation.org/en/blog/preventing-supply-chain-attacks-like-solarwinds/
- - Security Threats OSSF Working Group
- - Best Practices OSSF Working Group
- - National Vulnerabilities Database	https://nvd.nist.gov/vuln/full-listing/2021/1
- - 	https://nvd.nist.gov/vuln/data-feeds#JSON_FEED
- - Libyears	https://github.com/nasirhjafri/libyear  &  https://github.com/sesh/piprot
- - Census II	https://drive.google.com/file/d/1zyAdbftGhSUiddh1she3X_MDlKXDSIu5/view?usp=sharing
- - 2021 State of Open Source Vulnerabilities	https://drive.google.com/file/d/1BwJD3eqynwSms5b9WxzzHrzp-YRXMbLv/view?usp=sharing
-
-
-* _Difficulty:_ Medium
-* _Requirements:_ Interest in software analytics. Python programming. JavaScript programming. SQL knowledge.
-* _Recommended:_ Experience with Python
-* _Mentors:_ Sean Goggins, CHAOSS Risk Working Group, Vinod Ahuja
-
-
-## Idea: Extend data model and user interface to capture better information about contributors
-
-[Micro-tasks and place for questions](https://github.com/chaoss/grimoirelab/issues/415)
-
-The information stored about Organizations is very basic. For each organization only
-its name and domains (e.g `example.com`) are stored. Organizations might have
-hierarchical structures composed by several groups, areas, and departments, where
-employees work for. We would like to be able to track all these information
-
-[SortingHat](https://github.com/chaoss/grimoirelab-sortinghat) is the tool that
-we use to manage identities data in [GrimoireLab](https://chaoss.github.io/grimoirelab].
-As individuals in a project can have different identities - several usernames or email
-addresses - this tool allows to create unified profiles of them. Then, the platform
-will use this information to generate accurate results of the activity of these
-participants.
-
-SortingHat started as a command line tool but after some years, we saw its potential
-and we decided to create a new version, this time as a service. This new version
-provides a new GraphQL API to operate with the server and a UI web-based app, that
-replaces Hatstall, the old UI for SortingHat.
-
-Although the development of it is on its later stage and it will be ready soon for the
-stable version of the platform, there are many good ideas that we will like to
-incorporate. Some of them were selected for GSoC 2021.
+This project could be implemented using either the CHAOSS/Augur, or CHAOSS/Grimoirelab (including stack components noted in references) technology stacks. 
 
 The aims of the project are as follows:
-  - Define a data model to store an organization's internal structure.
-  - Implement methods to manage this information.
-  - Integrate this information on the UI
-  - (Extra stretch goal) Store organization aliases (e.g `Google` and `Google, LLC`).
-
-* _Difficulty:_ Hard
-* _Requirements:_ Interest in software analytics. Python programming. JavaScript programming. SQL knowledge. Willingness to understand GrimoireLab internals.
-* _Recommended:_ Experience with Python, JavaScript, UI development, GraphQL, Django, and Vue.js would be convenient but can be learned during the project.
-* _Mentors:_ Santi Duenas, Eva Millán, Miguel Ángel Fernández
-
-
-## Idea: Implement user roles/permissions and OpenID
-
-[Micro-tasks and place for questions](https://github.com/chaoss/grimoirelab/issues/416)
-
-Right now, SortingHat only supports one type of user: the admin user. We would like to
-have different roles, so basic users don't have all the rights to do evil things when
-using the service. Additionally, we want to integrate [OpenID](https://openid.net/)as
-a secure protocol for users to sign-in.
-
-[SortingHat](https://github.com/chaoss/grimoirelab-sortinghat) is the tool that
-we use to manage identities data in [GrimoireLab](https://chaoss.github.io/grimoirelab].
-As individuals in a project can have different identities - several usernames or email
-addresses - this tool allows to create unified profiles of them. Then, the platform
-will use this information to generate accurate results of the activity of these
-participants.
-
-SortingHat started as a command line tool but after some years, we saw its potential
-and we decided to create a new version, this time as a service. This new version
-provides a new GraphQL API to operate with the server and a UI web-based app, that
-replaces Hatstall, the old UI for SortingHat.
-
-Although the development of it is on its later stage and it will be ready soon for the
-stable version of the platform, there are many good ideas that we will like to
-incorporate. Some of them were selected for GSoC 2021.
-
-The aims will require working with:
-
-  - Identify and define roles for SortingHat.
-  - Implement permissions for the different kinds of roles.
-  - Add support for OpenID.
-  - (Extra stretch goal)  Roles and user management using the UI.
+  - Implement the Conversion Rate Metric in CHAOSS Software
+    - After discussion, consider which CHAOSS Software Stack you wish to work with
+    - In collaboration with mentors, define the technology framework, and initial path to a "hello world" version of the metric
+    - Iterative development of the metric
+  - Assist in the deployment of this metric for a pre-determined collection of repositories in a publicly viewable website linked to the CHAOSS project. 
+  - Advance the work of the [chaoss metrics models working group](https://github.com/chaoss/wg-metrics-models). 
 
 * _Difficulty:_ Medium
-* _Requirements:_ Interest in software analytics. Python programming. JavaScript programming. SQL knowledge. Willingness to understand GrimoireLab internals.
-* _Recommended:_ Experience with Python, JavaScript, UI development, GraphQL, Django, and Vue.js would be convenient but can be learned during the project.
-* _Mentors:_ Santi Duenas, Eva Millán,  Miguel Ángel Fernández
+* _Requirements:_ Knowledge of Python is desired. Some knowledge of Javascript or twitter/bootstrap is also desired. Key requirement is a keenness to dig into this challenge!
+* _Recommended:_ Python experience. 
+* _Mentors:_ Sean Goggins, Daniel Izquerdo 
+
+#### Filters (optional) 
+  - Commits  
+  - Issue creation  
+  - Issue comments  
+  - Change request creation  
+  - Change request comments  
+  - Merged change requests  
+  - Code Reviews  
+  - Code Review Comments  
+  - Reactions (emoji)  
+  - Chat platform messages  
+  - Maillist messages  
+  - Meetup attendance 
+
+#### Visualizations 
+ 
+![](./images/gsoc-1.png)
+
+Source: https://chaoss.github.io/grimoirelab-sigils/assets/images/screenshots/sigils/overall-community-structure.png  
+
+![](./images/gsoc-2.png) 
+
+Source: https://opensource.com/sites/default/files/uploads/2021-09-15-developer-level-02.png  
+
+#### Tools Providing the Metric  
+  - GrimoireLab  
+  - Augur  
+  - openEuler Infra 
+
+#### Data Collection Strategies 
+
+The following is an example from the [openEuler](https://www.openeuler.org/en/) community:   
+  - A group of people who attended an offline event A held by the community, can be identified as Group A. Demographic information of Group A could be fetched from an on-line survey when people register for the event. To identify the conversation rate of these participants:  
+  - Some people from Group A started watching and forking the repos, indicating they have shown some interest in this community. We marked them as subgroup D0 (Developer Level 0) as a subset of Group A.  
+  - Conversion rate from the total number of people in Group A to the number of people in subgroup D0 is: D0/Group A  
+  - Some people from subgroup D0 make more contributions beyond just watching or forking, including creating issues, making comments on an issue, or performed a code review. We marked them as subgroup D1 (Developer Level 1) as a subset of D0.  
+  - Conversion rate from the total number of people in Subgroup D0 to the number of people in subgroup D1 is: D1/D0.  
+  - Some people from subgroup D1 continue to make more contributions, like code contributions, to the project. This could include creating merge requests and merging new project code. We marked them as subgroup D2 (Developer Level 2) as a subset of D1.  
+  - Conversion rate from the total number of people in subgroup D1 to the number of people in subgroup D2 is: D2/D1. 
+
+![](./images/gsoc-3.png)
+
+   Definition:  
+  - Developer Level 0 (D0) example: Contributors who have given the project a star, or are watching or have forked the repository  
+  - Developer Level 1 (D1): Contributors who have created issues, made comments on an issue, or performed a code review  
+  - Developer Level 2 (D2): Contributors who have created a merge request and successfully merged code  
+  - Conversion Rate (Group A -> D0): CR (Group A -> D2) = D0/Group A  
+  - Conversion Rate (D0 -> D1): CR (D0 -> D1) = D1/D0  
+  - Conversion Rate (D1 -> D2): CR (D1 -> D2) = D2/D1 
+
+### References  
+  - https://opensource.com/article/21/11/data-open-source-contributors  
+  - https://github.com/chaoss/augur
+  - https://gitee.com/openeuler/website-v2/blob/master/web-ui/docs/en/blog/zhongjun/2021-09-15-developer-level.md  
+  - https://chaoss.github.io/grimoirelab-sigils/common/onion_analysis/  
+  - https://mikemcquaid.com/2018/08/14/the-open-source-contributor-funnel-why-people-dont-contribute-to-your-open-source-project/  
+### Contributors  
+  - Yehui Wang  
+  - Clement Li  
+  - zhongjun  
+  - Xiaoya Xia  
+  - Matt Germonprez  
+  - Sean Goggins  
+  - King Gao  
 
 
-## Idea: Build Prototype Metric Display Options on CHAOSS Website
 
-[Micro-tasks and place for questions]( https://github.com/chaoss/website/issues/536 )
+## IDEA: Open Source Software Health Metrics Visualization Exploration
 
-CHAOSS metrics are released twice a year. The metrics are currently displayed on the website - sorted by the working group that defined them: [https://chaoss.community/metrics/](https://chaoss.community/metrics/)
+[Micro-tasks and place for questions](https://github.com/chaoss/augur-community-reports/issues/34)
 
-As more metrics are defined, the need for alternative display and categorization options is necessary to reduce the burden on the user to visualize the CHAOSS metrics in meaningful ways. See open issue 466 (https://github.com/chaoss/website/issues/466). Work on this project would require the student to work with the community to come up with different display and categorization options for CHAOSS metrics. For example, the CHAOSS project currently has initiatives around D&I Badging and Community Health reports. The metrics associated with these initiatives are one way that CHAOSS metrics may be categorized and displayed.
+The CHAOSS Community currently delivers pre-packaged visualizations of open source software health data through Augur APIs (https://github.com/chaoss/augur/augur/routes/pull_request_reports and https://github.com/chaoss/augur/augur/routes/contributor_reports), and the https://github.com/augur-community-reports repository. This project seeks to expand, refine, and standardize the visualization of different classes of community health metrics data. Specifically, some analyses are temporal, others are anomaly driven, and in some cases contrasts across repositories and communities are required. In each case, the visualization of data is an essential component for metrics, and what we are now referring to as metrics models (https://github.com/chaoss/wg-metrics-models). 
+
 
 The aims of the project are as follows:
-* Research and ideate different metric display options and categorizations
-* Build prototype navigation menus that allow the website visitors to explore different categories of metrics.
-* Build prototype metrics web pages to display different metric categories.
-* Suggest a workflow to publish metrics from the working groups in this new website design.
+  - Experiment with standard metrics visualizations using direct Augur database connections, or through the Augur API. 
+  - Refine metrics, and metrics model visualizations using Jupyter Notebooks are similar technology.
+  - Transform visualizations, as they are completed, into Augur API endpoints, following the pull request, and contributor reports examples. 
 
-The aims will require working with front end web development technologies and WordPress to build prototype navigation and metrics page displays.
+* _Difficulty:_ Medium
+* _Requirements:_ Strong interest in data visualization. 
+* _Recommended:_ Experience with Python is desirable, and experience designing, or developing visualizations is desirable. 
+* _Mentors:_ Sean Goggins, Andrew Brain, Vinod Ahuja. 
+
+## Idea: Build Knowledgebase Application on CHAOSS Website
+
+Micro-tasks and place for questions: https://github.com/chaoss/website/issues/708
+
+While much of the work of CHAOSS is done in GitHub, the CHAOSS website is often the first place people visit to get information [https://chaoss.community/](https://chaoss.community/). The goal of the website is to create clear paths for new members who want to contribute, metrics users who want information about metrics, and existing members who need information about project operations. As project grows, there is a need for alternative display and categorization options for knowledgebase topics to reduce the burden on website visitors in finding the information that they need. 
+
+Work on this project would require the student to work closely with the mentors and the community to come up with different display and categorization options for CHAOSS Knowledge Base topics. CHAOSS knowledgebase topics that are currently under consideration for this application are released metrics, metrics models, and contributor handbook information. Information about these topics are captured and stored in GitHub repositories by the relevant working groups. The application will need to pull information from github markdown documents to display on the website knowledge base application (we have existing code that does this). 
+
+The aims of the project are as follows:
+* Use Wordpress to implement a knowledge application (example knowledgebase plugin up for consideration - https://wordpress.org/plugins/basepress/)
+* Research and ideate different display options and categorizations for knowledgebase topics.
+* Build web pages to display different knowledgebase topics.
+
+The aims will require working with front-end web development technologies and WordPress to build a knowledgebase application that can display information about knowledgebase topics. 
 
 * _Difficulty:_ Low
 * _Requirements:_ Interest in front-end web development
-* _Recommended:_ Experience with HTML, CSS, JavaScript, and GitHub Markdown
-* _Mentors:_ Kevin Lumbard,  Matt Germonprez, and Jaskirat Singh
-
-
-## Idea: Automate Metrics Release and Process Improvement
-
-[Micro-tasks and place for questions]( https://github.com/chaoss/website/issues/537 )
-
-CHAOSS metrics are released twice a year. The metrics are currently displayed on the website - sorted by the working group that captured and defined them: [https://chaoss.community/metrics/](https://chaoss.community/metrics/)
-
-The official CHAOSS Metrics Release is captured in pdf form at the time of the release by printing each metric page as a PDF and combining them manually. The workflow is described in our handbook. The website pulls in the metrics from Markdown files in the working group GitHub repositories. It would be great if the PDF could be automatically generated from the Markdown files without having to manually PDF print the website pages.
-
-The aims of the project are as follows:  
-* Analyze the metrics release process and propose process improvements.  
-* Automate the creation of the metrics release PDF from Github Markdown files (Separate PDFs for English and translations).  
-
-The aims will require working in a programming language to automate the task. We are open to suggestions about how to achieve this because we do not have any pre-existing automation in place.
-
-* _Difficulty:_ Medium
-* _Requirements:_ GitHub, git, Markdown, PDF, automation experience
-* _Recommended:_ Prior experience with automatic PDF document generation
-* _Mentors:_ Kevin Lumbard,  Matt Germonprez, Georg Link
+* _Recommended:_ Experience with Wordpress, HTML, CSS, JavaScript, and GitHub Markdown
+* _Mentors:_ Kevin Lumbard,  Matt Germonprez, and Elizabeth Barron
 
 
