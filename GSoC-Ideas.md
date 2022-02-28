@@ -223,6 +223,25 @@ The following is an example from the [openEuler](https://www.openeuler.org/en/) 
 
 
 
+## IDEA: Open Source Software Health Metrics Visualization Exploration
+
+[Micro-tasks and place for questions]()
+
+
+
+The aims of the project are as follows:
+  - X
+  - Y
+  - Q
+
+```
+Describe the programming Skills necessary, and those a potential student should be willing to learn. (coding ticks provided only for emphasis. Remove before submitting PR.)
+```
+
+* _Difficulty:_ Low, Medium, High (or other classification of your choosing)
+* _Requirements:_ These can be technical or analytical.
+* _Recommended:_ Aimed at "things you have done before, at least in class."
+* _Mentors:_ Last year 2 mentors were required per project. Waiting for GSoC site to open for this year.
 
 ## Each Subsequent Idea gets a new heading like this
 
