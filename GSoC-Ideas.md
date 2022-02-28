@@ -6,6 +6,8 @@ Interested in working with CHAOSS? Below are some project ideas. We describe how
 
 ## Idea: Improve the CHAOSS DEI Event Badging Review Bot
 
+**Hours: 175**
+
 [Micro-tasks and place for questions](https://github.com/badging/event-diversity-and-inclusion/issues/134)
 
   The CHAOSS DEI Badging Initiative has been providing badges to event organizers who implement valid DEI practices into their events. The badge is used as a reward system for events with inclusive and welcoming environments. In each review, the Badging Initiative uses a badging-bot to automate some of the processes that help an applicant earn their event badge.
@@ -25,6 +27,8 @@ The applicant must be prepared to work with existing code to improve a GitHub ap
 
 
 ## Idea: Machine Learning based Community Health and Communication
+
+**Hours: 350**
 
 [Micro-tasks and place for questions](https://github.com/chaoss/augur/issues/1637)
 
@@ -46,6 +50,8 @@ The aims will require working in a programming language to automate the task, us
 
 ## IDEA: Build Access and Entitlements into a Hosted Version of Augur
 
+**Hours: 350**
+
 [Micro-tasks and place for questions](https://github.com/chaoss/augur/issues/1639)
 
 The new version of Augur is robust for providing metrics, and we seek to make it possible to install a single instance for CHAOSS Community members to leverage for initial experimentation with CHAOSS metrics. Increasingly, people are approaching the CHAOSS project in search of hosted tools where they can quickly get an analysis of some small subset of their repositories. The goal here is to add login functionality, and access and entitlements associated with logins, such that each user can create an account, list the repositories they want data collected for, and then see only the data they are interested in. If data is already collected for another user for some repositories, we would grant them entitlements to see those repositories immediately. If data needs to be collected, the user would be notified of this need, and given a time estimate (usually 1-3 days in cases where over 100 repos are requested.) This would extend the nascent CHAOSS project, https://github.com/augurlabs/augur_view, which will eventually be moved to the CHAOSS GitHub Org when this functionality is added. The framework employed is twitter/bootstrap serving its frontend through FLASK. 
@@ -64,6 +70,8 @@ The aims will require generating code in **Python**, **twitter/bootstrap**, and 
 
 
 ## Idea: Enhance Conversational Topic Modelling Capabilities in CHAOSS Software
+
+**Hours: 350**
 
 [Micro-tasks and place for questions](https://github.com/chaoss/augur/issues/1640)
 
@@ -118,6 +126,8 @@ The aims of the project are as follows:
 * _Mentors:_ Sean Goggins, Andrew Brain, Isaac Milarsky
 
 ## IDEA: Implement Conversion Rate Metric in CHAOSS Software
+
+**Hours: 350**
 
 [Micro-tasks and place for questions](https://github.com/chaoss/community/issues/305)
  
@@ -223,6 +233,8 @@ The following is an example from the [openEuler](https://www.openeuler.org/en/) 
 
 ## IDEA: Open Source Software Health Metrics Visualization Exploration
 
+**Hours: 175**
+
 [Micro-tasks and place for questions](https://github.com/chaoss/augur-community-reports/issues/34)
 
 The CHAOSS Community currently delivers pre-packaged visualizations of open source software health data through Augur APIs (https://github.com/chaoss/augur/augur/routes/pull_request_reports and https://github.com/chaoss/augur/augur/routes/contributor_reports), and the https://github.com/augur-community-reports repository. This project seeks to expand, refine, and standardize the visualization of different classes of community health metrics data. Specifically, some analyses are temporal, others are anomaly driven, and in some cases contrasts across repositories and communities are required. In each case, the visualization of data is an essential component for metrics, and what we are now referring to as metrics models (https://github.com/chaoss/wg-metrics-models). 
@@ -239,6 +251,8 @@ The aims of the project are as follows:
 * _Mentors:_ Sean Goggins, Andrew Brain, Vinod Ahuja. 
 
 ## Idea: Build Knowledgebase Application on CHAOSS Website
+
+**Hours: 350**
 
 Micro-tasks and place for questions: https://github.com/chaoss/website/issues/708
 
