@@ -1,4 +1,4 @@
-# Google Summer of Code 2021 Interested Candidates
+# Google Summer of Code 2022 Interested Candidates
 
 Hi potential GSoC students,
 
