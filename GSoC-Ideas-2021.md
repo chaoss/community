@@ -247,4 +247,6 @@ The aims will require working in a programming language to automate the task. We
 * _Recommended:_ Prior experience with automatic PDF document generation
 * _Mentors:_ Kevin Lumbard,  Matt Germonprez, Georg Link
 
+#Idea: Build A Mobile App with ARkit and VR
+
 
