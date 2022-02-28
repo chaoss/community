@@ -224,6 +224,28 @@ The following is an example from the [openEuler](https://www.openeuler.org/en/) 
 
 
 
+## Idea: Build Knowledgebase Application on CHAOSS Website
+
+Micro-tasks and place for questions: https://github.com/chaoss/website/issues/708
+
+While much of the work of CHAOSS is done in GitHub, the CHAOSS website is often the first place people visit to get information [https://chaoss.community/](https://chaoss.community/). The goal of the website is to create clear paths for new members who want to contribute, metrics users who want information about metrics, and existing members who need information about project operations. As project grows, there is a need for alternative display and categorization options for knowledgebase topics to reduce the burden on website visitors in finding the information that they need. 
+
+Work on this project would require the student to work closely with the mentors and the community to come up with different display and categorization options for CHAOSS Knowledge Base topics. CHAOSS knowledgebase topics that are currently under consideration for this application are released metrics, metrics models, and contributor handbook information. Information about these topics are captured and stored in GitHub repositories by the relevant working groups. The application will need to pull information from github markdown documents to display on the website knowledge base application (we have existing code that does this). 
+
+The aims of the project are as follows:
+* Use Wordpress to implement a knowledge application (example knowledgebase plugin up for consideration - https://wordpress.org/plugins/basepress/)
+* Research and ideate different display options and categorizations for knowledgebase topics.
+* Build web pages to display different knowledgebase topics.
+
+The aims will require working with front-end web development technologies and WordPress to build a knowledgebase application that can display information about knowledgebase topics. 
+
+* _Difficulty:_ Low
+* _Requirements:_ Interest in front-end web development
+* _Recommended:_ Experience with Wordpress, HTML, CSS, JavaScript, and GitHub Markdown
+* _Mentors:_ Kevin Lumbard,  Matt Germonprez, and Elizabeth Barron
+
+
+
 ## Each Subsequent Idea gets a new heading like this
 
 [Micro-tasks and place for questions]`(  )` **In the parentheses, provide a link to an issue open for answering questions**
