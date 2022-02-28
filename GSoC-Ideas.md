@@ -6,6 +6,26 @@ Interested in working with CHAOSS? Below are some project ideas. We describe how
 
 ----
 
+## Idea: Improve the CHAOSS DEI Event Badging Review Bot
+
+[Micro-tasks and place for questions](https://github.com/badging/event-diversity-and-inclusion/issues/134)
+
+  The CHAOSS DEI Badging Initiative has been providing badges to event organizers who implement valid DEI practices into their events. The badge is used as a reward system for events with inclusive and welcoming environments. In each review, the Badging Initiative uses a badging-bot to automate some of the processes that help an applicant earn their event badge.
+  The idea of this mentorship is to learn about CHAOSS DEI Badging and its badging bot, then improve the processes and operation of the badging-bot. This may include working on learning the existing code as well as with algorithms and cross-file references in Javascript. The GSoC student may also be expected to deploy the improvements to the bot on GitHub.
+
+The aims of the project are as follows:
+  - Clean up and document current badging-bot code and processes
+  - Migrate the badging-bot to a new platform
+  - Time permitting, integrate a reviewer assignment algorithm
+
+The applicant must be prepared to work with existing code to improve a GitHub app and integrate that app into the repositories for the CHAOSS Badging Initiative
+
+* _Difficulty:_ Medium
+* _Requirements:_ Appreciates DEI, Working knowledge of JavaScript, Experience with GitHub Apps
+* _Recommended:_ Experience with webhooks, Experience creating documentation
+* _Mentors:_ Needed (prev. Matt Cantu Snell)
+
+
 ## Idea: Machine Learning based Community Health and Communication
 
 [Micro-tasks and place for questions](https://github.com/chaoss/augur/issues/1637)
@@ -43,26 +63,6 @@ The aims will require generating code in **Python**, **twitter/bootstrap**, and 
 * _Requirements:_ Interest in software analytics. Python programming. JavaScript programming. SQL knowledge. Willingness to understand Augur, and Augur_view internals.
 * _Recommended:_ Experience with Python, UI development, and twitter/bootstrap would be convenient but can be learned during the project.
 * _Mentors:_ Derek Howard, John McGinnes, Sean Goggins
-
-
-## Idea: Improve the CHAOSS DEI Event Badging Review Bot
-
-[Micro-tasks and place for questions](https://github.com/badging/event-diversity-and-inclusion/issues/134)
-
-  The CHAOSS DEI Badging Initiative has been providing badges to event organizers who implement valid DEI practices into their events. The badge is used as a reward system for events with inclusive and welcoming environments. In each review, the Badging Initiative uses a badging-bot to automate some of the processes that help an applicant earn their event badge.
-  The idea of this mentorship is to learn about CHAOSS DEI Badging and its badging bot, then improve the processes and operation of the badging-bot. This may include working on learning the existing code as well as with algorithms and cross-file references in Javascript. The GSoC student may also be expected to deploy the improvements to the bot on GitHub.
-
-The aims of the project are as follows:
-  - Clean up and document current badging-bot code and processes
-  - Migrate the badging-bot to a new platform
-  - Time permitting, integrate a reviewer assignment algorithm
-
-The applicant must be prepared to work with existing code to improve a GitHub app and integrate that app into the repositories for the CHAOSS Badging Initiative
-
-* _Difficulty:_ Medium
-* _Requirements:_ Appreciates DEI, Working knowledge of JavaScript, Experience with GitHub Apps
-* _Recommended:_ Experience with webhooks, Experience creating documentation
-* _Mentors:_ Needed (prev. Matt Cantu Snell)
 
 
 ## Idea: Enhance Conversational Topic Modelling Capabilities in CHAOSS Software
