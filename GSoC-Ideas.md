@@ -23,7 +23,7 @@ The applicant must be prepared to work with existing code to improve a GitHub ap
 * _Difficulty:_ Medium
 * _Requirements:_ Appreciates DEI, Working knowledge of JavaScript, Experience with GitHub Apps
 * _Recommended:_ Experience with webhooks, Experience creating documentation
-* _Mentors:_ Needed (prev. Matt Cantu Snell)
+* _Mentors:_ Matt Germopnrez 
 
 
 ## Idea: Machine Learning based Community Health and Communication
