@@ -34,6 +34,9 @@ The applicant must be prepared to work with existing code to improve a GitHub ap
 
 Currently Augur uses computational linguistics, dependency mapping, license scanning, topic modeling, social network analysis, and algorithms that target temporal changes in CHAOSS metrics. The aim of this project is to advance the accessibility of these insights through the development of python based API endpoints that deliver visualizations of machine learning outputs, similar to the style found in https://github.com/chaoss/augur/augur/routes/pull_request_reports and https://github.com/chaoss/augur/augur/routes/contributor_reports  
 
+This technical project is essential for advancing newcomer welcomingness, diversity, equity, and inclusion in Open Source Software. An example of our vision can be found here: 
+[augur-oss+dei-overview.pdf](https://github.com/chaoss/community/files/8247782/augur-oss%2Bdei-overview.pdf)
+
 This work could include optimization and refinement of machine learning workers found under https://github.com/chaoss/augur/workers to generate additional, or reporting optimized data, as well as the extension of Augur's new front end at https://github.com/augurlabs/augur_view, which is based on twitter/bootstrap and flask. 
 
 The aims of the project are as follows:
