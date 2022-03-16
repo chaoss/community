@@ -273,6 +273,6 @@ The aims will require working with front-end web development technologies and Wo
 * _Difficulty:_ Low
 * _Requirements:_ Interest in front-end web development
 * _Recommended:_ Experience with Wordpress, HTML, CSS, JavaScript, and GitHub Markdown
-* _Mentors:_ Kevin Lumbard,  Matt Germonprez, and Elizabeth Barron
+* _Mentors:_ Kevin Lumbard,  Matt Germonprez, Ritik Malik, and Elizabeth Barron
 
 
