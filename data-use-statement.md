@@ -24,10 +24,10 @@ As open source communities become critical to the digital infrastructure upon wh
 While easily accessible, maintaining the privacy of individual contributors is a key concern. While the CHAOSS project produces metrics and tools that can help make trace data and survey responses more visible, it remains the responsibility of users of those metrics and tools to consider their privacy implications when in use. 
 
 ### Privacy: Things to Consider 
-CHAOSS metrics are written as summaries and aggregations of metrics, though a significant amount of publicly available open source software data contains individually identifying information. Care should be taken to preserve privacy expected by individuals working on open source projects. Retaining individually identifiable data securely when it is used to build metrics is a foremost concern. 
+CHAOSS metrics are written as summaries and aggregations of metrics, though a significant amount of publicly available open source software data contains individually identifying information. Care should be taken to preserve the privacy of individuals working on open source projects. Retaining individually identifiable data securely when it is used to build metrics is a foremost concern. 
 
 - If you are collecting or aggregating data from multiple sources, it may be appropriate to create and publish your own privacy policy. 
-- If you are collecting information directly (i.e. not through a platform with existing privacy policies) disclose your intentions, motivations and retention policies. 
+- If you are collecting information directly (i.e., not through a platform with existing privacy policies) disclose your intentions, motivations and policies regarding retention, sharing, usage, access control and protection.  
 - Assume accountability over the data; this includes assurance of maintenance to promote accuracy, and compliance with existing policies and regulations  
 
 ### Privacy: Sensitivity Levels and Proper Handling of Personal Identifiable Information (PII)
@@ -73,18 +73,18 @@ In addition to classification, data policies should also cover data collection, 
 ### Ethics: Confidential Data and Metrics
 As open source participation becomes a more diverse, equitable, and inclusive environment, it is important to remember that our community members are people. We must remember to treat each other with the dignity and respect that we would expect from others, raising the importance of ethical concerns associated with collecting online trace data. 
 
-Data ethics is focused on ‘doing the right things’ with data that has been collected. While an organization or individual may properly follow privacy guidance with respect to how data is collected and stored, it does not necessarily mean that the use of that data was socially acceptable. CHAOSS metrics can certainly be used in ways that properly attend to PII but do not consider negative social impacts that may result from that use. 
+Data ethics is focused on ‘doing the right things’ with respect to data collection, control and use. While an organization or individual may properly follow privacy guidance with respect to how data is collected and stored, it does not necessarily mean that the use of that data was ethically appropriate. CHAOSS metrics can certainly be used in ways that properly attend to PII policies and regulations but do not consider negative social impacts that may result from that use. 
 
 ### Ethics: Things to Consider
 CHAOSS metrics should be used with considerations of the ethical use of the associated metrics data. Such considerations include attention to (1) deanonymizing individuals, (2) proper handling and storage of data, and (3) use of metrics as weapons or to exert undue influence. 
 
 If you are collecting data, consider where you are at different stages of CHAOSS metrics. For example, consider how you (1) choose questions for surveys, (2) find appropriate data sources, (3) adhere to licensing requirements from original data sources, and (3) clearly stating the outcome of the data collection/metrics efforts. 
 
-With respect to data, considerations include published attention to (1) data collection processes, (2) data ownership, handling, and storage policies, (3) data reporting in ways that protect individual identities, and (4) data sharing policies. 
+With respect to data, considerations include published attention to (1) data collection processes, (2) data control, handling, and storage policies, (3) data reporting in ways that protect individual identities, and (4) data sharing policies. 
 It is also important to provide a process by which people can opt-out of data collection processes, including how to contact data owners to express desired changes in collected data pieces and policies. 
 
 ### Ethics: Statement of Ethics
-A community should provide an ethics statement reflecting respect for individual privacy. The value statement should make clear the aims in gathering data is to understand the health and sustainability of open source projects, and *not* to measure individual developer productivity (companies will do this on their own, but it's not why we build metrics). A statement of ethics should also include  the following: 
+A community should provide an ethics statement reflecting respect for individual privacy, dignity, and agency. The value statement should make clear the aims in gathering data is to understand the health and sustainability of open source projects, and *not* to measure individual developer productivity (companies will do this on their own, but it's not why we build metrics). A statement of ethics should also include  the following: 
 - A statement about securing personally identifiable data in any implementation of  software tools. 
 - A statement that acknowledges that individual companies gathering data for project health and sustainability are responsible for use of that data for metrics and measurements that focus on individual developers. 
 - A statement about compliance with local government policies, laws, and guidelines.
