@@ -2,6 +2,8 @@
 
 Hi potential GSoC students,
 
+You can ask questions and meet the community on Slack here: https://join.slack.com/t/chaoss-workspace/shared_invite/zt-r65szij9-QajX59hkZUct82b0uACA6g  ... look for the `GSOC-Applicants` channel. 
+
 A few details regarding the application process specific to the CHAOSS project:
 
 1) You must complete one micro-task related to the idea you are interested in. You can find the micro-tasks on the GSoc Idea Page at: [GSoC-Ideas.md](./GSoC-Ideas.md)
