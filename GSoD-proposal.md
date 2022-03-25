@@ -28,12 +28,12 @@ We think this project is potentially exciting to an intern interested in open so
 
 ### Your project’s scope
 
-The scope of the project to improve documentation for the CHAOSS website, community handbook, metrics definitions, our knowledgebase, GrimoireLab, and Augur. We aim to document existing practices and use these efforts to highlight areas for improvement. In all, engagement with GSoD is intended to support and improve the community member experience for all.
+The scope of the project to improve documentation for the CHAOSS website, community handbook, metrics definitions, and our knowledgebase, GrimoireLab, and Augur. We aim to document existing practices and use these efforts to highlight areas for improvement. In all, engagement with GSoD is intended to support and improve the community member experience for all.
 
 We are estimating a period of 6 months to complete this project with three technical writers working on the three individual projects. We have identified community members who are interested to volunteer for managing the project. We have also found three technical writers to work on the projects.
 
 Volunteers:
--   Venu Vardhan Reddy Tekula, Santiago Dueñas (GrimoireLab)
+-   Santiago Dueñas (GrimoireLab)
 -   Kevin Lumbard (Website)
 -   Sean P. Goggins (Augur)
 -   Elizabeth Barron (Community Handbook)
