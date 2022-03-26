@@ -4,6 +4,8 @@ Hi potential Outreachy mentees,
 
 A few details regarding the application process specific to the CHAOSS project:
 
+0) Please join our Outreachy Channel on Slack for Questions! https://chaoss-workspace.slack.com/archives/C036PGGRG01 
+
 1) You must complete one micro-task related to the idea you are interested in. You can find the micro-tasks on the Outreachy Idea Page at: [Outreachy-ideas.md](./Outreachy-ideas.md)
 
 2) Once you completed one micro-task, create a pull request on this file below to add yourself, your information, and a link to your repository of the completed micro-task. This repository requires [Developer Certificate of Origin](https://developercertificate.org/) (DCO) sign-off; see [CONTRIBUTING.md](https://github.com/chaoss/governance/blob/master/CONTRIBUTING.md#code-or-document-change-contributions-github-interface) for details on how to sign your commits.
