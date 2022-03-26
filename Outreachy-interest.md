@@ -1,4 +1,4 @@
-# Outreachy 2020 Interested Candidates
+# Outreachy 2022 Interested Candidates
 
 Hi potential Outreachy mentees,
 
