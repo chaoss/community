@@ -20,5 +20,5 @@ Outreachy Mentors
 
 | Name | Email | Idea | Micro-Task Repository | Project Proposal |
 | --- | --- | --- | --- | --- |
-| Your Name Here | Your Email Here |  Idea You Hoping to Work On | Link to your Micro-task Repo | Link to Your Proposal |
+| Your Name Here | Your Email Here |  <one of the two listed projects> | Link to your Micro-task Repo | Link to Your Proposal |
 | Sean Goggins | seancbgb@gmail.com / outdoors@acm.org | <one of the two listed projects> | [Micro-task Repo](https://contribution-url(s)-- | [Proposal link](https://myproposallink.tv) |
