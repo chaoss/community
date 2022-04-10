@@ -32,7 +32,7 @@ The applicant must be prepared to work with existing code to improve a GitHub ap
 
 [Micro-tasks and place for questions](https://github.com/chaoss/augur/issues/1637)
 
-Currently Augur uses computational linguistics, dependency mapping, license scanning, topic modeling, social network analysis, and algorithms that target temporal changes in CHAOSS metrics. The aim of this project is to advance the accessibility of these insights through the development of python based API endpoints that deliver visualizations of machine learning outputs, similar to the style found in https://github.com/chaoss/augur/augur/routes/pull_request_reports and https://github.com/chaoss/augur/augur/routes/contributor_reports  
+Currently Augur uses computational linguistics, dependency mapping, license scanning, topic modeling, social network analysis, and algorithms that target temporal changes in CHAOSS metrics. The aim of this project is to advance the accessibility of these insights through the development of python based API endpoints that deliver visualizations of machine learning outputs, similar to the style found in https://github.com/chaoss/augur/blob/main/augur/routes/pull_request_reports.py and https://github.com/chaoss/augur/blob/main/augur/routes/contributor_reports.py  
 
 This technical project is essential for advancing newcomer welcomingness, diversity, equity, and inclusion in Open Source Software. An example of our vision can be found here: 
 [augur-oss+dei-overview.pdf](https://github.com/chaoss/community/files/8247782/augur-oss%2Bdei-overview.pdf)
