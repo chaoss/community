@@ -38,3 +38,4 @@ GSoC Mentors
 | Sakshi Diggikar | sakshidiggikar681@gmail.com | Open Source Software Health Metrics Visualization Exploration | [Microtasks Repository](https://github.com/thesakshidiggikar/chaoss-micro-task) | [Project Proposal](https://docs.google.com/document/d/1_mq8QDlm47g3dKjwOyiQ663Qak-ovayXE-Tfpsrg950/edit?usp=sharing) | |
 | Ayush | ayu08kau@gmail.com | Open Source Software Health Metrics Visualization Exploration | https://github.com/ayush-8/chaoss-gsoc-application | 
 | Ramya Kappagantu | ramyasanjana1999@gmail.com | Machine Learning based Community Health and Communication | [Micro-task](https://github.com/RamyaKappagantu/chaoss-augur-gsoc-22)
+| Priya Srivastava | shivikapriya730@gmail.com | Build Access and Entitlements into a Hosted Version of Augur | [Microtasks Repository](https://github.com/Priya730/chaoss-micro-task) | | |
