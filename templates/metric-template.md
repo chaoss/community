@@ -69,13 +69,13 @@ E.g., -
     ```
     # Some heading
 
-    ![alt text](images/metric-name_test-img1.png)
+    ![alt text](https://github.com/chaoss/working-group/focus-area/images/metric-name_test-img1.png)
 
-    ![alt text](images/metric-name_test-img2.png)
+    ![alt text](https://github.com/chaoss/working-group/focus-area/images/metric-name_test-img2.png)
 
     * Some random text
 
-    ![alt text](images/metric-name_test-img3.png)
+    ![alt text](https://github.com/chaoss/working-group/focus-area/images/metric-name_test-img3.png)
 
     Another text line
     ```
