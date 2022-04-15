@@ -35,6 +35,7 @@ GSoC Mentors
 | --- | --- | --- | --- | --- | --- |
 | Your Name Here | Your Email Here |  Idea You Hoping to Work On | Link to your Mico-task Repo | Link to Your Proposal | YES/NO |
 | Georg Link | linkgeorg@gmail.com | This is an example entry | [Micro-task](https://github.com/chaoss/governance/blob/master/GSoC-Ideas.md) | [Proposal Template](https://docs.google.com/document/d/1YZez6_hgp2dBybEsMZoQ-ONB9IawK4_OPISLHe9Tjew/edit) | NO |
+| Enock Kasaadha (Pseudonym: Enoch Kaxada) | ekaxada@gmail.com | Improve the CHAOSS DEI Event Badging Review Bot | [Micro-task](https://docs.google.com/document/d/1-aZJEzo_Clrx8EvYzI5SYYrlzTCH-yvBUQm6kUKWuFU/edit?usp=sharing) | [Proposal](https://docs.google.com/document/d/1QBo6PtokScEPnWaqaildl0N8rIVt0zMSRpaAuj8xXLU/edit?usp=sharing) | YES |
 | Sakshi Diggikar | sakshidiggikar681@gmail.com | Open Source Software Health Metrics Visualization Exploration | [Microtasks Repository](https://github.com/thesakshidiggikar/chaoss-micro-task) | [Project Proposal](https://docs.google.com/document/d/1_mq8QDlm47g3dKjwOyiQ663Qak-ovayXE-Tfpsrg950/edit?usp=sharing) | |
 | Ayush | ayu08kau@gmail.com | Open Source Software Health Metrics Visualization Exploration | https://github.com/ayush-8/chaoss-gsoc-application | 
 | Ramya Kappagantu | ramyasanjana1999@gmail.com | Machine Learning based Community Health and Communication | [Micro-task](https://github.com/RamyaKappagantu/chaoss-augur-gsoc-22)
