@@ -40,7 +40,6 @@ Volunteers:
 
 Technical Writers:
 -   Kriti Singh (GrimoireLab)
--   Jaskirat Singh (Website)
 -   Andrew Brain (Augur)
 
 ### Measuring your project’s success
