@@ -20,7 +20,7 @@ You must complete these things by April 19, 2022 13:00 US Central Time (UTC-5). 
 
 Regards,
 GSoC Mentors
-
+ 
 ---
 
 ## Applicants
