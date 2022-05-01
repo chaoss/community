@@ -20,3 +20,4 @@ Adding a link to your document below serves the purpose of Statement of Interest
 | Your Name Here | Your Email Here |  Idea You Hoping to Work On | Link to Your Proposal |
 | Georg Link | linkgeorg@gmail.com | This is an example entry | Proposal Link |
 | Muhammad Rafly Andrianza | luphieanza@gmail.com | Community Handbook | [Proposal Link](https://docs.google.com/document/d/1dwJFzEXpw5NB932AGrhmpmI8ipu4k1mTPMgdwJtkugQ/edit?usp=sharing) |
+| Ayush Kumar | ayushknj3@gmail.com | Community Handbook | [Proposal Link](https://gist.github.com/Ayush7614/6eb65be554c941bc821ffb03c90efcfc) |
