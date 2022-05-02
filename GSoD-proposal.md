@@ -22,8 +22,6 @@ The [CHAOSS Commmunity Handbook](https://handbook.chaoss.community/community-han
 
 The Augur component of this project would focus on updating Augur's documentation to incorporate more inclusive language and to more accurately reflect the organization of information a newcomer requires to contribute to the project. A current version of Augur's documentation is found here: https://oss-augur.readthedocs.io/en/main/.  Accomplishing these aims would require the intern to approach Augur as a newcomer, identify non-inclusive language, areas of confusion, and potential areas of improvement in clarity.
 
-[GrimoireLab](https://github.com/chaoss/grimoirelab) is a CHAOSS toolset for software development analytics. It includes a coordinated set of tools to retrieve data from systems used to support software development (repositories), store it in databases, enrich it by computing relevant metrics and making it easy to run analytics and visualizations on it. [Sorting Hat](https://github.com/chaoss/grimoirelab-sortinghat) and [Perceval](https://github.com/chaoss/grimoirelab-perceval) are the two most stable and stand-alone tools in the GrimoireLab toolset. The documentation of these projects is very limited and not beginner-friendly. Recently, the community has decided to work on improving the documentation.
-
 We think this project is potentially exciting to an intern interested in open source software health and sustainability because, through the process of updating documentation, there is an opportunity to understand CHAOSS metrics and metrics models more fully, and create direct links between the metrics and metrics Models Augur provides, and their corresponding CHAOSS definitions. In short, this project is an opportunity for deep engagement with the CHAOSS community.
 
 ### Your project’s scope
@@ -33,13 +31,11 @@ The scope of the project to improve documentation for the CHAOSS website, commun
 We are estimating a period of 6 months to complete this project with three technical writers working on the three individual projects. We have identified community members who are interested to volunteer for managing the project. We have also found three technical writers to work on the projects.
 
 Volunteers:
--   Santiago Dueñas (GrimoireLab)
 -   Kevin Lumbard (Website)
 -   Sean P. Goggins (Augur)
 -   Elizabeth Barron (Community Handbook)
 
 Technical Writers:
--   Kriti Singh (GrimoireLab)
 -   Andrew Brain (Augur)
 
 ### Measuring your project’s success
