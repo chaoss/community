@@ -23,4 +23,3 @@ Adding a link to your document below serves the purpose of Statement of Interest
 | Ayush Kumar | ayushknj3@gmail.com | Community Handbook | [Proposal Link](https://gist.github.com/Ayush7614/6eb65be554c941bc821ffb03c90efcfc) |
 | Xiaoya Xia | xiaoyaxiaesther@gmail.com | Community Handbook | [Proposal Link](https://docs.google.com/document/d/1xnvc2sIGWQaNXxPauzfelOFYhb37C0ctB-kSlunoQVc/edit?usp=sharing)|
 | Pratik Haldankar | pratikhaldankar360@gmail.com | Website and Metrics Release | [Proposal Link](https://docs.google.com/document/d/1Hxz6Usu0zgVBcrxjLx8b3RRc_mTvj--ZbzcF2O-hdAw/edit?usp=sharing)|
-
