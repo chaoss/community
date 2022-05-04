@@ -24,4 +24,4 @@ Adding a link to your document below serves the purpose of Statement of Interest
 | Xiaoya Xia | xiaoyaxiaesther@gmail.com | Community Handbook | [Proposal Link](https://docs.google.com/document/d/1xnvc2sIGWQaNXxPauzfelOFYhb37C0ctB-kSlunoQVc/edit?usp=sharing)|
 | Pratik Haldankar | pratikhaldankar360@gmail.com | Website and Metrics Release | [Proposal Link](https://docs.google.com/document/d/1Hxz6Usu0zgVBcrxjLx8b3RRc_mTvj--ZbzcF2O-hdAw/edit?usp=sharing)|
 | Ruth Ikegah | ruthikegah@gmail.com | The Community Handbook | [Proposal Link](https://docs.google.com/document/d/16CedhEngbw-KjuZQiVZ1AQVKtxzEDcsDe5k2YugyWPY/edit?usp=sharing) |
-
+| Satyam Kumar | skdbsp123@gmail.com | Augur | [Proposal Link](https://docs.google.com/document/d/18sVdhLuoUssyHJPwIi_wlort_NHeYN8siQYJCK8solM/edit?usp=sharing) |
