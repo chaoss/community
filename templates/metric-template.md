@@ -39,10 +39,10 @@ Blog posts, websites, academic papers, or books that mention the metric and prov
 
 ## Known Contributors
 List of people who would like to be mentioned as contributors to this metric 
-```
 
 ***This metric was last reviewed on [date] as part of [ release version] [or recurring review process]***
 
+```
 --------
 # Notes about document formatting
 ***The following rules are applicable for the above defined metric template:***
@@ -58,6 +58,16 @@ EX: `issues-first-response.md`
 * All the images should be using an absolute path to the images directory (Absolute paths are necessary, because these documents will be presented on a different platform/server).
     * E.g., `![alt text](https://github.com/chaoss/working-group/focus-area//images/metric-name_img.png)`
 * No tables should be used in the metrics, alternatively you can insert an image of the table
+* Bulleted Lists with sub-lists do not render properly in HTML. Rather than using sub lists markdown style please format with a bold line for first level list and bullet for the sub-list. For example: 
+```
+**List 1**
+- sub list 1 a
+- sub list 1 b
+
+**line 2**
+- sub list 2 a
+- sub list 2 b
+```
 * No HTML code should be used in the metrics, only markdown 
 * Please remove formatting text and (Optional) tags from the metric prior to publishing
 * There should be at least one `\n` (newline) between:
