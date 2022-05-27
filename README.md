@@ -3,7 +3,9 @@ CHAOSS community governance lives here:
 
 * [Project Charter](project-charter.md)
 * [Code of Conduct](code-of-conduct.md)
-* [Google Summer of Code coordination](GSoC-interest.md)
+* [Mentorships](mentorship)
+    * [Google Summer of Code](mentorship#google-summer-of-code)
+    * [Google Season of Docs](mentorship#google-season-of-docs)
 
 The repo for the Community Handbook is now located here: https://github.com/chaoss/community-handbook
 
