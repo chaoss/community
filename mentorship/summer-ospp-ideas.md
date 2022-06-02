@@ -1,6 +1,6 @@
 # Ideas for Summer 2021 of Open Source Promotion Plan projects
 
-Interested in working with CHAOSS? Below are some project ideas. We describe how to apply to work with CHAOSS and how we select students on a different page: [Summer-OSPP-interest.md](./Summer-OSPP-interest.md)
+Interested in working with CHAOSS? Below are some project ideas. We describe how to apply to work with CHAOSS and how we select students on a different page: [summer-ospp-interest.md](./summer-ospp-interest.md)
 
 ---
 

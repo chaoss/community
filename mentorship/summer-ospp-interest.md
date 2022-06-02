@@ -4,7 +4,7 @@ Hi potential candidates,
 
 A few details regarding the application process specific to the CHAOSS project:
 
-1) You must choose one of the ideas present in [Summer-OSPP-ideas.md](./Summer-OSPP-ideas.md) page and contact the mentors & discuss your plans about the project. You are expected to work on the Project Application Proposal. If you have any microtasks for the project, you are expected to work on them too.
+1) You must choose one of the ideas present in [summer-ospp-ideas.md](./summer-ospp-ideas.md) page and contact the mentors & discuss your plans about the project. You are expected to work on the Project Application Proposal. If you have any microtasks for the project, you are expected to work on them too.
 
 2) Once you have completed working on the Proposal, create a pull request on this file below to add yourself, your information, and a link to your proposal and microtasks repo (if any). 
 
