@@ -11,8 +11,9 @@ CHAOSScon is a community organized event. We do not have dedicated event staff a
 A combination of methods can be used to ask for volunteers:
 
 * CHAOSS general mailing list
-* CHAOSS events mailing list
 * Weekly meetings
+* Working group meetings
+* Slack
 * Reach out directly to individuals
 
 A good organizing committee has volunteers with different skills and interests. The following sections detail what needs to be done to organize CHAOSScon. An organizing committee of about 7-10 volunteers has been effective in executing all tasks.
@@ -23,13 +24,15 @@ What venue we use depends on when and where we plan CHAOSScon.
 
 CHAOSScon North America \(NA\) should be co-located with the Linux Foundation’s Open Source Summit North America \(OSSNA\). CHAOSScon can share the same venue. To secure the venue, we need to file a request on the OSSNA website or contact someone from the LF events team.
 
-CHAOSScon Europe should be co-located with FOSDEM in Brussels Belgium. Bitergia has secured a venue in the past.
+CHAOSScon Europe should be co-located with FOSDEM in Brussels Belgium or the Linux Foundation's Open Source Summit Europe \(OSSEU)\. Bitergia has secured a venue in the past, but any volunteer can do this.
 
 The organizing committee can determine how many rooms they want to use. A second room can be used for socializing and workshops.
 
 ## 🕙 Time for CHAOSScon
 
 It is easier to end the event earlier than run late.
+
+CHAOSScon usually runs as a half-day event. 
 
 Consider other events that are happening on the same day.
 
@@ -69,9 +72,7 @@ Keynote speakers should have a message that we as a community want to elevate. W
 
 ## 📔 Launch registration page
 
-For CHAOSScon North America, we like to partner with the Linux Foundation to have CHAOSScon be an option for registrations to Open Source Summit North America. The Linux Foundation can also provide a stand-alone registration for CHAOSScon only. The latter is the form we link to from the CHAOSScon website.
-
-For CHAOSScon Europe, we used Eventbrite.
+If co-locating with a Linux Foundation event, we like to partner with them for registrations to Open Source Summit. 
 
 ## ✍ Release and advertise the schedule
 
@@ -133,9 +134,11 @@ On the day of the event \(check with venue what is allowed\):
 * Provide a place for sponsors to put swag
 * Set up video recording
 
-## 📷 Video-tape talks
+## 📷 Recording and Streaming talks
 
-We like to record presentations and upload them to the CHAOSS YouTube channel. This increases the range for presenters and creates an archive to reference talks.
+If possible we want to stream the event live. 
+
+We also like to record presentations and upload them to the CHAOSS YouTube channel. This increases the range for presenters and creates an archive to reference talks.
 
 The University of Nebraska at Omaha has in the past brought a camcorder, processed the videos, and uploaded them.
 
