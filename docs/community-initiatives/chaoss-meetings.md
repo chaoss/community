@@ -16,10 +16,14 @@ description: CHAOSS Meetings Procedure
 
 After our meetings, someone needs to publish the recordings on YouTube
 
-1. Update video name
-2. Add a description that includes a link to the minutes' document and archive in the Governance repo
-3. Configure thumbnail image to show on YouTube for video \([Export PNG from this slide deck](https://docs.google.com/presentation/d/18iRLlqSfZK_36S0pqACJ0i32BWbu01aXXLdtU1Op__M/edit#slide=id.p3)\)
-4. Add video to appropriate YouTube playlist
-5. Publish video
-6. Update meeting minutes by pasting the link to the video there
+1. Download the video from CHAOSS zoom list of recordings. 
+2. Login to the CHAOSStube account to create a new video.
+3. Update video name to ***CHAOSS XXXX Working Group - Date***
+4. Add this description: 
 
+    *Links to minutes from this meeting are on https://chaoss.community/participate./*
+
+5. Configure thumbnail image to show CHAOSS logo on YouTube for video \([You can download from CHAOSS media page](https://chaoss.github.io/website/About/Media/logo-large_1123x271.png?raw=true)\)
+8. Add video to appropriate YouTube playlist
+9. All the other settings can be left at their default
+10. Publish video
