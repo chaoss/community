@@ -14,19 +14,18 @@ This is a CHAOSS Community project and should never rely on one person only.
 
 Each role is occupied by different people each episode.
 
-### Organizers
+### Host
 
-The **organizer** is responsible for the invitation, scheduling, preparation, coordination, moderation, and monitoring the podcast email. Each episode has exactly one \(1\) organizer. An organizer is also a panelist.
+The **host** is responsible for the making the initial connection to potential guests, moderation, and recording the podcast. Each episode has exactly one \(1\) host. A host is also a panelist.
 
 1. Georg Link
 2. Samantha Venia Logan
-3. Dylan Marcy
-4. Sean Goggins
-5. ... \(you?\)
+3. Sean Goggins
+4. ... \(you?\)
 
 ### Panelists
 
-A **panelist** is responsible for research, asking questions, and adding to the conversation on the podcast. These panelists have agreed to be invited to every new episode. Not everyone should be on every episode. Organizers are also panelists.
+A **panelist** is responsible for research, asking questions, and adding to the conversation on the podcast. These panelists have agreed to be invited to every new episode. Not everyone should be on every episode. 
 
 * Matt Broberg
 * Matt Germonprez
@@ -40,17 +39,20 @@ A **panelist** is responsible for research, asking questions, and adding to the 
 * Kate Stewart
 * Armstrong Foundjem
 * Sophia Vargas
+* Sean Goggins
+* Georg Link
+* Samantha Venia Logan
 * ... you?
 
 ### Guest
 
-A **guest** is requested to discuss up-front what they want to talk about and provide references.
+A **guest** is invited to participate in the podcast and may or may not be a member of CHAOSS.
 
 We have a [Planning Guests document](https://docs.google.com/document/d/1qxmC1k8SayChurIq2r91CR3r_KAThTwaNEMjA6DLGhE/edit) to keep track of who we want to invite.
 
 ### Coordinator
 
-A **coordinator** assists with the finer details of confirming podcast dates/times and acts as a central point of communication for all other roles. This role also sends out post-podcast thank you gifts. This is currently assigned to the CHAOSS Community Manager.
+A **coordinator** assists with the scheduling, confirming podcast dates/times and acts as a central point of communication for all other roles. This role also publishes the episodes sends out post-podcast thank you gifts. This is currently assigned to the CHAOSS Community Manager.
 
 * [Elizabeth Barron](https://github.com/elizabethn)
 
@@ -58,7 +60,7 @@ A **coordinator** assists with the finer details of confirming podcast dates/tim
 
 * [Google Drive](https://drive.google.com/drive/folders/1gsQF8_R8cdkQBQn6iWa5oFbd52wIdRy4) Maintained by Paul Bahr, our sound editor
 * [Google Drive](https://drive.google.com/drive/folders/14t0-0Bf5rjDaR1PAR854lCnC7xaF4Hnh) Maintained by CHAOSScast Organizers
-* [CHAOSScast Calendar](https://calendar.google.com/calendar?cid=NTEzcjQ3YmI3NTZ0MDdscDV0YXQ1bnN1ajBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) for recording dates and epsiode release schedule
+* [CHAOSScast Calendar](https://calendar.google.com/calendar/embed?src=513r47bb756t07lp5tat5nsuj0%40group.calendar.google.com&ctz=America%2FNew_York) for recording dates and epsiode release schedule
 * Email address for podcast, forwarded to Organizers: [podcast@chaoss.community](mailto:podcast@chaoss.community)
 
 ## ✍ Strategy
@@ -140,16 +142,15 @@ These procedures are for the organizer and coordinator of each episode:
 * **Step 1:** Determine a guest \(Anyone\)
   * **Action:** Recruit interview guest and decide topic and content of the podcast together
 * **Step 2:** Coordinate Episode \(Coordinator\)
-  * **Action:** Send invitation email \(content TBD\) to guest to find a few potential suitable dates and times \(60-90 minutes.\)
+  * **Action:** Send invitation email to guest to find a few potential suitable dates and times \(60-90 minutes.\)
   * **Action:** Notify organizer of guest's date and time possibilities, and confirm one.
-  * **Action:** Prepare the planning document \(copy the [Episode Planning Document template](https://docs.google.com/document/d/17qjAafr0aAWXV_HR-WiefHOa881t8X7tEoiZnPBh3ao/edit#heading=h.cmpmu92ylw4d) and start filling in information.\)
+  * **Action:** Prepare the planning document \(copy the [Episode Planning Document template](https://docs.google.com/document/d/17qjAafr0aAWXV_HR-WiefHOa881t8X7tEoiZnPBh3ao/edit?pli=1#heading=h.cmpmu92ylw4d) and start filling in information.\)
   * **Action:** send out an [invitation email](https://docs.google.com/document/d/1IniJc9o1OCBBTYv50W3WTfZYmshi4aYusHIK4ADulk8/edit) for panelists to RSVP yes or no \([list of email addresses](https://docs.google.com/document/d/1ca9TJY17cj-cBWmJP5qjCX56133unsaOlEUwACc4PMA/edit)\)
     * Prioritize those who said they were interested in the topic
     * If needed, [invite new panelists](https://docs.google.com/document/d/1gGf9n6D5g2Y_YfqVuWOvWvZvNvKmbQr9adruHeQTAu0/edit?usp=sharing)
   * **Action:** Confirm with 1-2 panelists that replied "yes" and notify others who replied yes that the panel is already complete.
-  * **Action:** Reserve the session on the [Rebase.fm Calendly](https://calendly.com/rebasefm/chaosscast) for recording purposes.
   * **Action:** Send calendar invitation with confirmed date of the podcast \(only the guest, organizer, and panelists that will be in the episode
-    * The event has to be created in the [CHAOSScast calendar](https://calendar.google.com/calendar?cid=NTEzcjQ3YmI3NTZ0MDdscDV0YXQ1bnN1ajBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ)
+    * The event has to be created in the [CHAOSScast calendar](https://calendar.google.com/calendar/ical/513r47bb756t07lp5tat5nsuj0%40group.calendar.google.com/public/basic.ics)
       * All organizers should have full access to the calendar \(i.e., Make changes and manage sharing\)
     * Name calendar event:🎙 CHAOSScast {with guest}
       * Start with the microphone emoticon \(🎙\) to signal recording meeting
@@ -178,10 +179,9 @@ These procedures are for the organizer and coordinator of each episode:
 
 ### Publishing an episode \(~30-40 min\)
 
-* Justin will send a notification \(email or on Slack\) **After podcast is edited**
-  * Review the [planning document](https://drive.google.com/drive/folders/1fngLL19piFIQoPk1Fpv81O6aSXWUGUsY) for any notes of interest
-  * Download the [shownotes and MP3 file from Dropbox](https://www.dropbox.com/sh/l7iv7qewxk5ud8o/AAC8aNnZYbKy6K6gsdg5pfTGa/Episodes?dl=0&subfolder_nav_tracking=1)
-  * Download the [cover art from Dropbox](https://www.dropbox.com/sh/l7iv7qewxk5ud8o/AADj2oAVfg2brvd8DulJPxEla/Art?dl=0&subfolder_nav_tracking=1)
+* Paul Bahr from Peachtree Sound will send the edited podcast and show notes \(email\) **After podcast is edited**
+  * Review the Episode Planning Document for the guest's profile pic, bio, and social media links.
+  * Create the Cover Art by downloading a sample [cover art from Dropbox](https://www.dropbox.com/sh/l7iv7qewxk5ud8o/AADj2oAVfg2brvd8DulJPxEla/Art?dl=0&subfolder_nav_tracking=1) and updating the episode number
   * Upload the shownotes to google drive and use Convert to Markdown to get markdown format
   * In [Fireside](https://chaosscast.fireside.fm/admin/), create missing panelists and guests
   * Slug is `firstname-lastname` \(e.g., `georg-link`\)
