@@ -52,11 +52,11 @@ You can assess the health of your community by submitting the details under "[**
 
 All the metrics can be found under the **"**[**Metric Definition**](https://chaoss.community/metrics/)**"** on the CHAOSS website
 
-### **What is D&I badging?**
+### **What is DEI badging?**
 
 The Diversity and Inclusion Badging program use a peer-review system to encourage projects and events to obtain badges. It aims to increase understanding of the open-source project and event practices that encourage greater diversity and wider inclusion of people from different backgrounds.
 
-The program is affiliated with the CHAOSS project and a proud initiative of CHAOSS. Most of the work of the Badging Program is closely associated with the CHAOSS D&I working group. ****[**You can read more about it here**](https://handbook.chaoss.community/community-handbook/badging/overview)\*\*\*\*
+The program is affiliated with the CHAOSS project and a proud initiative of CHAOSS. Most of the work of the Badging Program is closely associated with the CHAOSS DEI working group. ****[**You can read more about it here**](https://handbook.chaoss.community/community-handbook/badging/overview)\*\*\*\*
 
 ### **Does CHAOSS provide any tools to measure the open source project or community health?**
 
