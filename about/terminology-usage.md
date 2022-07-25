@@ -56,7 +56,7 @@ You may find the words written within the documentation, website, or Github repo
 
 * **CHAOSS** - Community Health Analytics Open Source Software
 * **WG -** Working Group
-* **D&I -** Diversity and Inclusion
+* **DEI -** Diversity, Equity and Inclusion
 * **GB -** Governance Board
 * **CoC** - Code of Conduct
 * **GSoC** - Google Summer of Code
