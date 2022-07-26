@@ -6,7 +6,7 @@ description: Contains the details about working groups
 
 ### What is the Working Group?
 
-\*\*\*\*📔 **Dictionary says**, "_Working Group is a group of experts working together to achieve specified goals_" and this is what **CHAOSS Working Groups** signifies - The groups that are primarily organized around metrics and software.
+📔 **Dictionary says**, "_Working Group is a group of experts working together to achieve specified goals_" and this is what **CHAOSS Working Groups** signifies - The groups that are primarily organized around metrics and software.
 
 ### Types of CHAOSS Working Groups
 
@@ -15,21 +15,21 @@ In order to learn more about these groups, you should refer to their GitHub repo
 Working Groups around **Metric**📖
 
 * [**Common Metric**](https://github.com/chaoss/wg-common) 
-* \*\*\*\*[**Diversity & Inclusion**](https://github.com/chaoss/wg-diversity-inclusion)\*\*\*\*
-* \*\*\*\*[**Evolution**](https://github.com/chaoss/wg-evolution)\*\*\*\*
-* \*\*\*\*[**Risk**](https://github.com/chaoss/wg-risk)\*\*\*\*
-* \*\*\*\*[**Value**](https://github.com/chaoss/wg-value)\*\*\*\*
+* [**Diversity & Inclusion**](https://github.com/chaoss/wg-diversity-inclusion)
+* [**Evolution**](https://github.com/chaoss/wg-evolution)
+* [**Risk**](https://github.com/chaoss/wg-risk)
+* [**Value**](https://github.com/chaoss/wg-value)
 
-Working Groups around **Software**🖥\*\*\*\*
+Working Groups around **Software**🖥
 
-* [**GrimoireLab**](https://github.com/chaoss/grimoirelab)\*\*\*\*
-* \*\*\*\*[**Augur**](https://github.com/chaoss/augur)\*\*\*\*
-* \*\*\*\*[**Cregit**](https://github.com/cregit/cregit)\*\*\*\*
+* [**GrimoireLab**](https://github.com/chaoss/grimoirelab)
+* [**Augur**](https://github.com/chaoss/augur)
+* [**Cregit**](https://github.com/cregit/cregit)
 
-Working Groups around **User Groups** 👥\*\*\*\*
+Working Groups around **User Groups** 👥
 
-* \*\*\*\*[**Application Ecosystem**](https://github.com/chaoss/wg-app-ecosystem)\*\*\*\*
-* \*\*\*\*[**Diversity & Inclusion Badging**](https://github.com/badging)\*\*\*\*
+* [**Application Ecosystem**](https://github.com/chaoss/wg-app-ecosystem)
+* [**Diversity, Equity & Inclusion Badging**](https://github.com/badging)
 
 ### Who all can participate?
 
@@ -50,15 +50,15 @@ Check out our [**participation page**](https://chaoss.community/participate/) fo
 * [ ] providing feedback on docs of metrics
 * [ ] making any other contributions on GitHub \(commits issues\)
 
-{% hint style="info" %}
+
 **NOTE:** People not participating over a 3 month period may be removed as core contributors.  
-{% endhint %}
+
 
 ### How to define any new focus area of metrics inside any working group?
 
 Here are the steps to define any new **Focus Area**🎯of metric inside any working group:
 
-* **Understand the background of each working group** - Understand the background of each of "[**Common Metric**](https://github.com/chaoss/wg-common#background)", "[**Diversity & Inclusion**](https://github.com/chaoss/wg-diversity-inclusion#background)", "[**Evolution**](https://github.com/chaoss/wg-evolution#introduction)", "[**Value**](https://github.com/chaoss/wg-value#problem-statement)", and [**Risk**](https://github.com/chaoss/wg-risk#background) ****thoroughly.
+* **Understand the background of each working group** - Understand the background of each of "[**Common Metric**](https://github.com/chaoss/wg-common#background)", "[**Diversity & Inclusion**](https://github.com/chaoss/wg-diversity-inclusion#background)", "[**Evolution**](https://github.com/chaoss/wg-evolution#introduction)", "[**Value**](https://github.com/chaoss/wg-value#problem-statement)", and "[**Risk**](https://github.com/chaoss/wg-risk#background)" thoroughly.
 * **Ask yourself** - _Under what category my focus area lies?_  Try to relate your focus area with already existing focus areas. If you are able to relate it with the existing focus area and background that means its all set. 👍 
 * But if you are unable to relate, **open up the issue** within the relevant repository of the working group and explain the focus area along with its **goal**
 * **Once you submit,** it will be reviewed by maintainers and will be discussed in the respective working group meeting call.
