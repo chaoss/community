@@ -6,7 +6,7 @@ description: Contributing in marketing
 
 The **CHAOSS** project was officially announced at the Open Source Summit North America 2017 in Los Angeles. Here is a picture of the workshop participants at OSSNA2017 -- the first to help us spread CHAOSS! If you are interested in helping spread CHAOSS now, check out the following ways to get involved with the CHAOSS community.
 
-![CHAOSS workshop participants at OSSNA2017](../.gitbook/assets/chaosscon.png)
+![CHAOSS workshop participants at OSSNA2017](../assets/chaosscon.png)
 
 Spreading the word about what is going on in the CHAOSS community is a vital part of CHAOSS engagement, and below are the following ways with which you can get involved in growing the CHAOSS community
 

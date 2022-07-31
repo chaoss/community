@@ -24,7 +24,7 @@ description: >-
 
 ## **Updating translations**
 
-![](../../.gitbook/assets/update-translations-flowchart.png)
+![](../../assets/update-translations-flowchart.png)
 
 The working groups keep revising the focus areas and the metrics regularly. Therefore, it is necessary for the translations to be updated as per the current version of the release. The following steps help ensure this:
 

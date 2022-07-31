@@ -36,7 +36,7 @@ By clicking the button you will be navigated to [the CHAOSS Event Badging submis
 
 Please fill out the web form to apply for a badge. Provide as much information as you want, and click "Submit".
 
-![](../../.gitbook/assets/image%20%285%29.png)
+![](../../assets/image%20%285%29.png)
 
 You will be redirected to GitHub with a pre-populated issue. This issue will be generated under the`event-diversity-and-inclusion`badging repository with the information you provided on the web form. **You must use your GitHub account to finalize the issue on their Website by clicking "Create New Issue", or your submission will be invalid.**
 
@@ -60,7 +60,7 @@ The review is finalized when a moderator confirms that the application and check
 
 Here is an example of a newly granted badge:
 
-![](../../.gitbook/assets/image%20%284%29.png)
+![](../../assets/image%20%284%29.png)
 
 {% tabs %}
 {% tab title="Markdown Badge Link" %}
