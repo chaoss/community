@@ -26,16 +26,16 @@ Once you have figured the approach below is the flow you need to follow:
 * Open the [**CHAOSS GitHub**](https://github.com/chaoss) and find the repository on which you want to contribute. \(Assume the governance repository here; using the GitHub.com user interface.\)
 * Click on the file you want to edit. For instance, I have taken the [**README.md**](https://github.com/chaoss/governance/blob/master/README.md) file. Click on the pencil ✏ option to edit the page.
 
-![](../../.gitbook/assets/2%20%281%29.png)
+![](../../assets/2%20%281%29.png)
 
 * Make any edits you need, remembering to always format them using Markdown. To understand Markdown better, check out the [GitHub reference](https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/basic-writing-and-formatting-syntax) or [GibtBook reference](https://docs.gitbook.com/content-editing/markdown) guides.
 * When you are done making changes, scroll down, and write a short description of your changes. Select the option **Create a new branch for this commit and start a pull request** and click on **Propose file change**. This will direct you to the **Pull request** page.
 
-![](../../.gitbook/assets/22.png)
+![](../../assets/22.png)
 
 * On the **Pull Request** page, write the description of your changes and create a pull request by clicking on **create pull request** button
 
-![](../../.gitbook/assets/222.png)
+![](../../assets/222.png)
 
 Congratulations! 🎉 you made the pull request and it will be reviewed by the repository admins
 

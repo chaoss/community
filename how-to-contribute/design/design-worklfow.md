@@ -15,7 +15,7 @@ We follow a 4-query procedure to solve the design issues. Each question is a ste
 
 ## Ways of Achieving
 
-![Design created by Jaskirat SIngh ](../../.gitbook/assets/ch.png)
+![Design created by Jaskirat SIngh ](../../assets/ch.png)
 
 \*\*\*\*💡 **Plan** - You should be good to commence your design with planning as design inquires into the nature of a problem to conceive a framework for solving that problem. In general, planning is problem-solving, while the design is putting problems into actions.
 

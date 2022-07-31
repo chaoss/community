@@ -8,7 +8,7 @@ description: You will have fun knowing the CHAOSS History
 **NOTE**: Click on the below image to see the zoomed version of the CHAOSS History Timeline. \([SVG](https://github.com/chaoss/community-handbook/blob/master/about/CHAOSS_History_Timeline.svg)\)
 {% endhint %}
 
-![](../.gitbook/assets/frame-2-1-%20%281%29.jpg)
+![](../assets/frame-2-1-%20%281%29.jpg)
 
 ### Evolution of CHAOSS at Open Source Sumit North America
 
@@ -24,19 +24,25 @@ Some folks present at Open Source Summit North America from the Linux Foundation
 
 ### Formation of Diversity & Inclusion Working Group
 
-Diversity and Inclusion are known to challenge unchecked assumptions and lead to more open and fair collaboration practices. Since diversity and inclusion are central to the health of open source communities so the CHAOSS Diversity & Inclusion \(D&I\) Working Group was formed, aiming at bringing experiences to measure diversity and inclusion consistently across open source projects, supported by software where possible.
+Diversity and Inclusion are known to challenge unchecked assumptions
+ and lead to more open and fair collaboration practices.
+ Since diversity and inclusion are central to the health of open source communities so the CHAOSS Diversity & Inclusion \(D&I\) Working Group was formed, aiming at bringing experiences to measure diversity and inclusion consistently across open source projects, supported by software where possible.
 
 ### Formation of Evolution Working Group
 
-An OSS community goes through stages of Evolution. The state that a community is in may prove important when evaluating both across and within community concerns So evolution working group was formed to focus on the lifecycle of open source projects.
+An OSS community goes through stages of Evolution. The state that a
+ community is in may prove important when evaluating both across and
+ within community concerns So evolution working group was formed to focus on the lifecycle of open source projects.
 
 ### Formation of Risk Working Group
 
-The Risk working group was formed to focus on metrics for issues pertaining to risk in open source. The Risk metric informs how much risk an OSS community might carry or pose.
+The Risk working group was formed to focus on metrics for issues pertaining to risk in open source. The Risk metric informs how much risk an OSS community might carry
+ or pose.
 
 ### Formation of value Working Group
 
-Value group was formed to develop the metrics that, when measured, help make the impact of community work more transparent. Developers and organizations capture value from engaging in OSS communities. This set of metrics can inform what this value is. 
+Value group was formed to develop the metrics that, when measured, help make the impact of community work more transparent. Developers and organizations capture value from engaging in OSS
+ communities. This set of metrics can inform what this value is. 
 
 ### Start of CHAOSScon conference
 

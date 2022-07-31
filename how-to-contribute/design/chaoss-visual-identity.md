@@ -20,44 +20,44 @@ It can be used by developers, documentarians, marketers or anyone who want to sh
 
 * **CHAOSS logo in color**
 
-![](../../.gitbook/assets/logo-large_1123x271.png)
+![](../../assets/logo-large_1123x271.png)
 
-{% file src="../../.gitbook/assets/logo-large\_1123x271.png" caption="CHAOSS logo - Color - PNG" %}
+{% file src="../../assets/logo-large\_1123x271.png" caption="CHAOSS logo - Color - PNG" %}
 
-{% file src="../../.gitbook/assets/chaoss-color.svg" caption="CHAOSS logo - Color - SVG" %}
+{% file src="../../assets/chaoss-color.svg" caption="CHAOSS logo - Color - SVG" %}
 
 * **CHAOSS logo in black**
 
-![](../../.gitbook/assets/chaoss-black.svg)
+![](../../assets/chaoss-black.svg)
 
-{% file src="../../.gitbook/assets/chaoss-black.svg" caption="CHAOSS logo - Black - SVG" %}
+{% file src="../../assets/chaoss-black.svg" caption="CHAOSS logo - Black - SVG" %}
 
 * **CHAOSS logo in White**
 
-![](../../.gitbook/assets/chaoss-white.png)
+![](../../assets/chaoss-white.png)
 
-{% file src="../../.gitbook/assets/chaoss-white.svg" caption="CHAOSS logo - White - SVG" %}
+{% file src="../../assets/chaoss-white.svg" caption="CHAOSS logo - White - SVG" %}
 
 ### Color Palette
 
 **Color Used:** 
 
-* PANTONE RUBINE RED C ![](../../.gitbook/assets/r.png) 
-* PANTONE 2925 C ![](../../.gitbook/assets/b.png) 
-* PANTONE 570 C ![](../../.gitbook/assets/g.png) 
-* PANTONE VIOLET 0631 C ![](../../.gitbook/assets/p.png) 
+* PANTONE RUBINE RED C ![](../../assets/r.png) 
+* PANTONE 2925 C ![](../../assets/b.png) 
+* PANTONE 570 C ![](../../assets/g.png) 
+* PANTONE VIOLET 0631 C ![](../../assets/p.png) 
 
-![](../../.gitbook/assets/chaoss-r.png)
+![](../../assets/chaoss-r.png)
 
-![](../../.gitbook/assets/chaoss-b.png)
+![](../../assets/chaoss-b.png)
 
-![](../../.gitbook/assets/chaoss-g.png)
+![](../../assets/chaoss-g.png)
 
-![](../../.gitbook/assets/chaoss-p.png)
+![](../../assets/chaoss-p.png)
 
 ### Font
 
 Font used in the CHAOSS logo is **PORT**
 
-![](../../.gitbook/assets/chaoss-font.png)
+![](../../assets/chaoss-font.png)
 

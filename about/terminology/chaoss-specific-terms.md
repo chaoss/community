@@ -40,7 +40,7 @@ The CHAOSS Community podcast that ****elevates conversations about metrics, anal
 
 CHAOSSbog is the CHAOSS community blog hub hosted on the website for which anyone can contribute to getting published on the CHAOSS website. [**You can find CHAOSSblog here**](https://chaoss.community/blog/)\*\*\*\*
 
-### \*\*\*\*![](../../.gitbook/assets/free-youtube-logo-icon-2431-thumb.png) **CHAOSStube**
+### \*\*\*\*![](../../assets/free-youtube-logo-icon-2431-thumb.png) **CHAOSStube**
 
 It is the central directory - Youtube, where you can find all the recorded community meeting calls that are held within the CHAOSS Community. [**You can find them here**](https://www.youtube.com/c/CHAOSStube/featured)\*\*\*\*
 

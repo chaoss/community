@@ -79,7 +79,7 @@ description: This page contains the roles and responsibilities of the CHAOSS com
 
 * When a moderation request comes in, react to it
 
-## ![](../.gitbook/assets/logo.png) Twitter Manager
+## ![](../assets/logo.png) Twitter Manager
 
 * Like and re-tweet tweets about @CHAOSSproj that are relevant
 * Share status updates from @CHAOSSproj

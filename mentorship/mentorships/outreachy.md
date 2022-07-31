@@ -1,6 +1,6 @@
 # Outreachy
 
-## About Outreachy ![](../.gitbook/assets/outreachy-logo.png) 
+## About Outreachy ![](../assets/outreachy-logo.png) 
 
 Outreachy is a paid, remote internship program. Outreachy's goal is to support people from groups underrepresented in tech. They help newcomers to free software and open-source make their first contributions.
 

@@ -4,7 +4,7 @@ description: Design of CHAOSS
 
 # Design
 
-![](../../.gitbook/assets/logo-large_1123x271.png)
+![](../../assets/logo-large_1123x271.png)
 
 ### What is CHAOSS design? 🖌 
 
