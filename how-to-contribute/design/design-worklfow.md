@@ -17,13 +17,13 @@ We follow a 4-query procedure to solve the design issues. Each question is a ste
 
 ![Design created by Jaskirat SIngh ](../../assets/ch.png)
 
-\*\*\*\*💡 **Plan** - You should be good to commence your design with planning as design inquires into the nature of a problem to conceive a framework for solving that problem. In general, planning is problem-solving, while the design is putting problems into actions.
+💡 **Plan** - You should be good to commence your design with planning as design inquires into the nature of a problem to conceive a framework for solving that problem. In general, planning is problem-solving, while the design is putting problems into actions.
 
-\*\*\*\*🧐 **Research** - Make generative research together with the CHAOSS community members the requirements and assets that are needed. Check what impedes their productivity.
+🧐 **Research** - Make generative research together with the CHAOSS community members the requirements and assets that are needed. Check what impedes their productivity.
 
-\*\*\*\*✍ **Document** - Documentation stands out as one of the most important parts of any implementation design goal. After making fair research you should write down all the requirements you need with the available resources.
+✍ **Document** - Documentation stands out as one of the most important parts of any implementation design goal. After making fair research you should write down all the requirements you need with the available resources.
 
-\*\*\*\*🖌 **Design** - High time! Once all the objectives and requirements are defined, draft your thoughts into the canvas that will help in solving the critical design problem that you are trying to achieve.
+🖌 **Design** - High time! Once all the objectives and requirements are defined, draft your thoughts into the canvas that will help in solving the critical design problem that you are trying to achieve.
 
-\*\*\*\*🧪 **Test** - Testing is the stage in the design process that enables you to evaluate your design problem or service with real users and enables you to create more community-oriented design solutions.
+🧪 **Test** - Testing is the stage in the design process that enables you to evaluate your design problem or service with real users and enables you to create more community-oriented design solutions.
 
