@@ -20,9 +20,8 @@ A leader🏅is someone who has specific decision-making power over some part of 
 
 We are a volunteer-driven👥organization which means the work within the CHAOSS community is focused around the creation of metrics and software which depend upon the contributions made by external individuals and communities. We need people to direct the vision of **creation,** **planning**, and **architecture** of new initiatives within the community in order to drive through the better objectives.
 
-{% hint style="info" %}
+
 **The CHAOSS** community has defined its different set of leadership roles under a specific set of [**community guidelines**](https://chaoss-project.gitbook.io/community-handbook/community-guidelines) and [**governance**](https://github.com/chaoss/governance) policies.
-{% endhint %}
 
 ## How to become a leader?
 
@@ -54,9 +53,9 @@ Checklist✅before becoming a **Documentation Maintainer**
 * [ ] Keeping the content across the repositories and other platforms updated
 * [ ] Critical thinker and problem-solver
 
-{% hint style="info" %}
+
 **NOTE:** Usually existing maintainers elevate others to become maintainers when they see it helpful for the project.
-{% endhint %}
+
 
 ### **Governance Leadership**
 
@@ -71,9 +70,9 @@ Checklist✅for becoming a **Board Member** and **Decisions Maker**
 * [ ] Holds critical thinking and problem-solving abilities and can provide thoughtful input to the project
 * [ ] Excellent Knowledge of performance evaluation techniques and key metrics
 
-{% hint style="info" %}
+
 **NOTE:** New board members are nominated and voted into office by existing board members. Co-leads of the board are nominated and voted into office by existing board members.
-{% endhint %}
+
 
 ### Operation Leadership
 
@@ -87,7 +86,7 @@ Checklist✅for becoming the **Community Manager**
 * [ ] A challenge seeker who desires and readily takes on new challenges and works towards solutions
 * [ ] An understanding of how contemporary open source projects function
 
-{% hint style="info" %}
+
 **NOTE:** The community manager is a paid position and is hired through a job-application process. Selected community members are asked to serve on the search committee to review applications, interview candidates, and make a recommendation.
-{% endhint %}
+
 

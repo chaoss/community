@@ -87,12 +87,12 @@ description: This page contains the roles and responsibilities of the CHAOSS com
 
 ## 📖 Code of Conduct Enforcement Team member
 
-\(luckily we have had no reports yet\)
+luckily we have had no reports yet
 
 * monitor mailing list to which reports can be made
 * respond to reports
 
-## Mentor \(e.g., GSoC or Outreachy\)
+## Mentor e.g., GSoC or Outreachy
 
 * Submit project ideas
 * Respond to interested students
