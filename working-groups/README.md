@@ -4,33 +4,41 @@ description: Contains the details about working groups
 
 # Working Groups
 
-### What is the Working Group?
+## What is the Working Group?
 
 📔 **Dictionary says**, "_Working Group is a group of experts working together to achieve specified goals_" and this is what **CHAOSS Working Groups** signifies - The groups that are primarily organized around metrics and software.
 
-### Types of CHAOSS Working Groups
+## Types of CHAOSS Working Groups
 
 In order to learn more about these groups, you should refer to their GitHub repositories.
 
-Working Groups around **Metric**📖
+### Working Groups around **Metric**📖
 
-* [**Common Metric**](https://github.com/chaoss/wg-common) 
-* [**Diversity & Inclusion**](https://github.com/chaoss/wg-diversity-inclusion)
-* [**Evolution**](https://github.com/chaoss/wg-evolution)
-* [**Risk**](https://github.com/chaoss/wg-risk)
-* [**Value**](https://github.com/chaoss/wg-value)
-* [**Metrics-Models](https://github.com/chaoss/wg-metrics-models)
+* [**Common Metric**](https://github.com/chaoss/wg-common): This working group focuses on defining the metrics that are used by both working groups or are important for community health, but that does not cleanly fit into one of the other existing working groups.
 
-Working Groups around **Software**🖥
+* [**Diversity, Equity & Inclusion**](https://github.com/chaoss/wg-diversity-inclusion): This working group aims to bring together experiences measuring diversity, equity and inclusion in open source projects.
 
-* [**GrimoireLab**](https://github.com/chaoss/grimoirelab)
-* [**Augur**](https://github.com/chaoss/augur)
-* [**Cregit**](https://github.com/cregit/cregit)
+* [**Evolution**](https://github.com/chaoss/wg-evolution): This working group focusses on refining the metrics that inform evolution and to work with open source software implementations.
 
-Working Groups around **User Groups** 👥
+* [**Risk**](https://github.com/chaoss/wg-risk): The working group focuses on compliance and risk metrics in Open Source Software.
 
-* [**Application Ecosystem**](https://github.com/chaoss/wg-app-ecosystem)
-* [**Diversity, Equity & Inclusion Badging**](https://github.com/badging)
+* [**Value**](https://github.com/chaoss/wg-value): This working group focuses on industry-standard metrics for economic value in open source.
+
+* [**Metrics-Models**](https://github.com/chaoss/wg-metrics-models): This working group develops models that include the integration of multiple CHAOSS metrics in a way that people would consume them in practice
+
+### Working Groups around **Software**🖥
+
+* [**GrimoireLab**](https://github.com/chaoss/grimoirelab): This working group connects the GrimoireLab software development with metrics work in other CHAOSS working groups.
+
+* [**Augur**](https://github.com/chaoss/augur): This working group connects the Augur software development with metrics work in other CHAOSS working groups.
+
+* [**Cregit**](https://github.com/cregit/cregit): This working group connects the Cregit software development with metrics work in other CHAOSS working groups.
+
+### Working Groups around **User Groups** 👥
+
+* [**Application Ecosystem**](https://github.com/chaoss/wg-app-ecosystem): This working group applies CHAOSS metrics in the context of an open-source app ecosystem. The mission of this working group is to build a base set of metrics that is focused on the needs of open source communities that are part of the FOSS app ecosystem.
+
+* [**Diversity, Equity & Inclusion Badging**](https://github.com/badging): The working group that encourages projects and events to obtain D&I badges for reasons of pride, leadership, self-reflection, and self-improvement on issues critical to building the Internet as a social good.
 
 ### Who all can participate?
 
