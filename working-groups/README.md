@@ -19,6 +19,7 @@ Working Groups around **Metric**📖
 * [**Evolution**](https://github.com/chaoss/wg-evolution)
 * [**Risk**](https://github.com/chaoss/wg-risk)
 * [**Value**](https://github.com/chaoss/wg-value)
+* [**Metrics-Models](https://github.com/chaoss/wg-metrics-models)
 
 Working Groups around **Software**🖥
 
