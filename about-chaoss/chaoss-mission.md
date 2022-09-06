@@ -1,6 +1,5 @@
-# CHAOSS Mission and Goals
 
-## **The CHAOSS Project Mission**
+# **The CHAOSS Project Mission**
 
 The mission of the Project is to:
 
