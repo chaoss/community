@@ -1,2 +1,0 @@
-# Info on CHAOSS Asia
-

@@ -1,1 +1,0 @@
-# Info on CHAOSS Africa

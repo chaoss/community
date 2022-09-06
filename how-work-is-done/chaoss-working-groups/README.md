@@ -24,7 +24,10 @@ In order to learn more about these groups, you should refer to their GitHub repo
 
 * [**Value**](https://github.com/chaoss/wg-value): This working group focuses on industry-standard metrics for economic value in open source.
 
-* [**Metrics-Models**](https://github.com/chaoss/wg-metrics-models): This working group develops models that include the integration of multiple CHAOSS metrics in a way that people would consume them in practice
+* [**Metrics-Models**](https://github.com/chaoss/wg-metrics-models): This working group develops models that include the integration of multiple CHAOSS metrics in a way that people would consume them in practice.
+
+* [**Application Ecosystem**](https://github.com/chaoss/wg-app-ecosystem): This working group applies CHAOSS metrics in the context of an open-source app ecosystem. The mission of this working group is to build a base set of metrics that is focused on the needs of open source communities that are part of the FOSS app ecosystem.
+
 
 ### Working Groups around **Software**🖥
 
@@ -34,11 +37,6 @@ In order to learn more about these groups, you should refer to their GitHub repo
 
 * [**Cregit**](https://github.com/cregit/cregit): This working group connects the Cregit software development with metrics work in other CHAOSS working groups.
 
-### Working Groups around **User Groups** 👥
-
-* [**Application Ecosystem**](https://github.com/chaoss/wg-app-ecosystem): This working group applies CHAOSS metrics in the context of an open-source app ecosystem. The mission of this working group is to build a base set of metrics that is focused on the needs of open source communities that are part of the FOSS app ecosystem.
-
-* [**Diversity, Equity & Inclusion Badging**](https://github.com/badging): The working group that encourages projects and events to obtain D&I badges for reasons of pride, leadership, self-reflection, and self-improvement on issues critical to building the Internet as a social good.
 
 ### Who all can participate?
 
