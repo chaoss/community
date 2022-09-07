@@ -44,10 +44,6 @@ CHAOSS project is a volunteer-driven project where there are folks from differen
 
 We don't have specific internships instead we participate in various open source mentorship programs like GSoC, Outreachy, etc. 
 
-### **How can I assess the health of my community?**
-
-You can assess the health of your community by submitting the details under "[**Submit Your Community Health Report Request**](https://chaoss.community/community-reports/)".
-
 ### **Where can I find the relevant metric I am looking for?**
 
 All the metrics can be found under the "**[**Metric Definition**](https://chaoss.community/metrics/)**" on the CHAOSS website.
@@ -68,7 +64,7 @@ Every repository under the [**CHAOSS GitHub**](https://github.com/chaoss) has th
 
 ### **Whom should I contact if I have any questions?**
 
-We encourage transparency, openness, and healthiness so all the questions should be directed to the public community mailing list at [**chaoss@lists.linuxfoundation.org**](mailto:chaoss@lists.linuxfoundation.org%20).
+We encourage transparency, openness, and healthiness so all the questions should be directed to the public community mailing list at [**chaoss@lists.linuxfoundation.org**](mailto:chaoss@lists.linuxfoundation.org%20) or CHAOSS Community Manager, ELizabeth Barron at elizabeth@chaoss.community.
 
 ### **Does CHAOSS record their meeting?**
 
