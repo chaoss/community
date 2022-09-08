@@ -16,7 +16,7 @@ The goal is to have short cycles of feedback and to get metrics out sooner.
 4. Create an issue for collecting feedback on that metric before release.
 5. Include a message in the metric mark down file that the metric will be part of the next regular release. The message should be at the top metric markdown file using the following format:
 
-   \#\#\#This metric is a release candidate To comment on this metric please see [Issue \#xx](https://github.com/chaoss/governance/blob/master/community-handbook/xxxxxxxxxxxxxxx) Following a comment period, this metric will be included in the next regular release.
+      This metric is a release candidate To comment on this metric please see Issue #xx. Following a comment period, this metric will be included in the next regular release.
 
 6. Add metric to metric page with a "under review" tag and link to the feedback issue.
 7. Add an item on the **Release History** page in the _Continuous Metric Contributions Since Last Release_ section stating that the metric was added.

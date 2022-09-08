@@ -8,9 +8,9 @@ description: Process of metric approval
 
 The CHAOSS Metrics Committee defines implementation-agnostic metrics for assessing open source communities' health and sustainability. The CHAOSS Metrics Committee's goals are to establish implementation-agnostic metrics for measuring community activity, contributions, and health; and optionally produce standardized metric exchange formats, detailed use cases, models, or recommendations to analyze specific issues in the industry/OSS world.
 
-{% hint style="info" %}
+
 ### All the metrics are released within the "[**Release History**](https://chaoss.community/release-history/)" page on the CHAOSS website
-{% endhint %}
+
 
 ## ✍ Process of getting metric approved to be visible on the website
 
@@ -20,7 +20,7 @@ The CHAOSS Metrics Committee defines implementation-agnostic metrics for assessi
 * Someone writes a draft for the metric using our [**Template for Metric**](https://github.com/chaoss/metrics/blob/master/resources/metrics-template.md) using google docs. The person proposing the metric could do this.
 * The working group discusses the metric and makes the required changes.
 * A markdown version of the metric is added to the working group repository.
-* The metric is ready for the [**Continuous Metric Contribution and Regular Release**](releases.md)\*\*\*\*
+* The metric is ready for the [**Continuous Metric Contribution and Regular Release**](https://github.com/chaoss/community/blob/main/how-work-is-done/chaoss-working-groups/metrics-releases.md).
 
 ## When should a previously released metric be returned to community review?
 
@@ -42,5 +42,5 @@ The CHAOSS Metrics Committee defines implementation-agnostic metrics for assessi
 * [**Metric Repository**](https://github.com/chaoss/metrics)
 * [**Metric Template**](https://github.com/chaoss/metrics/blob/master/resources/metrics-template.md)
 * [**Metrics Tracking Sheet**](https://docs.google.com/spreadsheets/d/1tAGzUiZ9jdORKCnoDQJkOU8tQsZDCZVjcWqXYOSAFmE/edit#gid=0)
-* \*\*\*\*[**Continuous Metric Contribution and Regular Release**](releases.md)\*\*\*\*
+* [**Continuous Metric Contribution and Regular Release**](https://github.com/chaoss/community/blob/main/how-work-is-done/chaoss-working-groups/metrics-releases.md)
 

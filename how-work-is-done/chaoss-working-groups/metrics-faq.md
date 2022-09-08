@@ -15,7 +15,7 @@
 * Working groups or the release team need to create a corresponding issue in the translation repo that links to the individual Metrics Release Candidate issue. This issue is not targeted towards a specific language community but can be used by the individual language communities to coordinate work. The issue should be labeled with all applicable language tags.
 * The release manager will add the `under review` label to the English Metrics Release Candidates on the CHAOSS website. This also signals that a metric needs to be translated. ****
 
-\*\*\*\*
+
 
 ## **How do the translation teams know what metrics need to be translated?**
 
@@ -24,7 +24,7 @@
 * The translations team could also look for the metrics with the label ‘under review’ on the website, which indicates that the metric was added/updated after the previous release. 
 * **Note: The metrics are prone to changes during the continuous release process and following the review period.**
 
-\*\*\*\*
+
 
 ## **What is the lifecycle of the translation release process in comparison to English release?**
 
