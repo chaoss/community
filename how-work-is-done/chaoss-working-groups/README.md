@@ -65,7 +65,7 @@ Check out our [**participation page**](https://chaoss.community/participate/) fo
 
 Here are the steps to define any new **Focus Area**🎯of metric inside any working group:
 
-* **Understand the background of each working group** - Understand the background of each of "[**Common Metric**](https://github.com/chaoss/wg-common#background)", "[**Diversity & Inclusion**](https://github.com/chaoss/wg-diversity-inclusion#background)", "[**Evolution**](https://github.com/chaoss/wg-evolution#introduction)", "[**Value**](https://github.com/chaoss/wg-value#problem-statement)", and "[**Risk**](https://github.com/chaoss/wg-risk#background)" thoroughly.
+* **Understand the background of each working group** - Understand the background of each of "[**Common Metric**](https://github.com/chaoss/wg-common#background)", "[**Diversity & Inclusion**](https://github.com/chaoss/wg-diversity-inclusion#background)", "[**Evolution**](https://github.com/chaoss/wg-evolution#introduction)", "[**Value**](https://github.com/chaoss/wg-value#problem-statement)", "[**Risk**](https://github.com/chaoss/wg-risk#background)", "[**Metrics-Models**](https://github.com/chaoss/wg-metrics-models)", and "[**Application Ecosystem**](https://github.com/chaoss/wg-app-ecosystem)" thoroughly.
 * **Ask yourself** - _Under what category my focus area lies?_  Try to relate your focus area with already existing focus areas. If you are able to relate it with the existing focus area and background that means its all set. 👍 
 * But if you are unable to relate, **open up the issue** within the relevant repository of the working group and explain the focus area along with its **goal**
 * **Once you submit,** it will be reviewed by maintainers and will be discussed in the respective working group meeting call.
@@ -86,5 +86,5 @@ Most of the work within the working group is done in the following ways:
 We love hearing about new metrics that provide insights into the relevant working group. For refining any new metric working groups follow this:
 
 * Metrics should be defined sufficiently and appropriately
-* Metrics should follow the template which can be found at [**metrics-template.md**](https://github.com/chaoss/metrics/blob/master/resources/metrics-template.md) file on Github
+* Metrics should follow the template which can be found at [**metrics-template.md**](https://github.com/chaoss/metrics/blob/main/resources/metrics-template.md) file on Github
 
