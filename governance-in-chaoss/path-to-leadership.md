@@ -1,8 +1,4 @@
----
-description: Path to CHAOSS Leadership
----
-
-# Path to Leadership
+# Path to CHAOSS Leadership
 
 ## What does leadership mean to the CHAOSS community?
 
@@ -12,7 +8,7 @@ A leader🏅is someone who has specific decision-making power over some part of 
 >
 > -- [**Georg J.P. Link**](https://github.com/GeorgLink)**, Director of Sales at Bitergia; Cofounder of CHAOSS**
 
-> Leadership sets the tone for the culture, values, and communication style for everyone else. I think a CHAOSS leader \(whether it be informal or formal\) should embody and foster empathy, compassion, and respect for everyone else working on the project, no matter in what capacity. I think that being an excellent communicator and having a passion for helping open source projects prioritize and measure their community's health is also helpful.
+> Leadership sets the tone for the culture, values, and communication style for everyone else. I think a CHAOSS leader(whether it be informal or formal) should embody and foster empathy, compassion, and respect for everyone else working on the project, no matter in what capacity. I think that being an excellent communicator and having a passion for helping open source projects prioritize and measure their community's health is also helpful.
 >
 > -- [**Elizabeth Barron**](https://github.com/ElizabethN)**, Community manager at CHAOSS**
 
@@ -21,7 +17,7 @@ A leader🏅is someone who has specific decision-making power over some part of 
 We are a volunteer-driven👥organization which means the work within the CHAOSS community is focused around the creation of metrics and software which depend upon the contributions made by external individuals and communities. We need people to direct the vision of **creation,** **planning**, and **architecture** of new initiatives within the community in order to drive through the better objectives.
 
 
-**The CHAOSS** community has defined its different set of leadership roles under a specific set of [**community guidelines**](https://chaoss-project.gitbook.io/community-handbook/community-guidelines) and [**governance**](https://github.com/chaoss/governance) policies.
+**The CHAOSS** community has defined its different set of leadership roles under a specific set of [**community guidelines**](Link needed) and [**governance**](Link needed) policies.
 
 ## How to become a leader?
 
@@ -29,7 +25,7 @@ We are a volunteer-driven👥organization which means the work within the CHAOSS
 
 Leadership that focuses on building amazing projects and good engineering teams across the community
 
-Checklist✅before becoming a **Maintainer**
+Checklist✅ before becoming a **Maintainer**
 
 * [ ] Makes consistent contributions within the CHAOSS community
 * [ ] Has the ability to commit directly to a project repository
@@ -39,14 +35,14 @@ Checklist✅before becoming a **Maintainer**
 * [ ] Has knowledge of Git and GitHub
 * [ ] Understands the workflow of the Issues and Pull Requests
 
-Checklist✅before becoming a **Website Maintainer**
+Checklist✅ before becoming a **Website Maintainer**
 
 * [ ] Ability to troubleshoot website issues
 * [ ] Strong attention to detail with an analytical mind and outstanding problem-solving skills
 * [ ] Excellent content creation and writing skills.
 * [ ] Proficient in GitHub, Markdown, HTML, CSS design, cross-browser and cross-platform compatibility, and JavaScript
 
-Checklist✅before becoming a **Documentation Maintainer**
+Checklist✅ before becoming a **Documentation Maintainer**
 
 * [ ] Excellent written and communication skills in English
 * [ ] Ability to translate highly technical information into easily understandable information for other community members and end-users
@@ -61,9 +57,9 @@ Checklist✅before becoming a **Documentation Maintainer**
 
 Leadership involved in the process of decision making within the community
 
-Checklist✅for becoming a **Board Member** and **Decisions Maker**
+Checklist✅ for becoming a **Board Member** and **Decisions Maker**
 
-* [ ] **Long t**erm and consistent contributor within the CHAOSS project
+* [ ] Long term and consistent contributor within the CHAOSS project
 * [ ] Involved with the software or metric working groups
 * [ ] Experience in a managerial/directorial position
 * [ ] Holds knowledge and interest in the CHAOSS project
@@ -71,14 +67,14 @@ Checklist✅for becoming a **Board Member** and **Decisions Maker**
 * [ ] Excellent Knowledge of performance evaluation techniques and key metrics
 
 
-**NOTE:** New board members are nominated and voted into office by existing board members. Co-leads of the board are nominated and voted into office by existing board members.
+**NOTE:** New board members are nominated and voted into office by existing board members. Co-leads of the board are nominated and voted into office by existing board members. 
 
 
 ### Operation Leadership
 
 Leadership that addresses every aspect of the community model
 
-Checklist✅for becoming the **Community Manager**
+Checklist✅ for becoming the **Community Manager**
 
 * [ ] Prior technical community management experience
 * [ ] Self-motivated with the ability to manage multiple competing priorities
