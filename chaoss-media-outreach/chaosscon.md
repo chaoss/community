@@ -1,7 +1,3 @@
----
-description: It is a CHAOSS conference
----
-
 # CHAOSScon
 
 ## 👥 Form organizing committee
@@ -42,11 +38,11 @@ The Call for Participation \(CfP\) invites speakers to submit topics for talks, 
 
 We can re-use the same CFP from the last CHAOSScon. CFP’s are stored on GitHub in the [chaoss/website repository](https://github.com/chaoss/website/tree/master/CHAOSScon) and can be retrieved by looking at older versions of files.
 
-The form for speakers to submit talks is a Google form. E.g. [CFP for CHAOSSconNA’19](https://docs.google.com/forms/d/1MKb39UHpsrDydRjSRwRjEeQNywFeNckvjSfpJtUUfkY/edit)
+The form for speakers to submit talks is a Google form. 
 
 ## 🤠 Find sponsors
 
-We have a [funding prospectus](https://github.com/chaoss/website/blob/master/CHAOSScon/2019NA/CHAOSSconNA19_funding_prospectus.docx) that needs to be updated.
+We have a [funding prospectus](https://github.com/chaoss/website/blob/main/CHAOSScon/2021NA/CHAOSSconNA21_funding_prospectus.pdf) that needs to be updated.
 
 Share sponsor prospectus:
 
@@ -112,12 +108,12 @@ In the week before CHAOSScon, email all presenters to ask them for their slides.
 
 On the conference website, links to slides are added in a column of the schedule. The slides are uploaded, ideally as PDFs, to GitHub. The chaoss/website repo is setup to produce a URL that can be linked to.
 
-```text
-File: [https://github.com/chaoss/website/blob/master/CHAOSScon/2019EU/slides/GMD-tutorial.pdf](https://github.com/chaoss/website/blob/master/CHAOSScon/2019EU/slides/GMD-tutorial.pdf)
+For example, you can find the slides of CHAOSScon 2021NA through:
+
+- [GitHub repository](https://github.com/chaoss/website/tree/main/CHAOSScon/2021NA/slides)
+- [Website URL](https://chaoss.community/chaosscon-2021-na/)
 
 
-URL for website: [https://chaoss.github.io/website/CHAOSScon/2019EU/slides/GMD-tutorial.pdf](https://chaoss.github.io/website/CHAOSScon/2019EU/slides/GMD-tutorial.pdf) 
-```
 
 ## 📀 Prepare venue
 
@@ -127,7 +123,7 @@ In preparation for CHAOSScon, work with venue to:
 * Print signs with the hashtag for the event
 * Print arrow signs, in case we need to direct attendees to the right room
 
-On the day of the event \(check with venue what is allowed\):
+On the day of the event check with venue what is allowed:
 
 * Hang up schedule and hashtag signs
 * Set up a table to give out name tags
@@ -144,5 +140,5 @@ The University of Nebraska at Omaha has in the past brought a camcorder, process
 
 ## Follow-up
 
-After the event, thank speakers, share links to videos, ...
+After the event, thank speakers, share links to videos, upload slides, and send surveys to event attendees.
 
