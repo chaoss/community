@@ -1,7 +1,3 @@
----
-description: The CHAOSS Community Podcast
----
-
 # CHAOSScast
 
 > **This is CHAOSScast,** the CHAOSS Community Podcast where we share use cases and experiences with measuring open source community health. Elevating conversations about metrics, analytics, and software from the Community Health Analytics Open Source Software or short CHAOSS project to where ever you like to listen.
@@ -21,7 +17,7 @@ The **host** is responsible for the making the initial connection to potential g
 1. Georg Link
 2. Samantha Venia Logan
 3. Sean Goggins
-4. ... \(you?\)
+4. ... you?
 
 ### Panelists
 
@@ -144,8 +140,8 @@ These procedures are for the organizer and coordinator of each episode:
 * **Step 2:** Coordinate Episode \(Coordinator\)
   * **Action:** Send invitation email to guest to find a few potential suitable dates and times \(60-90 minutes.\)
   * **Action:** Notify organizer of guest's date and time possibilities, and confirm one.
-  * **Action:** Prepare the planning document \(copy the [Episode Planning Document template](https://docs.google.com/document/d/17qjAafr0aAWXV_HR-WiefHOa881t8X7tEoiZnPBh3ao/edit?pli=1#heading=h.cmpmu92ylw4d) and start filling in information.\)
-  * **Action:** send out an [invitation email](https://docs.google.com/document/d/1IniJc9o1OCBBTYv50W3WTfZYmshi4aYusHIK4ADulk8/edit) for panelists to RSVP yes or no \([list of email addresses](https://docs.google.com/document/d/1ca9TJY17cj-cBWmJP5qjCX56133unsaOlEUwACc4PMA/edit)\)
+  * **Action:** Prepare the planning document (copy the [Episode Planning Document template](https://docs.google.com/document/d/17qjAafr0aAWXV_HR-WiefHOa881t8X7tEoiZnPBh3ao/edit?pli=1#heading=h.cmpmu92ylw4d) and start filling in information.)
+  * **Action:** send out an [invitation email](https://docs.google.com/document/d/1IniJc9o1OCBBTYv50W3WTfZYmshi4aYusHIK4ADulk8/edit) for panelists to RSVP yes or no ([list of email addresses](https://docs.google.com/document/d/1ca9TJY17cj-cBWmJP5qjCX56133unsaOlEUwACc4PMA/edit))
     * Prioritize those who said they were interested in the topic
     * If needed, [invite new panelists](https://docs.google.com/document/d/1gGf9n6D5g2Y_YfqVuWOvWvZvNvKmbQr9adruHeQTAu0/edit?usp=sharing)
   * **Action:** Confirm with 1-2 panelists that replied "yes" and notify others who replied yes that the panel is already complete.
