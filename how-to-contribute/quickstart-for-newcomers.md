@@ -14,7 +14,6 @@ This is the [Slack channel](https://chaoss-workspace.slack.com/join/shared_invit
 And THIS is the channel within a channel, called "#office-hours" where you'll be welcomed!  [Newcomers #office-hours channel in the CHAOSS Slack](https://chaoss-workspace.slack.com/archives/C0207C3RETX)
 
 
-
 ### Augur Workshop
 Augur software has regular workshops to help you learn how to see what CHAOSS metrics show you about the projects you care about. You can learn about the date's and times by signing up for our mailing list/newsletter! 
 
@@ -22,3 +21,4 @@ Augur software has regular workshops to help you learn how to see what CHAOSS me
 **Newsletter on the Web**: https://chaoss.community/news/ 
 
 We send one out Newsletters every week thanks to the dedication of our Community Manager, Elizabeth Barron!
+
