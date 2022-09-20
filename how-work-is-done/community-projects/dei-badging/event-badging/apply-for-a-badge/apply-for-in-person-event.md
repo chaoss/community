@@ -43,7 +43,7 @@ If your event meets some of the criteria, please provide related details and pro
 
 ### Speaker Demographics
 
-_How well does the speaker lineup for the event represent a diverse set of_ [_demographics_](https://github.com/chaoss/wg-diversity-inclusion/tree/master/demographic-data)_?_ _\*\*_
+_How well does the speaker lineup for the event represent a diverse set of_ [_demographics_](https://github.com/chaoss/wg-diversity-inclusion/tree/master/demographic-data)?
 
 * **Measuring Demographics:** Does your event measure speaker demographics? 
 * **Displaying demographics:** Does the speaker demographics publicly displayed on your event website?
@@ -58,9 +58,8 @@ _How diverse and inclusive are the attendees?_
 
 ### Code of Conduct at Event
 
-{% hint style="warning" %}
 It's essential that you provide the link of CoC\(Code of Conduct\) because this is an initial requirement for D&I badge application. Without the link, reviewers may determine your event as not-passing.
-{% endhint %}
+
 
 _How does the Code of Conduct for events support diversity and inclusion?_
 

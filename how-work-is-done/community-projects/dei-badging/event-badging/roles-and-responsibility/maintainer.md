@@ -6,10 +6,6 @@ The responsibility of a maintainer would be to ensure that the whole project is 
 
 ## GitHub Permissions
 
-{% hint style="info" %}
-Repository permission level: Maintain / Administrate
-{% endhint %}
-
 A maintainer will be expected to:
 
 * Assign reviewers and add their GitHub handles to `.github/reviewers.md`.

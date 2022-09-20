@@ -4,7 +4,7 @@ This page contains information about going through the review process, especiall
 
 ### **Purpose of Review Checklist**
 
-The review checklist provides a guideline for the reviewers to verify the event's alignment with CHAOSS Diversity and Inclusion best practices.
+The review checklist provides a guideline for the reviewers to verify the event's alignment with CHAOSS Diversity, Equity and Inclusion best practices.
 
 Apart from providing viewpoints while reviewing, the checklist also plays the function of generating the badge state by calculating how many checkboxes are marked. This calculation includes the metric checkboxes from all reviews on the application.
 
@@ -12,7 +12,7 @@ The event review checklist for the CHAOSS Badging Project can be found [here](ht
 
 ### Working with the Review Checklist
 
-D&I Badging reviews are checklist-driven. A review checklist will be generated for each reviewer to work through when reviewing the submission. Reviewer tick the checkboxes which they think the event aligns with the criteria.  
+DEI Badging reviews are checklist-driven. A review checklist will be generated for each reviewer to work through when reviewing the submission. Reviewer tick the checkboxes which they think the event aligns with the criteria.  
 
 **The review process completes when** **the applicant is satisfied with the current badge status or the applicant will no longer provide information**. Reviewers are encouraged to ask applicants for more information through issue comments.
 
@@ -27,9 +27,7 @@ Below is an explanation of each initial check:
 
 Ensure all the initial checks are marked before proceeding with Metric based checks. If the event does not qualify from the initial checks, thank the applicant for their time and connect with the moderator team to end the review.
 
-{% hint style="success" %}
 Use the website provided in the application to everyone's advantage! Most of the data you collect to make your decisions should come from the event website.
-{% endhint %}
 
 #### Speaker Demographics and Inclusivity
 
@@ -58,9 +56,7 @@ Use the website provided in the application to everyone's advantage! Most of the
 
 ####  Family Friendliness
 
-{% hint style="warning" %}
 The Review Checklist for Virtual Event won't have this metric.
-{% endhint %}
 
 * **Availability:** Ensure that the event provides one or more services/facilities for families.
 * **Findability:** Observe the event website to see whether information regarding family friendly services provided at the event is easy to find.
