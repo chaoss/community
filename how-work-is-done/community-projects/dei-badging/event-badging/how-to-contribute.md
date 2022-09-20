@@ -48,5 +48,5 @@ We suggest adding text with the pull request explaining why the change should be
 
 ### Contribute to this documentation
 
-To optimize this documentation,  there is a synchronized community handbook [documentation repository](https://github.com/chaoss/community-handbook) on GitHub. Please open a pull request there to make revisions. Documentation revisions are also precious contributions for us.
+To optimize this documentation,  there is a synchronized [community handbook repository](https://github.com/chaoss/community) on GitHub. Please open a pull request there to make revisions. Documentation revisions are also precious contributions for us.
 
