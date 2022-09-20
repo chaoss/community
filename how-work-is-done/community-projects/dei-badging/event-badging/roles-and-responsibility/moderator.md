@@ -6,10 +6,6 @@ This will be a role that will belong to participants who would help in closing a
 
 ## GitHub Permissions
 
-{% hint style="info" %}
-Repository permission level: Administrate / Write
-{% endhint %}
-
 A moderator will be expected to:
 
 * Ensure all the `Initial Checks` are marked positive in both checklists.
