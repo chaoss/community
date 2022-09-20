@@ -1,1 +1,0 @@
-# Info for Newcomer bot

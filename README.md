@@ -3,7 +3,7 @@
 
 ## How to contribute to this repository
 
-We follow the GitHub pull-request workflow. More details on how to contribute is in the [CONTRIBUTING.md](Link needed).
+We follow the GitHub pull-request workflow. More details on how to contribute is in the [CONTRIBUTING.md](https://github.com/chaoss/community/blob/main/how-to-contribute/contributing-to-chaoss/CONTRIBUTING.md).
 
 ### Maintainers of this repository
 
