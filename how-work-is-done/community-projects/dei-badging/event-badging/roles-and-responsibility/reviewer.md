@@ -6,10 +6,6 @@ The reviewer role would belong to people who would be responsible for reviewing 
 
 ## GitHub Permissions
 
-{% hint style="info" %}
-Repository permission level: Write
-{% endhint %}
-
 Reviewers will be able to:
 
 * Edit their own comments.
