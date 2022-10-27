@@ -1,6 +1,3 @@
----
-description: Ethics we follow
----
 
 # Community Guidelines
 
