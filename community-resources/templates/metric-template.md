@@ -4,18 +4,20 @@
 
 Question: 
 
-Synonyms: [Known synonyms for the metric - only common synonyms - this not meant to be a definitive list - comma delinated]
+Context Tags: [1 to 2 Context Areas from [list](https://docs.google.com/document/d/1zLZeN1hTt62l5vYq1x0pN2htUgaPF3A1r6NlxgjAK6c/) - comma delinated
+
+Keywords: [3 to 5 Search keywords - related terms and synonyms - this not meant to be a definitive list - comma delinated]
 
 ## Description
-A description of what the metric is and what it captures.
+[A description of what the metric is and what it captures.]
 
 ## Objectives
-Answer the question for why someone wants to measure this metric and what can be known with it. 
+[Answer the question for why someone wants to measure this metric and what can be known with it.]
 
 [Each metric has the potential to influence diversity, equity, and inclusion on an open source project. Please consider these factors when framing metrics objectives.] 
 
 ## Implementation
-*The usage and dissemination of health metrics may lead to privacy violations. Organizations may be exposed to risks. These risks may flow from compliance with the GDPR in the EU, with state law in the US, or with other law. There may also be contractual risks flowing from terms of service for data providers such as GitHub and GitLab. The usage of metrics must be examined for risk and potential data ethics problems. Please see [CHAOSS Data Ethics document](https://github.com/chaoss/community/blob/main/data-use-statement.md) for additional guidance.* 
+*The usage and dissemination of health metrics may lead to privacy violations. Organizations may be exposed to risks. These risks may flow from compliance with the GDPR in the EU, with state law in the US, or with other laws. There may also be contractual risks flowing from terms of service for data providers such as GitHub and GitLab. The usage of metrics must be examined for risk and potential data ethics problems. Please see [CHAOSS Data Ethics document](https://github.com/chaoss/community/blob/main/data-use-statement.md) for additional guidance.* 
 
 Provide details on how to measure the metric, collect the data, and analyze it. The following sub-headings are optional but help to structure the different aspects of implementation.
 
@@ -46,17 +48,31 @@ List of people who would like to be mentioned as contributors to this metric
 --------
 # Notes about document formatting
 ***The following rules are applicable for the above defined metric template:***
-* Metrics naming - In cases where the metric name is also a descriptor, please use this convention:
+
+**Metrics naming:** 
+
+The name of the metric should be the same in (1) metric heading, (2) metric file name, (3) focus area, (4) metrics spreadsheet, (5) “review issue”, (6) translation issue, and (7) website
+
+In cases where the metric name is also a descriptor, please use this convention:
 
 "specific thing being measured"-"further description if needed"
 
 EX: `pull-requests-open.md`
 EX: `issues-first-response.md`
 
+Naming convention for time-based metrics:  
+Time to _Event_: The amount of time until something happens. Example - Time to First Response  
+_Event_ Duration: The amount of time that something takes. Example - Issue Resolution Duration  
+_Event_ Age: The amount of time that has passed for an unfinished activity. Example - Issue Age  
+
+
+**Guidance for embedding images:**
 * Please provide attribution for where the image was taken, e.g., what software.
 * All the images should be using the markdown syntax: `![]()`
 * All the images should be using an absolute path to the images directory (Absolute paths are necessary, because these documents will be presented on a different platform/server).
     * E.g., `![alt text](https://github.com/chaoss/working-group/focus-area//images/metric-name_img.png)`
+    
+**Guidance for tables and Lists:**
 * No tables should be used in the metrics, alternatively you can insert an image of the table
 * Bulleted Lists with sub-lists do not render properly in HTML. Rather than using sub lists markdown style please format with a bold line for first level list and bullet for the sub-list. For example: 
 ```
@@ -68,6 +84,8 @@ EX: `issues-first-response.md`
 - sub list 2 a
 - sub list 2 b
 ```
+
+**General Formatting:**
 * No HTML code should be used in the metrics, only markdown 
 * Please remove formatting text and (Optional) tags from the metric prior to publishing
 * There should be at least one `\n` (newline) between:
