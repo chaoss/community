@@ -9,12 +9,12 @@ Context Tags: [1 to 2 Context Areas from [list](https://docs.google.com/document
 Keywords: [3 to 5 Search keywords - related terms and synonyms - this not meant to be a definitive list - comma delinated]
 
 ## Description
-[A description of what the metric is and what it captures.]
+A description of what the metric is and what it captures.
 
 ## Objectives
-[Answer the question for why someone wants to measure this metric and what can be known with it.]
+Answer the question for why someone wants to measure this metric and what can be known with it.
 
-[Each metric has the potential to influence diversity, equity, and inclusion on an open source project. Please consider these factors when framing metrics objectives.] 
+Each metric has the potential to influence diversity, equity, and inclusion on an open source project. Please consider these factors when framing metrics objectives. 
 
 ## Implementation
 *The usage and dissemination of health metrics may lead to privacy violations. Organizations may be exposed to risks. These risks may flow from compliance with the GDPR in the EU, with state law in the US, or with other laws. There may also be contractual risks flowing from terms of service for data providers such as GitHub and GitLab. The usage of metrics must be examined for risk and potential data ethics problems. Please see [CHAOSS Data Ethics document](https://github.com/chaoss/community/blob/main/data-use-statement.md) for additional guidance.* 
@@ -44,7 +44,6 @@ List of people who would like to be mentioned as contributors to this metric
 
 ***This metric was last reviewed on [date] as part of [ release version] [or recurring review process]***
 
-```
 --------
 # Notes about document formatting
 ***The following rules are applicable for the above defined metric template:***
@@ -83,7 +82,7 @@ EX: `![alt text](https://github.com/chaoss/working-group/focus-area//images/metr
 **line 2**
 - sub list 2 a
 - sub list 2 b
-```
+
 
 **General Formatting:**
 * No HTML code should be used in the metrics, only markdown 
@@ -95,7 +94,7 @@ EX: `![alt text](https://github.com/chaoss/working-group/focus-area//images/metr
 This is to solve the wrapping issue in the release PDF \  
 
 EX:
-    ```
+```
     # Some heading
 
     ![alt text](https://github.com/chaoss/working-group/focus-area/images/metric-name_test-img1.png)
