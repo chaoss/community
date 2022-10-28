@@ -61,21 +61,21 @@ EX: `pull-requests-open.md`
 EX: `issues-first-response.md`
 
 Naming convention for time-based metrics:  
-Time to _Event_: The amount of time until something happens. Example - Time to First Response  
-_Event_ Duration: The amount of time that something takes. Example - Issue Resolution Duration  
-_Event_ Age: The amount of time that has passed for an unfinished activity. Example - Issue Age  
-
+Time to [Event]: The amount of time until something happens. Example - Time to First Response  
+[Event] Duration: The amount of time that something takes. Example - Issue Resolution Duration  
+[Event] Age: The amount of time that has passed for an unfinished activity. Example - Issue Age  
 
 **Guidance for embedding images:**
 * Please provide attribution for where the image was taken, e.g., what software.
 * All the images should be using the markdown syntax: `![]()`
 * All the images should be using an absolute path to the images directory (Absolute paths are necessary, because these documents will be presented on a different platform/server).
-    * E.g., `![alt text](https://github.com/chaoss/working-group/focus-area//images/metric-name_img.png)`
+
+EX: `![alt text](https://github.com/chaoss/working-group/focus-area//images/metric-name_img.png)`
     
 **Guidance for tables and Lists:**
 * No tables should be used in the metrics, alternatively you can insert an image of the table
 * Bulleted Lists with sub-lists do not render properly in HTML. Rather than using sub lists markdown style please format with a bold line for first level list and bullet for the sub-list. For example: 
-```
+
 **List 1**
 - sub list 1 a
 - sub list 1 b
@@ -92,8 +92,9 @@ _Event_ Age: The amount of time that has passed for an unfinished activity. Exam
     * 2 images
     * An image and text
     * An image and heading \
-This is to solve the wrapping issue in the release PDF \
-E.g., -
+This is to solve the wrapping issue in the release PDF \  
+
+EX:
     ```
     # Some heading
 
