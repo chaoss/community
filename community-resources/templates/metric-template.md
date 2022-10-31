@@ -6,7 +6,7 @@ Question:
 
 Context Tags: [1 to 2 Context Areas from [list](https://docs.google.com/document/d/1zLZeN1hTt62l5vYq1x0pN2htUgaPF3A1r6NlxgjAK6c/) - comma delinated
 
-Keywords: [3 to 5 Search keywords - related terms and synonyms - this not meant to be a definitive list - comma delinated]
+Keywords: [3 to 5 Search keywords - working group,related terms, and synonyms - this not meant to be a definitive list - comma delinated]
 
 ## Description
 A description of what the metric is and what it captures.
