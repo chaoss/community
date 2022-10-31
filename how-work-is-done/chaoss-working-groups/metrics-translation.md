@@ -1,10 +1,5 @@
----
-description: >-
-  This sections provides the guidelines regarding the process of translating
-  metrics into other various languages.
----
 
-# Translation
+# Guidelines for Metrics Translation
 
 ## **Adding translations in a new language**
 
