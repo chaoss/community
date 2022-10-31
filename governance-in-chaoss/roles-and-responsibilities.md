@@ -1,6 +1,3 @@
----
-description: This page contains the roles and responsibilities of the CHAOSS community
----
 
 # Roles and Responsibilities
 
