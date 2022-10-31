@@ -1,10 +1,5 @@
----
-description: >-
-  Working Groups that define metrics need to follow the repository structure
-  outlined here
----
 
-# WG Repository Structure
+# Working Groups Repository Structure
 
 The goal of this document is to describe a uniform structure that CHAOSS Working Groups are currently using for developing metrics. The outcome of this standardizing Working Group repository structure is less overhead for community members moving between WGs and a consistent expectation for new members.
 
