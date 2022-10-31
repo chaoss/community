@@ -4,9 +4,15 @@ There are three quick ways designed to meet, greet, encourage, and mentor newcom
 ### CHAOSS Office Hours
 Every week on **Tuesday**, we have an office hours intended to make it easy for you to ask questions, and find your place in the project with a supportive, experienced CHAOSS maintainer. 
 
-You can join these hours from 9am - 11am (USA Central Time) through zoom channel: https://zoom.us/my/chaoss
+You can join these hours from 9am - 10am (USA Central Time) through zoom channel: https://zoom.us/my/chaoss
 
 Aside from office hours, you are welcomed to attend other CHAOSS working group meetings through the same zoom channel, [click here](https://calendar.google.com/calendar/u/0/r?cid=j9f60skdd67938kvgl0udgqjqs@group.calendar.google.com) to subscribe CHAOSS meeting calender!
+
+### CHAOSS Monthly Onboarding Call
+Every first **Wednesday** of the Month, we run a Welcome to CHAOSS call for newcomers talking about the different working groups and projects in CHAOSS. 
+
+You can join this call from 11am - 12pm (USA Central Time) through our zoom channel: https://zoom.us/my/chaoss
+
 
 ### CHAOSS Slack
 We have a Slack Channel! And so many working group focused channels within it. BUT, we've reserved one ESPECIALLY for newcomers, and our community is highly responsive within it. 
