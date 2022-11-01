@@ -1,6 +1,3 @@
----
-description: We value what you believe
----
 
 # Values
 

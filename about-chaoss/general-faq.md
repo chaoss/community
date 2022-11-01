@@ -1,6 +1,3 @@
----
-description: You can find all the answers here
----
 
 # General FAQ
 

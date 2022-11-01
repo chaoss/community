@@ -1,8 +1,5 @@
----
-description: Contains the details about working groups
----
 
-# Working Groups
+# CHAOSS Working Groups
 
 ## What is the Working Group?
 

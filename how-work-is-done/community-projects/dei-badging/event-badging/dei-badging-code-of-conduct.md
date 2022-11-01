@@ -1,4 +1,4 @@
-# D&I Badging Code of Conduct
+# DEI Badging Code of Conduct
 
 ## Pledge
 
@@ -41,5 +41,5 @@ According to the impact and consequences of the harassment, the project maintain
 
 ## Statement
 
-D&I Badging Code of Conduct is adapted from the [Contributor Covenant Code of Conduct](https://www.contributor-covenant.org/version/2/0/code_of_conduct/).
+DEI Badging Code of Conduct is adapted from the [Contributor Covenant Code of Conduct](https://www.contributor-covenant.org/version/2/0/code_of_conduct/).
 
