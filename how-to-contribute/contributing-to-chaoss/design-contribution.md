@@ -1,5 +1,5 @@
 ---
-description: Contribution
+description: Design contribution
 ---
 # Design
 
