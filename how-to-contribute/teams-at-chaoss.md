@@ -1,5 +1,5 @@
 # Teams at CHAOSS
-This document will lead you through all the current teams in CHAOSS and whom to contact.
+This document will lead you through all the current teams in CHAOSS and whom to contact. Also maintained with a [spreadsheet](https://docs.google.com/spreadsheets/d/1LLL4fRJKA8U54FcD2aBKtpURxipkeqKtiJ2-AopXOT4/edit#gid=0).
 
 Expectations: You won't get an action item in the first week. You'll likely have to sit in a few meetings to understand what's going on. Hang out with us. Learn. Contribute. 
 
