@@ -1,5 +1,8 @@
 # A Quick Start Guide for Newcomers
-There are three quick ways designed to meet, greet, encourage, and mentor newcomers to the CHAOSS Project. 
+- **Mailing List**: https://lists.linuxfoundation.org/mailman/listinfo/chaoss
+- **Newsletter on the Web**: https://chaoss.community/news/ 
+
+There are several quick ways designed to meet, greet, encourage, and mentor newcomers to the CHAOSS Project. 
 
 ### CHAOSS Office Hours
 Every week on **Tuesday**, we have an office hours intended to make it easy for you to ask questions, and find your place in the project with a supportive, experienced CHAOSS maintainer. 
@@ -21,10 +24,6 @@ And THIS is the channel within a channel, called "#office-hours" where you'll be
 
 
 ### Augur Workshop
-Augur software has regular workshops to help you learn how to see what CHAOSS metrics show you about the projects you care about. You can learn about the date's and times by signing up for our mailing list/newsletter! 
+Augur software has regular workshops to help you learn how to see what CHAOSS metrics show you about the projects you care about. You can learn about the date's and times by signing up for our mailing list/newsletter! We send one out Newsletters every week thanks to the dedication of our Community Manager, Elizabeth Barron!
 
-**Mailing List**: https://lists.linuxfoundation.org/mailman/listinfo/chaoss
-**Newsletter on the Web**: https://chaoss.community/news/ 
-
-We send one out Newsletters every week thanks to the dedication of our Community Manager, Elizabeth Barron!
 
