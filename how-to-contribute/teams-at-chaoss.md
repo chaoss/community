@@ -1,5 +1,5 @@
 # Teams at CHAOSS
-This document will lead you through all the current teams in CHAOSS and whom to contact.
+This document will lead you through all the current teams in CHAOSS and whom to contact. Also maintained with a [spreadsheet](https://docs.google.com/spreadsheets/d/1LLL4fRJKA8U54FcD2aBKtpURxipkeqKtiJ2-AopXOT4/edit#gid=0).
 
 Expectations: You won't get an action item in the first week. You'll likely have to sit in a few meetings to understand what's going on. Hang out with us. Learn. Contribute. 
 
@@ -7,7 +7,7 @@ Expectations: You won't get an action item in the first week. You'll likely have
 |-|-|-|-|-|
 | Risk WG	| The Risk Working Group is focused on metrics for issues pertaining to risk in open source. | Sophia Vargas | Collaborating on Metrics, Facilitating meetings ||
 | Value WG | The Value working group aims to advance how we understand the value that projects can provide. |	Vinod Ahuja	| Collaborating on Metrics, Facilitating meetings ||
-| Diversity, Equity, and Inclusion WG	| The CHAOSS Diversity, Equity, & Inclusion (DEI) Working Group aims to define metrics and methods to help others measure and center diversity, equity, and inclusion in their own Open Source projects. | Elizabeth Barron | Collaborating on Metrics, Facilitating meetings ||
+| Diversity, Equity, and Inclusion WG	| The CHAOSS Diversity, Equity, & Inclusion (DEI) Working Group aims to define metrics and methods to help others measure and center diversity, equity, and inclusion in their own Open Source projects. | Elizabeth Barron | Collaborating on Metrics, Facilitating meetings ||dd 
 | Common WG | The Common Metrics Working Group focuses on defining the metrics that are used by multiple working groups or are important for community health. | Dawn Foster | Collaborating on Metrics, Facilitating meetings ||
 | Evolution WG | Evolution is a working group focused on the lifecycle of open source projects. | Armstrong Foundjem | Collaborating on Metrics, Facilitating meetings ||
 | Metrics Models WG | The goal of this working group is to develop models that include the integration of multiple CHAOSS metrics in a way that people would consume them in practice. | Matt Germonprez | Collaborating on Metrics, Facilitating meetings ||
