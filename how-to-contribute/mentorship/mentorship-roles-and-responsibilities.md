@@ -1,18 +1,15 @@
----
-description: Contains the roles and responsibilities for mentorship program
----
 
-# GSoC/GSoD Roles & Responsibilities
+# Roles & Responsibilities
 
 ## Involving as a Student 👨🎓 
 
 ### Before Being Accepted
 
-* **Become familiar with CHAOSS Community** and the project\(s\) for which you're applying.  Read the get involved guide and ask others in the community if you have questions. If you [**ask questions the smart way**](http://www.catb.org/~esr/faqs/smart-questions.html)**,** you'll get better responses.
+* **Become familiar with CHAOSS Community** and the projects for which you're applying.  Read the get involved guide and ask others in the community if you have questions. If you [**ask questions the smart way**](http://www.catb.org/~esr/faqs/smart-questions.html)**,** you'll get better responses.
 * **Observe Community Interactions:** Join both the development and user mailing lists and spend a few days just reading the conversations.
 * **Introduce Yourself** on the communication channels.
 * **Familiarize yourself** with the community's [**Code of Conduct**](https://chaoss.community/about/code-of-conduct/)**.**
-* **Attend weekly CHAOSS meetings** and jump into discussions \([connection details](https://chaoss.community/participate/)\).
+* **Attend weekly CHAOSS meetings** and jump into discussions ([connection details](https://chaoss.community/participate/)).
 * **Install your development environment** in your local machine and gets familiarize with the codebase.
 * **Read the project ideas page** and discuss with mentors on the specific idea you are interested with.
 * **Get Knowledge about GSOC/GSoD** by understanding it and reading about it on **Wikipedia** and getting through **GSOC/GSoD Student Manual.**

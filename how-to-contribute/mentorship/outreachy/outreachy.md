@@ -1,6 +1,8 @@
 # Outreachy
 
-## About Outreachy ![](../assets/outreachy-logo.png) 
+## About Outreachy 
+
+![](outreachy-logo.png) 
 
 Outreachy is a paid, remote internship program. Outreachy's goal is to support people from groups underrepresented in tech. They help newcomers to free software and open-source make their first contributions.
 
@@ -14,16 +16,16 @@ Interns work with experienced mentors from open source communities. Outreachy in
 
 ## **Outreachy Eligibility Rules** ✔ 
 
-{% hint style="info" %}
-**NOTE:** These eligibility rules are exactly the same and have been taken from the ****[**Outreachy official website**](https://www.outreachy.org/docs/applicant/#what-is-outreachy)\*\*\*\*
-{% endhint %}
+
+**NOTE:** These eligibility rules are exactly the same and have been taken from the [**Outreachy official website**](https://www.outreachy.org/docs/applicant/#what-is-outreachy)
+
 
 These eligibility rules apply to December 2020 to March 2021 Outreachy internships round. Dates may change for future rounds.
 
 Outreachy is open to applicants around the world. You will need to meet the following requirements:
 
 * You are or will be 18 years of age or older by Dec. 1, 2020
-* You are available for a full-time, 40 hours a week internship from Dec. 1, 2020**,** to March 2, 2021.
+* You are available for a full-time, 40 hours a week internship from December 1, 2020 to March 2, 2021.
 * You were not an intern with Outreachy, the Outreach Program for Women, or Google Summer of Code. People who were a Google Summer of Code intern are not eligible for Outreachy. All Google Summer of Code interns are ineligible for Outreachy, including people who did not successfully finish their GSoC internship. If you apply to Outreachy and you are not accepted as an intern, you may apply again.
 * Applicants who have part-time or contracting jobs are welcome to apply. People who are willing to quit their full-time job are welcome to apply. If you cannot quit your full-time job, you are not eligible for Outreachy. People who are taking a leave of absence from a full-time job are not eligible for Outreachy.
 * Outreachy is open to both university students and people who are not university students. University students must have 42 consecutive days free from school and exams during the internship period. Students must apply to the correct internship round \(see rules below\).
@@ -72,7 +74,11 @@ Outreachy internships run twice a year, May to August and December to March. We 
 * **Guidance** to interns about time management.
 * **Holds fair knowledge of the project** you are mentoring.
 
-{% hint style="warning" %}
-**Source Citation:** [**Outreachy Internship Guide**](https://www.outreachy.org/docs/internship/#mentor-expectations)**,** [**Outreachy Applicant Guide**](https://www.outreachy.org/docs/applicant/)**,** and ****[**Outreachy Official Website**](https://www.outreachy.org/)\*\*\*\*
-{% endhint %}
+### Reference
+- **Outreachy Internship Guide**: https://www.outreachy.org/docs/internship/#mentor-expectations 
+
+- **Outreachy Applicant Guide**: https://www.outreachy.org/docs/applicant/
+
+- **Outreachy Official Website**: https://www.outreachy.org/
+
 

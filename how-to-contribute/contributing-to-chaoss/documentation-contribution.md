@@ -4,7 +4,9 @@ description: Documentation contribution
 
 # Documentation
 
-Unfortunately, good code won't speak for itself. Even the most elegantly designed and well-written codebase that solves the most pressing problem in the world won't just get adopted on its own. You, the open-source creator, need to speak for your code and breathe life into your creation. That's where technical writing and documentation come in. (reference) [_Kevin Xu's article on from opensource.com_](https://opensource.com/article/20/3/documentation)
+Unfortunately, good code won't speak for itself. Even the most elegantly designed and well-written codebase that solves the most pressing problem in the world won't just get adopted on its own. You, the open-source creator, need to speak for your code and breathe life into your creation. That's where technical writing and documentation come in. 
+
+-- [_Kevin Xu's article on from opensource.com_](https://opensource.com/article/20/3/documentation)
 
 We encourage documentation contribution from everyone and generally, that contribution is divided into two categories:
 
@@ -23,19 +25,11 @@ We don't have any specific space for documentation. Most of the documentation yo
 
 Once you have figured the approach below is the flow you need to follow:
 
-* Open the [**CHAOSS GitHub**](https://github.com/chaoss) and find the repository on which you want to contribute. \(Assume the governance repository here; using the GitHub.com user interface.\)
-* Click on the file you want to edit. For instance, I have taken the [**README.md**](https://github.com/chaoss/governance/blob/master/README.md) file. Click on the pencil ✏ option to edit the page.
-
-![](../../assets/2%20%281%29.png)
-
-* Make any edits you need, remembering to always format them using Markdown. To understand Markdown better, check out the [GitHub reference](https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/basic-writing-and-formatting-syntax) or [GibtBook reference](https://docs.gitbook.com/content-editing/markdown) guides.
+* Open the [**CHAOSS GitHub**](https://github.com/chaoss) and find the repository on which you want to contribute. Assume the governance repository here; using the GitHub.com user interface
+* Click on the file you want to edit. Make any edits you need, remembering to always format them using Markdown. To understand Markdown better, check out the [GitHub reference](https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/basic-writing-and-formatting-syntax) guides.
 * When you are done making changes, scroll down, and write a short description of your changes. Select the option **Create a new branch for this commit and start a pull request** and click on **Propose file change**. This will direct you to the **Pull request** page.
-
-![](../../assets/22.png)
-
 * On the **Pull Request** page, write the description of your changes and create a pull request by clicking on **create pull request** button
 
-![](../../assets/222.png)
 
 Congratulations! 🎉 you made the pull request and it will be reviewed by the repository admins
 
@@ -60,6 +54,6 @@ Here are some general guidelines and reminders for tone and style:
 * Use numbered lists for actions that happen in sequence.
 * Use bulleted lists for most other lists.
 
-{% hint style="info" %}
-**Source Citation:** This page has been taken and inspired by the Atom documentation under the "Writing Style Guide" section [https://wiki.accesstomemory.org/wiki/Resources/Documentation/Contribution\_guidelines\#Writing\_style](https://wiki.accesstomemory.org/wiki/Resources/Documentation/Contribution_guidelines#Writing_style)
-{% endhint %}
+
+This page has been taken and inspired by the Atom documentation under the "[Writing Style Guide](https://wiki.accesstomemory.org/wiki/Resources/Documentation/Contribution_guidelines#Writing_style)" section.
+

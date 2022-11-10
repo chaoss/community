@@ -1,10 +1,10 @@
 # Google Season of Docs
 
-{% hint style="info" %}
-**NOTE:** Google Season of Docs is also written as GSoD in shot form
-{% endhint %}
+**NOTE:** Google Season of Docs is also written as GSoD in short 
 
-## About Google Season of Docs ![](../assets/seasonofdocs_icon_grey_300ppi-whitespace-cropped.png) 
+## About Google Season of Docs ![](gsod_icon.png) 
+
+**Official Website -** [**https://developers.google.com/season-of-docs**](https://developers.google.com/season-of-docs)
 
 The goal of Season of Docs is to provide a framework for technical writers and open source projects to work together towards the common goal of improving an open-source project's documentation.
 
@@ -12,9 +12,6 @@ During the program, technical writers spend a few months working closely with an
 
 The open-source projects work with the technical writers to improve the project's documentation and processes. Together they may choose to build a new documentation set, or redesign the existing docs, or improve and document the open-source community's contribution procedures and onboarding experience.
 
-**Official Website -** [**https://developers.google.com/season-of-docs**](https://developers.google.com/season-of-docs)\*\*\*\*
 
-{% hint style="warning" %}
-**Source Citation:** [**GSod Official Website**](https://developers.google.com/season-of-docs)\*\*\*\*
-{% endhint %}
+
 
