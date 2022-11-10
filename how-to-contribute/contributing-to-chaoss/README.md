@@ -134,6 +134,6 @@ When the issues under discussion are perceived to be of importance to the whole 
 
 If consensus is not reached, the issue may be raised to the [CHAOSS board](https://chaoss.community/about/governing-board/), where consensus and voting may be used to get a final decision on the matter.
 
-In any case, all decisions are subject to the [CHAOSS Charter](project-charter.md).
+In any case, all decisions are subject to the [CHAOSS Charter](../../governance-in-chaoss/project-charter.md).
 
 _Note_: By "lazy consensus" we mean, [as Apache does](http://www.apache.org/foundation/glossary.html#LazyConsensus) a decision-making policy that assumes general consent if no responses are posted within a defined period. For example, "I'm going to commit this by lazy consensus if no-one objects within the next three days." 

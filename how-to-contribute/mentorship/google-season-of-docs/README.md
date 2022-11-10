@@ -2,7 +2,7 @@
 
 **NOTE:** Google Season of Docs is also written as GSoD in short 
 
-## About Google Season of Docs ![](seasonofdocs_icon.png) 
+## About Google Season of Docs ![](gsod_icon.png) 
 
 **Official Website -** [**https://developers.google.com/season-of-docs**](https://developers.google.com/season-of-docs)
 
