@@ -8,10 +8,10 @@ We follow the GitHub pull-request workflow. More details on how to contribute is
 ### Maintainers of this repository
 
 * [Georg Link](https://github.com/GeorgLink)
-* [Elizabeth Barron](https://github.com/ElizabethN)
+* [Elizabeth Barron, CHAOSS Community Manager](https://github.com/ElizabethN)
+* [Ruth Ikegah, Community Lead, CHAOSS Africa](https://github.com/Ruth-Ikegah)
+* [Xiaoya Xia, Community Lead, CHAOSS Asia-Pacific](https://github.com/xiaoya-yaya)
 
 ### How to become a maintainer
 
-A contributor to this repository can be made a maintainer by existing maintainers. 
-We currently do not have guidelines of when to add a new maintainer and the decision is in the discretion of existing maintainers.
-
+Currently the maintainers are those who help manage the overall CHAOSS Community.
