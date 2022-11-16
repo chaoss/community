@@ -29,6 +29,8 @@ We are trying to:
 
 # Design Contribution
 
+First of all, you can refer to [CHAOSS Brand Guidelines](https://docs.google.com/presentation/d/1BZSBa4Ttji95NTPwHcVjcu-CgiuwBezd/edit#slide=id.p2) to learn about the style guide and usage of CHAOSS name & logo.
+
 ## Things you need to follow
 
 Welcome! We’re glad you’re interested in contributing to the CHAOSS Community designs. Before contributing, please review the following values:
