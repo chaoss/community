@@ -1,4 +1,4 @@
-# CHAOSS Project’s Data Policies
+# CHAOSS Data Policies
 
 Last updated: August 2021
 
