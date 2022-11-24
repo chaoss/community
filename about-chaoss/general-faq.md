@@ -11,7 +11,7 @@ CHAOSS stands for Community Health Analytics Open Source Software.
 
 ### **What is a CHAOSS Metric?**
 
-A metric is a documented way to measure open source community health. CHAOSS community has its [**own predefined template**](https://github.com/chaoss/metrics/blob/master/resources/metrics-template.md](https://github.com/chaoss/community/blob/main/community-resources/templates/metric-template.md) for proposing any new metric. It is quite possible to bring together different metrics in a system of measurement that is meaningful for a particular context.
+A metric is a documented way to measure open source community health. CHAOSS community has its [**own predefined template**](https://github.com/chaoss/community/blob/main/community-resources/templates/metric-template.md) for proposing any new metric. It is quite possible to bring together different metrics in a system of measurement that is meaningful for a particular context.
 
 ### **Why does Community Health matter?**
 
