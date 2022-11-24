@@ -8,11 +8,11 @@ description: Terminology across working groups
 
 ### **Common Metric**
 
-The ****group that focuses on defining the metrics that are used by both working groups or are important for community health, but that does not cleanly fit into one of the other existing working groups.
+The group that focuses on defining the metrics that are used by both working groups or are important for community health, but that does not cleanly fit into one of the other existing working groups.
 
 ### **Diversity & Inclusion**
 
-The group ****that ****aims to bring together experiences measuring diversity and inclusion in open source projects.
+The group that aims to bring together experiences measuring diversity and inclusion in open source projects.
 
 ### **Evolution**
 
