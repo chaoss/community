@@ -57,7 +57,7 @@ Every repository under the [**CHAOSS GitHub**](https://github.com/chaoss) has th
 
 ### **Whom should I contact if I have any questions?**
 
-We encourage transparency, openness, and healthiness so all the questions should be directed to the public community mailing list at [**chaoss@lists.linuxfoundation.org**](mailto:chaoss@lists.linuxfoundation.org%20) or CHAOSS Community Manager, ELizabeth Barron at elizabeth@chaoss.community.
+We encourage transparency, openness, and healthiness so all the questions should be directed to the public community mailing list at [**chaoss@lists.linuxfoundation.org**](mailto:chaoss@lists.linuxfoundation.org%20) or CHAOSS Community Manager, Elizabeth Barron at elizabeth@chaoss.community.
 
 ### **Does CHAOSS record their meeting?**
 
@@ -65,5 +65,5 @@ Yes, CHAOSS records all the meetings and for that, we follow [**general guidelin
 
 ### **Where can I find CHAOSS community discussion?**
 
-All the discussions can be found within the CHAOSS mailing list or [CHAOSS GitHub](https://github.com/chaoss).
+All the discussions can be found within the CHAOSS mailing list or [**CHAOSS GitHub**](https://github.com/chaoss).
 
