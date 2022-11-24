@@ -6,11 +6,11 @@ description: Terminology across working groups
 
 ## **Working Groups around Metric**
 
-### **Common Metric**
+### **Common**
 
 The group that focuses on defining the metrics that are used by both working groups or are important for community health, but that does not cleanly fit into one of the other existing working groups.
 
-### **Diversity & Inclusion**
+### **Diversity, Equity & Inclusion**
 
 The group that aims to bring together experiences measuring diversity and inclusion in open source projects.
 
@@ -22,9 +22,9 @@ The group which focusses on refining the metrics that inform evolution and to wo
 
 The group which focuses on compliance and risk metrics.
 
-### **Value**
+### **OSPO**
 
-The working group that focuses on industry-standard metrics for economic value in open source.
+The group aims to advance how organizations understand the value that open source projects can provide as well as the value of these programs / initiatives.
 
 ## **Working Groups around Software**
 
@@ -36,9 +36,6 @@ This working group connects the GrimoireLab software development with metrics wo
 
 This working group connects the Augur software development with metrics work in other CHAOSS working groups.
 
-### **Cregit**
-
-This working group connects the Cregit software development with metrics work in other CHAOSS working groups.
 
 ## **Working Groups around User Groups**
 
@@ -46,7 +43,7 @@ This working group connects the Cregit software development with metrics work in
 
 This working group applies CHAOSS metrics in the context of an open-source app ecosystem. The mission of this working group is to build a base set of metrics that is focused on the needs of open source communities that are part of the FOSS app ecosystem.
 
-### **Diversity & Inclusion Badging**
+### **Diversity, Equity & Inclusion Badging**
 
 The working group that encourages projects and events to obtain D&I badges for reasons of pride, leadership, self-reflection, and self-improvement on issues critical to building the Internet as a social good.
 
