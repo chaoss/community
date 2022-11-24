@@ -13,7 +13,7 @@
 * The working groups need to make sure that the `Metric Release Notes` issue in the working groups’ repository is continuously updated with the latest changes in metrics. This will give an overview of all the changes that are occurring during a release cycle.
 * Working groups need to create an issue for each metric that has been created or edited - labeled as `Metrics Candidate Release`. This can signal that a metric needs to be translated.
 * Working groups or the release team need to create a corresponding issue in the translation repo that links to the individual Metrics Release Candidate issue. This issue is not targeted towards a specific language community but can be used by the individual language communities to coordinate work. The issue should be labeled with all applicable language tags.
-* The release manager will add the `under review` label to the English Metrics Release Candidates on the CHAOSS website. This also signals that a metric needs to be translated. ****
+* The release manager will add the `under review` label to the English Metrics Release Candidates on the CHAOSS website. This also signals that a metric needs to be translated. 
 
 
 
