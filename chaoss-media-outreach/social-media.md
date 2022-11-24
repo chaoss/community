@@ -1,6 +1,7 @@
 # CHAOSS Social Media Guidelines
 
 - [CHAOSS Twitter Channel](https://twitter.com/CHAOSSproj)
+- [CHAOSS Twitter Africa Channel](https://twitter.com/chaoss_africa)
 - [CHAOSS Youtube Channel](https://www.youtube.com/c/CHAOSStube)
 
 ## CHAOSS Social Media Operations Guide
@@ -19,6 +20,8 @@ As of October 1, 2022, members with Twitter account access include:
 - [Georg Link](https://twitter.com/GeorgLink)
 - [Kevin Lumbard](https://twitter.com/Paper_Monkeys)
 - [Andy Leak](https://twitter.com/akleak)
+- [Elizabeth Barron](https://twitter.com/IkegahRuth)
+- [Ruth Ikegah](https://twitter.com/IkegahRuth)
 
 As of October 1, 2022, members with YouTube account access include:
 - Georg Link
@@ -26,5 +29,6 @@ As of October 1, 2022, members with YouTube account access include:
 - Matt Germonprez
 - Sean Goggins
 - Jesus M. Gonzalez-Barahona
+- Elizabeth Barron
 
 
