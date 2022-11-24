@@ -67,7 +67,7 @@ The CHAOSS community [discussed names on the mailing list](https://lists.linuxfo
 
 ### Subtitle
 
-The CHAOSS Community podcast elevates conversations about metrics, analytics, and software for measuring open source community health.
+The [CHAOSS Community podcast](https://podcast.chaoss.community/) elevates conversations about metrics, analytics, and software for measuring open source community health.
 
 ### Description
 
