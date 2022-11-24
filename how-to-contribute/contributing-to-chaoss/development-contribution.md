@@ -1,6 +1,4 @@
----
-description: Development contribution
----
+
 # Development
 
 ## 💾 Tech Stack
