@@ -27,7 +27,7 @@ We are trying to:
 
 # Design Contribution
 
-First of all, you can refer to [CHAOSS Brand Guidelines](https://docs.google.com/presentation/d/1BZSBa4Ttji95NTPwHcVjcu-CgiuwBezd/edit#slide=id.p2) to learn about the style guide and usage of CHAOSS name & logo.
+First of all, you can refer to [CHAOSS Brand Guidelines](https://docs.google.com/presentation/d/1BZSBa4Ttji95NTPwHcVjcu-CgiuwBezd/edit#slide=id.p2) to learn about the style guide and usage of CHAOSS name & logo. You can find CHAOSS Logos in the [handbook](../../community-resources/logos/) and the [Google drive](https://drive.google.com/drive/u/0/folders/1hgx-Thy5zaE04hSitSkaFODSq-RslMFj).
 
 ## Things you need to follow
 
