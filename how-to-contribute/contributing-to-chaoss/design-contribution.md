@@ -1,6 +1,4 @@
----
-description: Design contribution
----
+
 # Design
 
 ![](../../community-resources/logos/logo-large_1123x271.png)

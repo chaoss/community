@@ -1,6 +1,3 @@
----
-description: Documentation contribution
----
 
 # Documentation
 
@@ -15,20 +12,19 @@ We encourage documentation contribution from everyone and generally, that contri
 
 ## Getting Started
 
-We don't have any specific space for documentation. Most of the documentation you will find inside the CHAOSS GitHub repositories and on the website.
-
 ### Approach to Contribute
 
 * **Addressing issues related to documentation:** Look for the **`documentation`** labeled issues within the CHAOSS Github repositories.
 * **Checking if a page needs to be updated:** Surf around the CHAOSS community, look for the pages that need to be updated, and suggest changes through an issue or pull request.
 * **Propose new pages for the documentation:** While working on CHAOSS  initiatives and software you might come across documentation needs; Open an issue to remember for later and ask for help or create a pull request to add the documentation yourself.
 
-Once you have figured the approach below is the flow you need to follow:
 
-* Open the [**CHAOSS GitHub**](https://github.com/chaoss) and find the repository on which you want to contribute. Assume the governance repository here; using the GitHub.com user interface
+Once you have figured the approach above, this is the flow you need to follow:
+
+* Find the repository in which you want to contribute on the [**CHAOSS GitHub**](https://github.com/chaoss) and open an issue detailing what your approach is.
 * Click on the file you want to edit. Make any edits you need, remembering to always format them using Markdown. To understand Markdown better, check out the [GitHub reference](https://docs.github.com/en/free-pro-team@latest/github/writing-on-github/basic-writing-and-formatting-syntax) guides.
 * When you are done making changes, scroll down, and write a short description of your changes. Select the option **Create a new branch for this commit and start a pull request** and click on **Propose file change**. This will direct you to the **Pull request** page.
-* On the **Pull Request** page, write the description of your changes and create a pull request by clicking on **create pull request** button
+* On the **Pull Request** page, write the description of your changes, mention the corresponding issue and create a pull request by clicking on **create pull request** button
 
 
 Congratulations! 🎉 you made the pull request and it will be reviewed by the repository admins

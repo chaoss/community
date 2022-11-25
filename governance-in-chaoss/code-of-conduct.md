@@ -1,4 +1,4 @@
-# CHAOSS Community: Code of Conduct
+# CHAOSS Code of Conduct
 
 ## Our Pledge
 

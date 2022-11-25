@@ -19,7 +19,7 @@ In order to learn more about these groups, you should refer to their GitHub repo
 
 * [**Risk**](https://github.com/chaoss/wg-risk): The working group focuses on compliance and risk metrics in Open Source Software.
 
-* [**Value**](https://github.com/chaoss/wg-value): This working group focuses on industry-standard metrics for economic value in open source.
+* [**OSPO**](https://github.com/chaoss/wg-ospo): The OSPO Metrics working group aims to advance how organizations understand the value that open source projects can provide as well as the value of these programs / initiatives.
 
 * [**Metrics-Models**](https://github.com/chaoss/wg-metrics-models): This working group develops models that include the integration of multiple CHAOSS metrics in a way that people would consume them in practice.
 
@@ -62,7 +62,7 @@ Check out our [**participation page**](https://chaoss.community/participate/) fo
 
 Here are the steps to define any new **Focus Area**🎯of metric inside any working group:
 
-* **Understand the background of each working group** - Understand the background of each of "[**Common Metric**](https://github.com/chaoss/wg-common#background)", "[**Diversity & Inclusion**](https://github.com/chaoss/wg-diversity-inclusion#background)", "[**Evolution**](https://github.com/chaoss/wg-evolution#introduction)", "[**Value**](https://github.com/chaoss/wg-value#problem-statement)", "[**Risk**](https://github.com/chaoss/wg-risk#background)", "[**Metrics-Models**](https://github.com/chaoss/wg-metrics-models)", and "[**Application Ecosystem**](https://github.com/chaoss/wg-app-ecosystem)" thoroughly.
+* **Understand the background of each working group** - Understand the background of each of "[**Common Metric**](https://github.com/chaoss/wg-common#background)", "[**Diversity & Inclusion**](https://github.com/chaoss/wg-diversity-inclusion#background)", "[**Evolution**](https://github.com/chaoss/wg-evolution#introduction)", "[**OSPO**](https://github.com/chaoss/wg-ospo)", "[**Risk**](https://github.com/chaoss/wg-risk#background)", "[**Metrics-Models**](https://github.com/chaoss/wg-metrics-models)", and "[**Application Ecosystem**](https://github.com/chaoss/wg-app-ecosystem)" thoroughly.
 * **Ask yourself** - _Under what category my focus area lies?_  Try to relate your focus area with already existing focus areas. If you are able to relate it with the existing focus area and background that means its all set. 👍 
 * But if you are unable to relate, **open up the issue** within the relevant repository of the working group and explain the focus area along with its **goal**
 * **Once you submit,** it will be reviewed by maintainers and will be discussed in the respective working group meeting call.

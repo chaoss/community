@@ -1,6 +1,3 @@
----
-description: Step-by-step instructions for releasing CHAOSS Metrics
----
 
 # Releases
 

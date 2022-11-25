@@ -9,9 +9,9 @@ CHAOSS is a Linux Foundation project focused on creating analytics and metrics t
 
 CHAOSS stands for Community Health Analytics Open Source Software.
 
-### **What is the metric?**
+### **What is a CHAOSS Metric?**
 
-A metric is a documented way to measure open source community health. CHAOSS community has its [**own predefined template**](https://github.com/chaoss/metrics/blob/master/resources/metrics-template.md) for proposing any new metric. It is quite possible to bring together different metrics in a system of measurement that is meaningful for a particular context.
+A metric is a documented way to measure open source community health. CHAOSS community has its [**own predefined template**](https://github.com/chaoss/community/blob/main/community-resources/templates/metric-template.md) for proposing any new metric. It is quite possible to bring together different metrics in a system of measurement that is meaningful for a particular context.
 
 ### **Why does Community Health matter?**
 
@@ -29,13 +29,9 @@ We have various ways to get involved in the Community. You can check our [**Part
 
 In order to use CHAOSS software, you can follow the guidelines [**here**](https://chaoss.community/software/).
 
-### **Is my open source community healthy?**
-
-We have the initiative of generating the CHAOSS Community Report for your project. So, if you want to measure, whether your community is healthy or not, you can follow the [**instructions to generate your community reports**](https://chaoss.community/community-reports/).
-
 ### **Who is behind the CHAOSS project?**
 
-CHAOSS project is a volunteer-driven project where there are folks from different organizations and communities effectively working to build creative solutions under CHAOSS. In order to know more refer  ****[**"Who are we?" section on the About page**](https://chaoss.community/about/).
+CHAOSS project is a volunteer-driven project where there are folks from different organizations and communities effectively working to build creative solutions under CHAOSS. In order to know more refer [**"Who are we?" section on the About page**](https://chaoss.community/about/).
 
 ### **Do you have internships?**
 
@@ -49,7 +45,7 @@ All the metrics can be found under the "**[**Metric Definition**](https://chaoss
 
 The Diversity and Inclusion Badging program use a peer-review system to encourage projects and events to obtain badges. It aims to increase understanding of the open-source project and event practices that encourage greater diversity and wider inclusion of people from different backgrounds.
 
-The program is affiliated with the CHAOSS project and a proud initiative of CHAOSS. Most of the work of the Badging Program is closely associated with the CHAOSS DEI working group. [**You can read more about it here**](https://github.com/chaoss/community/tree/main/how-work-is-done/community-projects/dei-badging).
+The program is affiliated with the CHAOSS project and a proud initiative of CHAOSS. Most of the work of the Badging Program is closely associated with the CHAOSS DEI working group. [**You can read more about it here**](https://chaoss.community/diversity-and-inclusion-badging/).
 
 ### **Does CHAOSS provide any tools to measure the open source project or community health?**
 
@@ -61,7 +57,7 @@ Every repository under the [**CHAOSS GitHub**](https://github.com/chaoss) has th
 
 ### **Whom should I contact if I have any questions?**
 
-We encourage transparency, openness, and healthiness so all the questions should be directed to the public community mailing list at [**chaoss@lists.linuxfoundation.org**](mailto:chaoss@lists.linuxfoundation.org%20) or CHAOSS Community Manager, ELizabeth Barron at elizabeth@chaoss.community.
+We encourage transparency, openness, and healthiness so all the questions should be directed to the public community mailing list at [**chaoss@lists.linuxfoundation.org**](mailto:chaoss@lists.linuxfoundation.org%20) or CHAOSS Community Manager, Elizabeth Barron at elizabeth@chaoss.community.
 
 ### **Does CHAOSS record their meeting?**
 
@@ -69,5 +65,5 @@ Yes, CHAOSS records all the meetings and for that, we follow [**general guidelin
 
 ### **Where can I find CHAOSS community discussion?**
 
-All the discussions can be found within the CHAOSS mailing list or CHAOSS GitHub.
+All the discussions can be found within the CHAOSS mailing list or [**CHAOSS GitHub**](https://github.com/chaoss).
 

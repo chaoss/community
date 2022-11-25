@@ -1,6 +1,4 @@
----
-description: Metrics contribution
----
+
 # Metrics
 
 ## Metric Working Groups

@@ -1,6 +1,4 @@
----
-description: Development contribution
----
+
 # Development
 
 ## 💾 Tech Stack
@@ -93,7 +91,7 @@ Before getting started, please make sure you've read the **README** of the respe
 
 If you're experiencing an issue with any project or have a question you'd like help answering, please feel free to open an issue in the respective repository of the project. To help us prevent duplicates, we kindly ask that you briefly search for your problem or question in our issues before opening a new one.
 
-Please note that if you open a bug report and your issue does not follow our template, we cannot help you until you have provided us all the relevant information in that format. Respectfully, we do not have the time to try and recreate an error given with minimal or no context, so by providing this information you are helping us help you! You will see this template when you open an issue; click on "Bug Report" and it will be populated with descriptions of what to put in each section. Replace the descriptions with your comments to the best of your ability, and please include screenshots and error logs if applicable.
+Please note while you're opening an issue, follow through the issue template and provide enough background information. You will see this template when you open an issue; click on "Bug Report" and it will be populated with descriptions of what to put in each section. Replace the descriptions with your comments to the best of your ability, and please include screenshots and error logs if applicable.
 
 ## 💻 Contributing to Source Code
 
@@ -122,6 +120,6 @@ After you have made the desired changes into your fork version of the repository
 
 At this point, you're waiting on us. We like to at least comment on pull requests within three business days **and, typically, one business day**. Once one of our maintainers has had a chance to review your PR, we will either mark it as "needs review" and provide specific feedback on your changes, or we will go ahead and complete the pull request.
 
-We require all commits to be signed off with a [Developer Certificate of Origin](https://developercertificate.org/) in accordance with the [CHAOSS charter](https://chaoss.community/about/charter/#user-content-8-intellectual-property-policy). This can be easily done by using the `-s` flag when using `git commit`. For example: `git commit -s -m "Update README.md"`. This can be automated by using a browser plugin like [DCO GitHub UI](https://github.com/scottrigby/dco-gh-ui).
+We require all commits to be signed off with a [Developer Certificate of Origin](https://developercertificate.org/) in accordance with the [CHAOSS charter](https://github.com/chaoss/community/blob/main/governance-in-chaoss/project-charter.md). This can be easily done by using the `-s` flag when using `git commit`. For example: `git commit -s -m "Update README.md"`. This can be automated by using a browser plugin like [DCO GitHub UI](https://github.com/scottrigby/dco-gh-ui).
 
 **NOTE**: Any pull requests containing commits that are not signed off will not be eligible for merge until the commits have been signed off.

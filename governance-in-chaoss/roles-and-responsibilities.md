@@ -1,7 +1,7 @@
 
 # Roles and Responsibilities
 
-## 🙍♂ Repository Maintainer
+## Repository Maintainer
 
 * Send a reminder about meetings
 * Prepare meetings
@@ -19,7 +19,7 @@
 * monitor issue tracker and pull requests
 * steer the architecture of the metrics/software
 
-## 🎪 CHAOSScon organizing committee member
+## CHAOSScon organizing committee member
 
 * Regularly review the status of planning progress
 * Secure venue for the event
@@ -35,7 +35,7 @@
 * Create and update conference website
 * Edit recordings from CHAOSScon sessions and upload them to YouTube
 
-## 👁🗨 CHAOSS Governing Board Member
+## CHAOSS Governing Board Member
 
 * Consider the high-level strategy for the CHAOSS project
 * Participate in board meetings \(~4 meetings per year\) and vote on proposals.
@@ -45,7 +45,7 @@
 * Spread the word about CHAOSS, e.g., present at conferences.
 * Be a representative of the CHAOSS project.
 
-## 👤 CHAOSS Board Co-Lead
+## CHAOSS Board Co-Lead
 
 * Invite to board meetings
 * Prepare board meetings
@@ -55,7 +55,7 @@
 * Regularly review and update governance documents
 * Provide guidance to community members and working groups
 
-## 📙 CHAOSS metrics release collaborator
+## CHAOSS metrics release collaborator
 
 * Review metrics release spreadsheet
 * Coordinate with working groups to confirm the status of metrics
@@ -65,14 +65,14 @@
 * Create release pages on the website
 * Create a PDF of released metrics
 
-## ✍ Editor of CHAOSSweekly
+## Editor of CHAOSSweekly
 
 * Collect themes from a week in the CHAOSS community - attend several meetings, especially community call
 * Write a summary of what is happening in the CHAOSS community
 * Update the dates of upcoming meetings
 * Send CHAOSSweekly to the mailing list
 
-## 📩 Mailing list moderator
+## Mailing list moderator
 
 * When a moderation request comes in, react to it
 
@@ -82,7 +82,7 @@
 * Share status updates from @CHAOSSproj
 * Promote CHAOSS events
 
-## 📖 Code of Conduct Enforcement Team member
+## Code of Conduct Enforcement Team member
 
 luckily we have had no reports yet
 

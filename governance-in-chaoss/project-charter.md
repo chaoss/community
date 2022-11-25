@@ -1,3 +1,5 @@
+# CHAOSS Project Charter
+
 **The Linux Foundation**
 
 **CHAOSS – Community Health Analytics Open Source Software**
@@ -92,7 +94,7 @@ The mission of the Project is to:
 
 3.  The output of all Project discussions, proposals, timelines, decisions, and status will be made open and easily visible to all.
 
-4. The current Project code of conduct can be found at (https://chaoss.community/about/code-of-conduct/).
+4. The current Project code of conduct can be found at (https://chaoss.community/about-2/code-of-conduct/).
 
 # **6. Budget and Funding**
 

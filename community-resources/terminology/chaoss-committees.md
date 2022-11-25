@@ -2,7 +2,7 @@
 
 ### **CHAOSS Project**
 
-A Linux Foundation open source project that advances our understanding of and tools for open source community health. ****Check out the ****[**CHAOSS website**](https://chaoss.community/)\*\*\*\*
+A Linux Foundation open source project that advances our understanding of and tools for open source community health. Check out the [**CHAOSS website**](https://chaoss.community/).
 
 ### **Contributor**
 
