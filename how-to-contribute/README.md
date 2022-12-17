@@ -1,34 +1,46 @@
+# Contributing to CHAOSS
+👍🎉 Thanks for your interest in contributing to the CHAOSS project! 🎉👍
 
-# Community Guidelines
+## Who can contribute?
+Anyone can contribute to CHAOSS. See <https://chaoss.community/participate/> to learn more about how to participate. We are excited to meet newcomers, and we are always ready to support you during your contribution journey.
 
-### Things you should take into Consideration
+## Which channel should I use if I’m a newcomer?
+The best place to start is by joining our [CHAOSS Newcomers Slack Channel](https://chaoss-workspace.slack.com/archives/C0207C3RETX). Go ahead and introduce yourself; we’ll be happy to greet you there.
 
-👋 **Be welcoming and open-minded** - Other collaborators may not have the same experience level or background as you, but that doesn't mean they don't have good ideas to contribute. We encourage you to be welcoming to new collaborators and those just getting started. We value, encourage all types of contributions. We don’t assume you can contribute for free, we respect and thank you.
+## Other places you can find us online
+- [CHAOSS on the Web](https://chaoss.community) 
+- [CHAOSS on GitHub](https://github.com/chaoss)
+- [CHAOSS on Twitter](https://twitter.com/chaossproj)
+- [CHAOSS Africa on Twitter](https://twitter.com/chaoss_africa) 
+- [CHAOSS on LFX Crowdfunding](https://crowdfunding.lfx.linuxfoundation.org/projects/a4a43b66-f707-47b4-97cc-484285c274a8) 
+- [CHAOSS on Open Collective](https://opencollective.com/chaoss) 
+- [CHAOSS Podcast](https://podcast.chaoss.community/) 
+- [CHAOSS on YouTube](https://youtube.com/c/CHAOSStube) 
+- [CHAOSS on LinkedIn](https://linkedin.com/company/chaoss/) 
 
-😇 **Be honest -** Being honest helps you to move to better consensus building. So Be honest about who you are, what you do, and how you want to do it. Dishonesty is not only damaging to you but to all other community members and their valuable contributions. Don’t be the one bringing mistrust into this community.
+## Ways to Contribute
+There are so many ways to contribute to the CHAOSS project. Here is a short list of places that might interest you: 
 
-🙌 **Be respectful** - We don't tolerate being disrespectful. Being a jerk will not get you a place in this community, it will turn people away so we don’t want noise in the system. Be civil and professional, and don’t post anything that a reasonable person would consider offensive, abusive, or hate speech. Don’t harass or grief anyone. Treat each other with dignity and consideration in all interactions. 
+- Metrics and metrics model development 
+- Software development 
+- Website management 
+- Event management 
+- DEI Event Badge reviewing 
+- Graphic design 
+- Social media 
 
-🤝 **Be collaborative** - Collaboration reduces redundancy and improves the quality of our work. Internally and externally, we celebrate good collaboration. Wherever possible, we work closely with upstream projects and others in the free software community to coordinate our efforts. We prefer to work transparently and involve interested parties as early as possible. If you plan to be away from the CHAOSS project for a period of time, it's helpful to communicate that to other community members by [changing your Slack Status](https://slack.com/help/articles/201864558-Set-your-Slack-status-and-availability) or mentioning it in a Working Group meeting.
+The CHAOSS project is complex and sometimes requires a bit of time to find the ways to contribute that best suit you. Again, we recommend that you join our [CHAOSS Newcomers Slack Channel](https://chaoss-workspace.slack.com/archives/C0207C3RETX) to get things started. 
 
-💡 **Be mindful and stay on topic -** People use the CHAOSS project for creating analytics and metrics to help define the community health. So off-topic comments are sometimes unproductive while collaborating. Staying on topic helps produce positive and productive discussions. Additionally, communicating with strangers on the Internet can be difficult. It's hard to convey or read tone, and sarcasm is frequently misunderstood. Try to use clear language, and think about how it will be received by the other person.
+## How do we make decisions?
 
-🔈 **Be inclusive -** Everyone within the community has the right to speak to any decision taken. You should have the freedom to participate in different decisions and actions taken within the community publically and put forward your perspective. Adding your perspective will result in a more broad outcome towards that decision. Whoever you are, you have a unique perspective and unique skills that you can contribute to a collective.
+The basic decision-making mechanism for CHAOSS is a lazy consensus. Each of the software projects or working groups will try to reach a consensus on their decisions after giving a reasonable opportunity to people contributing to them to express their opinion. In this, we welcome all people to join and contribute to our conversations. 
 
-🎯 **Be focused -** We value community people's time and perspective so If you need to decide or propose something as a team or individual, make a concrete proposal with directing the focused area more clearly instead of calling a meeting to get everyone's input. Having a proposal will be a much more effective use of everyone's time.
+When the issues under discussion are perceived to be of importance to the whole CHAOSS community, the same process will be carried on at the CHAOSS level, using the general periodic calls and other communication means for discussion. 
 
-❤ **Share the love -** We should be appreciable for any decision/idea proposed within the community and should share some love by appreciating it. If someone achieves something within the community then share it on your social handles with your friends, let the world know, and receive some love in return.
+If consensus is not reached, the issue may be raised to the [CHAOSS board](https://chaoss.community/about/governing-board/), where consensus and voting may be used to get a final decision on the matter.
 
-### What is not Allowed?
+In any case, all decisions are subject to the [CHAOSS Charter](../../governance-in-chaoss/project-charter.md).
 
-*  **Threats of violence** - You may not threaten violence towards others or use the site to organize, promote, or incite acts of real-world violence or terrorism. Think carefully about the words you use, the images you post, and even the software you write, and how they may be interpreted by others.
-*  **Sexually obscene content -** The use of sexualized language or imagery and unwelcome sexual attention or advances
-* **Bullying** - Trolling, insulting/derogatory comments, and personal or political attacks
-* **Harassment** - Public or private harassment
-* **Invasion of privacy** - Publishing others' private information, such as a physical or electronic address, without explicit permission
-* **Misinformation** - Other conduct which could reasonably be considered inappropriate in a professional setting
+_Note_: By "lazy consensus" we mean, [as Apache does](http://www.apache.org/foundation/glossary.html#LazyConsensus) a decision-making policy that assumes general consent if no responses are posted within a defined period. For example, "I'm going to commit this by lazy consensus if no-one objects within the next three days."
 
-### What happens if someone breaks the rule?
-
-There are a variety of actions that we may take when a user reports inappropriate behavior or content. Please follow the **Enforcement** within the [CHAOSS Code of Conduct](../governance-in-chaoss/code-of-conduct.md) that denotes the appropriate outcome of the inappropriate behavior.
 
