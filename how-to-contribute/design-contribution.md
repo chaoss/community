@@ -1,7 +1,7 @@
 
 # Design
 
-![](../../community-resources/logos/logo-large_1123x271.png)
+![](../community-resources/logos/logo-large_1123x271.png)
 
 ### What is CHAOSS design? 🖌 
 
@@ -27,7 +27,7 @@ We are trying to:
 
 # Design Contribution
 
-First of all, you can refer to [CHAOSS Brand Guidelines](https://docs.google.com/presentation/d/1BZSBa4Ttji95NTPwHcVjcu-CgiuwBezd/edit#slide=id.p2) to learn about the style guide and usage of CHAOSS name & logo. You can find CHAOSS Logos in the [handbook](../../community-resources/logos/) and the [Google drive](https://drive.google.com/drive/u/0/folders/1hgx-Thy5zaE04hSitSkaFODSq-RslMFj).
+First of all, you can refer to [CHAOSS Brand Guidelines](https://docs.google.com/presentation/d/1BZSBa4Ttji95NTPwHcVjcu-CgiuwBezd/edit#slide=id.p2) to learn about the style guide and usage of CHAOSS name & logo. You can find CHAOSS Logos in the [handbook](../community-resources/logos/) and the [Google drive](https://drive.google.com/drive/u/0/folders/1hgx-Thy5zaE04hSitSkaFODSq-RslMFj).
 
 ## Things you need to follow
 
@@ -118,18 +118,18 @@ It can be used by developers, documentarians, marketers or anyone who want to sh
 
 * **CHAOSS logo in color**
 
-![](../../community-resources/logos/logo-large_1123x271.png)
+![](../community-resources/logos/logo-large_1123x271.png)
 
 
 * **CHAOSS logo in black**
 
-![](../../community-resources/logos/chaoss-black.svg)
+![](../community-resources/logos/chaoss-black.svg)
 
 
 
 * **CHAOSS logo in White**
 
-![](../../community-resources/logos/chaoss-white.png)
+![](../community-resources/logos/chaoss-white.png)
 
 
 
