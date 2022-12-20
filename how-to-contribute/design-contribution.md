@@ -118,7 +118,7 @@ It can be used by developers, documentarians, marketers or anyone who want to sh
 
 * **CHAOSS logo in color**
 
-![](../community-resources/logos/logo-large_1123x271.png)
+![](https://github.com/chaoss/community/blob/main/community-resources/logos/logo-large_1123x271.png)
 
 
 * **CHAOSS logo in black**
