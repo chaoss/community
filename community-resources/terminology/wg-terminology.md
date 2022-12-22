@@ -1,6 +1,4 @@
----
-description: Terminology across working groups
----
+
 
 # CHAOSS Community Working Group Terminology
 
