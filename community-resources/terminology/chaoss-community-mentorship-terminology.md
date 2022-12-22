@@ -1,6 +1,4 @@
----
-description: Mentorship terminology
----
+
 
 # CHAOSS Community Mentorship Terminology
 
