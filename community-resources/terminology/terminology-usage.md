@@ -1,6 +1,4 @@
----
-description: It contains the details of how to use specific terms
----
+
 
 # Terminology Usage
 
