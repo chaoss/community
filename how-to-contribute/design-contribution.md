@@ -1,7 +1,7 @@
 
 # Design
 
-![](../community-resources/logos/logo-large_1123x271.png)
+![logo-large_1123x271](https://user-images.githubusercontent.com/90775147/210316922-f03f81ff-e616-44ec-931d-071e43839835.png)
 
 ### What is CHAOSS design? 🖌 
 
@@ -88,7 +88,7 @@ We follow a 4-query procedure to solve the design issues. Each question is a ste
 
 ## Ways of Achieving
 
-![Design created by Jaskirat SIngh ](design-style-element/design.png)
+![Design created by Jaskirat SIngh](https://user-images.githubusercontent.com/90775147/210317520-f85e9eb6-8619-431e-80d7-73944a79fe25.png)
 
 💡 **Plan** - You should be good to commence your design with planning as design inquires into the nature of a problem to conceive a framework for solving that problem. In general, planning is problem-solving, while the design is putting problems into actions.
 
@@ -118,35 +118,34 @@ It can be used by developers, documentarians, marketers or anyone who want to sh
 
 * **CHAOSS logo in color**
 
-![](https://github.com/chaoss/community/blob/main/community-resources/logos/logo-large_1123x271.png)
+![logo-large_1123x271](https://user-images.githubusercontent.com/90775147/210317700-85c82ec4-826e-48e7-aac4-11f286f96ae0.png)
 
 
 * **CHAOSS logo in black**
 
-![](../community-resources/logos/chaoss-black.svg)
-
+![chaoss-black](https://user-images.githubusercontent.com/90775147/210317738-a4270d6d-c263-402a-a49f-9d2ad0acc184.svg)
 
 
 * **CHAOSS logo in White**
 
-![](../community-resources/logos/chaoss-white.png)
+![chaoss-white](https://user-images.githubusercontent.com/90775147/210317770-ad36bb9d-742a-43c2-b304-b562b9a22b9c.png)
 
 
 
 ### Color Palette
 
-![](design-style-element/palette.png) 
+![palette](https://user-images.githubusercontent.com/90775147/210317859-a97267cd-428e-452c-95f7-94c6d45749df.png)
 
 **Color Used:** 
 
-* PANTONE RUBINE RED C ![](design-style-element/r.png) 
-* PANTONE 2925 C ![](design-style-element/b.png) 
-* PANTONE 570 C ![](design-style-element/g.png) 
-* PANTONE VIOLET 0631 C ![](design-style-element/p.png) 
+* PANTONE RUBINE RED C ![r](https://user-images.githubusercontent.com/90775147/210317891-ea131681-3e3b-48e8-8956-961ec99b4adb.png)
+* PANTONE 2925 C ![b](https://user-images.githubusercontent.com/90775147/210317990-887accf5-2433-4fc2-b172-034064e9fdbd.png)
+* PANTONE 570 C ![g](https://user-images.githubusercontent.com/90775147/210318025-7dd4bc1a-47d3-4ea3-902b-ca1f40e55b25.png)
+* PANTONE VIOLET 0631 C ![p](https://user-images.githubusercontent.com/90775147/210318100-2f4237cb-8d8a-4192-a190-458d2b3b20c2.png)
 
 
 ### Font
 
 Font used in the CHAOSS logo is **PORT**
 
-![](design-style-element/chaoss-font.png)
+![chaoss-font](https://user-images.githubusercontent.com/90775147/210318179-238b444b-d402-499e-a25e-3608797693c6.png)
