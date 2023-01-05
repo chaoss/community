@@ -149,7 +149,7 @@ It can be used by developers, documentarians, marketers or anyone who want to sh
 * PANTONE 2925 C
 ![b](https://user-images.githubusercontent.com/72370777/210441280-4545f688-03e7-47cd-a5bb-e8e475c4f73e.png)
 
-* PANTONE 570 C ![g](https://user-images.githubusercontent.com/72370777/210441596-b4a7d53f-1847-4f33-a6e8-cfda5ac262be.png)
+* PANTONE 570 C![g](https://user-images.githubusercontent.com/72370777/210441596-b4a7d53f-1847-4f33-a6e8-cfda5ac262be.png)
 
 * PANTONE VIOLET 0631 C ![p](https://user-images.githubusercontent.com/72370777/210441768-631419b2-52e3-4723-b0fe-c9a5e4922fa0.png)
 
