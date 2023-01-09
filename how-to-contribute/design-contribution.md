@@ -1,7 +1,7 @@
 
 # Design
 
-![](../community-resources/logos/logo-large_1123x271.png)
+![](/Users/kaushal/Desktop/community/community-resources/logos/logo-large_1123x271.png)
 
 ### What is CHAOSS design? 🖌 
 
@@ -88,7 +88,7 @@ We follow a 4-query procedure to solve the design issues. Each question is a ste
 
 ## Ways of Achieving
 
-![Design created by Jaskirat SIngh ](design-style-element/design.png)
+![Design created by Jaskirat SIngh ](/Users/kaushal/Desktop/community/how-to-contribute/design-style-element/design.png)
 
 💡 **Plan** - You should be good to commence your design with planning as design inquires into the nature of a problem to conceive a framework for solving that problem. In general, planning is problem-solving, while the design is putting problems into actions.
 
@@ -118,35 +118,35 @@ It can be used by developers, documentarians, marketers or anyone who want to sh
 
 * **CHAOSS logo in color**
 
-![](https://github.com/chaoss/community/blob/main/community-resources/logos/logo-large_1123x271.png)
+![](/Users/kaushal/Desktop/community/community-resources/logos/logo-large_1123x271.png)
 
 
 * **CHAOSS logo in black**
 
-![](../community-resources/logos/chaoss-black.svg)
+![](/Users/kaushal/Desktop/community/community-resources/logos/chaoss-black.svg)
 
 
 
 * **CHAOSS logo in White**
 
-![](../community-resources/logos/chaoss-white.png)
+![](/Users/kaushal/Desktop/community/community-resources/logos/chaoss-white.png)
 
 
 
 ### Color Palette
 
-![](design-style-element/palette.png) 
+![](/Users/kaushal/Desktop/community/how-to-contribute/design-style-element/palette.png) 
 
 **Color Used:** 
 
-* PANTONE RUBINE RED C ![](design-style-element/r.png) 
-* PANTONE 2925 C ![](design-style-element/b.png) 
-* PANTONE 570 C ![](design-style-element/g.png) 
-* PANTONE VIOLET 0631 C ![](design-style-element/p.png) 
+* PANTONE RUBINE RED C ![](/Users/kaushal/Desktop/community/how-to-contribute/design-style-element/r.png) 
+* PANTONE 2925 C ![](/Users/kaushal/Desktop/community/how-to-contribute/design-style-element/b.png) 
+* PANTONE 570 C ![](/Users/kaushal/Desktop/community/how-to-contribute/design-style-element/g.png) 
+* PANTONE VIOLET 0631 C ![](/Users/kaushal/Desktop/community/how-to-contribute/design-style-element/p.png) 
 
 
 ### Font
 
 Font used in the CHAOSS logo is **PORT**
 
-![](design-style-element/chaoss-font.png)
+![ ](/Users/kaushal/Desktop/community/how-to-contribute/design-style-element/chaoss-font.png)
