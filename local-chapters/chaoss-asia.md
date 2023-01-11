@@ -6,9 +6,9 @@ This chapter empowers community folks from the Asia Pacific region to become int
 
 ## Participation Channels
 
-- Join our Asia-Pacific bi-weekly meetings on Wednesdays at 21PM CST, check out the [Participate page](https://chaoss.community/participate/) and add it to your calendar.
+- Join our Asia-Pacific meetings on second Monday of the month at 3pm UST +8, check out the [Participate page](https://chaoss.community/participate/) and add it to your calendar.
 
-For folks who speak Chinese or being in China, there is a set of locolized channels for you to check out:
+For folks who speak Chinese or being in China, there is a set of localized channels for you to check out:
 - Join #中国社区 channel on the global slack community
 - We had a [Bilibili space](https://space.bilibili.com/1292724697?spm_id_from=333.33.b_73656375726974794f75744c696e6b.1) to host workshops and meeting recordings
 - Follow the WeChat official account **CHAOSS Community** to receive local meetups news
