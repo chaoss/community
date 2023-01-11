@@ -1,3 +1,4 @@
+Edited by Shrey
 # CHAOSS Community and the Handbook
 
 This repository contains the CHAOSS Community Handbook, you can also check it out on [the CHAOSS main website](https://chaoss.community/kbtopic/chaoss-community/)
