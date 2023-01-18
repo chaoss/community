@@ -5,7 +5,7 @@ There are several quick ways designed to meet, greet, encourage, and mentor newc
 ### 1. Join the CHAOSS Slack
 We have a Slack Channel! And so many working group focused channels within it. BUT, we've reserved one ESPECIALLY for newcomers, and our community is highly responsive within it. 
 This is the [Slack channel](https://join.slack.com/t/chaoss-workspace/shared_invite/zt-1fah5gu35-5oUQEPT32O2Zt~3MFVNMlw). 
-And THIS is the channel within a channel, called [#newcomers](https://chaoss-workspace.slack.com/archives/C0207C3RETX) where you'll be welcomed!  
+And THIS is the channel within a channel, called [#newcomers](https://chaoss-workspace.slack.com/archives/C0207C3RETX) where you'll be welcomed!  (Type the word _**newbie**_ and see what happens!)
 
 ### 2. Attend CHAOSS Office Hours
 Every week on **Tuesday**, we have an office hours intended to make it easy for you to ask questions, and find your place in the project with a supportive, experienced CHAOSS maintainer. 
