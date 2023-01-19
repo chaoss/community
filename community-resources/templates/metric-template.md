@@ -44,6 +44,8 @@ List of people who would like to be mentioned as contributors to this metric
 
 ***This metric was last reviewed on [date] as part of [ release version] [or recurring review process]***
 
+### To reference this metric, please use the static URL: https://chaoss.community/?p=[PageID]
+
 --------
 # Notes about document formatting
 ***The following rules are applicable for the above defined metric template:***
