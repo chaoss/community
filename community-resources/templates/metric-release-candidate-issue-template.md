@@ -14,14 +14,15 @@ This checklist is used for new metrics to ensure we follow CHAOSS quality standa
 
 ### Process
 
-- [ ] Add the new metric to release notes issue in working group repo
-- [ ] Update the [Metrics Spreadsheet](https://docs.google.com/spreadsheets/d/1tAGzUiZ9jdORKCnoDQJkOU8tQsZDCZVjcWqXYOSAFmE/edit) to indicate that the metric is under community review.
+- [ ] Add the new metric to release notes issue in working group repo.
+- [ ] Add metric to the WordPress website.  
+- [ ] Update the [Metrics Spreadsheet](https://docs.google.com/spreadsheets/d/1tAGzUiZ9jdORKCnoDQJkOU8tQsZDCZVjcWqXYOSAFmE/edit) to indicate that the metric is under community review and add the Page Id. Update context tags and keywords if necessary.
+- [ ] Create PR to add Page ID # to the stable reference URL at the bottom of the metrics markdown page.
 
 **When above steps are completed:**
 
 ### Content Quality
-
-- [ ] Required headings are filled in
+- [ ] Required headings, context tags, and keywords have content
 - [ ] If any, ensure links to other CHAOSS metrics work
 - [ ] Optional headings that have no content are removed
 - [ ] Contributors section lists those contributors that want to be named
