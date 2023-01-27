@@ -1,18 +1,30 @@
-##  The Developer Certificate of Origin (DCO) on Pull Requests. It requires all commit messages to contain the Signed-off-by line with an email address that matches the commit author.
-## The Developer Certificate of Origin (DCO) is a lightweight way for contributors to certify that they wrote or otherwise have the right to submit the code they are contributing to the project. Here is the full text of the DCO, reformatted for readability:
-### Contributors sign-off that they adhere to these requirements by adding a Signed-off-by line to commit messages.
+##  The Developer Certificate of Origin (DCO) 
 
-#### This is my commit message
+The Developer Certificate of Origin (DCO) is an easy way for contributors to certify that they wrote or otherwise have the right to submit the code they are contributing to the project. All open source projects under the Linux Foundation (including CHAOSS) are required to include DCO information in all PRs. Here are instructions on including the DCO with your PR.
 
-#### Signed-off-by: Random J Developer <random@developer.example.org>
-### Git even has a -s command line option to append this automatically to your commit message:
+The DCO text (and what exactly you're confirfming by adding this to your PR) can be read in full [here](https://developercertificate.org/).
 
-### $ git commit -s -m 'This is my commit message'
-### Link for Installation :https://github.com/apps/dco
-### Once installed, this integration will create a check indicating whether or not commits in a Pull Request do not contain a valid Signed-off-by line.
-![DCO](https://user-images.githubusercontent.com/13410355/42352738-35f4e690-8071-11e8-9c8c-260e5868bfc8.png)
-### Once installed, this integration will set the status to failed if commits in a Pull Request do not contain a valid Signed-off-by line.
-![DCO](https://cloud.githubusercontent.com/assets/173/24482273/a35dc23e-14b5-11e7-9371-fd241873e2c3.png)
+### Adding a DCO Signed-off-by line to commit messages:
+
+There are 2 ways to add your DCO sign-off: through the GitHub web interface, or through the command line. 
+
+#### 1. Using the GitHub Web Interface
+
+You can add your DCO sign-off through the GitHub Web interface by manually typing this in your PR's initial commit message:
+
+    Signed-off-by: FirstName LastName <youremail@example.org>
+
+_Note: if you are manually adding this information to your initial commit message, the FirstName, LastName, and email **must** match the information in your GitHub profile. Otherwise the check will fail._
+
+You can also install a [DCO Browser plugin](https://github.com/scottrigby/dco-gh-ui) so that it will do it for you automatically. (CHAOSS highly recommends this!)
+
+#### 2. Using the Command Line
+
+You can also add your DCO by using the  **-s command line option**. This will automatically append this information to your commit message:
+
+    $ git commit -s -m 'This is my commit message'
+
+
 ## Further Reading
 
 If you want to learn more about the DCO and why it might be necessary, here are some good resources:
