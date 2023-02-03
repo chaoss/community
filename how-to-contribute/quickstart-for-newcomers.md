@@ -20,4 +20,4 @@ You can join this call from 11am - 12pm (USA Central Time) through our zoom chan
 
 If you can't make this meeting, you can get an overview of CHAOSS by watching a recording of one of the previous [Onboarding Calls](https://youtu.be/MY960Aj4MWI).
 
-Once you've done these three things, you're ready to start participating more actively in CHAOSS! 
+Once you've done these three things, you're ready to start participating more actively in CHAOSS! Visit our [Contributor Path - Participating](https://chaoss.community/kb/contributor-roadmap-participating/) to see some next steps for you. 
