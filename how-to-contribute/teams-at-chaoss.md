@@ -7,7 +7,7 @@ Expectations: You won't get an action item in the first week. You'll likely have
 | Team Name | Team Overview | Contact Name | Example Types of Contributions |
 |-|-|-|-|
 | Risk WG	| The Risk Working Group is focused on metrics for issues pertaining to risk in open source. | Sophia Vargas | Collaborating on Metrics, Facilitating meetings |
-| OSPO WG | The Value working group aims to advance how we understand the value that projects can provide. |	Vinod Ahuja, Matt Germonprez	| Collaborating on Metrics, Facilitating meetings |
+| OSPO WG | The OSPO working group aims to advance how we understand how OSPOs in companies are using metrics and metrics models. |	Dawn Foster	| Collaborating on Metrics, Participating in discussions |
 | Diversity, Equity, and Inclusion WG	| The CHAOSS Diversity, Equity, & Inclusion (DEI) Working Group aims to define metrics and methods to help others measure and center diversity, equity, and inclusion in their own Open Source projects. | Elizabeth Barron | Collaborating on Metrics, Facilitating meetings |
 | Common WG | The Common Metrics Working Group focuses on defining the metrics that are used by multiple working groups or are important for community health. | Dawn Foster | Collaborating on Metrics, Facilitating meetings |
 | Evolution WG | Evolution is a working group focused on the lifecycle of open source projects. | Armstrong Foundjem | Collaborating on Metrics, Facilitating meetings |
