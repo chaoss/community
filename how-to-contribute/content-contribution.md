@@ -32,3 +32,5 @@ We encourage you to keep these things in mind:
   - relates to CHAOSS, metrics, metrics models, or open source community health
 
 - **It doesn't need to be technical.** We are happy to look at articles of all kinds, so don't worry if your article isn't highly technical in nature.
+
+- **It's helpful if you are familiar with CHAOSS.** While we absolutely encourage newcomers to participate, if you would like to write about something specific to the CHAOSS project, we recommend completing the steps in our [Quickstart Guide](https://chaoss.community/kb-getting-started/) and [Contribution Path - Participate](https://chaoss.community/kb/contributor-roadmap-participating/) documents first. 
