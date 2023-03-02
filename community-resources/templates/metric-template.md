@@ -4,9 +4,9 @@
 
 Question: 
 
-Context Tags: [1 to 2 Context Areas from [list](https://docs.google.com/document/d/1zLZeN1hTt62l5vYq1x0pN2htUgaPF3A1r6NlxgjAK6c/) - comma delinated
+Context Tags: [1 to 2 Context Areas from [list](https://docs.google.com/document/d/1zLZeN1hTt62l5vYq1x0pN2htUgaPF3A1r6NlxgjAK6c/) - comma delineated 
 
-Keywords: [3 to 5 Search keywords - working group,related terms, and synonyms - this not meant to be a definitive list - comma delinated]
+Keywords: [3 to 5 Search keywords - working group,related terms, and synonyms - this not meant to be a definitive list - comma delineated]
 
 ## Description
 A description of what the metric is and what it captures.
@@ -52,7 +52,7 @@ List of people who would like to be mentioned as contributors to this metric
 
 The name of the metric should be the same in (1) metric heading, (2) metric file name, (3) focus area, (4) metrics spreadsheet, (5) “review issue”, (6) translation issue, and (7) website
 
-Metric file names should be lower case and delinated by a dash.
+Metric file names should be lower case and delineated by a dash.
 
 _In cases where the metric name is also a descriptor, please use this convention:_
 
