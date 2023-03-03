@@ -17,7 +17,6 @@ Answer the question for why someone wants to measure this metric and what can be
 Each metric has the potential to influence diversity, equity, and inclusion on an open source project. Please consider these factors when framing metrics objectives. 
 
 ## Implementation
-*The usage and dissemination of health metrics may lead to privacy violations. Organizations may be exposed to risks. These risks may flow from compliance with the GDPR in the EU, with state law in the US, or with other laws. There may also be contractual risks flowing from terms of service for data providers such as GitHub and GitLab. The usage of metrics must be examined for risk and potential data ethics problems. Please see [CHAOSS Data Ethics document](https://github.com/chaoss/community/blob/main/data-use-statement.md) for additional guidance.* 
 
 Provide details on how to measure the metric, collect the data, and analyze it. The following sub-headings are optional but help to structure the different aspects of implementation.
 
@@ -42,7 +41,12 @@ Blog posts, websites, academic papers, or books that mention the metric and prov
 ## Known Contributors
 List of people who would like to be mentioned as contributors to this metric 
 
-***This metric was last reviewed on [date] as part of [ release version] [or recurring review process]***
+**This metric was last reviewed on [date] [for initial release] [or as part of the recurring review process]**
+
+To reference this metric, please use the static URL: https://chaoss.community/?p=[PageID]
+
+*The usage and dissemination of health metrics may lead to privacy violations. Organizations may be exposed to risks. These risks may flow from compliance with the GDPR in the EU, with state law in the US, or with other laws. There may also be contractual risks flowing from terms of service for data providers such as GitHub and GitLab. The usage of metrics must be examined for risk and potential data ethics problems. Please see [CHAOSS Data Ethics document](https://github.com/chaoss/community/blob/main/data-use-statement.md) for additional guidance.* 
+
 
 --------
 # Notes about document formatting
