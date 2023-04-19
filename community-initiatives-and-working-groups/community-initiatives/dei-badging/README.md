@@ -1,29 +1,13 @@
-# Overview of the DEI Badging
+# CHAOSS DEI Event Badging
 
 ## About
 
 
 DEI Badging program aims to increase understanding of the open-source project and event practices that encourage greater diversity and wider inclusion of people from different backgrounds. It uses an open peer-review system to encourage projects and events to obtain badges and improve their processes and documentation to be more inclusive using the feedback they gain from the reviewers. 
 
-The program is affiliated with the CHAOSS project and a proud initiative of CHAOSS. The work of the Badging Program is closely associated with the CHAOSS D&I working group.
-
-CHAOSS is a Linux Foundation project. For more information about CHAOSS, please visit the website at [chaoss.community](https://chaoss.community/)
-
 ## Goal
 
 The goal of the Diversity, Equity & Inclusion Badging Program is to encourage projects and events to obtain D&I badges for reasons of leadership, self-reflection, and self-improvement on issues critical to building the Internet as a social good.
-
-## The Badging Workflow
-
-Events applying for a CHAOSS badge should fill in the submission form to open an issue under the corresponding GitHub repository, waiting for reviewers to give feedback.
-
-Reviewers will be randomly assigned according to [the reviewer list](https://github.com/badging/event-diversity-and-inclusion/blob/master/.github/reviewers.md). All assigned reviewers should work with the [review checklist.](https://github.com/badging/event-diversity-and-inclusion/blob/master/.github/checklist.md)
-
-The Diversity, Equity and Inclusion measurements that occur during the applying and reviewing process are according to DEI metrics defined by CHAOSS.  
-
-The workflow will be elaborated in the "Applying for a badge" and the "Reviewing for CHAOSS" sections, you can also have a quick view below.
-
-## Applying for Badges
 
 ### Event Badging
 
@@ -32,8 +16,8 @@ The Event Badging section of CHAOSS Badging is about measuring the inclusivity o
 In order to submit an application for a project, review the following documents:
 
 * [Applicant role](https://github.com/badging/diversity-and-inclusion/blob/master/roles/applicant.md) - This document describes the GitHub permissions and the responsibilities of a CHAOSS Badging Applicant.
-* [Event submission requirements](https://github.com/badging/event-diversity-and-inclusion/blob/master/submission/requirements.md) - Describes the minimum requirements for an Event to be eligible for participation in the CHAOSS Badging process.
-* [Event submission guidelines](https://github.com/badging/event-diversity-and-inclusion/blob/master/submission/guidelines.md) - Guidelines and steps on how an Event can acquire a badge under the CHAOSS Badging program.
+* [Event submission requirements](https://github.com/badging/event-diversity-and-inclusion/blob/main/info-for-applicants/requirements.md) - Describes the minimum requirements for an Event to be eligible for participation in the CHAOSS Badging process.
+* [Event submission guidelines](https://github.com/badging/event-diversity-and-inclusion/blob/main/info-for-applicants/guidelines.md) - Guidelines and steps on how an Event can acquire a badge under the CHAOSS Badging program.
 
 ### **Badge Levels**
 
@@ -50,40 +34,21 @@ The badge percentages are calculated from the average of checklists of at least 
 
 ### Metrics For Event Badging
 
-The metrics used in the Badging submission process are defined by [CHAOSS DEI Working Group](https://github.com/chaoss/wg-diversity-inclusion/). Metrics used for event badge come from the [Event Diversity ](https://chaoss.community/metrics/#user-content-focus-area---event-diversity)focusing area. 
+The metrics used in the Badging submission process are defined by [CHAOSS DEI Working Group](https://github.com/chaoss/wg-diversity-inclusion/). 
 
 These are the five metrics that belong to Event Diversity:
 
-| Name | Question |
-| :--- | :--- |
-| [Speaker Demographics](https://github.com/chaoss/wg-diversity-inclusion/blob/master/focus-areas/events/speaker-demographics.md) | How well does the speaker lineup for the event represent a diverse set of demographics? |
-| [Attendees Demographics](https://github.com/chaoss/wg-diversity-inclusion/blob/master/focus-areas/events/attendee-demographics.md) | How diverse are the attendees? |
-| [Diversity Access Tickets](https://github.com/chaoss/wg-diversity-inclusion/blob/master/focus-areas/events/diversity-tickets.md) | How are Diversity Access Tickets used to support diversity and inclusion for an event? |
-| [Code of Conduct at Event](https://github.com/chaoss/wg-diversity-inclusion/blob/master/focus-areas/events/event-code-of-conduct.md) | How does the Code of Conduct for events support diversity and inclusion? |
-| [Family Friendliness](https://github.com/chaoss/wg-diversity-inclusion/blob/master/focus-areas/events/family-friendly.md) | How does enabling families to attend together support diversity and inclusion of the event? |
-
-### Project Badging
-
-Project badging is planned for the next release. We are looking forward to it!
-
-## Reviewing Badging submissions
-
-Reviewers are an essential component of CHAOSS Badging. Their feedback and interaction with an applicant determine the success of the Badging Program.
-
-In order to get familiar with what is expected of reviewers, review the following documents:
-
-* [Reviewer Role](https://github.com/badging/diversity-and-inclusion/blob/master/roles/reviewer.md) - This document describes the GitHub permissions and the responsibilities of a CHAOSS Badging Reviewer.
-* [Reviewer Guide](https://github.com/badging/diversity-and-inclusion/blob/master/reviewer-guide.md) - the Guide is small as of now, but it provides some additional guidelines
-
-**We are currently recruiting reviewers for event submissions!**
-
-To become a reviewer, please fill out the [Reviewer Application Google Form](https://forms.gle/fZjbmyhZ4SUXFmzV8) and tell us a little bit about yourself! Please send an email to Matt at [msnell@unomaha.edu](mailto:msnell@unomaha.edu) When you are finished.
-
-## Work to Date
-
-The CHAOSS Badging Project is now in the third release. We are continuously recruiting reviewers and applicants.
-
-## Contributors
+Name | Question
+--- | ---
+[Event Accessibility](event-accessibility.md) | To what extent does your event accommodate those with various accessibility needs?
+[Event Demographics](event-demographics.md) | To what extent does an event consider and pay attention to attendee, speaker, and volunteer demographics?
+[Event Location Inclusivity](event-location-inclusivity.md) | Is the event located in a region where governments, cultural contexts, or society may cause harm to the physical safety and/or psychological safety of event attendees?
+[Diversity Access Tickets](diversity-access-tickets.md) | How are Diversity Access Tickets used to support diversity and inclusion for an event?
+[Code of Conduct at Event](code-of-conduct-at-event.md) | How does the Code of Conduct for events support diversity and inclusion?
+[Family Friendliness](family-friendliness.md) | How does enabling families to attend together support diversity and inclusion of the event?
+[Inclusive Experience at Event](inclusive-experience-at-event.md) | To what extent does an event organizing team commit to an inclusive experience at an event?
+[Public Health and Safety](public-health-and-safety.md) | To what extent does your event address public health through policies around masks, vaccines, COVID testing, and in infrastructure such as ventilation and air purification in indoor venues?
+[Time Inclusion for Virtual Events](time-inclusion-for-virtual-events.md) | How can organizers of virtual events be mindful of attendees and speakers in other time zones?
 
 **Maintainers**
 
