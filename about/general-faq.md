@@ -3,7 +3,7 @@
 
 ### **What is CHAOSS?**
 
-CHAOSS is a Linux Foundation project focused on creating analytics and metrics to help define community health. [**Read more about CHAOSS**](https://chaoss.community/about/).
+CHAOSS is a Linux Foundation project focused on creating analytics and metrics to help define community health. [Read more about CHAOSS](https://chaoss.community/about/).
 
 ### **What does CHAOSS stand for?**
 
@@ -11,11 +11,11 @@ CHAOSS stands for Community Health Analytics Open Source Software.
 
 ### **What is a CHAOSS Metric?**
 
-A metric is a documented way to measure open source community health. CHAOSS community has its [**own predefined template**](https://github.com/chaoss/community/blob/main/community-resources/templates/metric-template.md) for proposing any new metric. It is quite possible to bring together different metrics in a system of measurement that is meaningful for a particular context.
+CHAOSS metric is meant to answer one single question about the health of the community. 
 
-### **Why does Community Health matter?**
+### **What is a CHAOSS Metric Model?**
 
-In order to understand why Community Health matters then please refer to the [**"Why Create CHAOSS?" section on the About page**](https://chaoss.community/about/).
+Metrics models are collections of metrics that are brought together to provide deeper context and answer more complex questions about a community’s health.
 
 ### **What does Community Health mean?**
 
@@ -23,47 +23,44 @@ Community health is a specialty that focuses on the well-being of the people in 
 
 ### **How do I get involved?**
 
-We have various ways to get involved in the Community. You can check our [**Participation**](https://chaoss.community/participate/) page. If you want to contribute directly, we have specified the different ways by which you can engage with the community in [**design**](https://handbook.chaoss.community/community-handbook/contributing/design), [**development**](https://handbook.chaoss.community/community-handbook/contributing/development), [**documentation**](https://handbook.chaoss.community/community-handbook/contributing/documentation), and [**outreach**](https://handbook.chaoss.community/community-handbook/contributing/outreach)**.**
+We have various ways to get involved in the Community. You can check our calendar to join various meetings. You can also check [Quick Start for New Contributors](https://chaoss.community/kb-getting-started/) page to find out several ways to participate in CHAOSS. 
 
 ### **How do I use your software?**
 
-In order to use CHAOSS software, you can follow the guidelines [**here**](https://chaoss.community/software/).
+In order to use CHAOSS software, you can follow the guidelines [here](https://chaoss.community/software/).
 
 ### **Who is behind the CHAOSS project?**
 
-CHAOSS project is a volunteer-driven project where there are folks from different organizations and communities effectively working to build creative solutions under CHAOSS. In order to know more refer [**"Who are we?" section on the About page**](https://chaoss.community/about/).
+CHAOSS project is a volunteer-driven project where participants from different organizations and communities effectively work to build creative solutions under CHAOSS. To know more refer our [About](https://chaoss.community/about/) page.
 
 ### **Do you have internships?**
 
-We don't have specific internships instead we participate in various open source mentorship programs like GSoC, Outreachy, etc. 
+We don't have specific internships instead we participate in various open source mentorship programs like GSoC, Outreachy, etc. For more details please refer [here](https://github.com/chaoss/community/tree/main/mentorship-programs/mentorship).  
 
-### **Where can I find the relevant metric I am looking for?**
+### **Where can I find the relevant metrics or metrics models I am looking for?**
 
-All the metrics can be found under the "**[**Metric Definition**](https://chaoss.community/metrics/)**" on the CHAOSS website.
+All the metrics and metrics model can be found under the [Metric and metrics model Page](https://chaoss.community/kb-metrics-and-metrics-models/) on the CHAOSS website.
 
 ### **What is DEI badging?**
 
-The Diversity and Inclusion Badging program use a peer-review system to encourage projects and events to obtain badges. It aims to increase understanding of the open-source project and event practices that encourage greater diversity and wider inclusion of people from different backgrounds.
-
-The program is affiliated with the CHAOSS project and a proud initiative of CHAOSS. Most of the work of the Badging Program is closely associated with the CHAOSS DEI working group. [**You can read more about it here**](https://chaoss.community/diversity-and-inclusion-badging/).
+The Diversity, Equity, and Inclusion Badging program use a peer-review system to encourage projects and events to obtain badges. It aims to increase understanding of the open-source project and event practices that encourage greater diversity and wider inclusion of people from different backgrounds.
 
 ### **Does CHAOSS provide any tools to measure the open source project or community health?**
 
-Yes, the CHAOSS has three projects with assigned toolset named [**Augur**](https://chaoss.community/software/#user-content-augur), [**GrimoireLab**](https://chaoss.community/software/#user-content-grimoirelab), and [**Cregit**](https://github.com/cregit/cregit).
+Yes, the CHAOSS has two projects with assigned toolsets named [Augur](https://chaoss.community/software/#user-content-augur) and [GrimoireLab](https://chaoss.community/software/#user-content-grimoirelab).
 
 ### **Who are the maintainers of the CHAOSS?**
 
-Every repository under the [**CHAOSS GitHub**](https://github.com/chaoss) has the "Repo Maintainers" section which contains all the names of the maintainers for the respective repositories.
+Every working group, chapter, and software has different repositories maintained on GitHub and each respective repository readme contains the information of their maintainer. Refer to the readme for each repositories under the [CHAOSS GitHub](https://github.com/chaoss).
 
 ### **Whom should I contact if I have any questions?**
 
-We encourage transparency, openness, and healthiness so all the questions should be directed to the public community mailing list at [**chaoss@lists.linuxfoundation.org**](mailto:chaoss@lists.linuxfoundation.org%20) or CHAOSS Community Manager, Elizabeth Barron at elizabeth@chaoss.community.
+You can contact CHAOSS community members through [Slack](https://join.slack.com/t/chaoss-workspace/shared_invite/zt-1fah5gu35-5oUQEPT32O2Zt~3MFVNMlw), [Discourse](https://chaoss.discourse.group/) or email CHAOSS Community Manager, Elizabeth Barron at [elizabeth@chaoss.community](mailto:elizabeth@chaoss.community).
 
 ### **Does CHAOSS record their meeting?**
 
-Yes, CHAOSS records all the meetings and for that, we follow [**general guidelines for recording the meetings**](https://handbook.chaoss.community/community-handbook/community-initiatives/chaoss-meetings). Also, all the recorded meetings can be found on [**CHAOSS Youtube Channel**](https://www.youtube.com/channel/UCrG-a3hIc_hCEUWloG0gm9A).
+Yes, CHAOSS records all the meetings and can be found on [CHAOSS Youtube Channel](https://www.youtube.com/channel/UCrG-a3hIc_hCEUWloG0gm9A).
 
 ### **Where can I find CHAOSS community discussion?**
 
-All the discussions can be found within the CHAOSS mailing list or [**CHAOSS GitHub**](https://github.com/chaoss).
-
+All the discussions can be found either on [Slack](https://join.slack.com/t/chaoss-workspace/shared_invite/zt-1fah5gu35-5oUQEPT32O2Zt~3MFVNMlw), [Discourse](https://chaoss.discourse.group/), or [GitHub](https://github.com/chaoss).
