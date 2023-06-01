@@ -3,7 +3,7 @@
 
 ## Metric Working Groups
 * [Common Metrics Working Group](https://github.com/chaoss/wg-common)
-* [Diveristy, Equity and Inclusion Metrics Working Group](https://github.com/chaoss/wg-dei)
+* [Diversity, Equity and Inclusion Metrics Working Group](https://github.com/chaoss/wg-dei)
 * [Evolution Metrics Working Group](https://github.com/chaoss/wg-evolution)
 * [Risk Metrics Working Group](https://github.com/chaoss/wg-risk)
 * [OSPO Metrics Working Group](https://github.com/chaoss/wg-ospo)
