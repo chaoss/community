@@ -2,6 +2,9 @@
 
 Question: 
 
+Context Tags: [1 to 2 Context Areas from [list](https://docs.google.com/document/d/1zLZeN1hTt62l5vYq1x0pN2htUgaPF3A1r6NlxgjAK6c/) - comma delineated]  
+Keywords: [3 to 5 Search keywords - working group, related terms, and synonyms comma delineated]
+
 ## Description
 A description of what the metric is and what it captures.
 
@@ -35,3 +38,7 @@ Blog posts, websites, academic papers, or books that mention the metric and prov
 
 ## Known Contributors
 List of people who would like to be mentioned as contributors to this metric.
+
+## Data Ethics Statement
+The usage and dissemination of health metrics may lead to privacy violations. Organizations may be exposed to risks. These risks may flow from compliance with the GDPR in the EU, with state law in the US, or with other laws. There may also be contractual risks flowing from terms of service for data providers such as GitHub and GitLab. The usage of metrics must be examined for risk and potential data ethics problems. Please see [CHAOSS Data Ethics document](https://github.com/chaoss/community/blob/main/data-use-statement.md) for additional guidance.
+
