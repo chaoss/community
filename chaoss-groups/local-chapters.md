@@ -34,3 +34,11 @@ For folks who speak Chinese or being in China, there is a set of localized chann
 
 ## Whom to Contact?
 If you have any questions, suggestions or ideas, they are always welcome. Contact [Xiaoya Xia](https://github.com/xiaoya-yaya), the Community Lead on Slack or through email: xiaoyaxiaesther@gmail.com
+
+
+# CHAOSS LATAM 
+Content will be added soon!
+
+
+# CHAOSS Eastern Europe
+Content will be added soon!
