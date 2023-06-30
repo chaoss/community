@@ -17,7 +17,6 @@ The [CHAOSS Governing Board](https://chaoss.community/governing-board/) provides
 
 However, much of the day to day work within the CHAOSS Project is delegated to the various working groups, software subprojects, and chapters defined below. Each of these has one or more people in “Leadership” roles who are responsible for coordinating the activities and may have responsibilities to appoint other roles as defined in the sections below.
 
-
 ## Working Groups (WG) 
 
 WGs are responsible for metrics discussions, which can include development and maintenance of metrics / metrics models, discussions about the use of metrics, and other metrics-related discussions. New WGs can be created with community consensus and are presented to the Governing Board to solicit feedback and/or concerns.
@@ -28,23 +27,27 @@ Each WG should have the following roles (the roles are defined in the Roles and 
 * Maintainers (optional)
 * Liaisons (optional)
 
+The full [list of Working Groups](https://chaoss.community/kb/working-groups/) can be found on the CHAOSS website.
+
 ### Metrics Working Groups
 
-These working groups are responsible for developing and maintaining metrics definitions and metrics models. **Link to external document that lists specific working groups.**
+These working groups are responsible for developing and maintaining metrics definitions and metrics models. 
 
 ### Context Working Groups
 
-Context WGs are groups of people who share similar contexts related to open source project health. Context WGs are responsible for helping put CHAOSS metrics, metrics models, and software into practice in meaningful ways across varied contexts.  **Link to external document that lists specific working groups.**
+Context WGs are groups of people who share similar contexts related to open source project health. Context WGs are responsible for helping put CHAOSS metrics, metrics models, and software into practice in meaningful ways across varied contexts.
 
 ### Operations Working Groups
 
-The Operations Working Groups are supporting the metrics discussions and are responsible for various activities and operations for the CHAOSS project. In general, some of these are less formal than the other types of Working Groups. They may or may not have meetings and may not always be active (e.g., CHAOSScon). **Link to external document that lists specific working groups.**
+The Operations Working Groups are supporting the metrics discussions and are responsible for various activities and operations for the CHAOSS project. In general, some of these are less formal than the other types of Working Groups. They may or may not have meetings and may not always be active (e.g., CHAOSScon).
 
 ## Chapters
 
 Chapters are geographically-based groups who drive awareness and activities for the CHAOSS project within their region. This could include events, translation, and other activities. Whenever possible, Chapters are expected to collaborate within our Working Groups on activities that are ongoing within the CHAOSS project; for example, development of new metrics would be done within the appropriate Metrics WG. 
 
 Each chapter will have at least one Lead (Leadership role) who is responsible for coordinating activities for their region and recruiting other participants for their chapter. These chapter leads are staffed positions.
+
+The current [list of Chapters](https://chaoss.community/kb/local-chapters/) can be found on the CHAOSS website.
 
 ## Software Subprojects
 
