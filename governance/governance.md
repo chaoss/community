@@ -139,3 +139,6 @@ Time zones permitting, people in the roles listed above are expected to particip
 
 Any modifications to this governance document are made by a vote of the Governing Board as defined in the [CHAOSS Project Charter](https://chaoss.community/charter/).
 
+# Document History
+
+* 2023-06-22: Governing Board approval of this document.
