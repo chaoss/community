@@ -20,7 +20,7 @@ The focus area is a set of goals around which any open source software metric is
 
 ### **CHAOSScon**
 
-CHAOSScon is a conference organized by CHAOSS Community annually which fosters around the topics -  open source project health, CHAOSS updates, use cases, and hands-on workshops for developers, community managers, project managers, and anyone interested in measuring open source project health. 
+CHAOSScon is a conference organized by CHAOSS Community usually twice a year focused on open source project health, CHAOSS updates, use cases, and hands-on workshops for developers, community managers, project managers, and anyone interested in measuring open source project health. 
 
 ### **CHAOSScast**
 
@@ -45,7 +45,7 @@ A group of people working together to achieve a specific goal. Within the CHAOSS
 
 # Abbreviations
 
-Several abbreviation are used within the documentation, website, or Github repositories. Below are the abbreviations with their full forms:
+Several abbreviations are used within the documentation, website, or Github repositories. Below are the abbreviations with their full forms:
 
 * **CHAOSS** - Community Health Analytics Open Source Software
 * **WG -** Working Group
