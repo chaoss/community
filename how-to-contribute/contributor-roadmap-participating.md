@@ -1,18 +1,18 @@
 # Contributor Roadmap - Participating
 
-CHAOSS is not comprised of only software, so it's important that you have a feel for all the moving parts of our project. If you've gone through the steps on our [Newcomer Quickstart](https://chaoss.community/kb-getting-started/), you're ready to start participating a little more! That's awesome! 
+There are several ways you can contribute to CHAOSS in different areas. 
 
-### 1. Look at the different [teams at CHAOSS](https://chaoss.community/kb/teams-at-chaoss/) and the types of contributions they are looking for.
-What looks interesting to you?
+## Contribution to CHAOSS Website
+To contribute to the CHAOSS website, please join **wg-website** channel in the [Slack channel](https://join.slack.com/t/chaoss-workspace/shared_invite/zt-1fah5gu35-5oUQEPT32O2Zt~3MFVNMlw) where you can ask website related questions and provide your feedback. The website is hosted on Word Press, and most of the website content is pulled from [CHAOSS Website GitHub repo]( https://github.com/chaoss/website). Knowledge base content on the CHAOSS website is pulled from the CHAOSS Community GitHub repo]( https://github.com/chaoss/community). You can create issues and pull requests to contribute to GitHub; once approved, they will be reflected on the CHAOSS website.
 
-### 2. Put that meeting on your calendar
+## Contribution to CHAOSS Metrics and models
+CHAOSS metrics and models are developed in several [CHAOSS groups]( https://chaoss.community/kbtopic/chaoss-groups/). Each group has different meeting timings that can be found on [CHAOSS calendar]( https://chaoss.community/chaoss-calendar/), and each group has its [Slack channel](https://join.slack.com/t/chaoss-workspace/shared_invite/zt-1fah5gu35-5oUQEPT32O2Zt~3MFVNMlw) and GitHub repo where you can participate through discussion and by creating issues and pull request to make your contributions.
 
-### 3. Attend a meeting four times in a row (or [watch some of the recordings](https://www.youtube.com/c/CHAOSStube), if you can't make it in person)
-You can listen, you can keep your camera off. We don’t care! 
+## Contribution to CHAOSS Software
+CHAOSS has three [software projects]( https://chaoss.community/kb/software-projects/) implementing CHAOSS metrics and models. To contribute to any of the CHAOSS software, join their [Slack channel](https://join.slack.com/t/chaoss-workspace/shared_invite/zt-1fah5gu35-5oUQEPT32O2Zt~3MFVNMlw) to start a discussion. Each software project has its GitHub repo, where you can participate by creating issues and pull requests to make your contributions. 
 
-### 4. Join the associated Slack Channel and just listen during the time period of the four meetings. 
-- They are usually named #WG-specific 
-- You can also search for a working group in the Channel List.
+## Contribution to CHAOSS Blogs
+To contribute to CHAOSS Blogs, join the [#wg-communications Slack channel](https://chaoss-workspace.slack.com/archives/C047TTUGGAJ)and share your idea on what you want to write. The Communications Working Group maintains a [spreadsheet of content ideas](https://docs.google.com/spreadsheets/d/1d4fCA5r3MUUxdlwTcB34V8gkicWFYU7hm_T2h74EHNM/edit#gid=1398016572) and a calendar of scheduled posts. You can find the list of topics [here.](https://docs.google.com/spreadsheets/d/1d4fCA5r3MUUxdlwTcB34V8gkicWFYU7hm_T2h74EHNM/edit#gid=1398016572) or suggest your topic. Once you have written your blog, share it with the community for feedback and publishing.
 
-
-Action items and contributions often come up during the meeting. Once you've joined a team and attended some meetings, and are more familiar with the goals of the group, you are ready to start contributing! 
+## Contribution to DEI Badging
+The DEI Badging working group focuses on issuing Diversity, Equity, and Inclusion badges for leadership self-reflection and self-improvement around how they are centering DEI. They always look for reviewers to help them review the DEI badging request. You can join their Badging Slack Channel [Slack channel](https://join.slack.com/t/chaoss-workspace/shared_invite/zt-1fah5gu35-5oUQEPT32O2Zt~3MFVNMlw) and start a discussion there. DEI Badging also maintains a separate [GitHub account](https://github.com/badging/) where you can participate by creating issues and pull requests to make your contributions.   
