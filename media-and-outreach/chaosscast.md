@@ -8,7 +8,7 @@ This is a CHAOSS Community project and should never rely on one person only.
 
 ### Roles
 
-Each role is occupied by different people each episode.
+Each role should be occupied by different people each episode.
 
 ### Host
 
@@ -17,46 +17,25 @@ The **host** is responsible for the making the initial connection to potential g
 1. Georg Link
 2. Samantha Venia Logan
 3. Sean Goggins
-4. ... you?
+4. Dawn Foster
 
 ### Panelists
 
-A **panelist** is responsible for research, asking questions, and adding to the conversation on the podcast. These panelists have agreed to be invited to every new episode. Not everyone should be on every episode. 
-
-* Matt Broberg
-* Matt Germonprez
-* Dawn Foster
-* Kevin Lumbard
-* Brian Proffitt
-* Don Marti
-* Nicole Huesman
-* Daniel Izquierdo
-* Andrea Gallo
-* Kate Stewart
-* Armstrong Foundjem
-* Sophia Vargas
-* Sean Goggins
-* Georg Link
-* Samantha Venia Logan
-* ... you?
-
+A **panelist** is responsible for research, asking questions, and adding to the conversation on the podcast. A panelist can be anyone from the CHAOSS community and will be invited based on experience in the topic for a particular episode. In most cases, there will be 2-3 panelists per episode. 
 ### Guest
 
 A **guest** is invited to participate in the podcast and may or may not be a member of CHAOSS.
 
-We have a [Planning Guests document](https://docs.google.com/document/d/1qxmC1k8SayChurIq2r91CR3r_KAThTwaNEMjA6DLGhE/edit) to keep track of who we want to invite.
+We have a [Planning Guests document](https://docs.google.com/document/d/1vWreUwzahWGfn3PIVuKJYJ1fJSmbB5BfbLfyhogjnLY/edit) to keep track of who we want to invite.
 
-### Coordinator
+### Facilitator
 
-A **coordinator** assists with the scheduling, confirming podcast dates/times and acts as a central point of communication for all other roles. This role also publishes the episodes sends out post-podcast thank you gifts. This is currently assigned to the CHAOSS Community Manager.
-
-* [Elizabeth Barron](https://github.com/elizabethn)
+A **facilitator** approves episode topics and assists with the scheduling, confirming podcast dates/times, and acts as a central point of communication for all other roles. This role is typically held by [Dawn Foster](https://github.com/geekygirldawn), but may include other hosts as well.
 
 ## Important links
 
 * [Google Drive](https://drive.google.com/drive/folders/1gsQF8_R8cdkQBQn6iWa5oFbd52wIdRy4) Maintained by Paul Bahr, our sound editor
 * [Google Drive](https://drive.google.com/drive/folders/14t0-0Bf5rjDaR1PAR854lCnC7xaF4Hnh) Maintained by CHAOSScast Organizers
-* [CHAOSScast Calendar](https://calendar.google.com/calendar/embed?src=513r47bb756t07lp5tat5nsuj0%40group.calendar.google.com&ctz=America%2FNew_York) for recording dates and epsiode release schedule
 * Email address for podcast, forwarded to Organizers: [podcast@chaoss.community](mailto:podcast@chaoss.community)
 
 ## ✍ Strategy
@@ -71,7 +50,7 @@ The [CHAOSS Community podcast](https://podcast.chaoss.community/) elevates conve
 
 ### Description
 
-This podcast fills the gap with open source community metric definitions and software on one side and their use in different contexts on the other side. We invite guests to this podcast to talk about how they use open source community health metrics and software in their own open source communities, companies, or foundations. The panelists are CHAOSS Community members who spent considerable time and effort to understand open source community health and how we can measure it through metrics, analytics and software.
+This podcast fills the gap with open source community metric definitions and software on one side and their use in different contexts on the other side. We invite guests to this podcast to talk about how they use open source community health metrics and software in their own open source communities, companies, or foundations. The panelists are CHAOSS Community members who spent considerable time and effort to understand open source community health and how we can measure it through metrics, analytics and software. The podcast topics should be as relevant to the CHAOSS project as possible.
 
 ### Goal
 
@@ -79,15 +58,15 @@ This podcast fills a gap in the CHAOSS community by sharing specific use cases f
 
 ### Audience
 
-Anyone interested in open source community and project metrics, including OSPO managers, Community Managers, open source Maintainers, Linux Foundation Employees, Community Members, DevRel managers
+Anyone interested in open source community and project metrics, including OSPO managers, community managers, open source maintainers, Linux Foundation employees, community members, DevRel managers, and other data enthusiasts.
 
 ### Scope
 
 * \[Include\] Interviews with people who do metrics for their community, project, foundation, or company
 * \[Include\] Use cases, metrics that matter in specific industries \(e.g., high regulated environments as banks\)
-* \[Include\] coverage of metrics platforms not considered for future integration into CHAOSS
-* \[Include\] non-OSS markets such as marketing brand communities and corporate social circles
+* \[Include\] coverage of metrics platforms not considered for future integration into CHAOSS only if they have some relevance for CHAOSS
 * \[Include\] active calls for experiments and/or data sets for ongoing case studies?
+* \[Exclude\] non-OSS markets such as marketing brand communities and corporate social circles
 * \[Exclude\] quantitative data metrics not related to communities but having much to do with general measurement including ROASS and Paid ad traffic
 * \[Exclude\] developing situations and case studies that are more recent than one month or still ongoing
 
@@ -97,7 +76,7 @@ A panel of 2-3 CHAOSS members interviews guest\(s\) who have done or used OSS me
 
 ### Format
 
-Each recording is scheduled for 1.5h and a released episode targeting 30-40 minutes. The following is the ideal structure:
+Each recording is scheduled for 1.5 hours for a released episode targeting 30-40 minutes. The following is the ideal structure:
 
 * Intro music and intro to CHAOSScast
 * Intro of panelists
@@ -114,7 +93,7 @@ Each recording is scheduled for 1.5h and a released episode targeting 30-40 minu
 * What decisions do you make based on these metrics?
 * What tools do you use for the metrics?
 * Who else sees these metrics and how are the metrics integrated in your workflows?
-* "what amazing thing did you do?", "what was the community like before it happened?" "When did you realize something needed to change?" "how did you go about getting the thing done?" "what was the end result?" “why dos what you did matter to the listener’s communities?” “what advice do you have to make doing the same thing easier?”
+* "what amazing thing did you do?", "what was the community like before it happened?" "when did you realize something needed to change?" "how did you go about getting the thing done?" "what was the end result?" “why dos what you did matter to the listener’s communities?” “what advice do you have to make doing the same thing easier?”
 * What are your hopes for CHAOSS in the future? 
 
 ## 🕙 Automation
@@ -129,15 +108,16 @@ Georg Link has an IFTT recipe to:
 
 ## 📖 Procedures
 
-These procedures are for the organizer and coordinator of each episode:
+These procedures are for the organizer and facilitator of each episode:
 
 ### Scheduling an episode
 
 * always
   * Think of who would make a good guest for the podcast and ask them tentatively if you may invite them
 * **Step 1:** Determine a guest \(Anyone\)
+  * **Action:** Discuss with facilitator to get approval for the episode topic and guest.
   * **Action:** Recruit interview guest and decide topic and content of the podcast together
-* **Step 2:** Coordinate Episode \(Coordinator\)
+* **Step 2:** Facilitate Episode \(Facilitator\)
   * **Action:** Send invitation email to guest to find a few potential suitable dates and times \(60-90 minutes.\)
   * **Action:** Notify organizer of guest's date and time possibilities, and confirm one.
   * **Action:** Prepare the planning document (copy the [Episode Planning Document template](https://docs.google.com/document/d/17qjAafr0aAWXV_HR-WiefHOa881t8X7tEoiZnPBh3ao/edit?pli=1#heading=h.cmpmu92ylw4d) and start filling in information.)
@@ -157,7 +137,7 @@ These procedures are for the organizer and coordinator of each episode:
   * **Action:** Schedule a [reminder email](https://docs.google.com/document/d/17vKzCOYvRXq5zaIlv_sb80zFapTU19dRgkx5RqRx3xE/edit) for 24-hours before the episode recording
 * **Step 3:** Finalize Content \(Organizer\)
   * **Action:** Update the episode planning document with the main topics and questions
-* **Step 4:** Post-Episode Thank You Notes \(Coordinator\)
+* **Step 4:** Post-Episode Thank You Notes \(Georg Link\)
   * **Action:** When the episode is scheduled for release that week, notify guest and get their mailing address
   * **Action:** Sign thank you note and assemble with swag
   * **Action:** Mail out thank you note with swag
