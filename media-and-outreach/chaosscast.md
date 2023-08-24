@@ -36,6 +36,7 @@ A **facilitator** approves episode topics and assists with the scheduling, confi
 
 * [Google Drive](https://drive.google.com/drive/folders/1gsQF8_R8cdkQBQn6iWa5oFbd52wIdRy4) Maintained by Paul Bahr, our sound editor
 * [Google Drive](https://drive.google.com/drive/folders/14t0-0Bf5rjDaR1PAR854lCnC7xaF4Hnh) Maintained by CHAOSScast Organizers
+* [CHAOSScast Calenda](https://calendar.google.com/calendar/u/0/embed?src=513r47bb756t07lp5tat5nsuj0@group.calendar.google.com) for recording dates
 * Email address for podcast, forwarded to Organizers: [podcast@chaoss.community](mailto:podcast@chaoss.community)
 
 ## ✍ Strategy
