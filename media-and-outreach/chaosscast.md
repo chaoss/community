@@ -97,16 +97,6 @@ Each recording is scheduled for 1.5 hours for a released episode targeting 30-40
 * "what amazing thing did you do?", "what was the community like before it happened?" "when did you realize something needed to change?" "how did you go about getting the thing done?" "what was the end result?" “why dos what you did matter to the listener’s communities?” “what advice do you have to make doing the same thing easier?”
 * What are your hopes for CHAOSS in the future? 
 
-## 🕙 Automation
-
-Documenting any automation configured to date.
-
-Georg Link has an IFTT recipe to:
-
-* If new item in this RSS feed [https://feeds.fireside.fm/chaosscast/rss](https://feeds.fireside.fm/chaosscast/rss)
-* Then tweet it from @CHAOSSproj
-  * Example tweet: [https://twitter.com/CHAOSSproj/status/1256137855606444032](https://twitter.com/CHAOSSproj/status/1256137855606444032)
-
 ## 📖 Procedures
 
 The procedures are for the organizer and facilitator of each episode can be found in the [Issue Template]() in the CHAOSS Community repository. A new issue using this template should be created for each episode.

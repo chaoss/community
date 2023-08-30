@@ -26,17 +26,13 @@ Please get approval from the CHAOSScast facilitator before creating a CHAOSScast
     * Name calendar event:🎙  CHAOSScast {Topic}
       * Start with the microphone emoticon \(🎙 \) to signal recording meeting
   * [ ] **Action:** Send out a [confirmation email](https://docs.google.com/document/d/1Pw8OKn-qSSkMw573BZu-EZ4BZualesdZjPbpBEKvzrc/edit) that includes the [“how we podcast” document](https://docs.google.com/document/d/1j5Ng91rrFrx3PdPejv26rBxb1P7UX-O_Q0_I9TCIya0/edit#) to guests and panelists
-  * [ ] **Action:** Update the episode planning document with recording time and zoom link
   * [ ] **Action:** Update the [episode overview table](https://docs.google.com/document/d/1qxmC1k8SayChurIq2r91CR3r_KAThTwaNEMjA6DLGhE/edit#)
   * [ ] **Action:** If the episode is more than two weeks out, schedule a [reminder email](https://docs.google.com/document/d/17vKzCOYvRXq5zaIlv_sb80zFapTU19dRgkx5RqRx3xE/edit) for 1 week before the episode recording
   * [ ] **Action:** Schedule a [reminder email](https://docs.google.com/document/d/17vKzCOYvRXq5zaIlv_sb80zFapTU19dRgkx5RqRx3xE/edit) for 24-hours before the episode recording
 * **Step 3:** Finalize Content \(Organizer\)
   * [ ] **Action:** Update the episode planning document with the main topics and questions
 * **Step 4:** Post-Episode Thank You Notes \(Georg Link\)
-  * [ ] **Action:** When the episode is scheduled for release that week, notify guest and get their mailing address
-  * [ ] **Action:** Sign thank you note and assemble with swag
   * [ ] **Action:** Mail out thank you note with swag
-  * [ ] **Action:** Add date of shipment on [episode overview table](https://docs.google.com/document/d/1qxmC1k8SayChurIq2r91CR3r_KAThTwaNEMjA6DLGhE/edit) to confirm it was sent
 
 ### Recording an episode
 
@@ -79,11 +75,10 @@ Please get approval from the CHAOSScast facilitator before creating a CHAOSScast
     * Header Image: \(ignore, will use default\)
     * Transcript: \(ignore\)
   * PUBLISH
+    * [ ] **Action:** When the episode is scheduled for release that week, notify all participants via email, and send guests a link to a webform to get their mailing address
     * [ ] **Action:** Update the template [CHAOSScast Calendar](https://calendar.google.com/calendar?cid=NTEzcjQ3YmI3NTZ0MDdscDV0YXQ1bnN1ajBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) event \(🎧 \(TBD\) Release CHAOSScast episode\) for the release date \(i.e., remove `(TBD)` and add epsiode number and title\)
     * [ ] **Action:** Post about it on Discourse and Slack \([template](https://docs.google.com/document/d/1TyZAX7xfYmx3gKSFT2i2K5ERIA1ibGAQVfXMnGmFYyg/edit)\)
-    * [ ] **Action:** Include in upcoming [CHAOSS newsletter](https://docs.google.com/document/d/1N2dbrqHYSxIUF1vXZ1-854aaoGIf86uey0XRhxhgG4o/edit)
-    * [ ] **Action:** Check ITTT automated \(RSS feed publishing\):
-      * Schedule a tweet through Tweetdeck
-    * [ ] **Action:** Post on other social channels (LinkedIn, Mastodon)
+    * [ ] **Action:** Notify community manager for inclusion in upcoming [CHAOSS newsletter](https://docs.google.com/document/d/1N2dbrqHYSxIUF1vXZ1-854aaoGIf86uey0XRhxhgG4o/edit)
+    * [ ] **Action:** Post on social channels (LinkedIn, Mastodon)
     * [ ] **Action:** Advertise outside of CHAOSS
       * SustainOSS Forum \(?\)
