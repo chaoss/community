@@ -22,6 +22,7 @@ The **host** is responsible for the making the initial connection to potential g
 ### Panelists
 
 A **panelist** is responsible for research, asking questions, and adding to the conversation on the podcast. A panelist can be anyone from the CHAOSS community and will be invited based on experience in the topic for a particular episode. In most cases, there will be 2-3 panelists per episode. 
+
 ### Guest
 
 A **guest** is invited to participate in the podcast and may or may not be a member of CHAOSS.
