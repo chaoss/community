@@ -21,7 +21,7 @@ Please get approval from the CHAOSScast facilitator before creating a CHAOSScast
   * [ ] **Action:** Invite panelists from the CHAOSS community who have expertise in the episode topic.
   * [ ] **Action:** Confirm panelists 
   * [ ] **Action:** Send calendar invitation with confirmed date of the podcast 
-    * The event has to be created in the [CHAOSScast calendar](https://calendar.google.com/calendar/ical/513r47bb756t07lp5tat5nsuj0%40group.calendar.google.com/public/basic.ics)
+    * The event has to be created in the [CHAOSScast calendar](https://calendar.google.com/calendar/u/0/embed?src=513r47bb756t07lp5tat5nsuj0@group.calendar.google.com)
       * All organizers should have full access to the calendar \(i.e., Make changes and manage sharing\)
     * Name calendar event:🎙  CHAOSScast {Topic}
       * Start with the microphone emoticon \(🎙 \) to signal recording meeting
@@ -76,7 +76,7 @@ Please get approval from the CHAOSScast facilitator before creating a CHAOSScast
     * Transcript: \(ignore\)
   * PUBLISH
     * [ ] **Action:** When the episode is scheduled for release that week, notify all participants via email, and send guests this [link to a webform](https://forms.gle/ZCCSHUF1vSEMq65r7) to get their mailing address
-    * [ ] **Action:** Update the template [CHAOSScast Calendar](https://calendar.google.com/calendar?cid=NTEzcjQ3YmI3NTZ0MDdscDV0YXQ1bnN1ajBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) event \(🎧 \(TBD\) Release CHAOSScast episode\) for the release date \(i.e., remove `(TBD)` and add epsiode number and title\)
+    * [ ] **Action:** Update the template [CHAOSScast Calendar](https://calendar.google.com/calendar/u/0/embed?src=513r47bb756t07lp5tat5nsuj0@group.calendar.google.com)
     * [ ] **Action:** Post about it on Discourse and Slack \([template](https://docs.google.com/document/d/1TyZAX7xfYmx3gKSFT2i2K5ERIA1ibGAQVfXMnGmFYyg/edit)\)
     * [ ] **Action:** Notify community manager for inclusion in upcoming [CHAOSS newsletter](https://docs.google.com/document/d/1N2dbrqHYSxIUF1vXZ1-854aaoGIf86uey0XRhxhgG4o/edit)
     * [ ] **Action:** Post on social channels (LinkedIn, Mastodon)
