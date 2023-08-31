@@ -75,7 +75,7 @@ Please get approval from the CHAOSScast facilitator before creating a CHAOSScast
     * Header Image: \(ignore, will use default\)
     * Transcript: \(ignore\)
   * PUBLISH
-    * [ ] **Action:** When the episode is scheduled for release that week, notify all participants via email, and send guests a link to a webform to get their mailing address
+    * [ ] **Action:** When the episode is scheduled for release that week, notify all participants via email, and send guests this [link to a webform](https://forms.gle/ZCCSHUF1vSEMq65r7) to get their mailing address
     * [ ] **Action:** Update the template [CHAOSScast Calendar](https://calendar.google.com/calendar?cid=NTEzcjQ3YmI3NTZ0MDdscDV0YXQ1bnN1ajBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) event \(🎧 \(TBD\) Release CHAOSScast episode\) for the release date \(i.e., remove `(TBD)` and add epsiode number and title\)
     * [ ] **Action:** Post about it on Discourse and Slack \([template](https://docs.google.com/document/d/1TyZAX7xfYmx3gKSFT2i2K5ERIA1ibGAQVfXMnGmFYyg/edit)\)
     * [ ] **Action:** Notify community manager for inclusion in upcoming [CHAOSS newsletter](https://docs.google.com/document/d/1N2dbrqHYSxIUF1vXZ1-854aaoGIf86uey0XRhxhgG4o/edit)
