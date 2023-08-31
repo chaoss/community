@@ -8,7 +8,7 @@ This is a CHAOSS Community project and should never rely on one person only.
 
 ### Roles
 
-Each role is occupied by different people each episode.
+Each role should be occupied by different people each episode.
 
 ### Host
 
@@ -17,46 +17,27 @@ The **host** is responsible for the making the initial connection to potential g
 1. Georg Link
 2. Samantha Venia Logan
 3. Sean Goggins
-4. ... you?
+4. Dawn Foster
 
 ### Panelists
 
-A **panelist** is responsible for research, asking questions, and adding to the conversation on the podcast. These panelists have agreed to be invited to every new episode. Not everyone should be on every episode. 
-
-* Matt Broberg
-* Matt Germonprez
-* Dawn Foster
-* Kevin Lumbard
-* Brian Proffitt
-* Don Marti
-* Nicole Huesman
-* Daniel Izquierdo
-* Andrea Gallo
-* Kate Stewart
-* Armstrong Foundjem
-* Sophia Vargas
-* Sean Goggins
-* Georg Link
-* Samantha Venia Logan
-* ... you?
+A **panelist** is responsible for research, asking questions, and adding to the conversation on the podcast. A panelist can be anyone from the CHAOSS community and will be invited based on experience in the topic for a particular episode. In most cases, there will be 2-3 panelists per episode. 
 
 ### Guest
 
 A **guest** is invited to participate in the podcast and may or may not be a member of CHAOSS.
 
-We have a [Planning Guests document](https://docs.google.com/document/d/1qxmC1k8SayChurIq2r91CR3r_KAThTwaNEMjA6DLGhE/edit) to keep track of who we want to invite.
+We have a [Planning Guests document](https://docs.google.com/document/d/1vWreUwzahWGfn3PIVuKJYJ1fJSmbB5BfbLfyhogjnLY/edit) to keep track of who we want to invite.
 
-### Coordinator
+### Facilitator
 
-A **coordinator** assists with the scheduling, confirming podcast dates/times and acts as a central point of communication for all other roles. This role also publishes the episodes sends out post-podcast thank you gifts. This is currently assigned to the CHAOSS Community Manager.
-
-* [Elizabeth Barron](https://github.com/elizabethn)
+A **facilitator** approves episode topics and assists with the scheduling, confirming podcast dates/times, and acts as a central point of communication for all other roles. This role is typically held by [Dawn Foster](https://github.com/geekygirldawn), but may include other hosts as well.
 
 ## Important links
 
 * [Google Drive](https://drive.google.com/drive/folders/1gsQF8_R8cdkQBQn6iWa5oFbd52wIdRy4) Maintained by Paul Bahr, our sound editor
 * [Google Drive](https://drive.google.com/drive/folders/14t0-0Bf5rjDaR1PAR854lCnC7xaF4Hnh) Maintained by CHAOSScast Organizers
-* [CHAOSScast Calendar](https://calendar.google.com/calendar/embed?src=513r47bb756t07lp5tat5nsuj0%40group.calendar.google.com&ctz=America%2FNew_York) for recording dates and epsiode release schedule
+* [CHAOSScast Calenda](https://calendar.google.com/calendar/u/0/embed?src=513r47bb756t07lp5tat5nsuj0@group.calendar.google.com) for recording dates
 * Email address for podcast, forwarded to Organizers: [podcast@chaoss.community](mailto:podcast@chaoss.community)
 
 ## ✍ Strategy
@@ -71,7 +52,7 @@ The [CHAOSS Community podcast](https://podcast.chaoss.community/) elevates conve
 
 ### Description
 
-This podcast fills the gap with open source community metric definitions and software on one side and their use in different contexts on the other side. We invite guests to this podcast to talk about how they use open source community health metrics and software in their own open source communities, companies, or foundations. The panelists are CHAOSS Community members who spent considerable time and effort to understand open source community health and how we can measure it through metrics, analytics and software.
+This podcast fills the gap with open source community metric definitions and software on one side and their use in different contexts on the other side. We invite guests to this podcast to talk about how they use open source community health metrics and software in their own open source communities, companies, or foundations. The panelists are CHAOSS Community members who spent considerable time and effort to understand open source community health and how we can measure it through metrics, analytics and software. The podcast topics should be as relevant to the CHAOSS project as possible.
 
 ### Goal
 
@@ -79,15 +60,15 @@ This podcast fills a gap in the CHAOSS community by sharing specific use cases f
 
 ### Audience
 
-Anyone interested in open source community and project metrics, including OSPO managers, Community Managers, open source Maintainers, Linux Foundation Employees, Community Members, DevRel managers
+Anyone interested in open source community and project metrics, including OSPO managers, community managers, open source maintainers, Linux Foundation employees, community members, DevRel managers, and other data enthusiasts.
 
 ### Scope
 
 * \[Include\] Interviews with people who do metrics for their community, project, foundation, or company
 * \[Include\] Use cases, metrics that matter in specific industries \(e.g., high regulated environments as banks\)
-* \[Include\] coverage of metrics platforms not considered for future integration into CHAOSS
-* \[Include\] non-OSS markets such as marketing brand communities and corporate social circles
+* \[Include\] coverage of metrics platforms not considered for future integration into CHAOSS only if they have some relevance for CHAOSS
 * \[Include\] active calls for experiments and/or data sets for ongoing case studies?
+* \[Exclude\] non-OSS markets such as marketing brand communities and corporate social circles
 * \[Exclude\] quantitative data metrics not related to communities but having much to do with general measurement including ROASS and Paid ad traffic
 * \[Exclude\] developing situations and case studies that are more recent than one month or still ongoing
 
@@ -97,7 +78,7 @@ A panel of 2-3 CHAOSS members interviews guest\(s\) who have done or used OSS me
 
 ### Format
 
-Each recording is scheduled for 1.5h and a released episode targeting 30-40 minutes. The following is the ideal structure:
+Each recording is scheduled for 1.5 hours for a released episode targeting 30-40 minutes. The following is the ideal structure:
 
 * Intro music and intro to CHAOSScast
 * Intro of panelists
@@ -114,102 +95,12 @@ Each recording is scheduled for 1.5h and a released episode targeting 30-40 minu
 * What decisions do you make based on these metrics?
 * What tools do you use for the metrics?
 * Who else sees these metrics and how are the metrics integrated in your workflows?
-* "what amazing thing did you do?", "what was the community like before it happened?" "When did you realize something needed to change?" "how did you go about getting the thing done?" "what was the end result?" “why dos what you did matter to the listener’s communities?” “what advice do you have to make doing the same thing easier?”
+* "what amazing thing did you do?", "what was the community like before it happened?" "when did you realize something needed to change?" "how did you go about getting the thing done?" "what was the end result?" “why dos what you did matter to the listener’s communities?” “what advice do you have to make doing the same thing easier?”
 * What are your hopes for CHAOSS in the future? 
-
-## 🕙 Automation
-
-Documenting any automation configured to date.
-
-Georg Link has an IFTT recipe to:
-
-* If new item in this RSS feed [https://feeds.fireside.fm/chaosscast/rss](https://feeds.fireside.fm/chaosscast/rss)
-* Then tweet it from @CHAOSSproj
-  * Example tweet: [https://twitter.com/CHAOSSproj/status/1256137855606444032](https://twitter.com/CHAOSSproj/status/1256137855606444032)
 
 ## 📖 Procedures
 
-These procedures are for the organizer and coordinator of each episode:
-
-### Scheduling an episode
-
-* always
-  * Think of who would make a good guest for the podcast and ask them tentatively if you may invite them
-* **Step 1:** Determine a guest \(Anyone\)
-  * **Action:** Recruit interview guest and decide topic and content of the podcast together
-* **Step 2:** Coordinate Episode \(Coordinator\)
-  * **Action:** Send invitation email to guest to find a few potential suitable dates and times \(60-90 minutes.\)
-  * **Action:** Notify organizer of guest's date and time possibilities, and confirm one.
-  * **Action:** Prepare the planning document (copy the [Episode Planning Document template](https://docs.google.com/document/d/17qjAafr0aAWXV_HR-WiefHOa881t8X7tEoiZnPBh3ao/edit?pli=1#heading=h.cmpmu92ylw4d) and start filling in information.)
-  * **Action:** send out an [invitation email](https://docs.google.com/document/d/1IniJc9o1OCBBTYv50W3WTfZYmshi4aYusHIK4ADulk8/edit) for panelists to RSVP yes or no ([list of email addresses](https://docs.google.com/document/d/1ca9TJY17cj-cBWmJP5qjCX56133unsaOlEUwACc4PMA/edit))
-    * Prioritize those who said they were interested in the topic
-    * If needed, [invite new panelists](https://docs.google.com/document/d/1gGf9n6D5g2Y_YfqVuWOvWvZvNvKmbQr9adruHeQTAu0/edit?usp=sharing)
-  * **Action:** Confirm with 1-2 panelists that replied "yes" and notify others who replied yes that the panel is already complete.
-  * **Action:** Send calendar invitation with confirmed date of the podcast \(only the guest, organizer, and panelists that will be in the episode
-    * The event has to be created in the [CHAOSScast calendar](https://calendar.google.com/calendar/ical/513r47bb756t07lp5tat5nsuj0%40group.calendar.google.com/public/basic.ics)
-      * All organizers should have full access to the calendar \(i.e., Make changes and manage sharing\)
-    * Name calendar event:🎙 CHAOSScast {with guest}
-      * Start with the microphone emoticon \(🎙\) to signal recording meeting
-  * **Action:** Send out a [confirmation email](https://docs.google.com/document/d/1Pw8OKn-qSSkMw573BZu-EZ4BZualesdZjPbpBEKvzrc/edit) that includes the [“how we podcast” document](https://docs.google.com/document/d/1j5Ng91rrFrx3PdPejv26rBxb1P7UX-O_Q0_I9TCIya0/edit#) to guests and panelists
-  * **Action:** Update the episode planning document with recording time and zoom link
-  * **Action:** Update the [episode overview table](https://docs.google.com/document/d/1qxmC1k8SayChurIq2r91CR3r_KAThTwaNEMjA6DLGhE/edit#)
-  * **Action:** If the episode is more than two weeks out, schedule a [reminder email](https://docs.google.com/document/d/17vKzCOYvRXq5zaIlv_sb80zFapTU19dRgkx5RqRx3xE/edit) for 1 week before the episode recording
-  * **Action:** Schedule a [reminder email](https://docs.google.com/document/d/17vKzCOYvRXq5zaIlv_sb80zFapTU19dRgkx5RqRx3xE/edit) for 24-hours before the episode recording
-* **Step 3:** Finalize Content \(Organizer\)
-  * **Action:** Update the episode planning document with the main topics and questions
-* **Step 4:** Post-Episode Thank You Notes \(Coordinator\)
-  * **Action:** When the episode is scheduled for release that week, notify guest and get their mailing address
-  * **Action:** Sign thank you note and assemble with swag
-  * **Action:** Mail out thank you note with swag
-  * **Action:** Add date of shipment on [episode overview table](https://docs.google.com/document/d/1qxmC1k8SayChurIq2r91CR3r_KAThTwaNEMjA6DLGhE/edit) to confirm it was sent
-
-### Recording an episode
-
-* On day of podcast \(Organizer and Panelists\):
-  * **Action:** Review the [CHAOSScast Recording Procedures](https://docs.google.com/document/d/1G_CFd8CqwxLCahLrC-4XRzaad0OdLX43AY_--UPK2lo/edit#) before the session starts
-    * Feel good about yourself and get excited!
-* When podcast session starts \(Organizer and Panelists\):
-  * Join the Zoom room on time \(records automatically\)
-  * Be yourself
-  * Enjoy
-
-### Publishing an episode \(~30-40 min\)
-
-* Paul Bahr from Peachtree Sound will send the edited podcast and show notes \(email\) **After podcast is edited**
-  * Review the Episode Planning Document for the guest's profile pic, bio, and social media links.
-  * Create the Cover Art by downloading a sample [cover art from Dropbox](https://www.dropbox.com/sh/l7iv7qewxk5ud8o/AADj2oAVfg2brvd8DulJPxEla/Art?dl=0&subfolder_nav_tracking=1) and updating the episode number
-  * Upload the shownotes to google drive and use Convert to Markdown to get markdown format
-  * In [Fireside](https://chaosscast.fireside.fm/admin/), create missing panelists and guests
-  * Slug is `firstname-lastname` \(e.g., `georg-link`\)
-  * Status: public
-  * The other information should be in the Episode Planning Document
-  * In [Fireside](https://chaosscast.fireside.fm/admin/), create a new episode
-    * Permalink: \# \(only the number of episode\)
-    * Visibility: Public
-    * Publish on: a Friday at 3 AM US Central Time
-    * Title: Title from the Episode Planning Document
-    * Title Format: Episode 123: My Great Title \(default\)
-    * Content: Clean \(unless we used swear words\)
-    * Summary: First paragraph from the Show Notes are a good starting point
-    * Description: Insert the show notes in Markdown format.
-      * Hint: convert show notes to Google Doc and export as Markdown
-    * Keywords: \(use sparingly to avoid keyword cannibilization\)
-    * Tags: \(empty\) -- we can use tags later for having sub-podcasts
-    * Hosts and Guests: activate everyone who was on the show. Regular panelists are all hosts, even when they are guest on an episode.
-    * Social Media Destinations: \(ignore\)
-    * Apple Podcasts Settings: \(ignore\)
-    * MP3 File: upload [MP3 file provided by CPN through Dropbox](https://www.dropbox.com/sh/l7iv7qewxk5ud8o/AAC8aNnZYbKy6K6gsdg5pfTGa/Episodes?dl=0&subfolder_nav_tracking=1)
-    * Cover Art: upload [cover art from Dropbox](https://www.dropbox.com/sh/l7iv7qewxk5ud8o/AADj2oAVfg2brvd8DulJPxEla/Art?dl=0&subfolder_nav_tracking=1) with the correct episode number
-    * Header Image: \(ignore, will use default\)
-    * Transcript: \(ignore\)
-  * PUBLISH
-    * Update the template [CHAOSScast Calendar](https://calendar.google.com/calendar?cid=NTEzcjQ3YmI3NTZ0MDdscDV0YXQ1bnN1ajBAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) event \(🎧 \(TBD\) Release CHAOSScast episode\) for the release date \(i.e., remove `(TBD)` and add epsiode number and title\)
-    * Schedule an email to the CHAOSS mailing list for the release day and time \([template](https://docs.google.com/document/d/1TyZAX7xfYmx3gKSFT2i2K5ERIA1ibGAQVfXMnGmFYyg/edit)\)
-    * Include in upcoming [CHAOSS Weekly newsletter](https://docs.google.com/document/d/1N2dbrqHYSxIUF1vXZ1-854aaoGIf86uey0XRhxhgG4o/edit)
-    * ITTT automated \(RSS feed publishing\):
-      * Schedule a tweet through Tweetdeck
-    * Advertise outside of CHAOSS
-      * SustainOSS Forum \(?\)
+The procedures are for the organizer and facilitator of each episode can be found in the [Issue Template]() in the CHAOSS Community repository. A new issue using this template should be created for each episode.
 
 ## 💰 CHAOSScast sponsorship and revenue
 
