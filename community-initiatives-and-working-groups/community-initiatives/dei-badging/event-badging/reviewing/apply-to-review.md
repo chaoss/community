@@ -1,3 +1,6 @@
+# **This page is no longer part of the CHAOSS Knowledge Base. Please update any links that may be associated with this page as this page and this statement will be removed at the start of 2024.**
+
+
 # Apply to Review
 
 This page contains information on how to become a reviewer of the D&I badging program. To review submissions for D&I badging, you need to sign up as a reviewer first. The best way to start is with our sign-up form!

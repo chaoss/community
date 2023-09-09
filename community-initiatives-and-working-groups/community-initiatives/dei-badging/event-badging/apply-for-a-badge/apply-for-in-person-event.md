@@ -1,3 +1,9 @@
+# **This page is no longer part of the CHAOSS Knowledge Base. Please update any links that may be associated with this page as this page and this statement will be removed at the start of 2024.**
+
+
+
+
+
 # Apply for an In-Person Event
 
 The D&I badging application is submitted through a web form to provide information and measurements on how an event achieves diversity and inclusion practices. All initial judgments from reviewers are made according to the form, so please do your best with it, make sure to fill out all the fields.
