@@ -1,3 +1,6 @@
+# **This page is no longer part of the CHAOSS Knowledge Base. Please update any links that may be associated with this page as this page and this statement will be removed at the start of 2024.**
+
+
 # Content Contribution
 
 We welcome contributions in the form of written blog posts or instructional videos for the CHAOSS community of users and other contributors! 
