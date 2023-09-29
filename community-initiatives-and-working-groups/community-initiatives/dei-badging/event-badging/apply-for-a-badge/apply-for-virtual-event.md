@@ -1,3 +1,7 @@
+# **This page is no longer part of the CHAOSS Knowledge Base. Please update any links that may be associated with this page as this page and this statement will be removed at the start of 2024.**
+
+
+
 # Apply for a Virtual Event
 
 We make one distinction between virtual events and in-person events. The Virtual Event does not support the [Family Friendliness](https://chaoss.community/metric-family-friendliness/) metric because this is not currently a concern for virtual events.

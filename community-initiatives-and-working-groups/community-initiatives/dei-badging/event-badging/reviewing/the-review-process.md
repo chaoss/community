@@ -1,3 +1,7 @@
+# **This page is no longer part of the CHAOSS Knowledge Base. Please update any links that may be associated with this page as this page and this statement will be removed at the start of 2024.**
+
+
+
 # The Review Process
 
 This page contains information about going through the review process, especially about how a reviewer could work with the Review Checklist and collect the information required for the Review Checklist criteria.

@@ -1,3 +1,5 @@
+# **This page is no longer part of the CHAOSS Knowledge Base. Please update any links that may be associated with this page as this page and this statement will be removed at the start of 2024.**
+
 # Centering Diversity, Equity, and Inclusion in -- name of your project --
 
 This document demonstrates how we in -- name of your project -- are committed to centering diversity, equity, and inclusion in the work that we do. The following are four CHAOSS DEI metrics and how we address them in the -- name of your project --. 

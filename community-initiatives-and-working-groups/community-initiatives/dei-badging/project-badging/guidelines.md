@@ -1,3 +1,5 @@
+# **This page is no longer part of the CHAOSS Knowledge Base. Please update any links that may be associated with this page as this page and this statement will be removed at the start of 2024.**
+
 # CHAOSS Project Badging Submission Guidelines
 
 1. Make sure all the [requirements](./requirements.md) are fulfilled before initiating a CHAOSS Project Badging application.
