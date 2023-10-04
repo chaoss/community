@@ -44,6 +44,10 @@ Please get approval from the CHAOSScast facilitator before creating a CHAOSScast
   * [ ] **Action:** Confirm that the podcast is being recorded.
   * Be yourself
   * Enjoy
+* After the podcast is recorded:
+  * [ ] **Action:** Go to Zoom and get the link to the recording
+  * [ ] **Action:** Set the recording to not expire
+  * [ ] **Action:** Email the link to Paul Bahr from Peachtree Sound
 
 ### Publishing an episode \(~30-40 min\)
 
