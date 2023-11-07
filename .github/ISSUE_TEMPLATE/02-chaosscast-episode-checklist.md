@@ -75,7 +75,7 @@ Please get approval from the CHAOSScast facilitator before creating a CHAOSScast
     * Social Media Destinations: \(ignore\)
     * Apple Podcasts Settings: \(ignore\)
     * MP3 File: upload [MP3 file provided by CPN through Dropbox](https://www.dropbox.com/sh/l7iv7qewxk5ud8o/AAC8aNnZYbKy6K6gsdg5pfTGa/Episodes?dl=0&subfolder_nav_tracking=1)
-    * Cover Art: upload [cover art from Dropbox](https://www.dropbox.com/sh/l7iv7qewxk5ud8o/AADj2oAVfg2brvd8DulJPxEla/Art?dl=0&subfolder_nav_tracking=1) with the correct episode number
+    * Cover Art: upload [cover art](https://drive.google.com/drive/folders/1nuZJWSftdyApRjMqZJqNZn_k7I8sdmOJ) with the correct episode number
     * Header Image: \(ignore, will use default\)
     * Transcript: \(ignore\)
   * PUBLISH
