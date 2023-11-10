@@ -40,33 +40,32 @@ In addition to classification, data policies should also cover data collection, 
 ### Privacy: Published Guidance
 
 #### Australia
-- Australian Privacy Principles Guidelines
+- [Australian Privacy Principles Guidelines](https://www.oaic.gov.au/privacy/australian-privacy-principles/australian-privacy-principles-guidelines)
 
 #### EU
-- Federal GDPR
+- [Federal GDPR](https://gdpr.eu/tag/gdpr/)
 
 #### EU - Germany
-- Bundesdatenschutzgesetz
+- [Bundesdatenschutzgesetz](https://www.gesetze-im-internet.de/bdsg_2018/index.html)
 
 #### GitHub
-- Privacy Statement
-- Acceptable Use Policy
+- [Privacy Statement](https://docs.github.com/en/site-policy/privacy-policies/github-privacy-statement#github-privacy-statement)
+- [Acceptable Use Policy](https://docs.github.com/en/site-policy/acceptable-use-policies/github-acceptable-use-policies)
 
 #### Linux Foundation
-- Telemetry Data Policy
+- [Telemetry Data Collection and Usage Policy](https://www.linuxfoundation.org/legal/telemetry-data-policy#:~:text=Any%20Telemetry%20Data%20collection%20that,the%20Linux%20Foundation's%20Privacy%20Policy%2C)
 
 #### UN
-- Article 17 of International Covenant on Civil and Political Rights, 1966
-- Data Protection and Privacy Legislation Worldwide 
-
+- [Article 17 of International Covenant on Civil and Political Rights, 1966](https://www.ohchr.org/en/instruments-mechanisms/instruments/international-covenant-civil-and-political-rights#:~:text=Article%2017,-1.&text=No%20one%20shall%20be%20subjected%20to%20arbitrary%20or%20unlawful%20interference,against%20such%20interference%20or%20attacks)
+- [Data Protection and Privacy Legislation Worldwide](https://unctad.org/page/data-protection-and-privacy-legislation-worldwide)
 #### United States - California
-- OPPA 2003
-- CCPA 2018
+- [OPPA 2003]()
+- [CCPA 2018]()
 
 #### United States - Federal
-- U.S. Code § 552a
-- (NIST) Guide to Protecting the Confidentiality of Personally Identifiable Information (PII)
-- (NIST) What is Personally Identifiable Information (PII)?
+- [U.S. Code § 552a]()
+- [(NIST) Guide to Protecting the Confidentiality of Personally Identifiable Information (PII)]()
+- [(NIST) What is Personally Identifiable Information (PII)?]()
 
 ## Ethics
 
