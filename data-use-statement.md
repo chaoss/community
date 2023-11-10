@@ -59,13 +59,13 @@ In addition to classification, data policies should also cover data collection, 
 - [Article 17 of International Covenant on Civil and Political Rights, 1966](https://www.ohchr.org/en/instruments-mechanisms/instruments/international-covenant-civil-and-political-rights#:~:text=Article%2017,-1.&text=No%20one%20shall%20be%20subjected%20to%20arbitrary%20or%20unlawful%20interference,against%20such%20interference%20or%20attacks)
 - [Data Protection and Privacy Legislation Worldwide](https://unctad.org/page/data-protection-and-privacy-legislation-worldwide)
 #### United States - California
-- [OPPA 2003]()
-- [CCPA 2018]()
+- [OPPA 2003](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=BPC&sectionNum=22575)
+- [CCPA 2018](https://leginfo.legislature.ca.gov/faces/codes_displayText.xhtml?division=3.&part=4.&lawCode=CIV&title=1.81.5)
 
 #### United States - Federal
-- [U.S. Code § 552a]()
-- [(NIST) Guide to Protecting the Confidentiality of Personally Identifiable Information (PII)]()
-- [(NIST) What is Personally Identifiable Information (PII)?]()
+- [U.S. Code § 552a](https://www.justice.gov/opcl/overview-privacy-act-1974-2020-edition)
+- [(NIST) Guide to Protecting the Confidentiality of Personally Identifiable Information (PII)](https://csrc.nist.gov/pubs/sp/800/122/final)
+- [(NIST) What is Personally Identifiable Information (PII)?](https://csrc.nist.gov/glossary/term/personally_identifiable_information)
 
 ## Ethics
 
