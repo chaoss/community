@@ -69,6 +69,7 @@ Please get approval from the CHAOSScast facilitator before creating a CHAOSScast
     * Summary: First paragraph from the Show Notes are a good starting point
     * Description: Insert the show notes in Markdown format.
       * Hint: convert show notes to Google Doc and export as Markdown
+      * As the first line above the bolded episode info, add this line: `Thank you to the folks at [Sustain](https://sustainoss.org/) for providing the hosting account for CHAOSSCast!`
     * Keywords: \(use sparingly to avoid keyword cannibilization\)
     * Tags: \(empty\) -- we can use tags later for having sub-podcasts
     * Hosts and Guests: activate everyone who was on the show. Regular panelists are all hosts, even when they are guest on an episode.
