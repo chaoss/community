@@ -11,8 +11,6 @@ Metrics working groups are responsible for developing and maintaining metrics de
 
 * [**Diversity, Equity & Inclusion**](https://github.com/chaoss/wg-diversity-inclusion): This working group aims to bring together experiences measuring diversity, equity and inclusion in open source projects.
 
-* [**Risk**](https://github.com/chaoss/wg-risk): The working group focuses on compliance and risk metrics in Open Source Software.
-
 * [**Metrics-Models**](https://github.com/chaoss/wg-metrics-models): This working group develops models that include the integration of multiple CHAOSS metrics in a way that people would consume them in practice.
 
 ### Inactive Working Groups
@@ -20,6 +18,8 @@ Metrics working groups are responsible for developing and maintaining metrics de
 * [**Evolution**](https://github.com/chaoss/wg-evolution): This working group was focused on refining the metrics that inform evolution and to work with open source software implementations. Future evolution metrics will be defined in the Common WG.
 
 * [**Value**](https://github.com/chaoss/wg-value): This working group was focused on developing metrics that describe value of open source engagement for individuals and organizations. Discussions about value are currently happening in the OSPO WG.
+
+* [**Risk**](https://github.com/chaoss/wg-risk): This working group was focused on compliance and risk metrics in Open Source Software. Future evolution metrics will be defined in the Common WG.
 
 
 ## 2. Context Working Groups
