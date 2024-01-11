@@ -8,7 +8,7 @@ The work within the CHAOSS Community happens across a variety of different group
 
 Any CHAOSS community member can participate in any of our WGs, Subprojects, and Chapters. We hope that participation in these groups will eventually allow community members to gain experience and move into leadership roles within the project as defined below.
 
-![Governance Diagram](CHAOSS_Governance.png)
+![Governance Diagram](https://github.com/chaoss/community/blob/main/governance/CHAOSS_Governance.png)
 
 
 ## Governing Board
