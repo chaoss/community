@@ -6,6 +6,7 @@
 This repository contains the following:
 - Content for much of the community documentation included in [the CHAOSS main website](https://chaoss.community/kbtopic/chaoss-community/)
 - Other documentation that applies to the entire CHAOSS community
+- Operational and process documentation not published to the website
 
 ## Use of Issues
 We use issues in this repository for the following:
