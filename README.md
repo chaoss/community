@@ -1,19 +1,27 @@
-# CHAOSS Community and the Handbook
+# CHAOSS Community Repository
 
-This repository contains the CHAOSS Community Handbook, you can also check it out on [the CHAOSS main website](https://chaoss.community/kbtopic/chaoss-community/)
+:wave: Welcome to the CHAOSS Community! :wave: 
 
+## Repository Content
+This repository contains the following:
+- Content for much of the community documentation included in [the CHAOSS main website](https://chaoss.community/kbtopic/chaoss-community/)
+- Other documentation that applies to the entire CHAOSS community
+
+## Use of Issues
+We use issues in this repository for the following:
+- To coordinate CHAOSScasts
+- To log community discussions and projects
+- For questions about the CHAOSS community
+- For suggestions on improving documentation or community processes
 
 ## How to contribute to this repository
 
-We follow the GitHub pull-request workflow. More details on how to contribute is in the [How to contribute](how-to-contribute/) section.
+This is a living repository, meaning we are very open to changes and improvements. We follow the GitHub pull-request workflow. More details on specifically what that means can be found in the CONTRIBUTING.md file. If you would like to contribute but you aren't sure how to go about doing so, please reach out to the [community on Slack](https://join.slack.com/t/chaoss-workspace/shared_invite/zt-28p56bayt-67TRjdA4yJWQmUd4hCzULg) or Elizabeth Barron (@ElizabethN). We are happy to help! 
 
 ### Maintainers of this repository
 
 * [Georg Link](https://github.com/GeorgLink)
 * [Elizabeth Barron, CHAOSS Community Manager](https://github.com/ElizabethN)
 * [Ruth Ikegah, Community Lead, CHAOSS Africa](https://github.com/Ruth-Ikegah)
-* [Xiaoya Xia, Community Lead, CHAOSS Asia-Pacific](https://github.com/xiaoya-yaya)
 
-### How to become a maintainer
 
-Currently the maintainers are those who help manage the overall CHAOSS Community.
