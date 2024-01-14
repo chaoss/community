@@ -1,8 +1,8 @@
 ##  The Developer Certificate of Origin (DCO) 
 
-The Developer Certificate of Origin (DCO) is an easy way for contributors to certify that they wrote or otherwise have the right to submit the code they are contributing to the project. All open source projects under the Linux Foundation (including CHAOSS) are required to include DCO information in all PRs. Here are instructions on including the DCO with your PR.
+The Developer Certificate of Origin (DCO) is an easy way for contributors to certify that they wrote or otherwise have the right to submit the code they are contributing to the project. All open-source projects under the Linux Foundation (including CHAOSS) are required to include DCO information in all PRs. Here are instructions on including the DCO with your PR.
 
-The DCO text (and what exactly you're confirfming by adding this to your PR) can be read in full [here](https://developercertificate.org/).
+The DCO text (and what exactly you're confirming by adding this to your PR) can be read in full [here](https://developercertificate.org/).
 
 ### Adding a DCO Signed-off-by line to commit messages:
 

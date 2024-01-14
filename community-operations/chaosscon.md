@@ -96,7 +96,7 @@ When co-locating with Linux Foundation events and using their registration syste
 
 The Master of Ceremony \(MC\) is responsible for:
 
-* welcoming atendees
+* welcoming attendees
 * announcing schedule
 * work with speakers to make sure they get set up with their laptops
 * keep everyone on schedule
