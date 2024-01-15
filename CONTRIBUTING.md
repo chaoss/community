@@ -36,7 +36,7 @@ You can find details about our meetings on the community [calendar](https://chao
 
 ## Request a Tour Guide
 
-CHAOSS has a program called our Tour Guides where a newcomer can request more 1:1 guidance for getting started and connecting with the group that is of interest to them. Simply reach out to our Tour Guide Coordinator, Maryblessing Okolie, on Slack and she will start the ball rolling.
+CHAOSS has a program called our Tour Guides where a newcomer can request more 1:1 guidance for getting started and connecting with the group that is of interest to them. Simply reach out in the #newcomer channel of our Slack workspace and the Tour Guide Coordinator will get the ball rolling.
 
 ## Find an Issue
 
