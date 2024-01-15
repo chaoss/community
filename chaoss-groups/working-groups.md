@@ -44,7 +44,7 @@ The Operations Working Groups are supporting the metrics discussions and are res
 
 * [**DEI Badging**](https://github.com/badging/): The DEI Badging working group focuses on our badging initiative that is meant to encourage open source projects and event organizers to obtain our Diversity, Equity, and Inclusion badges for the purposes of leadership self-reflection and self-improvement around the ways that they are centering DEI. 
 
-* [**Website**](https://docs.google.com/document/d/1p079Q75RZ2Duk-nX4osXY2v3oFjqF6-BTZG6XPx8iQ4/edit#heading=h.9qd11sbe2wiy): The Website working group focus on maitainence of CHAOSS Website. 
+* [**Website**](https://docs.google.com/document/d/1p079Q75RZ2Duk-nX4osXY2v3oFjqF6-BTZG6XPx8iQ4/edit#heading=h.9qd11sbe2wiy): The Website working group focus on maintenance of CHAOSS Website. 
 
 * [**Design**](): Content will be added soon!. 
 
