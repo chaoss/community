@@ -40,7 +40,7 @@ The newcomer experience is addressed in our project through a variety of differe
 Inclusive leadership is addressed in our project through a variety of different efforts. Through these efforts, we aim to support leadership opportunities for project members with an interest. Specific efforts in our project include:
 
 - The CHAOSS governance document is reviewed and affirmed on a yearly basis to identify and articulate roles within the project that help guide the strategic direction of the project.
-- Global chapters of our project are led by people from those regions. Chapter leads help set the strategic direction of the [Project Name] as best suited in different global settings.
+- Global chapters of our project are led by people from those regions. Chapter leads help set the strategic direction of the CHAOSS Project as best suited in different global settings.
 - Working group meetings provide the opportunity to be led by different people at each meeting. While each working group has identified ‘chairs’, leading a meeting provides an opportunity to lead for all members.
 
 CHAOSS project recognizes that the inclusion of the DEI.md file and the provided reflection on the specific DEI metrics does not ensure community safety nor community inclusiveness. The inclusion of the DEI.md file signals that we, as a project, are committed to centering DEI in our project and regularly reviewing and reflecting on our project DEI practices.
