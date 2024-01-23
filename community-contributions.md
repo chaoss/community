@@ -10,5 +10,5 @@ If you are spending a block of time dedicated to CHAOSS, that counts as a "contr
 |-----------------| ----------------------------------|----------------| --------------------|
 | @ElizabethN     | Facilitated the Community Meeting | CHAOSS Community |  January 9, 2024 |
 | @germonprez     | Wrote a blog post about DEI Badging | DEI Badging | January 16, 2024 | 
-| @dawnfoster     | Facilitated the Data Science Meeting | Data Science WG | January 17, 2024 |
+| @geekygirldawn  | Facilitated the Data Science Meeting | Data Science WG | January 17, 2024 |
 | @ElizabethN     | Facilitated the DEI Meeting       | DEI           | January 17, 2024 |
