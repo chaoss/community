@@ -17,7 +17,7 @@ Provide several listed points that clearly describe why someone wants to measure
 
 Each metric has the potential to influence diversity, equity, and inclusion on an open source project. Please consider these factors when framing metrics objectives. 
 
-## Implementation
+## Implementation (optional)
 Provide details on how to measure the metric, collect the data, and analyze it. The following sub-headings should be used to define the implementation. Each of the sub-headings are optional but help structure the different aspects of implementation. 
 
 ### Filters (optional)
