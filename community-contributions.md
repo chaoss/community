@@ -17,3 +17,4 @@ If you are spending a block of time dedicated to CHAOSS, that counts as a "contr
 | @dawnfoster     | Facilitated the Data Science Meeting | Data Science WG | January 17, 2024 |
 | @ElizabethN     | Facilitated the DEI Meeting       | DEI           | January 17, 2024 |
 | @peculiaruc     | Created issues for Accessibility     | Education           | January 22, 2024 |
+| @ElizabethN     | Facilitated the Community Meeting | CHAOSS Community | January 23, 2024 |
