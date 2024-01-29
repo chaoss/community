@@ -18,3 +18,4 @@ If you are spending a block of time dedicated to CHAOSS, that counts as a "contr
 | @ElizabethN     | Facilitated the DEI Meeting       | DEI           | January 17, 2024 |
 | @peculiaruc     | Created issues for Accessibility     | Education           | January 22, 2024 |
 | @ElizabethN     | Facilitated the Community Meeting | CHAOSS Community | January 23, 2024 |
+| @Busayo-ojo    | Took notes in the CHAOSS Africa Community Meeting | CHAOSS Community | January 25, 2024 |
