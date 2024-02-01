@@ -51,3 +51,10 @@ We are very interested in including every type of contribution in our [Types of 
 | @ElizabethN     | Facilitated the DEI Meeting       | DEI           | January 17, 2024 | Community Building and Management |
 | @peculiaruc     | Created issues for Accessibility     | Education           | January 22, 2024 |Project Management |
 | @ElizabethN     | Facilitated the Community Meeting | CHAOSS Community | January 23, 2024 | Community Building and Management |
+| @yigakpoa     | Created the Accessibilty Repo| DEI | January 22, 2024 | User Interface, User Experience, and Accessibility|
+| @yigakpoa     | Created the README.md for Accessibility| DEI | January 22, 2024 | User Interface, User Experience, and Accessibility|
+| @yigakpoa     | Created CHAOSS Issue Form for Accessibilty Repo| DEI | January 26, 2024 | User Interface, User Experience, and Accessibility|
+| @yigakpoa     | Created DEI Issue form for Accessibilty Repo| DEI | January 26, 2024 | User Interface, User Experience, and Accessibility|
+| @yigakpoa     | Created the Contributing.md for Accessibility| DEI | January 30, 2024 | User Interface, User Experience, and Accessibility|
+| @yigakpoa     | Created Project Board for CHAOSScon NA| CHAOSS Community | January 31, 2024 | Project Management|
+| @yigakpoa     | Created issues for CHAOSScon NA| DEI | CHAOSS Community | February 1, 2024 | Project Management|
