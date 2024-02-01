@@ -57,4 +57,4 @@ We are very interested in including every type of contribution in our [Types of 
 | @yigakpoa     | Created DEI Issue form for Accessibilty Repo| DEI | January 26, 2024 | User Interface, User Experience, and Accessibility|
 | @yigakpoa     | Created the Contributing.md for Accessibility| DEI | January 30, 2024 | User Interface, User Experience, and Accessibility|
 | @yigakpoa     | Created Project Board for CHAOSScon NA| CHAOSS Community | January 31, 2024 | Project Management|
-| @yigakpoa     | Created issues for CHAOSScon NA| DEI | CHAOSS Community | February 1, 2024 | Project Management|
+| @yigakpoa     | Created issues for CHAOSScon NA | CHAOSS Community | February 1, 2024 | Project Management|
