@@ -1,7 +1,7 @@
 ---
 name: CHAOSScast Episode Release Checklist
 about: Use this template to track the tasks required to release an episode of CHAOSScast
-labels: ['CHAOSScast']
+labels: ['chaosscast']
 
 ---
 
