@@ -60,3 +60,6 @@ We are very interested in including every type of contribution in our [Types of 
 | @yigakpoa     | Created issues for CHAOSScon NA | CHAOSS Community | February 1, 2024 | Project Management|
 | @Maryblessing    | Facilitated CHAOSS newcomers hangout | CHAOSS Community | January 30, 2024 | Community Building and Management|
 | @Maryblessing    | Facilitated the DEI wg meeting | DEI   | January 31, 2024 | Community Building and Management|
+| @Maryblessing    | Facilitated the App-Ecosystem wg meeting | CHAOSS Community   | January 30, 2024 | Community Building and Management|
+| @Maryblessing    | Facilitated CHAOSS newcomers hangout | CHAOSS Community   | February 6, 2024 | Community Building and Management|
+| @Maryblessing    | Facilitated the Community meeting | CHAOSS Community  | Febuary 6, 2024 | Community Building and Management|
