@@ -66,3 +66,4 @@ We are very interested in including every type of contribution in our [Types of 
 | @Maryblessing    | Facilitated CHAOSS newcomers hangout | CHAOSS Community   | February 6, 2024 | Community Building and Management|
 | @Maryblessing    | Facilitated the Community meeting | CHAOSS Community  | Febuary 6, 2024 | Community Building and Management|
 | @Maryblessing    | Facilitated the DEI wg meeting | DEI   | February 7, 2024 | Community Building and Management|
+| @Maryblessing    | Newcomer Tour Guide | CHAOSS Community  | February 12, 2024 | Community Building and Management|
