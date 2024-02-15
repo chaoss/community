@@ -7,7 +7,7 @@ CHAOSS has three types of working groups.
 Metrics working groups are responsible for developing and maintaining metrics definitions and metrics models.
 
 ### Active Working Groups
-* [**Common Metrics**](https://github.com/chaoss/wg-common): This working group focuses on defining the metrics that are used by multiple working groups or are important for community health, but that do not cleanly fit into one of the other existing metrics working groups.
+* [**Metrics Development**](https://github.com/chaoss/wg-metrics-development): This working group (formerly known as Common Metrics) focuses on defining the metrics that are used by multiple working groups or are important for community health, but that do not cleanly fit into one of the other existing metrics working groups.
 
 * [**Diversity, Equity & Inclusion**](https://github.com/chaoss/wg-diversity-inclusion): This working group aims to bring together experiences measuring diversity, equity and inclusion in open source projects.
 
