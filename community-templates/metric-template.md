@@ -2,8 +2,7 @@
 
 Question: 
 
-Context Tags: [1 to 2 Context Areas from [list](https://docs.google.com/document/d/1zLZeN1hTt62l5vYq1x0pN2htUgaPF3A1r6NlxgjAK6c/) - comma delineated]  
-Keywords: [3 to 5 Search keywords - working group, related terms, and synonyms comma delineated]
+Tags: [3 to 5 Search keywords - working group, related terms, and synonyms comma delineated]
 
 ## Description
 A description of what the metric is and what it captures.
