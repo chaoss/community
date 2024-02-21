@@ -68,5 +68,6 @@ We are very interested in including every type of contribution in our [Types of 
 | @Maryblessing    | Facilitated the Community meeting | CHAOSS Community  | Febuary 6, 2024 | Community Building and Management|
 | @Maryblessing    | Facilitated the DEI wg meeting | DEI   | February 7, 2024 | Community Building and Management|
 | @Maryblessing    | Newcomer Tour Guide | CHAOSS Community  | February 12, 2024 | Community Building and Management|
-| @peculiaruc     | Initiated  and Created Submission.md file  | Education   | February 15, 2024 |Project Management |
-| @peculiaruc     | Reviewed, Created and merge PRs    | Education    | February 21, 2024 |Project Management |
+| @peculiaruc     | Initiated and Created Submission.md file  | Education   | February 15, 2024 |Project Management |
+| @peculiaruc     | Reviewed, Created and merge PRs    | Education   | February 21, 2024 |Project Management |
+| @peculiaruc     | Champions Contributors follow up for onboarding courses | Education   | January 22, 2024 |Project Management |
