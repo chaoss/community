@@ -50,7 +50,8 @@ We are very interested in including every type of contribution in our [Types of 
 | @germonprez     | Wrote a blog post about DEI Badging | DEI Badging | January 16, 2024 |Writing Articles |
 | @dawnfoster     | Facilitated the Data Science Meeting | Data Science WG | January 17, 2024 | Community Building and Management |
 | @ElizabethN     | Facilitated the DEI Meeting       | DEI           | January 17, 2024 | Community Building and Management |
-| @peculiaruc     | Created issues for Accessibility     | Education           | January 22, 2024 |Project Management |
+| @peculiaruc     | Created issues for Accessibility   |  DEI    | January 22, 2024 |Project Management |
+| @peculiaruc     | Worked on Accessibility Project Board creation | Accessibilty | January 23, 2024 |Project Management |
 | @ElizabethN     | Facilitated the Community Meeting | CHAOSS Community | January 23, 2024 | Community Building and Management |
 | @yigakpoa     | Created the Accessibilty Repo| DEI | January 22, 2024 | User Interface, User Experience, and Accessibility|
 | @yigakpoa     | Created the README.md for Accessibility| DEI | January 22, 2024 | User Interface, User Experience, and Accessibility|
@@ -68,3 +69,7 @@ We are very interested in including every type of contribution in our [Types of 
 | @Maryblessing    | Facilitated the DEI wg meeting | DEI   | February 7, 2024 | Community Building and Management|
 | @Maryblessing    | Newcomer Tour Guide | CHAOSS Community  | February 12, 2024 | Community Building and Management|
 | @peculiaruc   | Reviewed Open-Source Summit North America 2024 Event Badging ticket | Badging - Event Divesity and Inclusion | March 7, 2024 | Event Badging Reviewer|
+| @peculiaruc     | Initiated and Created Submission.md file  | Education   | February 15, 2024 |Project Management |
+| @peculiaruc     | Reviewed, Created and merge PRs    | Education   | February 21, 2024 |Project Management |
+| @peculiaruc     | Champions Contributors follow up for onboarding courses | Education   | January 22, 2024 |Project Management |
+
