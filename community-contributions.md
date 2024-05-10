@@ -72,4 +72,4 @@ We are very interested in including every type of contribution in our [Types of 
 | @peculiaruc     | Initiated and Created Submission.md file  | Education   | February 15, 2024 |Project Management |
 | @peculiaruc     | Reviewed, Created and merge PRs    | Education   | February 21, 2024 |Project Management |
 | @peculiaruc     | Champions Contributors follow up for onboarding courses | Education   | January 22, 2024 |Project Management |
-
+| @Maryblessing    | Newcomer Tour Guide | CHAOSS Community  | May 4, 2024 | Community Building and Management|
