@@ -27,19 +27,22 @@ Content will be added soon!
 
 ### About
 
-This chapter empowers community folks from the Asia Pacific region to become integrated into the CHAOSS project, contribute in meaningful ways to them and the CHAOSS project, and help build a solid CHAOSS global community. CHAOSS Asia aims to eliminate the barrier caused by languages, timezones, and communication channels faced by Asian community members, by providing a variety of localized participation channels to be part of the CHAOSS community.
+The CHAOSS Asia chapter empowers community folks within the region to become integrated into the CHAOSS project, contribute in meaningful ways to them and the CHAOSS project, and help build a solid CHAOSS global community. By hosting timezone-friendly meetings for community members to participate in, the chapter focuses on creating initiatives and metrics around solving the challenges of Open Source Communities in Asia.
 
-### How to Participate?
+### Ways to get involved
 
-This group is asynchronous only.
+The CHAOSS community is dedicated to fostering an open and welcoming environment for contributors at every level. Anyone can join our Slack workspace, participate in Zoom meetings, or contribute to any of our projects!
 
-For folks who speak Chinese or are in China, there is a set of localized channels for you to check out:
-- Join #中国社区 channel on the global slack community
-- We had a [Bilibili space](https://space.bilibili.com/1292724697?spm_id_from=333.33.b_73656375726974794f75744c696e6b.1) to host workshops and meeting recordings
-- Follow the WeChat official account **CHAOSS Community** to receive local meetups news
-- We had also released several [local episodes](https://www.xiaoyuzhoufm.com/podcast/6239354dc39130b3d9e01e44) of CHAOSScast
+1. **Synchronous:** We meet on Thursdays every other week over Zoom at **08:00 IST** (02:30 UTC). Add the [invite](https://ics.teamup.com/feed/ksk9vit7vig1w48j3s/13059930.ics) to your calendar.
+
+2. **Asynchronous:** Feel free to join us on [Slack](https://join.slack.com/t/chaoss-workspace/shared_invite/zt-r65szij9-QajX59hkZUct82b0uACA6g) (channel: **#chaossasia**) and meet other members of the Asia chapter and global CHAOSS community as well.
+
+3. **Social:** Make sure to follow [@chaossasia](https://x.com/chaossasia) on X (formerly, Twitter) for the latest updates on ongoing activities, meetups, and much more in the Asia chapter.
+
+4. **GitHub:** Contribute to our code and non-code initiatives by visiting our newly launched [GitHub repo](https://github.com/chaoss/chaoss-asia) and going through our issues.
+
 
 ### Whom to Contact?
-If you have any questions, suggestions or ideas, they are always welcome. Contact Elizabeth Barron, the CHAOSS Community Manager on Slack.
 
+If you have any questions, suggestions or ideas, please reach out to us on the **#chaossasia** channel by joining the [CHAOSS Slack](https://join.slack.com/t/chaoss-workspace/shared_invite/zt-r65szij9-QajX59hkZUct82b0uACA6g) or mail us at [chaossasia@gmail.com](mailto:chaossasia@gmail.com).
 
