@@ -46,6 +46,15 @@ We are very interested in including every type of contribution in our [Types of 
 
 | GitHub Username | Task completed                    | Project Area        | Date Completed | Type of Contribution |
 |-----------------| ----------------------------------|----------------| --------------------| --------------------- |
+| @Toriasdesign    | Audited Homepage- body | DEI  | October 24, 2023 | Accessibility Audit|
+| @Toriasdesign    | Audited  Home page - Nav bar | DEI  | October 24, 2023 | Accessibility Audit|
+| @Toriasdesign    | Audited  Home page - Hero section | DEI  | October 24, 2023 | Accessibility Audit|
+| @Toriasdesign    | Audited  Home page - footer | DEI  | October 24, 2023 | Accessibility Audit|
+| @Toriasdesign    | Audited  Calender page  | DEI  | October 24, 2023 | Accessibility Audit|
+| @Toriasdesign    | Audited  Community - Newsletter section | DEI  | November 2, 2023 | Accessibility Audit|
+| @Toriasdesign    | Audited  Community - Blog | DEI  | November 2, 2023 | Accessibility Audit|
+| @Toriasdesign    | Audited  Community - Documentation | DEI  | November 2, 2023 | Accessibility Audit|
+| @Toriasdesign    | Audited  cookie policy and setting | DEI  | November 2, 2023 | Accessibility Audit|
 | @ElizabethN     | Facilitated the Community Meeting | CHAOSS Community |  January 9, 2024 | Community Building and Management|
 | @germonprez     | Wrote a blog post about DEI Badging | DEI Badging | January 16, 2024 |Writing Articles |
 | @dawnfoster     | Facilitated the Data Science Meeting | Data Science WG | January 17, 2024 | Community Building and Management |
@@ -73,3 +82,4 @@ We are very interested in including every type of contribution in our [Types of 
 | @peculiaruc     | Reviewed, Created and merge PRs    | Education   | February 21, 2024 |Project Management |
 | @peculiaruc     | Champions Contributors follow up for onboarding courses | Education   | January 22, 2024 |Project Management |
 | @Maryblessing    | Newcomer Tour Guide | CHAOSS Community  | May 4, 2024 | Community Building and Management|
+| @Toriasdesign    | Designed a posters for CHAOSS Africa outreach program-PLWD | CHAOSS Africa  | May 15, 2024 | Graphic Design|
