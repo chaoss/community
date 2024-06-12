@@ -1,7 +1,7 @@
 # Table of contents
 
-* [Contributing Guide](README.md)
-* [DEI](dei.md)
+* [Getting Start](README.md)
+* [Installation](dei.md)
 * [CHAOSS Community Repository](readme.md)
 * [community-contributions](community-contributions.md)
 * [data-ethics-statement](data-ethics-statement.md)
