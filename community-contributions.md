@@ -81,5 +81,10 @@ We are very interested in including every type of contribution in our [Types of 
 | @peculiaruc     | Initiated and Created Submission.md file  | Education   | February 15, 2024 |Project Management |
 | @peculiaruc     | Reviewed, Created and merge PRs    | Education   | February 21, 2024 |Project Management |
 | @peculiaruc     | Champions Contributors follow up for onboarding courses | Education   | January 22, 2024 |Project Management |
+| @adeyinkaoresanya     | Facilitated CHAOSS Africa Devs' focus group Meeting | CHAOSS Community |  February 15, 2024 | Community Building and Management|
+| @adeyinkaoresanya     | Facilitated CHAOSS Africa Devs' focus group Meeting | CHAOSS Community |  March 14, 2024 | Community Building and Management|
+| @adeyinkaoresanya     | Facilitated CHAOSS Africa Devs' focus group Meeting | CHAOSS Community |  March 28, 2024 | Community Building and Management|
+| @adeyinkaoresanya     | Facilitated CHAOSS Africa Sync Meeting | CHAOSS Community |  May 2, 2024 | Community Building and Management|
 | @Maryblessing    | Newcomer Tour Guide | CHAOSS Community  | May 4, 2024 | Community Building and Management|
 | @Toriasdesign    | Designed a posters for CHAOSS Africa outreach program-PLWD | CHAOSS Africa  | May 15, 2024 | Graphic Design|
+| @adeyinkaoresanya     | Facilitated a workshop in CHAOSS Africa Devs' focus group Meeting | CHAOSS Community |  May 9, 2024 | Community Building and Management|
