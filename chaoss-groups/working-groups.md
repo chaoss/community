@@ -33,8 +33,13 @@ Context WGs are groups of people who share similar contexts related to open sour
 
 * [**Science**](https://github.com/chaoss/wg-science): The Science working group aims create a set of recommendations for metrics and models related to scientific open source communities. 
 
+
+
 ## 3. Operations Working Groups
+
 The Operations Working Groups are supporting the metrics discussions and are responsible for various activities and operations for the CHAOSS project. In the past, many of these efforts were called Initiatives.
+<details>
+<summary>Read more about the Operations Working Groups</summary>
 
 * [**Communications**](https://docs.google.com/document/d/1_2hErJemNCLgIBaOW0ODIdwfbgBqTfw25aJ7E1ijzWc/edit): The Communications (or Comms) working group focuses on creating outward facing communication and promoting CHAOSS engagement (new contributors, sponsors, metrics users, and CHAOSS software users) to amplify the work being done throughout the CHAOSS community by its contributors. 
 
@@ -46,6 +51,12 @@ The Operations Working Groups are supporting the metrics discussions and are res
 
 * [**Website**](https://docs.google.com/document/d/1p079Q75RZ2Duk-nX4osXY2v3oFjqF6-BTZG6XPx8iQ4/edit#heading=h.9qd11sbe2wiy): The Website working group focus on maintenance of CHAOSS Website. 
 
-* [**Design**](): Content will be added soon!. 
+* [**Design**](): Content will be added soon.
 
-* [**Newcomer Experience**](): Content will be added soon!.
+* [**Technical Writing**]() Content will be added soon.
+
+* [**Disability/Accessibility**]() Content will be added soon.
+
+* [**Newcomer Experience**](): Content will be added soon.
+
+</details>
