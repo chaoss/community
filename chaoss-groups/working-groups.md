@@ -36,10 +36,9 @@ Context WGs are groups of people who share similar contexts related to open sour
 
 
 ## 3. Operations Working Groups
-<html>
-<div markdown="1">
 
 The Operations Working Groups are supporting the metrics discussions and are responsible for various activities and operations for the CHAOSS project. In the past, many of these efforts were called Initiatives.
+<md-block>
 <details>
 <summary>Read more about the Operations Working Groups</summary>
 
@@ -62,6 +61,4 @@ The Operations Working Groups are supporting the metrics discussions and are res
 * [**Newcomer Experience**](): Content will be added soon.
 
 </details>
-
-</div>
-</html>
+</md-block>
