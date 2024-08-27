@@ -1,0 +1,58 @@
+name: CHAOSS Contribution
+title: "[Project]: NAME"
+description: Use this template to register a new CHAOSS Contribution
+labels: ['contribution']
+
+body:
+  - type: markdown
+    attributes:
+      value: | 
+        CHAOSS Welcomes all contributions! Here is where you can claim credit!
+
+  - type: markdown
+    attributes:
+      value: |
+        ## Task Completed
+
+  - type: input
+    attributes:
+      label: Specify Area of Project (1 - 5 words)
+    validations:
+      required: true
+
+  - type: input
+    attributes:
+      label: Date of Completion 
+      description: Enter the date you completed the task (e.g., 2024-07-12). 
+    validations:
+      required: true
+
+  - type: dropdown
+    attributes:
+      label: Specify the type of contribution (e.g., Documentation, Community Building, etc.).
+      options:
+        - Writing Code not submitted in a PR
+        - Reviewing Code
+        - Bug Triaging
+        - Quality Assurance and Testing
+        - Security-Related Activities
+        - Localization/L10N and Translation
+        - Event Organization
+        - Documentation Authorship
+        - Community Building and Management
+        - Teaching and Tutorial Building
+        - Troubleshooting and Support
+        - Creative Work and Design
+        - User Interface, User Experience, and Accessibility
+        - Social Media Management
+        - User Support and Answering Questions
+        - Writing Articles
+        - Public Relations
+        - Speaking at Events about CHAOSS
+        - Marketing and Campaign Advocacy
+        - Website Development
+        - Legal Counsel
+        - Financial Management
+        - Project Management
+    validations:
+      required: true
