@@ -1,0 +1,40 @@
+name: Update Markdown on Contribution Issue
+
+on:
+  issues:
+    types: [opened, labeled]
+
+jobs:
+  update-markdown:
+    if: |
+      contains(github.event.issue.labels.*.name, 'contribution') &&
+      (github.event.action == 'opened' || github.event.action == 'labeled')
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4  # Updated to v4 for Node.js 20 support
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4  # Updated to v4 for Node.js 20 support
+        with:
+          node-version: '20'  # Use Node.js 20
+
+      - name: Print Node.js version
+        run: node -v
+
+      - name: Install @actions/core and @actions/github
+        run: npm install @actions/core @actions/github
+
+      - name: Update markdown file
+        run: node log-contribution.js
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add -f community-contributions.md
+          git commit -m 'Update markdown file with new contribution issue' || echo "Nothing to commit"
+          git pull --rebase
+          git push
