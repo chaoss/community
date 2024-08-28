@@ -92,3 +92,4 @@ We are very interested in including every type of contribution in our [Types of 
 | @alice-sowerby | Producing and co-hosting podcasts (ongoing) | CHAOSS Community | May 16, 2024 |Project Management |
 | @alice-sowerby | Organizing Comms Working Group (ongoing) | CHAOSS Community | May 16, 2024 |Community Building and Management |
 | @sgoggins | freebird! |  |  |  |
+| @sgoggins | San Francisco Treats! | Rice-a-Roni | 2024-08-02 | Teaching and Tutorial Building |
