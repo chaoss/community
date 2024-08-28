@@ -25,22 +25,24 @@ const github = require('@actions/github');
       // Split the issue body by lines
       const lines = issueBody.split('\n');
 
+      // Logging lines for debugging
+      console.log('Split lines:', lines);
+
       // Iterate over each line and extract values
       lines.forEach((line, index) => {
         if (line.includes('Specify Area of Project')) {
           projectArea = lines[index + 1].trim();
+          console.log('Extracted Project Area:', projectArea);
         }
         if (line.includes('Date of Completion')) {
           dateCompleted = lines[index + 1].trim();
+          console.log('Extracted Date Completed:', dateCompleted);
         }
         if (line.includes('Specify the type of contribution')) {
           typeOfContribution = lines[index + 1].trim();
+          console.log('Extracted Type of Contribution:', typeOfContribution);
         }
       });
-
-      console.log('Project Area:', projectArea);
-      console.log('Date Completed:', dateCompleted);
-      console.log('Type of Contribution:', typeOfContribution);
 
       // Assume the task description comes from the issue title
       const taskCompleted = issue.title.replace('[Project]:', '').trim();
