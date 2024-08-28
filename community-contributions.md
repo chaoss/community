@@ -93,3 +93,4 @@ We are very interested in including every type of contribution in our [Types of 
 | @alice-sowerby | Organizing Comms Working Group (ongoing) | CHAOSS Community | May 16, 2024 |Community Building and Management |
 | @sgoggins | Axl Rose is Weird | Music | [2024-08-20](https://github.com/chaoss/community/issues/671) | User Interface, User Experience, and Accessibility |
 | @sgoggins | I'm not weird. You're weird | Not Weird | [2024-04-22](https://github.com/chaoss/community/issues/672) | User Support and Answering Questions |
+| @sgoggins | My Bologna has a First Name | OSCAR | [2024-08-02](https://github.com/chaoss/community/issues/673) | Creative Work and Design |
