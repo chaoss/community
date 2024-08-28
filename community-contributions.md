@@ -95,3 +95,4 @@ We are very interested in including every type of contribution in our [Types of 
 | @sgoggins | A new CHAOSS Contribution | Sean | 2024-08-19 | N/A |
 | @sgoggins | Facilitated Code Going on Vacation | Love | 2024-08-19 | N/A |
 | @sgoggins | Joe Burrow Got to CHAOSS |  |  |  |
+| @sgoggins | Another test |  |  |  |
