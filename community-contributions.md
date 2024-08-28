@@ -92,3 +92,4 @@ We are very interested in including every type of contribution in our [Types of 
 | @alice-sowerby | Producing and co-hosting podcasts (ongoing) | CHAOSS Community | May 16, 2024 |Project Management |
 | @alice-sowerby | Organizing Comms Working Group (ongoing) | CHAOSS Community | May 16, 2024 |Community Building and Management |
 | @sgoggins | My new Project | N/A | N/A | N/A |
+| @sgoggins | A new CHAOSS Contribution | Sean | 2024-08-19 | N/A |
