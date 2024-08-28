@@ -75,16 +75,17 @@ const github = require('@actions/github');
 
       console.log(`New contribution added to ${filePath}`);
 
-      // Close the issue after successfully adding the entry
-      if (octokit.issues) {
+      // Attempt to close the issue after successfully adding the entry
+      try {
         await octokit.issues.update({
-          ...context.repo,
+          owner: context.repo.owner,
+          repo: context.repo.repo,
           issue_number: issue.number,
           state: 'closed'
         });
-        console.log(`Issue #${issue.number} closed.`);
-      } else {
-        console.log(`Failed to close issue #${issue.number}.`);
+        console.log(`Issue #${issue.number} closed successfully.`);
+      } catch (error) {
+        console.error(`Failed to close issue #${issue.number}.`, error);
       }
     } else {
       console.log('No "contribution" label found, skipping update.');
