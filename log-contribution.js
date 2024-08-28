@@ -77,7 +77,7 @@ const github = require('@actions/github');
 
       // Attempt to close the issue after successfully adding the entry
       try {
-        await octokit.issues.update({
+        await octokit.rest.issues.update({
           owner: context.repo.owner,
           repo: context.repo.repo,
           issue_number: issue.number,
