@@ -22,24 +22,23 @@ const github = require('@actions/github');
       let dateCompleted = "N/A";
       let typeOfContribution = "N/A";
 
-      // Split the issue body by lines
-      const lines = issueBody.split('\n');
+      // Split the issue body by lines, and filter out empty lines
+      const lines = issueBody.split('\n').map(line => line.trim()).filter(line => line.length > 0);
 
-      // Logging lines for debugging
-      console.log('Split lines:', lines);
+      console.log('Processed lines:', lines);
 
-      // Iterate over each line and extract values
+      // Improved parsing logic
       lines.forEach((line, index) => {
         if (line.includes('Specify Area of Project')) {
-          projectArea = lines[index + 1].trim();
+          projectArea = lines[index + 1] ? lines[index + 1].trim() : "N/A";
           console.log('Extracted Project Area:', projectArea);
         }
         if (line.includes('Date of Completion')) {
-          dateCompleted = lines[index + 1].trim();
+          dateCompleted = lines[index + 1] ? lines[index + 1].trim() : "N/A";
           console.log('Extracted Date Completed:', dateCompleted);
         }
         if (line.includes('Specify the type of contribution')) {
-          typeOfContribution = lines[index + 1].trim();
+          typeOfContribution = lines[index + 1] ? lines[index + 1].trim() : "N/A";
           console.log('Extracted Type of Contribution:', typeOfContribution);
         }
       });
@@ -56,8 +55,11 @@ const github = require('@actions/github');
       console.log('Original File Contents:');
       console.log(fileContents);
 
+      // Ensure there is no extra space at the end of the table
+      let updatedContents = fileContents.trim() + '\n';
+
       // Append the new row to the existing content
-      const updatedContents = fileContents + newRow;
+      updatedContents += newRow;
 
       fs.writeFileSync(filePath, updatedContents);
 
