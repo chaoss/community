@@ -25,7 +25,7 @@ const github = require('@actions/github');
       // Improved parsing logic with more robust regex
       const projectAreaMatch = issueBody.match(/Specify Area of Project \(1 - 5 words\):?\n+\s*(.*)/);
       const dateCompletedMatch = issueBody.match(/Date of Completion:?\n+\s*(.*)/);
-      const typeOfContributionMatch = issueBody.match(/Specify the type of contribution \(e\.g\., Documentation, Community Building, etc\.\):?\n+\s*(.*)/);
+      const typeOfContributionMatch = issueBody.match(/Specify the type of contribution.*:\n+\s*(.*)/);
 
       if (projectAreaMatch) {
         projectArea = projectAreaMatch[1].trim();
