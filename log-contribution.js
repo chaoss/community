@@ -9,6 +9,7 @@ const github = require('@actions/github');
 
     const { context } = github;
     const { issue } = context.payload;
+    const issueUrl = issue.html_url;
 
     if (issue.labels.some(label => label.name === 'contribution')) {
       const username = issue.user.login;
@@ -46,8 +47,11 @@ const github = require('@actions/github');
       // Assume the task description comes from the issue title
       const taskCompleted = issue.title.replace('[Project]:', '').trim();
 
+      // Create a hyperlink for the date pointing to the issue
+      const dateLink = `[${dateCompleted}](${issueUrl})`;
+
       // Create a new row for the markdown table
-      const newRow = `| @${username} | ${taskCompleted} | ${projectArea} | ${dateCompleted} | ${typeOfContribution} |\n`;
+      const newRow = `| @${username} | ${taskCompleted} | ${projectArea} | ${dateLink} | ${typeOfContribution} |\n`;
 
       const filePath = 'community-contributions.md';
       const fileContents = fs.readFileSync(filePath, 'utf-8');
@@ -70,6 +74,15 @@ const github = require('@actions/github');
       console.log(updatedContents);
 
       console.log(`New contribution added to ${filePath}`);
+
+      // Close the issue after successfully adding the entry
+      await octokit.issues.update({
+        ...context.repo,
+        issue_number: issue.number,
+        state: 'closed'
+      });
+
+      console.log(`Issue #${issue.number} closed.`);
     } else {
       console.log('No "contribution" label found, skipping update.');
     }
