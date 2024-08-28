@@ -31,28 +31,28 @@ body:
     attributes:
       label: Specify the type of contribution (e.g., Documentation, Community Building, etc.).
       options:
-        - Writing Code not submitted in a PR
-        - Reviewing Code
         - Bug Triaging
-        - Quality Assurance and Testing
-        - Security-Related Activities
-        - Localization/L10N and Translation
-        - Event Organization
-        - Documentation Authorship
         - Community Building and Management
+        - Creative Work and Design
+        - Documentation Authorship
+        - Event Organization
+        - Financial Management
+        - Legal Counsel
+        - Localization/L10N and Translation
+        - Marketing and Campaign Advocacy
+        - Project Management
+        - Public Relations
+        - Quality Assurance and Testing
+        - Reviewing Code
+        - Security-Related Activities
+        - Social Media Management
+        - Speaking at Events about CHAOSS
         - Teaching and Tutorial Building
         - Troubleshooting and Support
-        - Creative Work and Design
         - User Interface, User Experience, and Accessibility
-        - Social Media Management
         - User Support and Answering Questions
-        - Writing Articles
-        - Public Relations
-        - Speaking at Events about CHAOSS
-        - Marketing and Campaign Advocacy
         - Website Development
-        - Legal Counsel
-        - Financial Management
-        - Project Management
+        - Writing Articles
+        - Writing Code not submitted in a PR
     validations:
       required: true
