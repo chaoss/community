@@ -6,9 +6,20 @@ Provide text to explain to a reader why they should care about the metrics model
 ## User Stories
 Provide text to the different types of users of this metrics model. This could include various roles including OSPO members, community managers, open source software users, and volunteer contributors. This should be in the form of a bulleted list for each of the provided user stories.
 
+## Related Metrics Models(Optional)
+- Model 1 (Link to metrics model on the CHAOSS website if applicable and brief description of the metrics model)
+- Model 2 (Link to metrics model on the CHAOSS website if applicable and brief description of the metrics model)
+- And so on
+
 ## Metrics in the Metrics Model
-- Metric 1 (Link to metric on the CHAOSS website if applicable, brief description of the metric, and the suggested timeframe associated with data collection if applicable)
-- Metric 2 (Link to metric on the CHAOSS website if applicable, brief description of the metric, and the suggested timeframe associated with data collection if applicable)
+- Metric 1 (Link to metric on the CHAOSS website if applicable and the suggested timeframe associated with data collection if applicable)
+  - Description: A description of what the metric is and what it captures.
+  - Objectives: Points that clearly describe why someone wants to measure this metric and what can be known with it.
+  - Implementation: Details on how to measure the metric, collect the data, and analyze it.
+- Metric 2 (Link to metric on the CHAOSS website if applicable and the suggested timeframe associated with data collection if applicable)
+   - Description: A description of what the metric is and what it captures.
+  - Objectives: Points that clearly describe why someone wants to measure this metric and what can be known with it.
+  - Implementation: Details on how to measure the metric, collect the data, and analyze it.
 - And so on
 
 ## Data Insights (Optional - Can be included after deployment)
