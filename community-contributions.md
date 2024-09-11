@@ -93,3 +93,4 @@ We are very interested in including every type of contribution in our [Types of 
 | @alice-sowerby | Organizing Comms Working Group (ongoing) | CHAOSS Community | May 16, 2024 |Community Building and Management |
 | @ElizabethN | Facilitated DEI Meeting | DEI | [2024-08-28](https://github.com/chaoss/community/issues/674) | Community Building and Management |
 | @sgoggins | Facilitated wg-Science Meeting | OSS Sciencew | [2024-08-19](https://github.com/chaoss/community/issues/676) | Community Building and Management |
+| @peculiaruc | Walkthrough of CHAOSS Education Project with the Technical Writing Team | Education | [2024-09-11](https://github.com/chaoss/community/issues/678) | Teaching and Tutorial Building |
