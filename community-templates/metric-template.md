@@ -1,40 +1,47 @@
 # Name of Metric
 
-Question: 
+**Question:** Add the question here
 
-Tags: [3 to 5 Search keywords - working group, related terms, and synonyms comma delineated]
 
-## Description
-A description of what the metric is and what it captures.
+## Overview
+Short: 200 words max
+An overview of the metric should include: 
+- Explicitly describe what you are measuring in the first sentence. Be specific about what the data points are.
+- How does measuring this metric help inform health and sustainability? 
+- If applicable, how does this metric inform DEI-related issues? 
 
-## Objectives
-Provide several listed points that clearly describe why someone wants to measure this metric and what can be known with it. As examples: 
 
-- A community manager is interested in this metric because...
-- An OSPO manager is interested in this metric because...
-- An event organizer is interested in this metric because...  
+## Want to Know More?
 
-Each metric has the potential to influence diversity, equity, and inclusion on an open source project. Please consider these factors when framing metrics objectives. 
+<span markdown="1"><details>
+<summary>Click to read more about this metric.</summary>
 
-## Implementation (optional)
-Provide details on how to measure the metric, collect the data, and analyze it. The following sub-headings should be used to define the implementation. Each of the sub-headings are optional but help structure the different aspects of implementation. 
+### Data Collection Strategies 
+(encouraged, e.g., surveys and interviews. Include specific data points to be collected.) 
 
-### Filters (optional)
-Include filter that could be used in relation to the metric. These could include timeframes, geographic locations, or different populations of people. 
+### Filters 
+(encouraged, different ways you could look at the data) 
 
-### Visualizations (optional)
-Include visualizations such as screenshot of the metric. There may be many more visualizations for this metric, we only want to provide a flavor for what this metric is about. Please provide attribution where the screenshot was taken, e.g., what software.
+### Visualizations
+(encouraged, cite tool/website and date created/retrieved. Citation should be below the image as Figure X: Title (Source, Year))
 
-### Tools Providing the Metric (optional)
-Metric must be currently deployed/available, in contrast to a tool having the "potential" to provide the metric. Provide direct link to implementation/documentation, if applicable.
+</details></span>
 
-### Data Collection Strategies (optional)
-If there are several different ways to collect data for this metric, list them here. 
-This may include expressing a metric in different ways.
 
 ## References
-Blog posts, websites, academic papers, or books that mention the metric and provide more background.
+Blog posts, websites, academic papers, or books that mention the metric and provide more background. If none, put ‘None specified’. 
 
-## Known Contributors
-List of people who would like to be mentioned as contributors to this metric.
 
+## Contributors
+List of people who would like to be mentioned as contributors to this metric
+
+
+## Additional Information
+To edit this metric please [submit a Change Request here]( https://github.com/chaoss/wg-evolution/blob/main/focus-areas/issue-resolution/issue-resolution-duration.md). <- (Replace with the correct link)
+
+To reference this metric in software or publications please use this stable URL: [https://chaoss.community/?p=3630](https://chaoss.community/?p=3630) <- (Replace with the correct link)
+
+<!-- # For groupings in the knowledge base
+Context tags: [1 to 5 Search keywords - working group, related terms, and synonyms comma delineated]
+Keyword tags: [3 to 5 Search keywords - working group, related terms, and synonyms comma delineated]
+-->
