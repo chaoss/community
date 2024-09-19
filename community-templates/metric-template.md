@@ -1,5 +1,6 @@
 # Name of Metric
 
+
 **Question:** Add the question here
 
 
@@ -16,11 +17,14 @@ An overview of the metric should include:
 <span markdown="1"><details>
 <summary>Click to read more about this metric.</summary>
 
+
 ### Data Collection Strategies 
 (encouraged, e.g., surveys and interviews. Include specific data points to be collected.) 
 
+
 ### Filters 
 (encouraged, different ways you could look at the data) 
+
 
 ### Visualizations
 (encouraged, cite tool/website and date created/retrieved. Citation should be below the image as Figure X: Title (Source, Year))
