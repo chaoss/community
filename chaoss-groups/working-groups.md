@@ -29,11 +29,13 @@ Context WGs are groups of people who share similar contexts related to open sour
 
 * [**Application Ecosystem**](https://github.com/chaoss/wg-app-ecosystem): This working group applies CHAOSS metrics in the context of an open-source app ecosystem. The mission of this working group is to build a base set of metrics that is focused on the needs of open source communities that are part of the FOSS app ecosystem.
 
-* [**University**](https://docs.google.com/document/d/1ZZg8vGQOgfhK6P6G8GQse6OaN3yb2Z_IQVyINa-0TZs/edit): The University working group is a joint effort between the CHAOSS project and the OSPO++ community that aims to create a set of recommendations for metrics related to university open source software, particularly as they relate to what might be seen as “success” for university leadership, faculty, students, and staff, keeping in mind that these actors may evaluate success differently. 
+* [**University / Academic**](https://docs.google.com/document/d/1ZZg8vGQOgfhK6P6G8GQse6OaN3yb2Z_IQVyINa-0TZs/edit): The University working group is a joint effort between the CHAOSS project and the OSPO++ community that aims to create a set of recommendations for metrics related to university open source software, particularly as they relate to what might be seen as “success” for university leadership, faculty, students, and staff, keeping in mind that these actors may evaluate success differently. 
 
-* [**Science**](https://github.com/chaoss/wg-science): The Science working group aims create a set of recommendations for metrics and models related to scientific open source communities. 
+* [**Science / Research**](https://github.com/chaoss/wg-science): The Science working group aims create a set of recommendations for metrics and models related to scientific open source communities. 
 
+* [**Data Science**](https://github.com/chaoss/wg-data-science): We collaborate with data scientists and researchers to shape how we understand open source community health and make it easier for people to use CHAOSS tools, metrics, and metrics models to draw meaningful insights that they can use to improve open source project health using data science-based approaches.
 
+* [**UN Sustainable Development Goals (SDGs)**](https://docs.google.com/document/d/17VAYItNIw_i36mCUyBs1t9fEK_Ks1vjhOJFRfIA1CjM/edit?usp=sharing): The UN SDG working group focuses on using CHAOSS metrics to help understand the role of open source projects and their progress toward achieving the UN SDGs.
 
 ## 3. Operations Working Groups
 
