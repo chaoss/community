@@ -41,9 +41,9 @@ List of people who would like to be mentioned as contributors to this metric
 
 ## Additional Information
 
-To edit this metric please [submit a Change Request here](https://github.com/chaoss/wg-evolution/blob/main/focus-areas/issue-resolution/issue-resolution-duration.md). <- (Replace the link with the correct one.)
+To edit this metric please [submit a Change Request here](https://github.com/chaoss/wg-evolution/blob/main/focus-areas/issue-resolution/issue-resolution-duration.md). <- (Replace this link with the correct link)
 
-To reference this metric in software or publications please use this stable URL: <https://chaoss.community/?p=3630> <- (Replace the link with the correct one)
+To reference this metric in software or publications please use this stable URL: <https://chaoss.community/?p=3630> <- (Replace this link with the correct link)
 
 <!-- # For groupings in the knowledge base
 Context tags: [1 to 5 Search keywords - working group, related terms, and synonyms comma delineated]
