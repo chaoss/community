@@ -95,3 +95,4 @@ We are very interested in including every type of contribution in our [Types of 
 | @sgoggins | Facilitated wg-Science Meeting | OSS Sciencew | [2024-08-19](https://github.com/chaoss/community/issues/676) | Community Building and Management |
 | @peculiaruc | Walkthrough of CHAOSS Education Project with the Technical Writing Team | Education | [2024-09-11](https://github.com/chaoss/community/issues/678) | Teaching and Tutorial Building |
 | @peculiaruc | Facilitated CHAOSS Africa Meeting | CHAOSS Community | [2024-09-19](https://github.com/chaoss/community/issues/680) | Community Building and Management |
+| @ALIPHATICHYD | Repo Cleanup | Closed issues of finished Hacktober Fest Repos | [2024-10-01](https://github.com/chaoss/community/issues/684) | Project Management |
