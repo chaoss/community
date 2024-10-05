@@ -100,3 +100,4 @@ We are very interested in including every type of contribution in our [Types of 
 | @peculiaruc | Facilitated the Recording of Education Video | CHAOSS Education | [2024-09-28](https://github.com/chaoss/community/issues/687) | Teaching and Tutorial Building |
 | @peculiaruc | Facilitated the Recording of Education Video | CHAOSS Education | [2024-09-27](https://github.com/chaoss/community/issues/688) | Teaching and Tutorial Building |
 | @peculiaruc | Facilitated the Recording of Education Video | CHAOSS Education | [2024-09-30](https://github.com/chaoss/community/issues/689) | Teaching and Tutorial Building |
+| @peculiaruc | Facilitated the Recording of Education Video | CHAOSS Education | [2024-10-05](https://github.com/chaoss/community/issues/690) | Teaching and Tutorial Building |
