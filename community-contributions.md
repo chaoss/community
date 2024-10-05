@@ -98,3 +98,4 @@ We are very interested in including every type of contribution in our [Types of 
 | @ALIPHATICHYD | Repo Cleanup | Closed issues of finished Hacktober Fest Repos | [2024-10-01](https://github.com/chaoss/community/issues/684) | Project Management |
 | @peculiaruc | Facilitated the Recording of Education Video | CHAOSS Education | [2024-09-23](https://github.com/chaoss/community/issues/686) | Teaching and Tutorial Building |
 | @peculiaruc | Facilitated the Recording of Education Video | CHAOSS Education | [2024-09-28](https://github.com/chaoss/community/issues/687) | Teaching and Tutorial Building |
+| @peculiaruc | Facilitated the Recording of Education Video | CHAOSS Education | [2024-09-27](https://github.com/chaoss/community/issues/688) | Teaching and Tutorial Building |
