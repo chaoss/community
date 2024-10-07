@@ -54,11 +54,24 @@ further defined and clarified by project maintainers.
 
 ## Enforcement
 
-Instances of abusive, harassing, or otherwise unacceptable behavior may be reported by contacting the CHAOSS Code of Conduct Team at [chaoss-conduct@googlegroups.com](chaoss-conduct@googlegroups.com). For more details, like what information to include, please review the [Procedure for making a Code of Conduct report](https://docs.google.com/document/d/1OEwAJwtK5NnJNXuszPRBK-G3t6zKo8bWkB94RS1ezKU/edit#heading=h.7z74t7tntuki).
+Instances of abusive, harassing, or otherwise unacceptable behavior
+may be reported by contacting the CHAOSS Code of Conduct Team
+at [chaoss-conduct@googlegroups.com](chaoss-conduct@googlegroups.com).
+For more details, like what information to include, please review 
+the [Procedure for making a Code of Conduct report](https://docs.google.com/document/d/1OEwAJwtK5NnJNXuszPRBK-G3t6zKo8bWkB94RS1ezKU/edit#heading=h.7z74t7tntuki).
 
-In accordance with our [Code of Conduct Incident Response Plan](https://docs.google.com/document/d/1616B4gxKDftbVhil3NpFu4juE5mZ_zx4GpPs9O_YtUQ/edit), all complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances. The Code of Conduct Team is obligated to maintain confidentiality with regard to the reporter of an incident.
+In accordance with our [Code of Conduct Incident Response Plan](https://docs.google.com/document/d/1616B4gxKDftbVhil3NpFu4juE5mZ_zx4GpPs9O_YtUQ/edit), 
+all complaints will be reviewed and investigated
+and will result in a response that is deemed necessary and
+appropriate to the circumstances. The Code of Conduct Team is
+obligated to maintain confidentiality with regard to the reporter of an incident.
 
-We will respect confidentiality requests for the purpose of protecting victims of unacceptable behavior. At our discretion, we may publicly name a person about whom we’ve received unacceptable behavior complaints, or privately warn third parties about them, if we believe that doing so will increase the safety of CHAOSS members or the general public. We will not name victims without their affirmative consent.
+We will respect confidentiality requests for the purpose of protecting
+victims of unacceptable behavior. At our discretion, we may publicly name
+a person about whom we’ve received unacceptable behavior complaints or privately
+warn third parties about them if we believe that doing so will increase the
+safety of CHAOSS members or the general public. We will not name victims
+without their affirmative consent.
 
 ## Who to Contact
 
