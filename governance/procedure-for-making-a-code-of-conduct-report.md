@@ -54,11 +54,11 @@ However, some incidents occur in one-on-one interactions, and even if details ar
 In certain cases, a public statement may need to be made. If this happens, the identities of those impacted by the behavior and those who reported it will remain confidential unless otherwise instructed by those individuals.
 
 ## Report Handling Procedure
-When you make a report in person to an incident responder, they will gather information about the incident following the [CHAOSS Incident Response Procedure](https://docs.google.com/document/d/1616B4gxKDftbVhil3NpFu4juE5mZ_zx4GpPs9O_YtUQ/edit).
+When you make a report in person to an incident responder, they will gather information about the incident following the [CHAOSS Incident Response Procedure](https://chaoss.community/code-of-conduct-incident-response-plan).
 
 For email or in-person incident reports, we strive to acknowledge your report within 48 hours.
 
-The CHAOSS Code of Conduct committee will meet to determine an appropriate response to your report. Possible responses are outlined in the [Code of Conduct Incident Response Procedure](https://docs.google.com/document/d/1616B4gxKDftbVhil3NpFu4juE5mZ_zx4GpPs9O_YtUQ/edit). In some cases, the committee may need to ask additional questions about the incident.
+The CHAOSS Code of Conduct committee will meet to determine an appropriate response to your report. Possible responses are outlined in the [Code of Conduct Incident Response Procedure](https://chaoss.community/code-of-conduct-incident-response-plan). In some cases, the committee may need to ask additional questions about the incident.
 
 ### Conflicts of Interest
 If a Code of Conduct committee member has a conflict of interest for a report, they will recuse themselves from the discussion and handling of the incident. The incident documentation will not be available to them, and they will excuse themselves from any related conversations.
