@@ -105,3 +105,4 @@ We are very interested in including every type of contribution in our [Types of 
 | @Maryblessing | Newcomers hangout facilitation | Community operations | [2025-02-11](https://github.com/chaoss/community/issues/698) | Community Building and Management |
 | @Maryblessing | Newcomers hangout facilitation | Community operations | [2025-02-18](https://github.com/chaoss/community/issues/699) | Community Building and Management |
 | @Maryblessing | Newcomers hangout facilitation | Community operations | [2025-02-04](https://github.com/chaoss/community/issues/700) | Community Building and Management |
+| @Maryblessing | Newcomer Tour Guide | Community operations | [2025-02-05](https://github.com/chaoss/community/issues/701) | Community Building and Management |
