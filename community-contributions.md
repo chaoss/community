@@ -103,3 +103,4 @@ We are very interested in including every type of contribution in our [Types of 
 | @peculiaruc | Facilitated the Recording of Education Video | CHAOSS Education | [2024-10-05](https://github.com/chaoss/community/issues/690) | Teaching and Tutorial Building |
 | @Mayaleeeee | Design | Created a flyer design for puzzle game | [2024-28-10](https://github.com/chaoss/community/issues/693) | Creative Work and Design |
 | @Maryblessing | Newcomers hangout facilitation | Community operations | [2025-02-11](https://github.com/chaoss/community/issues/698) | Community Building and Management |
+| @Maryblessing | Newcomers hangout facilitation | Community operations | [2025-02-18](https://github.com/chaoss/community/issues/699) | Community Building and Management |
