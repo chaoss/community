@@ -104,3 +104,4 @@ We are very interested in including every type of contribution in our [Types of 
 | @Mayaleeeee | Design | Created a flyer design for puzzle game | [2024-28-10](https://github.com/chaoss/community/issues/693) | Creative Work and Design |
 | @Maryblessing | Newcomers hangout facilitation | Community operations | [2025-02-11](https://github.com/chaoss/community/issues/698) | Community Building and Management |
 | @Maryblessing | Newcomers hangout facilitation | Community operations | [2025-02-18](https://github.com/chaoss/community/issues/699) | Community Building and Management |
+| @Maryblessing | Newcomers hangout facilitation | Community operations | [2025-02-04](https://github.com/chaoss/community/issues/700) | Community Building and Management |
