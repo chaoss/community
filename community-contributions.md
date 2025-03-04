@@ -108,4 +108,4 @@ We are very interested in including every type of contribution in our [Types of 
 | @Maryblessing | Newcomer Tour Guide | CHAOSS Community | [2025-02-05](https://github.com/chaoss/community/issues/701) | Community Building and Management |
 | @adityajha2005 | Update Twitter logo to X and url too | Social Media Links , UI Update | [2025-02-28](https://github.com/chaoss/community/issues/704) | Website Development |
 | @Amalearner | CHAOSS Badger | Reviewed Events Badging Tickets | [2025-02-04](https://github.com/chaoss/community/issues/719) | Bug Triaging |
-| @Maryblessing | Facilitated Newcomers Hangout | Community Management | [2025-03-4](https://github.com/chaoss/community/issues/720) | Community Building and Management |
+| @Maryblessing | Newcomers Hangout Facilitation| CHAOSS Community | [2025-03-4](https://github.com/chaoss/community/issues/720) | Community Building and Management |
