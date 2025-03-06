@@ -109,3 +109,4 @@ We are very interested in including every type of contribution in our [Types of 
 | @adityajha2005 | Update Twitter logo to X and url too | Social Media Links , UI Update | [2025-02-28](https://github.com/chaoss/community/issues/704) | Website Development |
 | @Amalearner | CHAOSS Badger | Reviewed Events Badging Tickets | [2025-02-04](https://github.com/chaoss/community/issues/719) | Bug Triaging |
 | @Maryblessing | Newcomers Hangout Facilitation| CHAOSS Community | [2025-03-4](https://github.com/chaoss/community/issues/720) | Community Building and Management |
+| @sgoggins | Ospology Planning | Metrics, Projects, Augur | [2024-03-27](https://github.com/chaoss/community/issues/721) | Community Building and Management |
