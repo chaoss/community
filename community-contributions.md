@@ -110,3 +110,4 @@ We are very interested in including every type of contribution in our [Types of 
 | @Amalearner | CHAOSS Badger | Reviewed Events Badging Tickets | [2025-02-04](https://github.com/chaoss/community/issues/719) | Bug Triaging |
 | @Maryblessing | Newcomers Hangout Facilitation| CHAOSS Community | [2025-03-4](https://github.com/chaoss/community/issues/720) | Community Building and Management |
 | @sgoggins | Ospology Planning | Metrics, Projects, Augur | [2024-03-27](https://github.com/chaoss/community/issues/721) | Community Building and Management |
+| @KhanRayyan3622 | [Augur]: Fix Docker Build Script Path - install-golang-deps.sh Not Found | Docker setup / Dev Environment | [2025-03-26](https://github.com/chaoss/community/issues/722) | Bug Triaging |
