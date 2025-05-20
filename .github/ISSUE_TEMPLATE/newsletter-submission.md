@@ -1,8 +1,8 @@
 ---
 name: Newsletter Submission
 about: Use this template if you have something to add to the CHAOSS newsletter
-title: "[CHAOSSMonthly Submission]"
-labels: ''
+title: "[CHAOSSMonthly Submission] - TOPIC"
+labels: newsletter
 assignees: ''
 
 ---
