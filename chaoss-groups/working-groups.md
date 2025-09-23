@@ -1,7 +1,7 @@
 
 # Active CHAOSS Working Groups
 
-CHAOSS has four types of active working groups. 
+CHAOSS has three types of active working groups. 
 
 ## 1. Metrics Working Groups
 Metrics working groups are responsible for developing and maintaining metrics definitions and metrics models.
@@ -44,17 +44,14 @@ The Operations Working Groups are supporting the metrics discussions and are res
 
 * [**Education**](https://github.com/chaoss/education) The [Education Project](https://chaoss.community/chaoss-education/) is designed to act as an easily accessible collection of resources for newcomers to the CHAOSS project. Chair: Peculiar Umeh.
 
-* [**Project Managers**](https://docs.google.com/document/d/1PMDWc6xMe0fNE7shxTK5_HE_ykRBG5w55_Zx5hvzsEY/edit?pli=1&tab=t.k4fa6k66tri0). The Project Managers help other working groups and initiatives with project management assistance when needed. Co-Chairs: Peculiar Umeh, Busayo Ojo. 
+* [**Project Managers**](https://docs.google.com/document/d/1PMDWc6xMe0fNE7shxTK5_HE_ykRBG5w55_Zx5hvzsEY/edit?pli=1&tab=t.k4fa6k66tri0). The Project Managers help other working groups and initiatives with project management assistance when needed. Co-Chairs: Peculiar Umeh, Busayo Ojo.
+
+* [**Software Devs**](https://docs.google.com/document/d/1PMDWc6xMe0fNE7shxTK5_HE_ykRBG5w55_Zx5hvzsEY/edit?pli=1&tab=t.43pdyq2xrjjl) This is a CHAOSS Africa based group working to help new software developers find issues to work on at CHAOSS. Chair: Adeyinka Oresanya. 
 
 * [**Technical Writers**](https://docs.google.com/document/d/1PMDWc6xMe0fNE7shxTK5_HE_ykRBG5w55_Zx5hvzsEY/edit?pli=1&tab=t.k4fa6k66tri0) This is a CHAOSS Africa based group that focuses on improving the documentation at CHAOSS. Chair: Harmony Elendu.
 
 * [**Website**](https://docs.google.com/document/d/1p079Q75RZ2Duk-nX4osXY2v3oFjqF6-BTZG6XPx8iQ4/edit#heading=h.9qd11sbe2wiy): The Website working group focus on maintenance of CHAOSS Website. Co-Chairs: Elizabeth Barron and Kevin Lumbard.
 
-## 4. Software Working Groups
-
-* [**Augur**](https://github.com/chaoss/augur) This Working Group works closely with the team working on 8-Knot in the development of the [Augur software](https://chaoss.community/software/). Co-Chairs: Sean Goggins and Cali Dolfi.
-
-* [**GrimoireLab**](https://chaoss-workspace.slack.com/archives/C022NPTPC8Z) This group works on the development of the [GrimoireLab software](https://chaoss.community/software/).
 
 ## Inactive Working Groups
 
