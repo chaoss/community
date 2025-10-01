@@ -18,7 +18,7 @@ Context WGs are groups of people who share similar contexts related to open sour
 
 * [**Science / Research**](https://github.com/chaoss/wg-science): The Science working group aims create a set of recommendations for metrics and models related to scientific open source communities. Chair: Sean Goggins.
 
-* [**Data Science**](https://github.com/chaoss/wg-data-science): We collaborate with data scientists and researchers to shape how we understand open source community health and make it easier for people to use CHAOSS tools, metrics, and metrics models to draw meaningful insights that they can use to improve open source project health using data science-based approaches. Co-Chairs: Dawn Foster and Sal Kimmich.
+* [**Data Science**](https://github.com/chaoss/wg-data-science): We collaborate with data scientists and researchers to shape how we understand open source community health and make it easier for people to use CHAOSS tools, metrics, and metrics models to draw meaningful insights that they can use to improve open source project health using data science-based approaches. Co-Chairs: Dawn Foster, Cali Dolfi, and Sal Kimmich.
 
 * [**UN Sustainable Development Goals (SDGs)**](https://docs.google.com/document/d/17VAYItNIw_i36mCUyBs1t9fEK_Ks1vjhOJFRfIA1CjM/edit?usp=sharing): The UN SDG working group focuses on using CHAOSS metrics to help understand the role of open source projects and their progress toward achieving the UN SDGs. Co-Chairs: Ruth Ikegah and David Lippert.
 
@@ -42,9 +42,9 @@ The Operations Working Groups are supporting the metrics discussions and are res
 
 * [**Design**](https://docs.google.com/document/d/1PMDWc6xMe0fNE7shxTK5_HE_ykRBG5w55_Zx5hvzsEY/edit?pli=1&tab=t.rcu7r2phb3pt). This is a CHAOSS Africa group that supports the design needs for CHAOSS and CHAOSS projects. Chair: Kingsley Mkpandiok.
 
-* [**Education**](https://github.com/chaoss/education) The [Education Project](https://chaoss.community/chaoss-education/) is designed to act as an easily accessible collection of resources for newcomers to the CHAOSS project. Chair: Peculiar Umeh.
+* [**Education**](https://github.com/chaoss/education) The [Education Project](https://chaoss.community/chaoss-education/) is designed to act as an easily accessible collection of resources for newcomers to the CHAOSS project. Co-Chairs: Peculiar Umeh and Dawn Foster
 
-* [**Project Managers**](https://docs.google.com/document/d/1PMDWc6xMe0fNE7shxTK5_HE_ykRBG5w55_Zx5hvzsEY/edit?pli=1&tab=t.k4fa6k66tri0). The Project Managers help other working groups and initiatives with project management assistance when needed. Co-Chairs: Peculiar Umeh, Busayo Ojo.
+* [**Project Managers**](https://docs.google.com/document/d/1PMDWc6xMe0fNE7shxTK5_HE_ykRBG5w55_Zx5hvzsEY/edit?pli=1&tab=t.k4fa6k66tri0). The Project Managers help other working groups and initiatives with project management assistance when needed. Co-Chairs: Peculiar Umeh and Busayo Ojo.
 
 * [**Software Devs**](https://docs.google.com/document/d/1PMDWc6xMe0fNE7shxTK5_HE_ykRBG5w55_Zx5hvzsEY/edit?pli=1&tab=t.43pdyq2xrjjl) This is a CHAOSS Africa based group working to help new software developers find issues to work on at CHAOSS. Chair: Adeyinka Oresanya. 
 
