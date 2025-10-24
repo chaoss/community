@@ -2,7 +2,7 @@
 The audience for this document is the Code of Conduct committee for CHAOSS (but anyone is welcome to read it!). The goal of this document is for the committee to have a consistent method of handling any CoC incidents reported in the CHAOSS project and community.
 
 ## Code of Conduct committee members
-MaryBlessing Okolie, Georg Link, Anita Ihuman
+Maryblessing Okolie, Kevin Lumbard, Anita Ihuman
 
 ### Reporting methods
 The report can be made via email to <chaoss-conduct@googlegroups.com>. Each CHAOSS event will have organizers to whom reports can also be made.
