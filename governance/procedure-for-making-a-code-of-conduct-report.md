@@ -9,8 +9,8 @@ You can make a report via email to **<chaoss-conduct@googlegroups.com>**.
 
 The email **<chaoss-conduct@googlegroups.com>** reaches all and only the CHAOSS Code of Conduct committee members:
 
-- MaryBlessing Okolie
-- Georg Link
+- Maryblessing Okolie
+- Kevin Lumbard
 - Anita Ihuman
 
 ### How to Make a Report at a CHAOSS Event
