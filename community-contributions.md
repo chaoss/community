@@ -112,3 +112,4 @@ We are very interested in including every type of contribution in our [Types of 
 | @sgoggins | Ospology Planning | Metrics, Projects, Augur | [2024-03-27](https://github.com/chaoss/community/issues/721) | Community Building and Management |
 | @KhanRayyan3622 | [Augur]: Fix Docker Build Script Path - install-golang-deps.sh Not Found | Docker setup / Dev Environment | [2025-03-26](https://github.com/chaoss/community/issues/722) | Bug Triaging |
 | @Maryblessing | Communtiy Tour guide | CHAOSS Community | [2025-06-24](https://github.com/chaoss/community/issues/733) | Community Building and Management |
+| @ElizabethN | Community Meeting | Community | [2025-11-04](https://github.com/chaoss/community/issues/752) | Community Building and Management |
