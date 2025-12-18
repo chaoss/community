@@ -135,6 +135,43 @@ Time zones permitting, people in the roles listed above are expected to particip
 
 [Code of Conduct](https://chaoss.community/code-of-conduct/) violations by community members will be discussed and resolved by the Code of Conduct Enforcement Committee, which is appointed by the Governing Board.
 
+# Finances
+
+The CHAOSS Project Charter section 6 states that CHAOSS "will not raise any funds and will
+be supported on a volunteer basis," but the Governing Board can "coordinate any budget or funding needs with The Linux Foundation."
+
+## The Finance Committee
+
+The Governing Board appoints a finance committee to manage any money given to the CHAOSS
+project.
+
+Responsibilities:
+
+- Report at board meetings about the current financial situation.
+- Approve all expenses.
+- Coordinate with donors and sponsors to receive funds.
+
+## Accepting Donations and Sponsorships
+
+Donations and Sponsorships are given to CHAOSS by either directly paying for a service or
+in money. CHAOSS uses two platforms for transparently accepting and dispersing money:
+
+- [Open Collective](https://opencollective.com/chaoss)
+- [LFX Crowdfunding](https://crowdfunding.lfx.linuxfoundation.org/projects/chaoss)
+
+## CHAOSS Budget and Funding Needs
+
+Funding needs that CHAOSS has, include:
+
+- Organizing CHAOSScon events
+- Editing the CHAOSScast podcast
+- Offering travel stipends for CHAOSS members
+- Hosting of community resources and platforms (e.g., Slack)
+
+## Requesting Funds from CHAOSS for an Expense
+
+Email all Finance Committee Members with the request. The approval process is informal.
+
 # Modifications
 
 Any modifications to this governance document are made by a vote of the Governing Board as defined in the [CHAOSS Project Charter](https://chaoss.community/charter/).
