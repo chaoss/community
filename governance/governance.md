@@ -161,7 +161,7 @@ in money. CHAOSS uses two platforms for transparently accepting and dispersing m
 
 ## CHAOSS Budget and Funding Needs
 
-Funding needs that CHAOSS has, include:
+Funding needs that CHAOSS has may include:
 
 - Organizing CHAOSScon events
 - Editing the CHAOSScast podcast
