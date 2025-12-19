@@ -171,7 +171,7 @@ Funding needs that CHAOSS has may include:
 
 ## Requesting Funds from CHAOSS for an Expense
 
-Email all Finance Committee Members with the request. The approval process is informal.
+Email all Finance Committee Members with the request. Review and approval will be done via email.
 
 # Modifications
 
