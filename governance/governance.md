@@ -167,6 +167,7 @@ Funding needs that CHAOSS has may include:
 - Editing the CHAOSScast podcast
 - Offering travel stipends for CHAOSS members
 - Hosting of community resources and platforms (e.g., Slack)
+- Other community support needs with approval of the Governing Board
 
 ## Requesting Funds from CHAOSS for an Expense
 
