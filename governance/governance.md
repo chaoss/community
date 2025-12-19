@@ -154,7 +154,7 @@ Responsibilities:
 ## Accepting Donations and Sponsorships
 
 Donations and Sponsorships are given to CHAOSS by either directly paying for a service or
-in money. CHAOSS uses two platforms for transparently accepting and dispersing money:
+via monetary contributions. CHAOSS uses two platforms for transparently accepting and dispersing money:
 
 - [Open Collective](https://opencollective.com/chaoss)
 - [LFX Crowdfunding](https://crowdfunding.lfx.linuxfoundation.org/projects/chaoss)
