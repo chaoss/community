@@ -148,7 +148,7 @@ project.
 Responsibilities:
 
 - Report at board meetings about the current financial situation.
-- Approve all expenses.
+- Review and approve/decline all requested expenses.
 - Coordinate with donors and sponsors to receive funds.
 
 ## Accepting Donations and Sponsorships
