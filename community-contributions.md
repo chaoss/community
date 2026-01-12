@@ -117,3 +117,4 @@ We are very interested in including every type of contribution in our [Types of 
 | @Ijeoma-Onwuka | Spoke at OpenForum Academy Symposium 2025 | CHAOSS DEI Project Badging Initiative | [2025-11-19](https://github.com/chaoss/community/issues/754) | Speaking at Events about CHAOSS |
 | @GeorgLink | [CHAOSScon EU 2026]: Facilitated the CFP process and built the schedule | CHAOSScon EU 2026 CFP Process | [2025-12-07](https://github.com/chaoss/community/issues/757) | Event Organization |
 | @em07-adoz | CHAOSScon EU 2026 | CFP Review | [2025-11-14](https://github.com/chaoss/community/issues/759) | Bug Triaging |
+| @cdolfi | NAME | CFP Reviews | [November 20, 2025](https://github.com/chaoss/community/issues/760) | Event Organization |
