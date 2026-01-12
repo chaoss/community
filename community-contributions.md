@@ -10,7 +10,7 @@ If you are spending a block of time dedicated to CHAOSS, that counts as a "contr
 
 ### Types of Contributions
 
-We are very interested in including every type of contribution in our [Types of Contribution Metric](https://chaoss.community/?p=3432), so please add the type with your PR. If you don't see your type listed, please [open an issue](https://github.com/chaoss/community/issues) in the CHAOSS Community Repo and we will add it to the metric.
+We are very interested in including every type of contribution in our [Types of Contribution Metric](https://chaoss.community/?p=3432), so please add the type with your PR. If you don't see your type listed, please [open an issue](https://github.com/chaoss/community/issues/new?template=01-Contribution.yaml) in the CHAOSS Community Repo and we will add it to the metric.
 
 <details>
 <summary>Click for the list of Types of Contributions</summary>
