@@ -118,3 +118,4 @@ We are very interested in including every type of contribution in our [Types of 
 | @GeorgLink | [CHAOSScon EU 2026]: Facilitated the CFP process and built the schedule | CHAOSScon EU 2026 CFP Process | [2025-12-07](https://github.com/chaoss/community/issues/757) | Event Organization |
 | @em07-adoz | CHAOSScon EU 2026 | CFP Review | [2025-11-14](https://github.com/chaoss/community/issues/759) | Bug Triaging |
 | @cdolfi | NAME | CFP Reviews | [November 20, 2025](https://github.com/chaoss/community/issues/760) | Event Organization |
+| @LauraLangdon | CHAOSSCon EU 2026 | CFP Reviews | [2025-11-20](https://github.com/chaoss/community/issues/761) | Event Organization |
