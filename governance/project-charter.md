@@ -8,7 +8,7 @@
 
 **Effective: Sept 1, 2017**
 
-**Last Updated: March 15, 2019**
+**Last Updated: January 14, 2026**
 
 This Charter sets forth the responsibilities and procedures for technical contribution to, and oversight of, the CHAOSS – Community Health Analytics Open Source Software Project (the “Project”) within The Linux Foundation. Contributors to the Project must comply with the terms of the Charter as well as any applicable policies of The Linux Foundation.
 
@@ -26,27 +26,29 @@ The mission of the Project is to:
 
 1.  The Governance Board (the “GB”) shall be responsible for overall oversight of the Project and coordination of the efforts of any Technical Committees and Working Groups.
 
-2.  At inception of the Project, the GB voting members consists of those individuals identified on the Project website (https://chaoss.community). Following inception of the Project, the GB will implement procedures and methodologies for the selection of GB voting members from the contributing community.
+2. GB voting members will be elected from the contributing community to serve a 2-year term. The election procedures and methodology are documented in https://github.com/chaoss/community/elections.
 
-3.  The GB will encourage transparency (e.g. publish public minutes). Committee and Working Group meetings will be open to the public, and can be conducted electronically, via teleconference, or in person.
+3. CHAOSS software projects are defined in the Software Subprojects section of the CHAOSS Governance document (https://chaoss.community/governance/). Each CHAOSS software project will have a dedicated seat on the GB. Each software subproject must define an election process to select their representative. The representative must meet the eligibility criteria to run in the election. That representative serves a 2 year term when this election process needs to be repeated.
 
-4.  The GB has the authority to create Committees that may focus on code or non-code efforts to advance the Mission (such as standards, specifications, and/or architecture). The Committees of the Project are the “Software Committee,” responsible for technical oversight of inbound and outbound coding projects, and the “Metrics Committee,” responsible for the collection of technology-agnostic metrics and standards to be developed by the Project, and the GB shall provide coordination of the interrelationship between the Software and Metrics Committees.
+4.  The GB will encourage transparency (e.g. publish public minutes). Committee and Working Group meetings will be open to the public, and can be conducted electronically, via teleconference, or in person.
 
-5.  Working Groups are established and maintained by Project contributors to advance Project work. Working Groups focus on specific metric, methodological, ethical, and technical issues associated with open source project health.
+5.  The GB has the authority to create Committees that may focus on code or non-code efforts to advance the Mission (such as standards, specifications, and/or architecture). 
 
-6.  Roles: Committees and Working Groups involve Contributors and Maintainers:
+6.  Working Groups are established and maintained by Project contributors to advance Project work. Working Groups focus on specific metric, methodological, ethical, and technical issues associated with open source project health.
+
+7.  Roles: Committees and Working Groups involve Contributors and Maintainers:
 
     1.  Contributors: anyone in the community that contributes code, documentation, use cases, standardized metrics, or other community activities related to the Project;
 
     2. Maintainers: Contributors who have the ability to commit directly to a Project’s repository and are responsive to contributions or changes from Contributors. Maintainers are listed in the README of each repository.
 
-7.  Participation in the Project, including contributions to any Committee or Working Group, is open to all under the terms of this Charter.
+8.  Participation in the Project, including contributions to any Committee or Working Group, is open to all under the terms of this Charter.
 
-8.  The GB may (1) establish work flow procedures for the submission, approval, and closure/archiving of Committees and projects of Committees, (2) set requirements for the promotion to or removal from Committee roles, as applicable, and (3) amend, adjust, refine and/or eliminate the roles as it sees fit.
+9.  The GB may (1) establish work flow procedures for the submission, approval, and closure/archiving of Committees and projects of Committees, (2) set requirements for the promotion to or removal from Committee roles, as applicable, and (3) amend, adjust, refine and/or eliminate the roles as it sees fit.
 
-9.  The GB shall annually elect a GB Chair and GB Co-Chair from representatives involved in either or both the Software or Metrics Committees, such that both the Software and Metrics Committees will be represented by the Co-Chairs. The Chair and Co-Chair will set the agenda and preside over meetings of the GB.
+10. The GB has 2 co-chairs that equally share the responsibility for setting the agenda and presiding over meetings of the GB. The Co-Chairs are voting members of the GB, and co-chairs cast their votes last. After each election, one new co-chair is selected via a vote by the GB from the newly elected board members who are starting a 2-year term and will serve as co-chair for their entire 2-year term. This is designed for continuity with the existing co-chair, having one year remaining as co-chair, with an overlap for knowledge sharing with the newly selected co-chair. If either co-chair needs to step down for any reason, a new co-chair will be selected from the existing GB via a vote by the GB. The newly selected GB member will serve as a co-chair for the time remaining for the co-chair who stepped down, or till the end of their term on the GB, whichever comes first.
 
-0.  Responsibilities: The GB shall also be responsible for:
+11.  Responsibilities: The GB shall also be responsible for:
 
     1.  coordinating the direction of the Project;
 
