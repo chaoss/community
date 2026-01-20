@@ -3,5 +3,5 @@
 ### [Ildikó Váncsa](https://www.linkedin.com/in/ildiko-vancsa/)
 **Board Member**
 2017 - 2026
-Linux Foundation
+OpenInfra Foundation (LF)
 📍 USA
