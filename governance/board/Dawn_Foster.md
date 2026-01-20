@@ -2,5 +2,6 @@
 
 ### [Dawn Foster](https://www.linkedin.com/in/dawnfoster/)
 **Co-Chair**
-
+2019 - 2027
+Self-employed
 📍 UK

@@ -2,5 +2,6 @@
 
 ### [Kate Stewart](https://www.linkedin.com/in/katestewartaustin/)
 **Board Member**
-
+2019 - 2026
+Linux Foundation
 📍 USA

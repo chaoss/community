@@ -2,5 +2,6 @@
 
 ### [Brian Proffitt](https://www.linkedin.com/in/brianproffitt/)
 **Board Member**
-
+2023 - 2026
+Red Hat
 📍 USA

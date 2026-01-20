@@ -2,5 +2,6 @@
 
 ### [Georg Link](https://www.linkedin.com/in/georglink/)
 **Board Member**
-
+2019 - 2026
+Bitergia
 📍 USA

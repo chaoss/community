@@ -2,5 +2,6 @@
 
 ### [Sophia Vargas](https://www.linkedin.com/in/sophia-vargas-54608220/)
 **Board Member**
-
+2021 - 2027
+Google
 📍 USA

@@ -2,5 +2,6 @@
 
 ### [Anita ihuman](https://www.linkedin.com/in/anita-ihuman/)
 **Board Member**
-
+2023 - 2027
+Self-employed
 📍 Nigeria

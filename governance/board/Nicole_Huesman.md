@@ -2,5 +2,6 @@
 
 ### [Nicole Huesman](https://www.linkedin.com/in/nicolehuesman/)
 **Board Member**
-
+2019 - 2026
+Self-employed
 📍 USA

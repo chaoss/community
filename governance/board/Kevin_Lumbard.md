@@ -2,5 +2,6 @@
 
 ### [Kevin Lumbard](https://www.linkedin.com/in/kevin-m-lumbard/)
 **Board Member**
-
+2023 - 2027
+Creighton University
 📍 USA

@@ -2,5 +2,6 @@
 
 ### [Yehui Wang](https://www.linkedin.com/in/yehuiwang/)
 **Board Member**
-
+2021 - 2027
+Huawei
 📍 China
