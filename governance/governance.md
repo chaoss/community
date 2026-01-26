@@ -113,6 +113,18 @@ CHAOSS Maintainers have write access to the project GitHub repository. They can 
 
 Maintainers are selected by Leadership for the Working Group, Software Subproject, or Chapter to be represented.
 
+## Finance Committee
+
+The Governing Board appoints a 
+[finance committee](https://docs.google.com/document/d/1xt4orBNaOXBLXyIw4zAttX6HwWwahmABuvVUwd7zCII/edit?tab=t.0#heading=h.iqa0x1yb7w17)
+to manage any money given to the CHAOSS project.
+
+Responsibilities:
+
+- Report at board meetings about the current financial situation.
+- Review and approve/decline all requested expenses.
+- Coordinate with donors and sponsors to receive funds.
+
 ## Staff Positions
 
 These positions are funded through grants with input from the Governing Board. 
