@@ -1,6 +1,7 @@
 ![Anita Ihuman](https://github.com/chaoss/community/blob/main/governance/board/images/anita-ihuman.jpg)
 
 ### [Anita ihuman](https://www.linkedin.com/in/anita-ihuman/)
-**Board Member**
-
+**Board Member**  
+2023 - 2027  
+Self-employed  
 📍 Nigeria
