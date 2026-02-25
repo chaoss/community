@@ -109,7 +109,7 @@ SustainOSS sponsors CHAOSScast hosting. Everything else is done on a volunteer b
 
 ## 😎 Acknowledgments
 
-**Georg Link** was the key person behind the idea to launch a CHAOSS Community Podcast and the first organizer.
+**Georg Link** was the key person behind the idea to launch a CHAOSS Community Podcast and the first producer.
 
 **Matt Broberg** was the second organizer to join the team and helped establish the podcast.
 
