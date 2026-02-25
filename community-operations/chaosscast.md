@@ -8,7 +8,7 @@ This is a CHAOSS Community project and should never rely on one person only.
 
 ### Roles
 
-There are several roles in creating podcast. These roles can be taken on by different people for each episode. This helps to create a sustainable workload for the volunteers.
+There are several roles in creating the podcast. These roles can be taken on by different people for each episode. This helps to create a sustainable workload for the volunteers.
 
 #### Producer
 A producer works to ensure that the podcast has a pipeline of episodes, and that the episodes get planned, recorded, edited, and published successfully. There are several producers currently:
