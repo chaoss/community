@@ -53,7 +53,7 @@ The [CHAOSS Community podcast](https://podcast.chaoss.community/) elevates conve
 
 ### Description
 
-This podcast fills the gap with open source community metric definitions and software on one side and their use in different contexts on the other side. We invite guests to this podcast to talk about how they use open source community health metrics and software in their own open source communities, companies, or foundations. The guests are often CHAOSS Community members who spent considerable time and effort to understand open source community health and how we can measure it through metrics, analytics and software. The podcast topics should be as relevant to the CHAOSS project as possible.
+This podcast fills the gap with open source community metric definitions and software on one side and their use in different contexts on the other side. We invite guests to this podcast to talk about how they use open source community health metrics and software in their own open source communities, companies, or foundations. The guests can be CHAOTICS but we are always interested in bringing in voices from outside the community, especially from folks who spent considerable time and effort to understand open source community health and how we can measure it through metrics, analytics and software. The podcast topics should be as relevant to the CHAOSS project as possible.
 
 ### Goal
 
