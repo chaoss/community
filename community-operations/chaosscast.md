@@ -111,7 +111,7 @@ SustainOSS sponsors CHAOSScast hosting. Everything else is done on a volunteer b
 
 **Georg Link** was the key person behind the idea to launch a CHAOSS Community Podcast and the first producer.
 
-**Matt Broberg** was the second organizer to join the team and helped establish the podcast.
+**Matt Broberg** was the second producer to join the team and helped establish the podcast.
 
 **Justin Dorfman** worked with Georg and Matt B to onboard CHAOSScast to the CodeFund Podcast Network and define the procedures required for scheduling, recording, and publishing episodes.
 
