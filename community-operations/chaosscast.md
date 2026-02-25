@@ -115,7 +115,7 @@ SustainOSS sponsors CHAOSScast hosting. Everything else is done on a volunteer b
 
 **Justin Dorfman** worked with Georg and Matt B to onboard CHAOSScast to the CodeFund Podcast Network and define the procedures required for scheduling, recording, and publishing episodes.
 
-**Matt Germonprez** and **Dawn Foster** were the first panelists. \([Listen to Epsiode 1](https://podcast.chaoss.community/1)\)
+**Matt Germonprez** and **Dawn Foster** were the first co-hosts. \([Listen to Epsiode 1](https://podcast.chaoss.community/1)\)
 
 **Paul Bahr** from Peachtree Sound is the editor who makes us all sound awesome.
 
