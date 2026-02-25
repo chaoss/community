@@ -32,7 +32,7 @@ A guest is invited to participate in the podcast and may or may not be a member 
 
 #### Editor
 
-An editor is someone who takes the recorded audio file and edits it to sound like a podcast (removing any unwanted sections, adding the music etc). Until around February 2026, CHAOSScast used a professional editing service (Peachtree Sound). However, due to costs, the podcast is moving towards community editing instead. 
+An editor is someone who takes the recorded audio file and edits it to sound like a podcast (removing any unwanted sections, adding the music etc). Until around February 2026, CHAOSScast used a professional editing service (Peachtree Sound). However, due to reduced budget, the podcast is moving towards community editing instead. 
 
 ## Important links
 
