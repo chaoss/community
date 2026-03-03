@@ -1,6 +1,6 @@
 # CHAOSScast
 
-> **This is CHAOSScast,** the CHAOSS Community Podcast where we share use cases and experiences with measuring open source community health. Elevating conversations about metrics, analytics, and software from the Community Health Analytics Open Source Software or short CHAOSS project to where ever you like to listen.
+> **This is CHAOSScast,** the CHAOSS Community Podcast where we share use cases and experiences with measuring open source community health.
 
 ## 👥 Key roles and people
 
@@ -8,43 +8,46 @@ This is a CHAOSS Community project and should never rely on one person only.
 
 ### Roles
 
-Each role should be occupied by different people each episode.
+There are several roles in creating the podcast. These roles can be taken on by different people for each episode. This helps to create a sustainable workload for the volunteers.
 
-### Host
+#### Producer
+A producer works to ensure that the podcast has a pipeline of episodes, and that the episodes get planned, recorded, edited, and published successfully. There are several producers currently:
+1. Alice Sowerby
+2. Harmony Elendu
+3. Georg Link
+4. Leon Nunes
 
-The **host** is responsible for the making the initial connection to potential guests, moderation, and recording the podcast. Each episode has exactly one \(1\) host. A host is also a panelist.
+#### Host
 
-1. Georg Link
-2. Samantha Venia Logan
-3. Sean Goggins
-4. Dawn Foster
+A host is responsible for an individual episode. It is their role to find and confirm potential guests, develop the episode content, agree a recording time, onboard the guests, record the episode and submit it for editing (or they can ask a producer to do that part). Co-hosting is also possible and, in this case, the tasks are shared. At the moment, our usual hosts are also the producers:
 
-### Panelists
+1. Alice Sowerby
+2. Harmony Elendu
+3. Georg Link
+4. Leon Nunes
 
-A **panelist** is responsible for research, asking questions, and adding to the conversation on the podcast. A panelist can be anyone from the CHAOSS community and will be invited based on experience in the topic for a particular episode. In most cases, there will be 2-3 panelists per episode. 
+#### Guest
 
-### Guest
+A guest is invited to participate in the podcast and may or may not be a member of CHAOSS. They are selected based on their relevant expertise on a topic. 
 
-A **guest** is invited to participate in the podcast and may or may not be a member of CHAOSS.
+#### Panelist
+A panelist is similar to a guest, but is not required to be an expert on the topic. Their role is to help bring diverse perspectives to the podcast. Usually, they are a member of CHAOSS.
 
-We have a [Planning Guests document](https://docs.google.com/document/d/1vWreUwzahWGfn3PIVuKJYJ1fJSmbB5BfbLfyhogjnLY/edit) to keep track of who we want to invite.
+#### Editor
 
-### Facilitator
-
-A **facilitator** approves episode topics and assists with the scheduling, confirming podcast dates/times, and acts as a central point of communication for all other roles. This role is typically held by [Dawn Foster](https://github.com/geekygirldawn), but may include other hosts as well.
+An editor is someone who takes the recorded audio file and edits it to sound like a podcast (removing any unwanted sections, adding the music etc). Until around February 2026, CHAOSScast used a professional editing service (Peachtree Sound). However, due to reduced budget, the podcast is moving towards community editing instead. 
 
 ## Important links
 
 * [Google Drive](https://drive.google.com/drive/folders/1gsQF8_R8cdkQBQn6iWa5oFbd52wIdRy4) Maintained by Paul Bahr, our sound editor
 * [Google Drive](https://drive.google.com/drive/folders/14t0-0Bf5rjDaR1PAR854lCnC7xaF4Hnh) Maintained by CHAOSScast Organizers
-* [CHAOSScast Calendar](https://calendar.google.com/calendar/u/0/embed?src=513r47bb756t07lp5tat5nsuj0@group.calendar.google.com) for recording dates
-* Email address for podcast, forwarded to Organizers: [podcast@chaoss.community](mailto:podcast@chaoss.community)
+* Email address for podcast, forwarded to Producers: [podcast@chaoss.community](mailto:podcast@chaoss.community)
 
-## ✍ Strategy
+## ✍ About CHAOSScast
 
 ### Name: CHAOSScast
 
-The CHAOSS community [discussed names on the mailing list](https://lists.linuxfoundation.org/pipermail/chaoss/2020-March/001205.html). _Aastha Bist's_ suggestion **CHAOSScast** was an instant favorite. We considered longer names that were more descriptive but decided to go with the short CHAOSScast and leave SEO to the description
+The CHAOSS community [discussed names on the mailing list](https://lists.linuxfoundation.org/pipermail/chaoss/2020-March/001205.html). _Aastha Bist's_ suggestion **CHAOSScast** was an instant favorite. We considered longer names that were more descriptive but decided to go with the short CHAOSScast and leave SEO to the description.
 
 ### Subtitle
 
@@ -52,7 +55,7 @@ The [CHAOSS Community podcast](https://podcast.chaoss.community/) elevates conve
 
 ### Description
 
-This podcast fills the gap with open source community metric definitions and software on one side and their use in different contexts on the other side. We invite guests to this podcast to talk about how they use open source community health metrics and software in their own open source communities, companies, or foundations. The panelists are CHAOSS Community members who spent considerable time and effort to understand open source community health and how we can measure it through metrics, analytics and software. The podcast topics should be as relevant to the CHAOSS project as possible.
+This podcast fills the gap with open source community metric definitions and software on one side and their use in different contexts on the other side. We invite guests to this podcast to talk about how they use open source community health metrics and software in their own open source communities, companies, or foundations. The guests can be CHAOTICS but we are always interested in bringing in voices from outside the community, especially from folks who spent considerable time and effort to understand open source community health and how we can measure it through metrics, analytics and software. The podcast topics should be as relevant to the CHAOSS project as possible.
 
 ### Goal
 
@@ -74,7 +77,7 @@ Anyone interested in open source community and project metrics, including OSPO m
 
 ### Style
 
-A panel of 2-3 CHAOSS members interviews guest\(s\) who have done or used OSS metrics in their specific context. The interview is about the specific use case of the guest.
+A discussion or informal interview between 2-3 hosts or guest\(s\).
 
 ### Format
 
@@ -104,17 +107,22 @@ The procedures are for the organizer and facilitator of each episode can be foun
 
 ## 💰 CHAOSScast sponsorship and revenue
 
-SustainOSS sponsors CHAOSScast and covers the cost of hosting, editing, and show notes. CHAOSScast currently doesn't generate revenue. An idea for the future is to include CHAOSScast as an option along other sponsorship opportunities like CHAOSScon.
+SustainOSS sponsors CHAOSScast hosting. Everything else is done on a volunteer basis. CHAOSScast currently doesn't generate revenue. 
 
 ## 😎 Acknowledgments
 
-**Georg Link** was the key person behind the idea to launch a CHAOSS Community Podcast and the first organizer.
+**Georg Link** was the key person behind the idea to launch a CHAOSS Community Podcast and the first producer.
 
-**Matt Broberg** was the second organizer to join the team and helped establish the podcast.
+**Matt Broberg** was the second producer to join the team and helped establish the podcast.
 
 **Justin Dorfman** worked with Georg and Matt B to onboard CHAOSScast to the CodeFund Podcast Network and define the procedures required for scheduling, recording, and publishing episodes.
 
-**Matt Germonprez** and **Dawn Foster** were the first panelists. \([Listen to Epsiode 1](https://podcast.chaoss.community/1)\)
+**Matt Germonprez** and **Dawn Foster** were the first co-hosts. \([Listen to Epsiode 1](https://podcast.chaoss.community/1)\)
 
 **Paul Bahr** from Peachtree Sound is the editor who makes us all sound awesome.
+
+**Alice Sowerby** and **Harmony Elendu** who took on producer/host roles in 2024.
+
+**Leon Nunes** who took on producer/host roles in 2026.
+
 
