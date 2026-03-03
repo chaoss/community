@@ -30,6 +30,9 @@ A host is responsible for an individual episode. It is their role to find and co
 
 A guest is invited to participate in the podcast and may or may not be a member of CHAOSS. They are selected based on their relevant expertise on a topic. 
 
+#### Panelist
+A panelist is similar to a guest, but is not required to be an expert on the topic. Their role is to help bring diverse perspectives to the podcast. Usually, they are a member of CHAOSS.
+
 #### Editor
 
 An editor is someone who takes the recorded audio file and edits it to sound like a podcast (removing any unwanted sections, adding the music etc). Until around February 2026, CHAOSScast used a professional editing service (Peachtree Sound). However, due to reduced budget, the podcast is moving towards community editing instead. 
@@ -38,7 +41,6 @@ An editor is someone who takes the recorded audio file and edits it to sound lik
 
 * [Google Drive](https://drive.google.com/drive/folders/1gsQF8_R8cdkQBQn6iWa5oFbd52wIdRy4) Maintained by Paul Bahr, our sound editor
 * [Google Drive](https://drive.google.com/drive/folders/14t0-0Bf5rjDaR1PAR854lCnC7xaF4Hnh) Maintained by CHAOSScast Organizers
-* [CHAOSScast Calendar](https://calendar.google.com/calendar/u/0/embed?src=513r47bb756t07lp5tat5nsuj0@group.calendar.google.com) for recording dates
 * Email address for podcast, forwarded to Producers: [podcast@chaoss.community](mailto:podcast@chaoss.community)
 
 ## ✍ About CHAOSScast
