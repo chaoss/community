@@ -18,7 +18,7 @@ There are no term limits for GB members.
 
 # Voter Eligibility
 
-Eligible voters include the existing GB, Chairs for our WGs (listed in[ https://chaoss.community/kb/working-groups/](https://chaoss.community/kb/working-groups/)), our software maintainers (listed in the MAINTAINERS.md files for GrimoireLab and Augur), anyone making a contribution to a CHAOSS GitHub Repository (see this [GrimoireLab table](https://chaoss.biterg.io/app/visualize#/create?type=table&indexPattern=0211efb0-14ca-11e9-8aac-ef7fd4d8cbad&_g=(filters:!(),refreshInterval:(pause:!t,value:0),time:(from:now-1y,to:now))&_a=(filters:!(('$state':(store:appState),meta:(alias:!n,disabled:!f,index:'0211efb0-14ca-11e9-8aac-ef7fd4d8cbad',key:author_bot,negate:!f,params:(query:!f),type:phrase),query:(match_phrase:(author_bot:!f)))),linked:!f,query:(language:kuery,query:''),uiState:(),vis:(aggs:!((enabled:!t,id:'1',params:(),schema:metric,type:count),(enabled:!t,id:'2',params:(field:author_name,missingBucket:!f,missingBucketLabel:Missing,order:desc,orderBy:'1',otherBucket:!f,otherBucketLabel:Other,size:15000),schema:bucket,type:terms)),params:(perPage:10,percentageCol:'',showMetricsAtAllLevels:!f,showPartialRows:!f,showTotal:!f,totalFunc:sum),title:'',type:table)))), and the people listed in[ https://github.com/chaoss/community/blob/main/community-contributions.md](https://github.com/chaoss/community/blob/main/community-contributions.md) for contributions made in the past year will be eligible to vote in the election. There will also be a private exception process enabled.
+Eligible voters include the existing GB, Chairs for our WGs (listed in [https://chaoss.community/kb/working-groups/](https://chaoss.community/kb/working-groups/)), our software maintainers (listed in the MAINTAINERS.md files for GrimoireLab and Augur), anyone making any type of contribution to a CHAOSS GitHub Repository, and the people listed in [https://github.com/chaoss/community/blob/main/community-contributions.md](https://github.com/chaoss/community/blob/main/community-contributions.md) for contributions made in the past year will be eligible to vote in the election. There will also be a private exception process enabled.
 
 Before the start of each election, the election officers will work with each of these groups to ensure that the list of people is up to date and encourage people to add themselves to[ community-contributions.md](http://community-contributions.md/) in time for the election deadlines. Since anyone can add themselves to community-contributions.md, this will also undergo a short audit to avoid ballot stuffing or other abuse. 
 
@@ -28,7 +28,7 @@ Elections will be held using [Elekto software](https://elekto.dev/) for ranked c
 
 ## Election Officers
 
-The Governing Board will appoint two or three Election Officer(s) to administer the election. Elections Officers will be CHAOSS community members in good standing who are eligible to vote, are not running for Steering in that election, who are not currently part of the Governing Board, and can make a public promise of impartiality. 
+The Governing Board will appoint two or three Election Officer(s) to administer the election. Elections Officers will be CHAOSS community members in good standing who are eligible to vote, are not running for the Governing Board in that election, who are not currently part of the Governing Board, and can make a public promise of impartiality. 
 
 They will be responsible for:
 
@@ -40,9 +40,9 @@ They will be responsible for:
 
 # Limitations on Organizational Representation
 
-No more than two seats may be held by employees of the same organization (or conglomerate, in the case of companies owning each other). If the results of an election result in greater than two employees of the same organization, the lowest vote getters from any particular employer will be removed until representation on the committee is down to two.
+No more than two seats may be held by employees of the same organization (or conglomerate, in the case of companies owning each other). If the results of an election result in greater than two employees of the same organization, the lowest vote getters from any particular employer will be removed until representation on the Governing Board is down to two.
 
-If employers change because of job changes, acquisitions, or other events, in a way that would yield more than 2 seats being held by employees of the same organization, sufficient members of the committee must resign until only two employees of the same employer are left. If it is impossible to find sufficient members to resign, all employees of that organization will be removed and new special elections held. In the event of a question of company membership (for example evaluating independence of corporate subsidiaries) a majority of all non-involved GB members will decide.
+If employers change because of job changes, acquisitions, or other events, in a way that would yield more than 2 seats being held by employees of the same organization, sufficient members of the Governing Board must resign until only two employees of the same employer are left. If it is impossible to find sufficient members to resign, all employees of that organization will be removed and new special elections held. In the event of a question of company membership (for example evaluating independence of corporate subsidiaries) a majority of all non-involved GB members will decide.
 
 # Vacancies
 
