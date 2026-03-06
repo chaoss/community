@@ -74,4 +74,3 @@ Voting runs from [DATE TBD] to [DATE TBD].
 Reach out at [CONTACT] or ask in [CHANNEL] - we'll keep a running thread open throughout the election period.
 
 
-## Voter Exceptions
