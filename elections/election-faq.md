@@ -6,6 +6,8 @@ This is living document that we will do our best to keep up to date!
 
 ## Voting Eligibility
 
+Make sure you have read the [eligibility section](https://github.com/chaoss/community/blob/main/elections/mechanics-GB.md#candidate-eligibility) of our docs.
+
 **Can I vote without a GitHub handle?**
 
 We know not every CHAOSS contributor works through GitHub, and we want to be upfront about that. For this election, GitHub is the primary way we track contributions and confirm voting eligibility - it's the most straightforward system we have in place right now. That said, we are actively working on ways to recognise a broader range of contributions for future elections, and expanding this is a priority for next year.
@@ -16,7 +18,7 @@ We know not every CHAOSS contributor works through GitHub, and we want to be upf
 
 **What counts as a contribution for voting purposes?**
 
-Contributions tracked automatically via GitHub include commits, pull requests, issues opened, and code reviews on CHAOSS repositories. Other contributions - such as working group participation, documentation, event organising, or community support - can be self-attested by adding your name to our community-contributors.md file via this issue template or a PR.
+Contributions tracked automatically via GitHub include commits, pull requests, issues opened, and code reviews on CHAOSS repositories. Other contributions - such as working group participation, documentation, event organising, or community support - can be self-attested by adding your name to our [community-contributors.md](https://github.com/chaoss/community/blob/main/community-contributions.md) file via this [issue template](https://github.com/chaoss/community/issues/new?assignees=&labels=contribution&projects=&template=01-Contribution.yaml&title=%5BProject%5D%3A+NAME) or a PR.
 
 ---
 
@@ -44,7 +46,10 @@ No. CHAOSS is built around [inclusive leadership](https://chaoss.community/kb/me
 
 **Can I nominate someone else?**
 
-Yes. If you know someone who would bring real value to the board, nominate them. You can do so at [templates/nomination-encouragement.md].
+You cannot directly nominate someone else, but you can encourage people to self-nominate (and we encourage you to encourage them!)
+
+If you know someone who would bring real value to the board, encourage them to self-nominate. You can do so at [templates/nomination-encouragement.md].
+
 
 ---
 
