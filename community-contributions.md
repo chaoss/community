@@ -112,10 +112,19 @@ We are very interested in including every type of contribution in our [Types of 
 | @sgoggins | Ospology Planning | Metrics, Projects, Augur | [2024-03-27](https://github.com/chaoss/community/issues/721) | Community Building and Management |
 | @KhanRayyan3622 | [Augur]: Fix Docker Build Script Path - install-golang-deps.sh Not Found | Docker setup / Dev Environment | [2025-03-26](https://github.com/chaoss/community/issues/722) | Bug Triaging |
 | @Maryblessing | Communtiy Tour guide | CHAOSS Community | [2025-06-24](https://github.com/chaoss/community/issues/733) | Community Building and Management |
+| @divya-mohan0209 | Facilitated community meetings & led discussions for CHAOSS Asia | CHAOSS Community | Sep 4, 2025 | Community Building & Management |
+| @divya-mohan0209 | Facilitated community meetings & led discussions for CHAOSS Asia | CHAOSS Community | Sep 17, 2025 | Community Building & Management |
+| @divya-mohan0209 | Facilitated community meetings & led discussions for CHAOSS Asia | CHAOSS Community | Oct 16, 2025 | Community Building & Management |
+| @divya-mohan0209 | Facilitated community meetings & led discussions for CHAOSS Asia | CHAOSS Community | Oct 30, 2025 | Community Building & Management |
 | @ElizabethN | Community Meeting | Community | [2025-11-04](https://github.com/chaoss/community/issues/752) | Community Building and Management |
 | @Ijeoma-Onwuka | Spoke at a Conference | CHAOSS DEI Project Badging Initiative | [2025-11-19](https://github.com/chaoss/community/issues/753) | Bug Triaging |
 | @Ijeoma-Onwuka | Spoke at OpenForum Academy Symposium 2025 | CHAOSS DEI Project Badging Initiative | [2025-11-19](https://github.com/chaoss/community/issues/754) | Speaking at Events about CHAOSS |
 | @GeorgLink | [CHAOSScon EU 2026]: Facilitated the CFP process and built the schedule | CHAOSScon EU 2026 CFP Process | [2025-12-07](https://github.com/chaoss/community/issues/757) | Event Organization |
 | @em07-adoz | CHAOSScon EU 2026 | CFP Review | [2025-11-14](https://github.com/chaoss/community/issues/759) | Bug Triaging |
 | @cdolfi | NAME | CFP Reviews | [November 20, 2025](https://github.com/chaoss/community/issues/760) | Event Organization |
+| @divya-mohan0209 | Facilitated community meetings & led discussions for CHAOSS Asia | CHAOSS Community | Nov 27, 2025 | Community Building & Management |
+| @divya-mohan0209 | Facilitated community meetings & led discussions for CHAOSS Asia | CHAOSS Community | Jan 8, 2026 | Community Building & Management |
+| @divya-mohan0209 | Facilitated community meetings & led discussions for CHAOSS Asia | CHAOSS Community | Jan 22, 2026 | Community Building & Management |
+| @divya-mohan0209 | Facilitated community meetings & led discussions for CHAOSS Asia | CHAOSS Community | Feb 5, 2026 | Community Building & Management |
+| @divya-mohan0209 | Facilitated community meetings & led discussions for CHAOSS Asia | CHAOSS Community | Feb 19, 2026 | Community Building & Management |
 | @LauraLangdon | CHAOSSCon EU 2026 | CFP Reviews | [2025-11-20](https://github.com/chaoss/community/issues/761) | Event Organization |
