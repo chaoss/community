@@ -69,6 +69,32 @@ Voting runs from [DATE TBD] to [DATE TBD].
 
 ---
 
+## How Voting Works
+
+**What platform does CHAOSS use for elections?**
+
+We use [Elekto](https://elekto.dev/), an open source voting application designed for community elections. Voting happens directly through the Elekto interface using your GitHub account.
+
+---
+
+**How do I rank candidates?**
+
+Rank candidates in order of preference, with **#1 as your first choice**. You do not have to rank every candidate — if you have no opinion on someone, you can mark them as "No Opinion" and they will be placed at the bottom of your ballot automatically.
+
+---
+
+**What is the passphrase for?**
+
+When you cast your vote, you will be prompted to set a passphrase. This is **optional** — you can skip it. Your vote is encrypted, and the passphrase is what allows you to go back and change your vote before voting closes. If you do not set one, your vote will still be counted, but you will not be able to modify it later.
+
+---
+
+**How are votes counted?**
+
+CHAOSS elections use the [Condorcet method](https://en.wikipedia.org/wiki/Condorcet_method), a ranked-choice voting system that compares each candidate against every other candidate in a head-to-head matchup. The candidate who wins the most pairwise comparisons is the [Condorcet winner](https://en.wikipedia.org/wiki/Condorcet_winner) — broadly, the candidate preferred over all others by the majority of voters.
+
+---
+
 **Still have a question?**
 
 Reach out at [CONTACT] or ask in [CHANNEL] - we'll keep a running thread open throughout the election period.
