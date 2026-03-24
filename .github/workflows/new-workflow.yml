@@ -6,6 +6,9 @@ on:
 
 jobs:
   update-markdown:
+    concurrency:
+      group: update-markdown-${{ github.event.issue.number }}
+      cancel-in-progress: false
     if: |
       contains(github.event.issue.labels.*.name, 'contribution') &&
       (github.event.action == 'opened' || github.event.action == 'labeled')
@@ -21,9 +24,6 @@ jobs:
 
       - name: Print Node.js version
         run: node -v
-
-      - name: Install @actions/core and @actions/github
-        run: npm install @actions/core @actions/github
 
       - name: Update markdown file
         run: node log-contribution.js
