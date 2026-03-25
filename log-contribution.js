@@ -1,14 +1,13 @@
 const fs = require('fs');
-const core = require('@actions/core');
-const github = require('@actions/github');
 
 (async () => {
   try {
     const token = process.env.GITHUB_TOKEN;
-    const octokit = github.getOctokit(token);
 
-    const { context } = github;
-    const { issue } = context.payload;
+    // Read the event payload directly from the runner environment
+    const eventPayload = JSON.parse(fs.readFileSync(process.env.GITHUB_EVENT_PATH, 'utf-8'));
+    const issue = eventPayload.issue;
+    const [owner, repo] = process.env.GITHUB_REPOSITORY.split('/');
     const issueUrl = issue.html_url;
 
     if (issue.labels.some(label => label.name === 'contribution')) {
@@ -77,13 +76,24 @@ const github = require('@actions/github');
 
       // Attempt to close the issue after successfully adding the entry
       try {
-        await octokit.rest.issues.update({
-          owner: context.repo.owner,
-          repo: context.repo.repo,
-          issue_number: issue.number,
-          state: 'closed'
-        });
-        console.log(`Issue #${issue.number} closed successfully.`);
+        const response = await fetch(
+          `https://api.github.com/repos/${owner}/${repo}/issues/${issue.number}`,
+          {
+            method: 'PATCH',
+            headers: {
+              'Authorization': `Bearer ${token}`,
+              'Accept': 'application/vnd.github+json',
+              'X-GitHub-Api-Version': '2022-11-28',
+              'Content-Type': 'application/json'
+            },
+            body: JSON.stringify({ state: 'closed' })
+          }
+        );
+        if (response.ok) {
+          console.log(`Issue #${issue.number} closed successfully.`);
+        } else {
+          console.error(`Failed to close issue #${issue.number}: ${response.status} ${response.statusText}`);
+        }
       } catch (error) {
         console.error(`Failed to close issue #${issue.number}.`, error);
       }
@@ -91,6 +101,7 @@ const github = require('@actions/github');
       console.log('No "contribution" label found, skipping update.');
     }
   } catch (error) {
-    core.setFailed(error.message);
+    console.error(error.message);
+    process.exit(1);
   }
 })();
