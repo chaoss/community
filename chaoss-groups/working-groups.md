@@ -12,17 +12,17 @@ Metrics working groups are responsible for developing and maintaining metrics de
 ## 2. Context Working Groups
 Context WGs are groups of people who share similar contexts related to open source project health. Context WGs are responsible for helping put CHAOSS metrics, metrics models, and software into practice in meaningful ways across varied contexts.
 
-* [**OSPO**](https://github.com/chaoss/wg-ospo): The OSPO Metrics working group aims to advance how organizations understand the value that open source projects can provide as well as the value of these programs / initiatives. This is a joint effort between the CHAOSS project and the TODO Group. Co-Chairs: Gary White and Dawn Foster.
+* [**OSPO**](https://github.com/chaoss/wg-ospo): The OSPO Metrics working group aims to advance how organizations understand the value that open source projects can provide as well as the value of these programs / initiatives. This is a joint effort between the CHAOSS project and the TODO Group. Co-Chairs: Alin Jerpelea, Dawn Foster, Natalia Luzuriaga.
 
 * [**University / Academic**](https://docs.google.com/document/d/1ZZg8vGQOgfhK6P6G8GQse6OaN3yb2Z_IQVyINa-0TZs/edit): The University working group is a joint effort between the CHAOSS project and the OSPO++ community that aims to create a set of recommendations for metrics related to university open source software, particularly as they relate to what might be seen as “success” for university leadership, faculty, students, and staff, keeping in mind that these actors may evaluate success differently. Co-Chairs: Matt Germonprez and Stephanie Lieggi.
 
 * [**Science / Research**](https://github.com/chaoss/wg-science): The Science working group aims create a set of recommendations for metrics and models related to scientific open source communities. Chair: Sean Goggins.
 
-* [**Data Science**](https://github.com/chaoss/wg-data-science): We collaborate with data scientists and researchers to shape how we understand open source community health and make it easier for people to use CHAOSS tools, metrics, and metrics models to draw meaningful insights that they can use to improve open source project health using data science-based approaches. Co-Chairs: Dawn Foster, Cali Dolfi, and Sal Kimmich.
+* [**Data Science**](https://github.com/chaoss/wg-data-science): We collaborate with data scientists and researchers to shape how we understand open source community health and make it easier for people to use CHAOSS tools, metrics, and metrics models to draw meaningful insights that they can use to improve open source project health using data science-based approaches. Co-Chairs: Cali Dolfi and Sal Kimmich.
 
 * [**UN Sustainable Development Goals (SDGs)**](https://docs.google.com/document/d/17VAYItNIw_i36mCUyBs1t9fEK_Ks1vjhOJFRfIA1CjM/edit?usp=sharing): The UN SDG working group focuses on using CHAOSS metrics to help understand the role of open source projects and their progress toward achieving the UN SDGs. Co-Chairs: Ruth Ikegah and David Lippert.
 
-* [**Funding Impact Measurement**](https://github.com/chaoss/wg-funding-impact): The funding WG aims to develop frameworks, metrics, and methodologies for measuring and understanding the impacts of funding on open source software development. Co-Chairs: Dawn Foster, Paul Sharratt, and Cailean Osborne.
+* [**Funding Impact Measurement**](https://github.com/chaoss/wg-funding-impact): The funding WG aims to develop frameworks, metrics, and methodologies for measuring and understanding the impacts of funding on open source software development. Co-Chairs: Dawn Foster, Paul Sharratt, and Adrienn Lawson.
 
 * [**Package Metadata**](https://github.com/chaoss/wg-package-metadata): The Package Metadata Working Group explores how different package managers capture, expose, and structure metadata. Chair: Damián Vicino.
 
