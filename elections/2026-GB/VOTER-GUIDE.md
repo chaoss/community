@@ -206,8 +206,13 @@ If you have questions about:
 
 - **Election mechanics and rules**: See the [CHAOSS election mechanics documentation](https://github.com/chaoss/community/blob/main/elections/mechanics-GB.md)
 - **Eligibility and FAQs**: See the [CHAOSS election FAQ](https://github.com/chaoss/community/blob/main/elections/election-faq.md)
-- For any questions, please contact the election officers at the [#election-help](https://chaoss-workspace.slack.com/archives/C0ANNBGUVNY) channel in CHAOSS Slack.
-- For private concerns, contact the election officers over Slack:
+
+**Contact the election officers:**
+
+- **Public questions:** Ask in the [#election-help](https://chaoss-workspace.slack.com/archives/C0ANNBGUVNY) Slack channel
+- **Private concerns:**
+  - Send an email to [foobar@chaoss.community](mailto:foobar@chaoss.community)
+  - Or send a private message on Slack to one of the election officers:
     - [Elizabeth Barron](https://chaoss-workspace.slack.com/team/U016ZS8LHLK)
     - [Emma Irwin](https://chaoss-workspace.slack.com/team/U02G54BURL3)
     - [Ali Ok](https://chaoss-workspace.slack.com/team/U05N0MJ9CF2)
