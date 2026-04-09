@@ -1,8 +1,10 @@
-# CHAOSS Elections Voter Guide
+# 2026 CHAOSS Governing Board Election - Voter Guide
 
-Welcome to the CHAOSS elections! This guide will help you participate in the voting process for the CHAOSS Governing Board.
+Welcome to the 2026 CHAOSS Governing Board election! This guide will help you participate in the voting process.
 
-For more information about this election, visit [the elections documentation](https://github.com/chaoss/community/tree/main/elections).
+**This election will fill 6 Governing Board seats.** There is a limit of 2 seats per organization/conglomerate to ensure diverse representation.
+
+For more information about CHAOSS elections, visit [the elections documentation](https://github.com/chaoss/community/tree/main/elections).
 
 For frequently asked questions about voting, eligibility, and the election process, see the [CHAOSS Election FAQ](https://github.com/chaoss/community/blob/main/elections/election-faq.md).
 
@@ -49,7 +51,7 @@ Navigate to [elections.chaoss.community](https://elections.chaoss.community/) an
 
 ### 2. Find the Election
 
-Once logged in, select "Explore Election" from the navigation menu to see the list of current elections. Find the CHAOSS Governing Board election and click on its name.
+Once logged in, select "Explore Election" from the navigation menu to see the list of current elections. Find the 2026 CHAOSS Governing Board election and click on its name.
 
 ![Election home page](voter-guide-screenshots/election_home.png)
 
