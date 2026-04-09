@@ -6,15 +6,17 @@ For more information about this election, visit [the elections documentation](ht
 
 ## Election Timeline
 
-- **April 20 08:00 UTC**: Public announcement for Nominations to open
-- **May 4 17:00 UTC**: All Candidate Nominations Due
-- **May 6 08:00 UTC**: Election Begins
-- **May 20 17:00 UTC**: Voter Exception Requests Due
-- **June 3 17:00 UTC**: Election Closes
-
-- **June 8**: Announcement of Results
+- **April 20, 2026**: Public announcement for nominations to open
+- **April 23, 2026**: Open Office - 10:00 PST / 13:00 EST (everyone welcome)
+- **May 11, 2026**: All candidate nominations due (23:59:59 UTC)
+- **May 13, 2026**: Election begins
+- **May 27, 2026**: Voter exception requests due (23:59:59 UTC)
+- **June 10, 2026**: Election closes (23:59:59 UTC)
+- **June 15, 2026**: Announcement of results
 
 **Important Note**: Elekto does not send email notifications or reminders. You need to actively check the election site to verify your voter status and participate in the election. Community announcements will be sent through CHAOSS communication channels.
+
+**Open Office**: An open office session will be held on April 23 at 10:00 PST / 13:00 EST where everyone is welcome to ask questions about the election process, nominations, and voting.
 
 ## Requirements
 
@@ -60,9 +62,9 @@ To request an exception:
 3. Fill out the form with your contact information
 4. Explain why you qualify for an exception based on your contributions to CHAOSS
 
-**Important**: Exception requests must be submitted by **May 20** (see timeline above). After this deadline, the exception request form will no longer be available.
+**Important**: Exception requests must be submitted by **May 27** (see timeline above). After this deadline, the exception request form will no longer be available.
 
-Exception requests are processed by election officers during both the pre-election phase and while voting is open. This means you can still request an exception after voting begins on May 6, as long as you submit before the May 20 deadline. Once approved, you'll be able to vote immediately.
+Exception requests are processed by election officers during both the pre-election phase and while voting is open. This means you can still request an exception after voting begins on May 13, as long as you submit before the May 27 deadline. Once approved, you'll be able to vote immediately.
 
 ![Exception request form](voter-guide-screenshots/exception_request_form.png)
 
@@ -96,7 +98,7 @@ Candidate profiles open in a new tab, so you can review them without losing your
 
 ### 5. Cast Your Vote
 
-Once the election has started (May 6) and you are eligible, a "Vote" button will appear on the election information page. Click this button to access the voting interface.
+Once the election has started (May 13) and you are eligible, a "Vote" button will appear on the election information page. Click this button to access the voting interface.
 
 ![Voting interface](voter-guide-screenshots/voting.png)
 
@@ -212,11 +214,11 @@ You can self-attest your contributions by adding yourself to the community-contr
 
 ### What if I'm marked as "Not Eligible" but I've contributed?
 
-Submit an exception request through the election page before the May 20 deadline. Explain your contributions and why you should be eligible to vote.
+Submit an exception request through the election page before the May 27 deadline. Explain your contributions and why you should be eligible to vote.
 
 ### How many candidates will be elected?
 
-5 seats are filled in this election.
+6 seats are filled in this election.
 
 ### Can multiple people from my organization be elected?
 
