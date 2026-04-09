@@ -22,7 +22,7 @@ For more information about this election, visit [the elections documentation](ht
 
 ### GitHub Account
 
-To vote in CHAOSS elections, you need a valid GitHub account.
+To vote in CHAOSS elections, you need a valid GitHub account. For information about why GitHub is required and options for contributors who don't use GitHub, see the [FAQ section on voting without a GitHub handle](https://github.com/chaoss/community/blob/main/elections/election-faq.md#voting-eligibility).
 
 When you first access the election site, you'll be asked to sign in with GitHub and authorize Elekto. This is a one-time authorization that allows Elekto to verify your voter eligibility.
 
