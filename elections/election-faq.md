@@ -89,6 +89,32 @@ When you cast your vote, you will be prompted to set a passphrase. This is **opt
 
 ---
 
+**Do I have to rank all candidates?**
+
+No! You can leave candidates unmarked (they will default to "No Opinion") or explicitly select "No Opinion" for candidates you don't know well enough to rank. However, it's recommended to rank as many candidates as you feel comfortable ranking, as this helps ensure a clear election outcome and makes your preferences count in head-to-head comparisons.
+
+---
+
+**Can I change my vote after submitting?**
+
+Yes, as long as the election is still open. You'll need the passphrase you set when you first voted. If you didn't set a passphrase, you cannot change your vote.
+
+To change your vote, enter your passphrase on the election page, click "View" to see your current ballot, then click "Revoke" to delete it and cast a new ballot. Note that if you revoke your ballot and don't vote again, you're canceling your vote in the election.
+
+---
+
+**Is my vote really private?**
+
+Yes. Your individual ballot is encrypted and cannot be seen by election officers, administrators, or other voters. Only aggregated, anonymized results are published after the election closes. The passphrase encryption ensures your ballot is anonymous.
+
+---
+
+**Can multiple people from my organization be elected?**
+
+There is a limit of 2 seats per organization/conglomerate to ensure diverse representation on the Governing Board. If more than 2 candidates from the same organization would be elected based on vote counts, the lowest vote-getters from that organization are removed and the next highest-ranked candidates from other organizations take their place.
+
+---
+
 **How are votes counted?**
 
 CHAOSS elections use the [Condorcet method](https://en.wikipedia.org/wiki/Condorcet_method), a ranked-choice voting system that compares each candidate against every other candidate in a head-to-head matchup. The candidate who wins the most pairwise comparisons is the [Condorcet winner](https://en.wikipedia.org/wiki/Condorcet_winner) — broadly, the candidate preferred over all others by the majority of voters.

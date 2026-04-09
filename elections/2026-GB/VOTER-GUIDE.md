@@ -4,6 +4,8 @@ Welcome to the CHAOSS elections! This guide will help you participate in the vot
 
 For more information about this election, visit [the elections documentation](https://github.com/chaoss/community/tree/main/elections).
 
+For frequently asked questions about voting, eligibility, and the election process, see the [CHAOSS Election FAQ](https://github.com/chaoss/community/blob/main/elections/election-faq.md).
+
 ## Election Timeline
 
 - **April 20, 2026**: Public announcement for nominations to open
@@ -194,35 +196,6 @@ The election process balances privacy and transparency:
 - **Verification**: The Condorcet calculations can be independently verified
 - **Exception requests**: Handled by election officers but your ballot remains private
 
-## Frequently Asked Questions
-
-### Do I have to rank all candidates?
-
-No! You can leave candidates unmarked (they will default to "No Opinion") or explicitly select "No Opinion" for candidates you don't know well enough to rank.
-
-### Can I change my vote after submitting?
-
-Yes, as long as the election is still open. You'll need the passphrase you set when you first voted. If you didn't set a passphrase, you cannot change your vote.
-
-### Is my vote really private?
-
-Yes. Your individual ballot is encrypted and cannot be seen by election officers, administrators, or other voters. Only aggregated, anonymized results are published after the election closes.
-
-### What if my contributions aren't on GitHub?
-
-You can self-attest your contributions by adding yourself to the community-contributors.md file using the designated issue template. This covers working group participation, documentation, event organization, and other non-code contributions.
-
-### What if I'm marked as "Not Eligible" but I've contributed?
-
-Submit an exception request through the election page before the May 27 deadline. Explain your contributions and why you should be eligible to vote.
-
-### How many candidates will be elected?
-
-6 seats are filled in this election.
-
-### Can multiple people from my organization be elected?
-
-There is a limit of 2 seats per organization/conglomerate to ensure diverse representation. If more than 2 candidates from the same organization would be elected, the lowest vote-getters from that organization are removed.
 
 ## Need Help?
 
