@@ -6,8 +6,9 @@ This election will fill 6 seats on the CHAOSS Governing Board with two-year term
 
 - [Voter Guide](VOTER-GUIDE.md) - Detailed information about the election process, eligibility, and how to vote
 - [Election FAQ](../election-faq.md) - Frequently asked questions about CHAOSS elections
-- [Election Mechanics](../mechanics-GB.md) - CHAOSS Governing Board election rules and procedures
+- [Candidate Guide](CANDIDATE-GUIDE.md) - Information for those interested in running for the Governing Board
 - [Nomination Template](nomination-template.md) - Template for candidate submissions
+- [Election Mechanics](../mechanics-GB.md) - CHAOSS Governing Board election rules and procedures
 
 ## Quick Links
 
