@@ -11,7 +11,7 @@ Resources:
 ## Key Timeline
 
 - **April 20, 2026**: Public announcement for nominations to open
-- **April 23, 2026**: Open Office - 10:00 PST / 13:00 EST (everyone welcome)
+- **April 23, 2026**: [Open Office](https://teamup.com/event/show/id/q3WqvX3Vtt5D6vzaHKt7VYUpwmME6f) - 10:00 PST / 13:00 EST (everyone welcome)
 - **May 11, 2026**: Nomination deadline (23:59:59 UTC)
 - **May 13, 2026**: Voting opens via Elekto platform
 - **May 27, 2026**: Exception form deadline (23:59:59 UTC)

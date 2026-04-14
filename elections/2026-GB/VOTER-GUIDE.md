@@ -211,7 +211,7 @@ If you have questions about:
 
 - **Public questions:** Ask in the [#election-help](https://chaoss-workspace.slack.com/archives/C0ANNBGUVNY) Slack channel
 - **Private concerns:**
-  - Send an email to [TODO]
+  - Send an email to chaoss-election-help@googlegroups.com
   - Or send a private message on Slack to one of the election officers:
     - [Elizabeth Barron](https://chaoss-workspace.slack.com/team/U016ZS8LHLK)
     - [Emma Irwin](https://chaoss-workspace.slack.com/team/U02G54BURL3)
