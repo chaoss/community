@@ -50,6 +50,29 @@ You cannot directly nominate someone else, but you can encourage people to self-
 
 If you know someone who would bring real value to the board, encourage them to self-nominate. You can use the template at [email-templates/nomination-encouragement.md](email-templates/nomination-encouragement.md).
 
+---
+
+**What if I can't find endorsers?**
+
+Reach out to people you've worked with in CHAOSS - working group participants, project contributors, or community members who know your work. If you're having trouble, contact the election officers for guidance.
+
+---
+
+**Can I run if I'm already on the Governing Board?**
+
+Yes! There are no term limits. Current board members are welcome to run for re-election.
+
+---
+
+**Can I withdraw my nomination after submitting?**
+
+Yes. Contact the election officers if you need to withdraw.
+
+---
+
+**I'm not comfortable creating a pull request. Can I still nominate myself?**
+
+Yes! If you need help with the technical aspects of submitting your nomination (creating files, commits, or pull requests), contact the election officers and they can submit the nomination on your behalf.
 
 ---
 
