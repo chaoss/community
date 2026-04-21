@@ -4,6 +4,8 @@ Welcome to the 2026 CHAOSS Governing Board election! This guide will help you pa
 
 **This election will fill 6 Governing Board seats.** There is a limit of 2 seats per organization/conglomerate to ensure diverse representation.
 
+For an overview of this election and all related resources, see the [2026 Election README](README.md).
+
 For more information about CHAOSS elections, visit [the elections documentation](https://github.com/chaoss/community/tree/main/elections).
 
 For frequently asked questions about voting, eligibility, and the election process, see the [CHAOSS Election FAQ](https://github.com/chaoss/community/blob/main/elections/election-faq.md).
@@ -198,23 +200,28 @@ The election process balances privacy and transparency:
 - **Verification**: The Condorcet calculations can be independently verified
 - **Exception requests**: Handled by election officers but your ballot remains private
 
-
 ## Need Help?
 
 If you have questions about:
 
 - **Election mechanics and rules**: See the [CHAOSS election mechanics documentation](https://github.com/chaoss/community/blob/main/elections/mechanics-GB.md)
 - **Eligibility and FAQs**: See the [CHAOSS election FAQ](https://github.com/chaoss/community/blob/main/elections/election-faq.md)
-- For any questions, please contact the election officers at the [#election-help](https://chaoss-workspace.slack.com/archives/C0ANNBGUVNY) channel in CHAOSS Slack.
-- For private concerns, contact the election officers over Slack:
+
+**Contact the election officers:**
+
+- **Public questions:** Ask in the [#election-help](https://chaoss-workspace.slack.com/archives/C0ANNBGUVNY) Slack channel
+- **Private concerns:**
+  - Send an email to chaoss-election-help@googlegroups.com
+  - Or send a private message on Slack to one of the election officers:
     - [Elizabeth Barron](https://chaoss-workspace.slack.com/team/U016ZS8LHLK)
     - [Emma Irwin](https://chaoss-workspace.slack.com/team/U02G54BURL3)
     - [Ali Ok](https://chaoss-workspace.slack.com/team/U05N0MJ9CF2)
 
 ## Resources
 
-- **CHAOSS Elections**: [elections.chaoss.community](https://elections.chaoss.community/)
-- **Election Mechanics**: [GitHub - CHAOSS election mechanics](https://github.com/chaoss/community/blob/main/elections/mechanics-GB.md)
+- **2026 Election Overview**: [README.md](README.md)
 - **Election FAQ**: [GitHub - CHAOSS election FAQ](https://github.com/chaoss/community/blob/main/elections/election-faq.md)
+- **Election system**: [elections.chaoss.community](https://elections.chaoss.community/)
+- **Election Mechanics**: [GitHub - CHAOSS election mechanics](https://github.com/chaoss/community/blob/main/elections/mechanics-GB.md)
 - **CHAOSS Charter**: [CHAOSS governance structure](https://chaoss.community/charter/)
 - **Code of Conduct**: [Understanding community values and expectations](https://chaoss.community/code-of-conduct/)

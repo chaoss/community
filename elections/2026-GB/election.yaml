@@ -1,0 +1,22 @@
+# Election configuration file
+
+name: CHAOSS Governing Board 2026 Election
+organization: CHAOSS
+start_datetime: 2026-05-13 00:00:01
+end_datetime: 2026-06-10 23:59:59
+no_winners: 6
+allow_no_opinion: True
+delete_after: True
+show_candidate_fields:
+  - affiliation
+election_officers:
+  - aliok
+  - ElizabethN
+  - emmairwin
+eligibility: |
+  Elibility to vote in this election is documented in the CHAOSS election mechanics document here: https://github.com/chaoss/community/blob/main/elections/mechanics-GB.md#voter-eligibility
+exception_description: |
+  If you believe you meet the eligibility requirements but are unable to vote, please
+  submit an exception request to the election officers. We want to ensure that all
+  contributors who have meaningfully participated in CHAOSS are able to vote.
+exception_due: 2026-05-27 23:59:59

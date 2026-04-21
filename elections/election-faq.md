@@ -12,7 +12,7 @@ Make sure you have read the [eligibility section](https://github.com/chaoss/comm
 
 We know not every CHAOSS contributor works through GitHub, and we want to be upfront about that. For this election, GitHub is the primary way we track contributions and confirm voting eligibility - it's the most straightforward system we have in place right now. That said, we are actively working on ways to recognise a broader range of contributions for future elections, and expanding this is a priority for next year.
 
-**If you don't have, or don't want a GitHub handle but have contributed to CHAOSS in other ways**, please reach out to us directly at [CONTACT]. We don't want anyone who has contributed to be left out, and we'll do our best to help on a case-by-case basis.
+**If you don't have, or don't want a GitHub handle but have contributed to CHAOSS in other ways**, please reach out to the election officers directly (see the contact information in the specific election's README). We don't want anyone who has contributed to be left out, and we'll do our best to help on a case-by-case basis.
 
 ---
 
@@ -30,7 +30,7 @@ Please add your name to our [community-contributors.md](https://github.com/chaos
 
 **I'm not sure if my contributions qualify. What should I do?**
 
-Reach out and ask. We would rather help you confirm your eligibility than have you assume you can't vote. Contact us at [CONTACT].
+Reach out and ask. We would rather help you confirm your eligibility than have you assume you can't vote. Contact the election officers using the contact information provided in the specific election's README.
 
 ---
 
@@ -48,7 +48,7 @@ No. CHAOSS is built around [inclusive leadership](https://chaoss.community/kb/me
 
 You cannot directly nominate someone else, but you can encourage people to self-nominate (and we encourage you to encourage them!)
 
-If you know someone who would bring real value to the board, encourage them to self-nominate. You can do so at [templates/nomination-encouragement.md].
+If you know someone who would bring real value to the board, encourage them to self-nominate. You can use the template at [email-templates/nomination-encouragement.md](email-templates/nomination-encouragement.md).
 
 
 ---
@@ -57,15 +57,15 @@ If you know someone who would bring real value to the board, encourage them to s
 
 **When do nominations close?**
 
-[DATE TBD]
+See the timeline in the specific election's README for nomination deadlines.
 
 **When does voting open and close?**
 
-Voting runs from [DATE TBD] to [DATE TBD].
+See the timeline in the specific election's README for voting dates.
 
 **How will results be announced?**
 
-[TO BE ADDED]
+Results are announced through CHAOSS communication channels (Slack, mailing lists, and social media) after the election closes. The specific announcement date is included in each election's timeline.
 
 ---
 
@@ -123,6 +123,6 @@ CHAOSS elections use the [Condorcet method](https://en.wikipedia.org/wiki/Condor
 
 **Still have a question?**
 
-Reach out at [CONTACT] or ask in [CHANNEL] - we'll keep a running thread open throughout the election period.
+Contact the election officers using the contact information provided in the specific election's README. Public questions can typically be asked in the #election-help Slack channel, and private concerns can be addressed via email or direct message to election officers.
 
 
