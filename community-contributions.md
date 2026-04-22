@@ -55,6 +55,7 @@ We are very interested in including every type of contribution in our [Types of 
 | @Toriasdesign    | Audited  Community - Blog | DEI  | November 2, 2023 | Accessibility Audit|
 | @Toriasdesign    | Audited  Community - Documentation | DEI  | November 2, 2023 | Accessibility Audit|
 | @Toriasdesign    | Audited  cookie policy and setting | DEI  | November 2, 2023 | Accessibility Audit|
+| @Toriasdesign    | Designed a posters for CHAOSS Africa outreach program-PLWD | CHAOSS Africa  | May 15, 2024 | Graphic Design|
 | @ElizabethN     | Facilitated the Community Meeting | CHAOSS Community |  January 9, 2024 | Community Building and Management|
 | @germonprez     | Wrote a blog post about DEI Badging | DEI Badging | January 16, 2024 |Writing Articles |
 | @dawnfoster     | Facilitated the Data Science Meeting | Data Science WG | January 17, 2024 | Community Building and Management |
@@ -77,6 +78,7 @@ We are very interested in including every type of contribution in our [Types of 
 | @Maryblessing    | Facilitated the Community meeting | CHAOSS Community  | Febuary 6, 2024 | Community Building and Management|
 | @Maryblessing    | Facilitated the DEI wg meeting | DEI   | February 7, 2024 | Community Building and Management|
 | @Maryblessing    | Newcomer Tour Guide | CHAOSS Community  | February 12, 2024 | Community Building and Management|
+| @Maryblessing    | Newcomer Tour Guide | CHAOSS Community  | May 4, 2024 | Community Building and Management|
 | @peculiaruc   | Reviewed Open-Source Summit North America 2024 Event Badging ticket | Badging - Event Divesity and Inclusion | March 7, 2024 | Event Badging Reviewer|
 | @peculiaruc     | Initiated and Created Submission.md file  | Education   | February 15, 2024 |Project Management |
 | @peculiaruc     | Reviewed, Created and merge PRs    | Education   | February 21, 2024 |Project Management |
