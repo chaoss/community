@@ -81,13 +81,40 @@ We are very interested in including every type of contribution in our [Types of 
 | @peculiaruc     | Initiated and Created Submission.md file  | Education   | February 15, 2024 |Project Management |
 | @peculiaruc     | Reviewed, Created and merge PRs    | Education   | February 21, 2024 |Project Management |
 | @peculiaruc     | Champions Contributors follow up for onboarding courses | Education   | January 22, 2024 |Project Management |
-| @adeyinkaoresanya     | Facilitated CHAOSS Africa Devs' focus group Meeting | CHAOSS Community |  February 15, 2024 | Community Building and Management|
-| @adeyinkaoresanya     | Facilitated CHAOSS Africa Devs' focus group Meeting | CHAOSS Community |  March 14, 2024 | Community Building and Management|
-| @adeyinkaoresanya     | Facilitated CHAOSS Africa Devs' focus group Meeting | CHAOSS Community |  March 28, 2024 | Community Building and Management|
-| @adeyinkaoresanya     | Facilitated CHAOSS Africa Sync Meeting | CHAOSS Community |  May 2, 2024 | Community Building and Management|
-| @Maryblessing    | Newcomer Tour Guide | CHAOSS Community  | May 4, 2024 | Community Building and Management|
-| @Toriasdesign    | Designed a posters for CHAOSS Africa outreach program-PLWD | CHAOSS Africa  | May 15, 2024 | Graphic Design|
-| @adeyinkaoresanya     | Facilitated a workshop in CHAOSS Africa Devs' focus group Meeting | CHAOSS Community |  May 9, 2024 | Community Building and Management|
+| @adeyinkaoresanya | lead the Event DEI Badging application reviews | DEI | March 2024 - Present     | Community Building and Management |
+| @adeyinkaoresanya | Facilitated CHAOSS Africa Sync meeting | CHAOSS Community   | April 16, 2026  | Community Building and Management |
+| @adeyinkaoresanya | Prepared [strategy doc](https://docs.google.com/document/d/1h5omW1KrNEDmmYjkRaORrFMZb_sUHAvijCJ_fs5cZ1k/edit?tab=t.0) for CHAOSS Africa Dev Focus group | CHAOSS Community   | January 15, 2026  | Project Management |
+| @adeyinkaoresanya| CHAOSScon Africa 2025 Organising Committee | CHAOSS Community   | April-August 2025| Event Management |
+| @adeyinkaoresanya | Facilitated CHAOSS Africa Sync meeting | CHAOSS Community   | April 17, 2025 | Community Building and Management |
+| @adeyinkaoresanya | Facilitated CHAOSS Africa Dev Focus Group| CHAOSS Community   | June 5, 2025       | Community Building and Management |
+| @adeyinkaoresanya | Prepared [strategy doc](https://docs.google.com/document/d/11VTblF1KPSgXIQGvUqmH-yxV0jaNQJq7Im8pY1x9ekU/edit?tab=t.0) for the DEI WG | CHAOSS Community   | June 3, 2025  | Project Management |
+| @adeyinkaoresanya | Facilitated CHAOSS Africa Dev Focus Group| CHAOSS Community   | February 27, 2025  | Community Building and Management |
+| @adeyinkaoresanya | Facilitated CHAOSS Africa Dev Focus Group| CHAOSS Community   | December 5, 2024   | Community Building and Management |
+| @adeyinkaoresanya | Facilitated CHAOSS Africa Dev Focus Group| CHAOSS Community   | September 12, 2024 | Community Building and Management |
+| @adeyinkaoresanya | Facilitated CHAOSS Africa Dev Focus Group| CHAOSS Community   | July 18, 2024      | Community Building and Management |
+| @adeyinkaoresanya | Facilitated CHAOSS Africa Sync meeting | CHAOSS Community   | July 11, 2024      | Community Building and Management |
+| @adeyinkaoresanya | Facilitated CHAOSS Africa Dev Focus Group| CHAOSS Community   | May 23, 2024       | Community Building and Management |
+| @adeyinkaoresanya | Facilitated CHAOSS Africa Dev Focus Group| CHAOSS Community   | May 9, 2024        | Community Building and Management |
+| @adeyinkaoresanya | Facilitated CHAOSS Africa Sync meeting| CHAOSS Community   | May 30, 2024        | Community Building and Management |
+| @adeyinkaoresanya | Facilitated CHAOSS Africa Sync meeting| CHAOSS Community   | May 2, 2024        | Community Building and Management |
+| @adeyinkaoresanya | Facilitated CHAOSS Africa Dev Focus Group| CHAOSS Community   | March 28, 2024     | Community Building and Management |
+| @adeyinkaoresanya | Facilitated CHAOSS Africa Dev Focus Group | CHAOSS Community   | March 14, 2024     | Community Building and Management |
+| @adeyinkaoresanya | Facilitated CHAOSS Africa Dev Focus Group| CHAOSS Community   | September 27, 2023 | Community Building and Management |
+| @adeyinkaoresanya | Facilitated CHAOSS Africa Sync meeting | CHAOSS Community   | November 30, 2023  | Community Building and Management |
+| @adeyinkaoresanya | Facilitated the DEI WG meeting| DEI | April 22, 2026     | Community Building and Management |
+| @adeyinkaoresanya | Facilitated the DEI WG meeting| DEI | April 8, 2026      | Community Building and Management |
+| @adeyinkaoresanya | Facilitated the DEI WG meeting| DEI | March 25, 2026     | Community Building and Management |
+| @adeyinkaoresanya | Facilitated the DEI WG meeting| DEI  | March 11, 2026     | Community Building and Management |
+| @adeyinkaoresanya | Facilitated the DEI WG meeting | DEI  | February 25, 2026  | Community Building and Management |
+| @adeyinkaoresanya | Facilitated the DEI WG meeting| DEI | February 11, 2026  | Community Building and Management |
+| @adeyinkaoresanya | Facilitated the DEI WG meeting| DEI | January 28, 2026   | Community Building and Management |
+| @adeyinkaoresanya | Facilitated the DEI WG meeting| DEI | January 14, 2026   | Community Building and Management |
+| @adeyinkaoresanya | Facilitated the DEI WG meeting | DEI | December 17, 2025  | Community Building and Management |
+| @adeyinkaoresanya | Facilitated the DEI WG meeting| DEI  | November 5, 2025   | Community Building and Management |
+| @adeyinkaoresanya | Facilitated the DEI WG meeting| DEI   | October 8, 2025    | Community Building and Management |
+| @adeyinkaoresanya | Facilitated the DEI WG meeting| DEI  | September 24, 2025 | Community Building and Management |
+| @adeyinkaoresanya | Prepared [Docs](https://docs.google.com/spreadsheets/d/1eFjalXuNnkXWPzXxx6UgUgyCZeknFtORKuC3VGTDBhM/edit?gid=0#gid=0) for  implementing Project Badging Outreach  | DEI    | September 18, 2025  | Project Management |
+| @adeyinkaoresanya | Facilitated the DEI WG meeting | DEI | July 2, 2025       | Community Building and Management |
 | @alice-sowerby | Staffing CHAOSS Booth at OSSNA conference | CHAOSS Community | April 16, 2024 |Community Building and Management |
 | @alice-sowerby | Producing and co-hosting podcasts (ongoing) | CHAOSS Community | May 16, 2024 |Project Management |
 | @alice-sowerby | Organizing Comms Working Group (ongoing) | CHAOSS Community | May 16, 2024 |Community Building and Management |
