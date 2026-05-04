@@ -160,3 +160,4 @@ We are very interested in including every type of contribution in our [Types of 
 | @ElizabethN | Testing | Testing of the System | [2026-03-26](https://github.com/chaoss/community/issues/784) | Community Building and Management |
 | @Maryblessing | CFP review | CHAOSScon EU 2026 | [2025-11-20](https://github.com/chaoss/community/issues/785) | Event Organization |
 | @CoralineAda | AI Alignment Working Group | Leading FOSS/AI Alignment survey project | [2026-01-01](https://github.com/chaoss/community/issues/791) | Project Management |
+| @iamkingsleey | CHAOSS DEI Badging Website | DEI website Product Design | [2023-11-01](https://github.com/chaoss/community/issues/796) | Bug Triaging |
