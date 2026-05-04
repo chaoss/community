@@ -161,3 +161,4 @@ We are very interested in including every type of contribution in our [Types of 
 | @Maryblessing | CFP review | CHAOSScon EU 2026 | [2025-11-20](https://github.com/chaoss/community/issues/785) | Event Organization |
 | @CoralineAda | AI Alignment Working Group | Leading FOSS/AI Alignment survey project | [2026-01-01](https://github.com/chaoss/community/issues/791) | Project Management |
 | @iamkingsleey | CHAOSS DEI Badging Website | DEI website Product Design | [2023-11-01](https://github.com/chaoss/community/issues/796) | Bug Triaging |
+| @iamkingsleey | CHAOSScon Africa Event Design | Event Branding and design Lead | [2023-06-14](https://github.com/chaoss/community/issues/797) | Bug Triaging |
