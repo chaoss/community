@@ -164,3 +164,4 @@ We are very interested in including every type of contribution in our [Types of 
 | @iamkingsleey | CHAOSScon Africa Event Design | Event Branding and design Lead | [2023-06-14](https://github.com/chaoss/community/issues/797) | Bug Triaging |
 | @iamkingsleey | CHAOSScon Africa Event Design | Design Lead and Event Branding | [2025-10-13](https://github.com/chaoss/community/issues/798) | Creative Work and Design |
 | @iamkingsleey | CHAOSScon EU Event Design | Creative Director | [2026-01-29](https://github.com/chaoss/community/issues/799) | Creative Work and Design |
+| @iamkingsleey | Facilitated CHAOSS Design Hacktoberfest | OS design education and awareness | [2025-10-17](https://github.com/chaoss/community/issues/800) | Community Building and Management |
