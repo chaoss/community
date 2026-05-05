@@ -167,3 +167,4 @@ We are very interested in including every type of contribution in our [Types of 
 | @iamkingsleey | Facilitated CHAOSS Design Hacktoberfest | OS design education and awareness | [2025-10-17](https://github.com/chaoss/community/issues/800) | Community Building and Management |
 | @iamkingsleey | Metrics, Projects, Augur | Digital asset illustrations | [2024-10-08](https://github.com/chaoss/community/issues/801) | Creative Work and Design |
 | @euniceeze | {Project}: CHAOSScon EU 2026 | Led CHAOSSconEU'26  design team | [2026-01-25](https://github.com/chaoss/community/issues/802) | Bug Triaging |
+| @euniceeze | CHAOSS Community | Designed new month designs | [2026-03-01](https://github.com/chaoss/community/issues/803) | Creative Work and Design |
