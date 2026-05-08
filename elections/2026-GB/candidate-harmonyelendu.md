@@ -1,7 +1,7 @@
 -------------------------------------------------------------
 name: Harmony Elendu
 
-ID: [@harmonyelendu](https://github.com/harmonyelendu) 
+ID: harmonyelendu
 
 info:
   - Independent
