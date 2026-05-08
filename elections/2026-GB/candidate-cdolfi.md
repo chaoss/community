@@ -4,7 +4,7 @@ name: Cali Dolfi
 ID: cdolfi
 
 info:
-- Affiliation: Red Hat
+- affiliation: Red Hat
 
 -------------------------------------------------------------
 
