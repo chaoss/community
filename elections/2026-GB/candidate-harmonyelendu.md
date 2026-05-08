@@ -4,7 +4,7 @@ name: Harmony Elendu
 ID: harmonyelendu
 
 info:
-  - Independent
+  - affiliation: Independent
 -------------------------------------------------------------
 
 ## My Background 
