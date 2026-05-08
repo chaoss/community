@@ -4,7 +4,7 @@ name: Coraline Ada Ehmke
 ID: CoralineAda
 
 info:
-	- affiliation: Organization for Ethical Source
+  - affiliation: Organization for Ethical Source
 -------------------------------------------------------------
 
 ## My Contributions to CHAOSS
