@@ -4,7 +4,7 @@ name: Peculiar C. Umeh
 ID: peculiaruc
 
 info:
-  - affiliation: CHAOSS
+  - affiliation: Superbloom
 -------------------------------------------------------------
 
 ## My Contributions to CHAOSS
