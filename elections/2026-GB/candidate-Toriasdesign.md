@@ -1,0 +1,18 @@
+-------------------------------------------------------------
+name: Victoria Ottah
+
+ID: Toriasdesign
+
+info:
+  - affiliation: Accessibility Nigeria
+ 
+-------------------------------------------------------------
+
+## My Contributions to CHAOSS
+
+I am a maintainer leading the accessibility group, where I introduced centering accessibility as a necessity in CHAOSS. I created an environment where people with disabilities can participate in open-source contributions, whether at events or in CHAOSS projects. I have successfully led a team of accessibility auditors who have conducted accessibility tests on a few CHAOSS projects, including the website, to make them accessible, adhering to the World Wide Web Consortium(W3C) standards and guidelines. Finally, using my leadership position as a maintainer for accessibility and my skills as an accessibility professional, my team and I have successfully introduced open-source and CHAOSS to many users with disabilities, and a few have successfully made contributions in the community.
+
+## Why I'm Running
+
+As an open-source  and accessibility advocate, I hope for an ecosystem where the open-source community marries with accessibility. Building open-source systems that are inclusive, especially to people with disabilities, is the standard, and I envision CHAOSS to be a trailblazer in accessibility and accommodating people with disabilities. To achieve this goal, more projects specific to people with disabilities should be considered because there is no solution without the affected group. With my skills as an accessibility professional, I will ensure that projects tailored to this goal are created, supervised, and completed. I bring my professional skills as an accessibility auditor, UX designer, my writing skills as an Author and technical writer,  and some soft skills I have acquired, given my experience in leadership, such as teamwork, community management, public speaking, problem-solving, and decision-making.
+ 
