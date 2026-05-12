@@ -4,7 +4,7 @@ name: Victoria Ottah
 ID: Toriasdesign
 
 info:
-  - Maintainer CHAOSS/ Accessibility lead at Accessibility Nigeria
+  - affiliation: Accessibility Nigeria
  
 -------------------------------------------------------------
 
