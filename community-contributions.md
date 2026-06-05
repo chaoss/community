@@ -169,3 +169,4 @@ We are very interested in including every type of contribution in our [Types of 
 | @euniceeze | {Project}: CHAOSScon EU 2026 | Led CHAOSSconEU'26  design team | [2026-01-25](https://github.com/chaoss/community/issues/802) | Bug Triaging |
 | @euniceeze | CHAOSS Community | Designed new month designs | [2026-03-01](https://github.com/chaoss/community/issues/803) | Creative Work and Design |
 | @david-lippert | UN SDG Working group | co-chair | [2025-11-1](https://github.com/chaoss/community/issues/816) | Community Building and Management |
+| @ArafatAbdussalam | Open Source Research: The Adoption of Open Source Software in the Digital Public Infrastructures across Africa | Open Source Research | [2026-05-31](https://github.com/chaoss/community/issues/819) | Project Management |
