@@ -102,7 +102,7 @@ Maintainers are selected by Leadership for the Working Group, Software Subprojec
 The Governing Board is responsible for defining all committees and approving the members of each committee. Each committee is responsible for reporting at board meetings about ongoing activities and current status.
 
 * **[Code of Conduct Committee](https://chaoss.community/code-of-conduct/)**: The Code of Conduct Committee maintains our Code of Conduct and related procedures. They respond and resolve any Code of Conduct reports.
-* **Finance Committee**: The Finance Committee manages any money given to the CHAOSS project. They review and approve/decline all requested expenses and coordinate with donors and sponsors to receive funds.
+* **[Finance Committee](https://github.com/chaoss/community/blob/main/governance/finance-committee.md)**: The Finance Committee manages any money given to the CHAOSS project. They review and approve/decline all requested expenses and coordinate with donors and sponsors to receive funds.
 * **Infrastructure Committee**: The Infrastructure Committee maintains all infrastructure and shared accounts for the CHAOSS project, including defining security processes and making decisions about access to accounts.
 
 ## Removal
