@@ -25,7 +25,6 @@ Each WG should have the following roles (the roles are defined in the Roles and 
 
 * Chairs (Leadership role): WGs must have at least one chair (ideally 2), but can have more.
 * Maintainers (optional)
-* Liaisons (optional)
 
 The full [list of Working Groups](https://chaoss.community/kb/working-groups/) can be found on the CHAOSS website.
 
@@ -51,12 +50,12 @@ The current [list of Chapters](https://chaoss.community/kb/local-chapters/) can 
 
 ## Software Subprojects
 
-Each of these subprojects are governed by a collection of Maintainers (Leadership role), which can be found in a MAINTAINERS.md file in a subproject repository. Decisions about the project are made by consensus among these Maintainers. If there is disagreement that cannot be resolved at the subproject level, the decision should be escalated to the Governing Board as defined in the [CHAOSS Project Charter](https://chaoss.community/charter/).
+Unless otherwise specified in a GOVERNANCE.md file, each of these subprojects are governed by a collection of Maintainers (Leadership role), which can be found in a MAINTAINERS.md file in a subproject repository. Decisions about the project are made by consensus among these Maintainers. If there is disagreement that cannot be resolved at the subproject level, the decision should be escalated to the Governing Board as defined in the [CHAOSS Project Charter](https://chaoss.community/charter/).
 
 The CHAOSS Project has the following Software Subprojects:
 
-* Augur software
-* GrimoireLab software
+* CollectOSS 
+* GrimoireLab
 
 Approval for adding a new Software Subproject requires a vote of the Governing Board as defined in the [CHAOSS Project Charter](https://chaoss.community/charter/).
 
@@ -82,21 +81,6 @@ To become a chair, you should demonstrate the following:
 
 New WG chairs are selected by consensus within the WG or within the community for newly forming WGs. If there is disagreement that cannot be resolved at this level, the decision should be escalated to the Governing Board.
 
-## Liaisons
-
-WGs, Software Subprojects, or Chapters **may** have a designated person responsible for liaising with other groups and providing input to all of the other groups as needed (e.g., communications, website, software subprojects). With so many groups and activities across the CHAOSS project, the Liaisons are how we keep the various groups in sync. In particular, these Liaisons play a critical role in creating feedback loops between our WGs and our software subprojects to help the CHAOSS project evolve our software to better meet the needs of the people using our software across various contexts.
-
-### Becoming a Liaison
-
-To become a liaison, you should demonstrate the following:
-
-* commitment to the CHAOSS project
-* participation in WG discussions, contributions, reviews, and meetings for a period of at least 3 months
-* ability to collaborate with the team
-* understanding of how the WG conducts its work (policies, processes, etc.)
-
-New Liaisons are selected by Leadership for the Working Group, Software Subproject, or Chapter to be represented. 
-
 ## Maintainers
 
 CHAOSS Maintainers have write access to the project GitHub repository. They can merge their own patches or patches from others. Maintainers collectively manage the project's resources and contributors.
@@ -113,25 +97,13 @@ CHAOSS Maintainers have write access to the project GitHub repository. They can 
 
 Maintainers are selected by Leadership for the Working Group, Software Subproject, or Chapter to be represented.
 
-## Finance Committee
+## Committees
 
-The Governing Board appoints a 
-[finance committee](https://docs.google.com/document/d/1xt4orBNaOXBLXyIw4zAttX6HwWwahmABuvVUwd7zCII/edit?tab=t.0#heading=h.iqa0x1yb7w17)
-to manage any money given to the CHAOSS project.
+The Governing Board is responsible for defining all committees and approving the members of each committee. Each committee is responsible for reporting at board meetings about ongoing activities and current status.
 
-Responsibilities:
-
-- Report at board meetings about the current financial situation.
-- Review and approve/decline all requested expenses.
-- Coordinate with donors and sponsors to receive funds.
-
-## Staff Positions
-
-These positions are funded through grants with input from the Governing Board. 
-
-* Community Manager
-* Data Science
-* Chapter Leads
+* **[Code of Conduct Committee](https://chaoss.community/code-of-conduct/)**: The Code of Conduct Committee maintains our Code of Conduct and related procedures. They respond and resolve any Code of Conduct reports.
+* **[Finance Committee](https://github.com/chaoss/community/blob/main/governance/finance-committee.md)**: The Finance Committee manages any money given to the CHAOSS project. They review and approve/decline all requested expenses and coordinate with donors and sponsors to receive funds.
+* **Infrastructure Committee**: The Infrastructure Committee maintains all infrastructure and shared accounts for the CHAOSS project, including defining security processes and making decisions about access to accounts.
 
 ## Removal
 
@@ -153,4 +125,8 @@ Any modifications to this governance document are made by a vote of the Governin
 
 # Document History
 
-* 2023-06-22: Governing Board approval of this document.
+* 2026-06-14: Updates to software subprojects, removal of liaison role, and other minor updates. 
+* 2026-01-26: Updates to the finance committee
+* 2024-01-02: Added governance diagram
+* 2023-06-22: Governing Board approval of this document
+
