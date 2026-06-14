@@ -125,7 +125,7 @@ Any modifications to this governance document are made by a vote of the Governin
 
 # Document History
 
-* 2026-06-XX: Updates to software subprojects, removal of liaison role, and other minor updates. 
+* 2026-06-14: Updates to software subprojects, removal of liaison role, and other minor updates. 
 * 2026-01-26: Updates to the finance committee
 * 2024-01-02: Added governance diagram
 * 2023-06-22: Governing Board approval of this document
