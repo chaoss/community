@@ -3,9 +3,17 @@
 - Armstrong Foundjem
 - Andrea Gallo
 - Daniel M. German
+- Matt Germonprez
+- Sean Goggins
 - Jesús M. González-Barahona
+- Nicole Huesman
+- Daniel Izquirdo
+- Georg Link
 - Josianne Marsan
 - Don Martí
 - Ray Paik
 - Ben Lloyd Pearson
 - Scott K. Peterson
+- Brian Proffitt
+- Kate Stewart
+- Ildikó Váncsa
