@@ -2,6 +2,6 @@
 
 ### [Santiago Dueñas](https://www.linkedin.com/in/sduenasd/)
 **Board Member (GrimoireLab Seat)**  
-2026 - 2028
+2026 - 2028  
 Bitergia  
 📍 Spain
