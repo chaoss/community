@@ -15,6 +15,8 @@ The competition was strong with 8 candidates running for 6 seats, so thank you t
 
 We thank all candidates for their willingness to serve and their contributions to the CHAOSS community.
 
+See the official announcement: https://chaoss.community/chaoss-2026-governing-board-election-results/
+
 Cheers,
 Elizabeth Barron, Emma Irwin, and Ali Ok
 GB Election Officers
