@@ -2,7 +2,12 @@
 The audience for this document is the Code of Conduct committee for CHAOSS (but anyone is welcome to read it!). The goal of this document is for the committee to have a consistent method of handling any CoC incidents reported in the CHAOSS project and community.
 
 ## Code of Conduct committee members
-Maryblessing Okolie, Kevin Lumbard, Anita Ihuman
+
+- Josh Berkus
+- Anita Ihuman 
+- Laura Langdon
+- Rowland Mosbergen
+- Maryblessing Okolie
 
 ### Reporting methods
 The report can be made via email to <chaoss-conduct@googlegroups.com>. Each CHAOSS event will have organizers to whom reports can also be made.
@@ -150,3 +155,4 @@ When a committee member is resigning or being removed, they should have access t
 ## License and attribution
 The CHAOSS Incident Response Plan is licensed under the [Creative Commons Attribution 3.0 license](http://creativecommons.org/licenses/by/3.0/). Our Incident Response Plan was inspired by and borrows content from [Elastic’s Code of Conduct Incident Response Plan.](https://www.elastic.co/community/incident-response-plan) 
 
+Comments and suggestions to this page can be made in https://github.com/chaoss/community/blob/main/governance/code-of-conduct-incident-response-plan.md

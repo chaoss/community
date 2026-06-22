@@ -9,9 +9,11 @@ You can make a report via email to **<chaoss-conduct@googlegroups.com>**.
 
 The email **<chaoss-conduct@googlegroups.com>** reaches all and only the CHAOSS Code of Conduct committee members:
 
-- Maryblessing Okolie
-- Kevin Lumbard
+- Josh Berkus
 - Anita Ihuman
+- Laura Langdon
+- Rowland Mosbergen
+- Maryblessing Okolie
 
 ### How to Make a Report at a CHAOSS Event
 At each CHAOSS event, you can make a report by:
@@ -93,3 +95,5 @@ Examples of transparency reports:
 - [Code for America Summit 2018](https://medium.com/code-for-america/2018-code-for-america-summit-code-of-conduct-transparency-report-6e026154f39)
 - [Write the Docs Europe conference 2016](https://www.writethedocs.org/conf/eu/2016/news/code-of-conduct-report/)
 - [Symfony online community report for 2018](https://symfony.com/blog/symfony-code-of-conduct-transparency-report-2018)
+
+Comments and suggestions to this page can be made in https://github.com/chaoss/community/blob/main/governance/procedure-for-making-a-code-of-conduct-report.md 
