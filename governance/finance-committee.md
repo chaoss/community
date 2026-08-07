@@ -15,9 +15,10 @@ Responsibilities:
 
 ### Members of the Finance Committee
 
-- Matt Germonprez
+- Anita Ihuman
 - Ray Paik
-- Georg Link
+- Sophia Vargas
+- Victoria Ottah
 
 ## Accepting Donations and Sponsorships
 
