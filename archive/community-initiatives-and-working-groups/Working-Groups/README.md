@@ -32,7 +32,7 @@ In order to learn more about these groups, you should refer to their GitHub repo
 
 * [**GrimoireLab**](https://github.com/chaoss/grimoirelab): This working group connects the GrimoireLab software development with metrics work in other CHAOSS working groups.
 
-* [**Augur**](https://github.com/chaoss/augur): This working group connects the Augur software development with metrics work in other CHAOSS working groups.
+* [**CollectOSS**](https://github.com/chaoss/collectoss): This working group connects CollectOSS software development with metrics work in other CHAOSS working groups.
 
 * [**Cregit**](https://github.com/cregit/cregit): This working group connects the Cregit software development with metrics work in other CHAOSS working groups.
 

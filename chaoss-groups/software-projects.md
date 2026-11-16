@@ -4,7 +4,7 @@ CHAOSS has three software projects that implement CHAOSS metrics and models. Muc
 
 * **GrimoireLab** ([GitHub](https://github.com/chaoss/grimoirelab), [Slack](https://chaoss-workspace.slack.com/archives/C022NPTPC8Z)): This working group connects the GrimoireLab software development with metrics work in other CHAOSS working groups.
 
-* **Augur** ([GitHub](https://github.com/chaoss/augur), [Slack](https://chaoss-workspace.slack.com/archives/C0226ELG6R4)): This working group connects the Augur software development with metrics work in other CHAOSS working groups.
+* **CollectOSS** ([GitHub](https://github.com/chaoss/collectoss), [Slack](https://chaoss-workspace.slack.com/archives/C0226ELG6R4), [Website](https://www.collectoss.org)): This working group connects the CollectOSS software development with metrics work in other CHAOSS working groups.
 
 * **Cregit** ([GitHub](https://github.com/cregit)): This group connects the Cregit software development with metrics work in other CHAOSS working groups.
 

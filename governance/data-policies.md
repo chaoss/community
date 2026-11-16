@@ -1,6 +1,6 @@
 # CHAOSS Data Policies
 
-Last updated: August 2021
+Last updated: September 2026
 
 ## Community Data Policy
 
@@ -52,7 +52,7 @@ All CHAOSS-related documentation associated with the development of metrics and 
 
 
 
-* Augur -- [MIT License ](https://opensource.org/licenses/MIT)
+* CollectOSS -- [MIT License ](https://opensource.org/licenses/MIT)
 * MARS  -- [MIT License ](https://opensource.org/licenses/MIT)
 * GrimoireLab -- [GPLv3](http://www.gnu.org/licenses/gpl-3.0.en.html)
 * Cregit -- [GPLv3](http://www.gnu.org/licenses/gpl-3.0.en.html)
